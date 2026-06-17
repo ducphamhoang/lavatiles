@@ -1,0 +1,32 @@
+/* ============================================================
+   Achievements
+   ============================================================ */
+.section-achievements {
+  padding: 80px 0;
+  background: #2c2c2c;
+  color: #fff;
+}
+.achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 30px;
+}
+.achievement-item {
+  text-align: center;
+  padding: 20px;
+}
+.achievement-item .icon { margin-bottom: 20px; font-size: 48px; line-height: 1; }
+.achievement-item .num {
+  font-size: clamp(32px, 3vw, 48px);
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 6px;
+}
+.achievement-item .label {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.7;
+}
+
+/* ============================================================

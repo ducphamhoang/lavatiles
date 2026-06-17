@@ -1,0 +1,172 @@
+/* ============================================================
+   Navbar — desktop + mobile
+   ============================================================ */
+.navbar-vc {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: var(--nav-h);
+  background: var(--surface);
+  z-index: 999;
+  border-bottom: 1px solid var(--border);
+  transition: transform .4s, opacity .3s;
+}
+.navbar-vc .container,
+.navbar-vc .container-fluid {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.navbar-vc .navbar-brand {
+  flex-shrink: 0;
+  height: 46px;
+  margin-right: 40px;
+}
+.navbar-vc .navbar-brand img,
+.navbar-vc .navbar-brand svg {
+  height: 46px;
+  width: auto;
+  display: block;
+}
+.navbar-vc .navbar-menu {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  flex: 1;
+}
+.navbar-vc .navbar-menu > .nav-item { position: relative; }
+.navbar-vc .navbar-menu > .nav-item > .nav-link {
+  display: block;
+  padding: 38px 15px;
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--fg);
+  white-space: nowrap;
+}
+.navbar-vc .navbar-menu > .nav-item > .nav-link:hover,
+.navbar-vc .navbar-menu > .nav-item > .nav-link.active {
+  color: var(--accent);
+}
+
+/* Mega menu */
+.navbar-vc .megamenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  background: #f8f8f8;
+  border: 1px solid #f8f8f8;
+  padding: 34px 60px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .2s, visibility .2s;
+  z-index: 1000;
+}
+.navbar-vc .has-megamenu { position: static !important; }
+.navbar-vc .has-megamenu:hover .megamenu,
+.navbar-vc .has-megamenu:focus-within .megamenu {
+  opacity: 1;
+  visibility: visible;
+}
+.megamenu-inner { display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px; }
+.megamenu-col h6 {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #8e8e8e;
+  margin-bottom: 22px;
+  color: var(--fg);
+  letter-spacing: 0.06em;
+  position: relative;
+}
+.megamenu-col h6::after {
+  content: "\2192";
+  position: absolute;
+  right: -3px;
+  top: 2px;
+  font-size: 12px;
+  color: #8e8e8e;
+}
+.megamenu-col ul li { margin-bottom: 25px; }
+.megamenu-col ul li a {
+  font-size: 12px;
+  color: var(--fg);
+  letter-spacing: 0.02em;
+}
+.megamenu-col ul li a:hover { color: var(--accent); }
+
+/* Simple dropdown */
+.navbar-vc .dropdown { position: relative; }
+.navbar-vc .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 250px;
+  background: #f8f8f8;
+  border: 1px solid #f8f8f8;
+  padding: 34px 30px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .2s, visibility .2s;
+  z-index: 1000;
+}
+.navbar-vc .dropdown-menu.dropdown-right { left: auto; right: 0; }
+.navbar-vc .dropdown:hover .dropdown-menu,
+.navbar-vc .dropdown:focus-within .dropdown-menu {
+  opacity: 1;
+  visibility: visible;
+}
+.navbar-vc .dropdown-menu h6 {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #8e8e8e;
+  margin-bottom: 22px;
+  letter-spacing: 0.06em;
+}
+.navbar-vc .dropdown-menu ul li { margin-bottom: 25px; }
+.navbar-vc .dropdown-menu ul li a { font-size: 12px; letter-spacing: 0.02em; }
+
+/* Right actions */
+.navbar-actions {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  margin-left: auto;
+}
+.navbar-actions .nav-link {
+  display: grid;
+  place-items: center;
+  padding: 38px 10px;
+  font-size: 20px;
+  color: var(--fg);
+  position: relative;
+}
+.navbar-actions .nav-link:hover { color: var(--accent); }
+.navbar-actions .lang-switch img {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  display: block;
+}
+.navbar-actions .lang-switch { padding: 38px 10px; }
+
+/* Hamburger */
+.nav-toggle {
+  display: none;
+  width: 40px; height: 40px;
+  background: none;
+  border: 0;
+  cursor: pointer;
+  font-size: 22px;
+  color: var(--fg);
+  align-items: center;
+  justify-content: center;
+}
+
+/* ============================================================

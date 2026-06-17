@@ -1,0 +1,25 @@
+/* ============================================================
+   Lavatiles — main stylesheet
+   Components are split into css/<component>.css files.
+   This file imports them in cascade order.
+   Add <link rel="stylesheet" href="css/<component>.css"> to
+   page-specific links if you want to skip unused parts.
+   ============================================================ */
+
+@import url('./base.css');
+@import url('./navbar.css');
+@import url('./hero.css');
+@import url('./product-cat.css');
+@import url('./featured.css');
+@import url('./achievements.css');
+@import url('./partners.css');
+@import url('./projects.css');
+@import url('./catalogue.css');
+@import url('./collections.css');
+@import url('./news.css');
+@import url('./footer.css');
+@import url('./product-detail.css');
+@import url('./about.css');
+@import url('./reveal.css');
+@import url('./scroll-top.css');
+@import url('./responsive.css');

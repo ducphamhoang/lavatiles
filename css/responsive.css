@@ -1,0 +1,147 @@
+/* ============================================================
+   Responsive breakpoints
+   ============================================================ */
+@media (max-width: 1199px) {
+  h1, .h1 { font-size: 2rem; }
+  h2, .h2 { font-size: 2rem; }
+
+  .navbar-vc .navbar-menu > .nav-item > .nav-link {
+    padding: 38px 10px;
+    font-size: 11px;
+  }
+
+  .cat-content { padding: 40px 30px; }
+
+  .vc-hero-layers { min-width: 400px; padding-left: 50px; }
+
+  .partners-grid { grid-template-columns: repeat(4, 1fr); }
+  .projects-grid { grid-template-columns: repeat(3, 1fr); }
+  .collections-grid { grid-template-columns: repeat(3, 1fr); }
+  .news-grid { grid-template-columns: repeat(2, 1fr); }
+  .featured-grid { grid-template-columns: repeat(2, 1fr); }
+  .achievements-grid { grid-template-columns: repeat(3, 1fr); }
+
+  .footer-top {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 991px) {
+  :root { --nav-h: 70px; --gutter: 20px; }
+
+  .nav-toggle { display: flex; }
+
+  .navbar-vc .navbar-menu,
+  .navbar-vc .navbar-actions .nav-link:not(.lang-switch) {
+    display: none;
+  }
+
+  .navbar-actions .lang-switch { padding: 20px 10px; }
+
+  .vc-hero-layers { padding: 35px 30px 30px 40px; min-width: 320px; }
+
+  .cat-row { grid-template-columns: 1fr; }
+  .cat-row.reverse .cat-image { order: 1; }
+  .cat-row.reverse .cat-content { order: 2; }
+  .cat-image { min-height: 280px; }
+  .cat-content { padding: 40px 30px; }
+
+  .featured-grid { grid-template-columns: 1fr 1fr; }
+  .partners-grid { grid-template-columns: repeat(3, 1fr); }
+
+  .footer-top { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 767px) {
+  h1, .h1 { font-size: 24px; }
+  h2, .h2 { font-size: 24px; }
+  h3, .h3 { font-size: 16px; }
+  h4, .h4 { font-size: 16px; }
+
+  :root { --nav-h: 60px; }
+  .navbar-vc .navbar-brand { height: 36px; }
+  .navbar-vc .navbar-brand img,
+.navbar-vc .navbar-brand svg { height: 36px; }
+  .navbar-vc .navbar-menu > .nav-item > .nav-link { padding: 24px 8px; font-size: 10px; }
+
+  .vc-hero { height: 70vh; min-height: 400px; }
+  .vc-hero-arrow { display: none; }
+  .vc-hero-layers { min-width: auto; width: 100%; padding: 30px; }
+  .vc-hero-pagination { bottom: 30px; }
+
+  .section-product-cat,
+  .section-featured,
+  .section-achievements,
+  .section-projects,
+  .section-catalogue,
+  .section-collections,
+  .section-news {
+    padding: 50px 0;
+  }
+
+  .featured-grid,
+  .collections-grid { grid-template-columns: 1fr 1fr; }
+  .achievements-grid { grid-template-columns: repeat(2, 1fr); }
+  .partners-grid { grid-template-columns: repeat(2, 1fr); }
+  .projects-grid { grid-template-columns: 1fr 1fr; }
+  .slider-catalogue { padding: 0 40px; }
+  .cat-banner { height: 340px; }
+  .news-grid { grid-template-columns: 1fr; }
+
+  .footer-top { grid-template-columns: 1fr; }
+  .footer-newsletter form { flex-direction: column; }
+  .footer-bottom { flex-direction: column; text-align: center; }
+}
+
+@media (max-width: 480px) {
+  .featured-grid { grid-template-columns: 1fr; }
+  .projects-grid { grid-template-columns: 1fr; }
+  .slider-catalogue { padding: 0 20px; }
+  .cat-banner { height: 280px; }
+  .cat-overlay { padding: 24px; }
+}
+
+/* Mobile sidenav overlay */
+.sidenav-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 998;
+}
+.sidenav-overlay.open { display: block; }
+.sidenav {
+  position: fixed;
+  top: var(--nav-h);
+  left: 0;
+  width: 100%;
+  max-width: 345px;
+  height: calc(100svh - var(--nav-h));
+  background: #f8f8f8;
+  z-index: 999;
+  padding: 20px 0 50px;
+  overflow-y: auto;
+  transform: translateX(-100%);
+  transition: transform .3s;
+}
+.sidenav.open { transform: translateX(0); }
+.sidenav .nav-item > .nav-link {
+  display: block;
+  padding: 14px 20px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid var(--border);
+}
+.sidenav .nav-item .dropdown-menu {
+  padding-left: 20px;
+  display: none;
+}
+.sidenav .nav-item .dropdown-menu.open { display: block; }
+.sidenav .nav-item .dropdown-menu li a {
+  display: block;
+  padding: 10px 20px;
+  font-size: 12px;
+}
+
+/* ============================================================

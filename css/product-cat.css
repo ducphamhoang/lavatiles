@@ -1,0 +1,110 @@
+/* ============================================================
+   Product categories
+   ============================================================ */
+.section-product-cat { padding: 80px 0; }
+.cat-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.cat-row.reverse .cat-image { order: 2; }
+.cat-row.reverse .cat-content { order: 1; }
+.cat-image {
+  min-height: 400px;
+  overflow: hidden;
+  position: relative;
+}
+.cat-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .6s;
+}
+.cat-image:hover img { transform: scale(1.04); }
+
+/* Rich texture background placeholders for product images.
+   Applied via class on .cat-image. Hot-swap target: replace bg with
+   background-image: url(assets/...) when real photos are generated. */
+.cat-img-tiles {
+  background:
+    radial-gradient(ellipse at 35% 25%, rgba(240,230,215,0.18) 0%, transparent 50%),
+    radial-gradient(ellipse at 75% 70%, rgba(200,190,175,0.1) 0%, transparent 40%),
+    repeating-conic-gradient(#cdc4b5 0%, #d4cbbd 12.5%, #dad1c3 25%, #d6cdbf 37.5%, #cdc4b5 50%, #d4cbbd 62.5%, #dad1c3 75%, #d6cdbf 87.5%) 0 0 / 80px 80px,
+    linear-gradient(135deg, #c8bfb0 0%, #d8cfc0 50%, #c8bfb0 100%);
+}
+.cat-img-tiles { background: none; }
+.cat-img-tiles img { opacity: 1; }
+
+.cat-img-bath {
+  background:
+    radial-gradient(ellipse at 55% 25%, rgba(235,240,248,0.22) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 75%, rgba(210,218,230,0.12) 0%, transparent 40%),
+    repeating-linear-gradient(90deg,
+      transparent 0px, transparent 1px,
+      rgba(255,255,255,0.04) 1px, rgba(255,255,255,0.04) 2px),
+    repeating-linear-gradient(0deg,
+      transparent 0px, transparent 15px,
+      rgba(0,0,0,0.015) 15px, rgba(0,0,0,0.015) 16px),
+    linear-gradient(160deg, #b0baca 0%, #c2cada 25%, #b8c2d2 50%, #cad2e0 72%, #b0baca 100%);
+}
+.cat-img-bath { background: none; }
+.cat-img-bath img { opacity: 1; }
+
+.cat-img-wood {
+  background:
+    radial-gradient(ellipse at 25% 35%, rgba(245,232,218,0.18) 0%, transparent 50%),
+    radial-gradient(ellipse at 75% 65%, rgba(200,185,168,0.1) 0%, transparent 40%),
+    repeating-linear-gradient(90deg,
+      transparent 0px, transparent 3px,
+      rgba(0,0,0,0.02) 3px, rgba(0,0,0,0.02) 4px,
+      transparent 4px, transparent 8px,
+      rgba(0,0,0,0.025) 8px, rgba(0,0,0,0.025) 9px,
+      transparent 9px, transparent 35px,
+      rgba(0,0,0,0.015) 35px, rgba(0,0,0,0.015) 36px),
+    repeating-linear-gradient(90deg,
+      transparent 0px, transparent 1px,
+      rgba(255,255,255,0.015) 1px, rgba(255,255,255,0.015) 2px,
+      transparent 2px, transparent 40px),
+    linear-gradient(135deg, #ae9f8c 0%, #c8b8a4 30%, #bcac98 55%, #d0c0ae 75%, #ae9f8c 100%);
+}
+.cat-img-wood { background: none; }
+.cat-img-wood img { opacity: 1; }
+.cat-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px 50px;
+}
+.cat-content h2 {
+  font-size: clamp(24px, 3vw, 3rem);
+  letter-spacing: 0.08em;
+  margin-bottom: 20px;
+}
+.cat-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-bottom: 30px;
+  max-width: 500px;
+}
+.cat-content .btn {
+  display: inline-block;
+  padding: 12px 40px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  border: 2px solid var(--accent);
+  background: transparent;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: background .3s, color .3s;
+}
+.cat-content .btn:hover {
+  background: var(--accent);
+  color: #fff;
+}
+.cat-bg-tan { background: #ebe7df; }
+.cat-bg-gray { background: #e8e8e8; }
+
+/* ============================================================

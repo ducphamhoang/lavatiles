@@ -1,0 +1,26 @@
+/* ============================================================
+   Partner logos
+   ============================================================ */
+.section-partners {
+  padding: 60px 0;
+  background: var(--surface);
+}
+.partners-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 30px;
+  align-items: center;
+}
+.partners-grid .partner-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  opacity: 0.6;
+  transition: opacity .3s;
+}
+.partners-grid .partner-logo:hover { opacity: 1; }
+.partners-grid .partner-logo img { max-height: 50px; width: auto; }
+.partners-grid .partner-logo svg { height: 40px; width: 100%; display: block; }
+
+/* ============================================================

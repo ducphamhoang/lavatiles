@@ -1,0 +1,135 @@
+/* ============================================================
+   Catalogue slider
+   ============================================================ */
+.section-catalogue {
+  padding: 80px 0 60px;
+  background: #e8e8e8;
+}
+
+.slider-catalogue {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 60px;
+}
+
+.slider-catalogue .swiper-slide {
+  height: auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.cat-banner {
+  position: relative;
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.cat-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  transition: transform .7s ease;
+}
+
+.cat-banner:hover .cat-bg {
+  transform: scale(1.06);
+}
+
+.cat-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.05) 50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 40px;
+  color: #fff;
+  text-align: left;
+}
+
+.cat-title {
+  font-size: clamp(20px, 2.2vw, 32px);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.cat-sub {
+  font-size: clamp(13px, 1.2vw, 16px);
+  color: rgba(255,255,255,0.75);
+  margin-bottom: 16px;
+  max-width: 80%;
+  line-height: 1.5;
+}
+
+.btn-cat {
+  display: inline-block;
+  padding: 8px 28px;
+  border: 1px solid #fff;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+  transition: background .3s, color .3s;
+  align-self: flex-start;
+}
+
+.btn-cat:hover {
+  background: #981B1E;
+  border-color: #981B1E;
+  color: #fff;
+}
+
+/* Catalogue slide backgrounds */
+.cat-cover-2025 { background-image: url("../assets/images/catalogue/catalogue-2025-v1.png"); }
+.cat-cover-bath { background-image: url("../assets/images/catalogue/catalogue-bath-v1.png"); }
+.cat-cover-wood { background-image: url("../assets/images/catalogue/catalogue-wood-v1.png"); }
+.cat-slide-antao { background-image: url("../assets/images/featured/featured-antao-v1.png"); }
+.cat-slide-gessi { background-image: url("../assets/images/featured/featured-gessi-sogni-v1.png"); }
+.cat-slide-papier { background-image: url("../assets/images/featured/featured-papier-v1.png"); }
+
+/* Swiper navigation overrides */
+.slider-catalogue .swiper-button-next,
+.slider-catalogue .swiper-button-prev {
+  width: 44px;
+  height: 44px;
+  background: rgba(0,0,0,0.5);
+  border-radius: 50%;
+  color: #fff;
+  transition: background .3s;
+}
+
+.slider-catalogue .swiper-button-next:hover,
+.slider-catalogue .swiper-button-prev:hover {
+  background: #981B1E;
+}
+
+.slider-catalogue .swiper-button-next::after,
+.slider-catalogue .swiper-button-prev::after {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.slider-catalogue .swiper-pagination {
+  position: static;
+  margin-top: 24px;
+}
+
+.slider-catalogue .swiper-pagination-bullet {
+  width: 10px;
+  height: 10px;
+  background: #999;
+  opacity: 0.5;
+}
+
+.slider-catalogue .swiper-pagination-bullet-active {
+  background: #981B1E;
+  opacity: 1;
+}
+
+/* ============================================================

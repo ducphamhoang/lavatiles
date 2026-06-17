@@ -1,0 +1,136 @@
+/* ============================================================
+   Featured products
+   ============================================================ */
+.section-featured {
+  padding: 80px 0;
+}
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0;
+}
+.featured-card {
+  position: relative;
+  min-height: 360px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.featured-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .6s;
+}
+.featured-card:hover img { transform: scale(1.04); }
+.featured-card .card-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.3);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  padding: 30px;
+  transition: background .3s;
+}
+.featured-card:hover .card-overlay { background: rgba(0,0,0,0.45); }
+.featured-card .card-overlay h4 {
+  font-size: clamp(16px, 2vw, 24px);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 6px;
+}
+.featured-card .card-overlay h6 {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  opacity: 0.8;
+  text-transform: uppercase;
+}
+.featured-card .card-overlay .btn-outline-light {
+  margin-top: 16px;
+  padding: 8px 28px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border: 1px solid #fff;
+  color: #fff;
+  background: transparent;
+  display: inline-block;
+}
+.featured-card .card-overlay .btn-outline-light:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Featured product texture placeholders — tone-on-tone gradients */
+.prod-antao {
+  background:
+    radial-gradient(ellipse at 40% 20%, rgba(80,120,90,0.12) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 80%, rgba(60,80,70,0.08) 0%, transparent 40%),
+    repeating-linear-gradient(45deg,
+      transparent 0px, transparent 1px,
+      rgba(255,255,255,0.01) 1px, rgba(255,255,255,0.01) 2px,
+      transparent 2px, transparent 5px),
+    linear-gradient(145deg, #25282a 0%, #2e3334 25%, #282c2e 50%, #323739 72%, #25282a 100%);
+}
+.prod-antao img { opacity: 1; }
+.prod-gessi {
+  background:
+    radial-gradient(ellipse at 30% 30%, rgba(100,90,140,0.1) 0%, transparent 50%),
+    radial-gradient(ellipse at 75% 65%, rgba(80,75,120,0.07) 0%, transparent 40%),
+    repeating-linear-gradient(0deg,
+      transparent 0px, transparent 2px,
+      rgba(255,255,255,0.015) 2px, rgba(255,255,255,0.015) 3px,
+      transparent 3px, transparent 18px,
+      rgba(255,255,255,0.008) 18px, rgba(255,255,255,0.008) 19px),
+    linear-gradient(145deg, #32324a 0%, #40405a 25%, #383850 50%, #42425e 72%, #32324a 100%);
+}
+.prod-gessi img { opacity: 1; }
+.prod-lumia {
+  background:
+    radial-gradient(ellipse at 50% 15%, rgba(60,60,120,0.15) 0%, transparent 45%),
+    radial-gradient(ellipse at 80% 75%, rgba(40,40,80,0.1) 0%, transparent 40%),
+    repeating-conic-gradient(rgba(255,255,255,0.008) 0.000001%, transparent 0.000002%) 50% 50% / 1px 1px,
+    linear-gradient(145deg, #1e1e38 0%, #2a2a48 25%, #222240 50%, #2e2e4e 72%, #1e1e38 100%);
+}
+.prod-lumia img { opacity: 1; }
+.prod-papier {
+  background:
+    radial-gradient(ellipse at 35% 25%, rgba(100,60,50,0.12) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 70%, rgba(80,50,40,0.08) 0%, transparent 40%),
+    repeating-linear-gradient(0deg,
+      transparent 0px, transparent 1px,
+      rgba(0,0,0,0.02) 1px, rgba(0,0,0,0.02) 2px,
+      transparent 2px, transparent 4px),
+    repeating-linear-gradient(90deg,
+      transparent 0px, transparent 1px,
+      rgba(0,0,0,0.015) 1px, rgba(0,0,0,0.015) 2px,
+      transparent 2px, transparent 4px),
+    linear-gradient(145deg, #2e1e1a 0%, #3c2a24 25%, #34221e 50%, #40302a 72%, #2e1e1a 100%);
+}
+.prod-papier img { opacity: 1; }
+.prod-onyce {
+  background:
+    radial-gradient(ellipse at 45% 20%, rgba(50,50,60,0.15) 0%, transparent 50%),
+    radial-gradient(ellipse at 70% 80%, rgba(40,40,50,0.1) 0%, transparent 40%),
+    repeating-linear-gradient(135deg,
+      transparent 0px, transparent 2px,
+      rgba(255,255,255,0.005) 2px, rgba(255,255,255,0.005) 3px,
+      transparent 3px, transparent 10px,
+      rgba(0,0,0,0.01) 10px, rgba(0,0,0,0.01) 11px),
+    linear-gradient(145deg, #1c1c24 0%, #262632 25%, #20202c 50%, #2a2a36 72%, #1c1c24 100%);
+}
+.prod-onyce img { opacity: 1; }
+.prod-marvel {
+  background:
+    radial-gradient(ellipse at 35% 20%, rgba(100,50,55,0.12) 0%, transparent 50%),
+    radial-gradient(ellipse at 75% 70%, rgba(80,40,45,0.08) 0%, transparent 40%),
+    repeating-conic-gradient(rgba(0,0,0,0.015) 0.000001%, transparent 0.000002%) 50% 50% / 3px 3px,
+    linear-gradient(145deg, #362222 0%, #463030 25%, #3e2828 50%, #4a3434 72%, #362222 100%);
+}
+.prod-marvel img { opacity: 1; }
+
+/* ============================================================
