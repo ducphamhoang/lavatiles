@@ -87,13 +87,6 @@
     });
   });
 
-  document.querySelectorAll('footer form').forEach(function (form) {
-    form.addEventListener('submit', function (event) {
-      event.preventDefault();
-      showFeedback('Cảm ơn bạn đã đăng ký. Biểu mẫu email hiện đang là bản trình diễn trong clone này.');
-    });
-  });
-
   var initial = window.location.hash ? window.location.hash.replace('#', '') : '';
   var valid = tabs.some(function (tab) { return tab.getAttribute('data-catalogue-tab') === initial; });
   activateTab(valid ? initial : tabs[0].getAttribute('data-catalogue-tab'));

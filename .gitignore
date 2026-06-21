@@ -1,4 +1,6 @@
 tmp/
+archive/
+AGENTS.md
 *.artifact.json
 .DS_Store
 node_modules/

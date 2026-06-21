@@ -1,5 +1,5 @@
 /* ============================================================
-   About page
+   ABOUT PAGE
    ============================================================ */
 .page-hero-about {
   position: relative;
@@ -9,7 +9,7 @@
   background:
     linear-gradient(115deg, rgba(28, 29, 34, 0.74), rgba(28, 29, 34, 0.34)),
     radial-gradient(circle at 78% 24%, rgba(152, 27, 30, 0.22), transparent 24%),
-    url("../assets/images/hero/showroom-hero.png") center/cover no-repeat;
+    url("../assets/showroom-hero.png") center/cover no-repeat;
   color: #fff;
 }
 .page-hero-about::after {
@@ -576,4 +576,3 @@
     width: 100%;
   }
 }
-

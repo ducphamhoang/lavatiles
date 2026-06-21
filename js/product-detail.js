@@ -18,29 +18,6 @@
     { code: '120278MACABLLP', finish: 'Mờ', color: 'Kem', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'calacatta-warm', collection: 'TELE DI MARMO LUMIA' },
     { code: '612MACABLLP', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'calacatta-soft', collection: 'ONYCE' }
   ];
-  var state = { search: '', finish: [], color: [], size: [], placement: [], limit: 8 };
-  var grid = document.getElementById('pd-grid');
-  var empty = document.getElementById('pdEmpty');
-  var count = document.getElementById('pdResultCount');
-  var active = document.getElementById('pdActiveFilters');
-  var loadMore = document.getElementById('pdLoadMore');
-  var search = document.getElementById('pdSearch');
-  var reset = document.getElementById('pdReset');
-  if (!grid || !empty || !count || !active || !loadMore || !search || !reset) return;
-  function hasMatch(product, key) {
-    if (!state[key].length) return true;
-    if (Array.isArray(product[key])) return state[key].some(function (value) { return product[key].indexOf(value) !== -1; });
-    return state[key].indexOf(product[key]) !== -1;
-  }
-  function passesSearch(product) {
-    if (!state.search) return true;
-    return [product.code, product.collection, product.color, product.size, product.country].join(' ').toLowerCase().indexOf(state.search) !== -1;
-  }
-  function filteredProducts() {
-    return products.filter(function (product) {
-      return passesSearch(product) && hasMatch(product, 'finish') && hasMatch(product, 'color') && hasMatch(product, 'size') && hasMatch(product, 'placement');
-    });
-  }
   function toneMarkup(tone) {
     return '<div class="pd-tile-art pd-tone-' + tone + '"><div class="pd-tile-shine"></div></div>';
   }
@@ -61,67 +38,13 @@
       '</article>'
     ].join('');
   }
-  function renderActiveFilters() {
-    var tokens = [];
-    ['finish', 'color', 'size', 'placement'].forEach(function (key) {
-      state[key].forEach(function (value) { tokens.push(value); });
-    });
-    if (state.search) tokens.push('Tìm: ' + state.search);
-    active.innerHTML = tokens.map(function (token) { return '<span class="pd-active-token">' + token + '</span>'; }).join('');
-  }
-  function render() {
-    var matches = filteredProducts();
-    var visible = matches.slice(0, state.limit);
-    count.textContent = String(matches.length);
-    grid.innerHTML = visible.map(cardMarkup).join('');
-    empty.hidden = matches.length !== 0;
-    loadMore.hidden = visible.length >= matches.length;
-    renderActiveFilters();
-  }
-  document.querySelectorAll('input[data-filter-group]').forEach(function (input) {
-    input.addEventListener('change', function () {
-      var key = input.getAttribute('data-filter-group');
-      state[key] = Array.prototype.slice.call(document.querySelectorAll('input[data-filter-group="' + key + '"]:checked')).map(function (el) { return el.value; });
-      state.limit = 8;
-      render();
-    });
+
+  if (!window.VCProductFilter) return;
+
+  window.VCProductFilter.init({
+    products: products,
+    filterKeys: ['finish', 'color', 'size', 'placement'],
+    searchFields: ['code', 'collection', 'color', 'size', 'country'],
+    cardMarkup: cardMarkup
   });
-  document.querySelectorAll('.pd-chip').forEach(function (chip) {
-    chip.addEventListener('click', function () {
-      var key = chip.getAttribute('data-filter-group');
-      var value = chip.getAttribute('data-filter-value');
-      var idx = state[key].indexOf(value);
-      if (idx === -1) {
-        state[key].push(value);
-        chip.classList.add('is-active');
-      } else {
-        state[key].splice(idx, 1);
-        chip.classList.remove('is-active');
-      }
-      state.limit = 8;
-      render();
-    });
-  });
-  search.addEventListener('input', function () {
-    state.search = search.value.trim().toLowerCase();
-    state.limit = 8;
-    render();
-  });
-  loadMore.addEventListener('click', function () {
-    state.limit += 4;
-    render();
-  });
-  reset.addEventListener('click', function () {
-    state.search = '';
-    state.finish = [];
-    state.color = [];
-    state.size = [];
-    state.placement = [];
-    state.limit = 8;
-    search.value = '';
-    document.querySelectorAll('input[data-filter-group]').forEach(function (input) { input.checked = false; });
-    document.querySelectorAll('.pd-chip').forEach(function (chip) { chip.classList.remove('is-active'); });
-    render();
-  });
-  render();
 })();

@@ -1,0 +1,312 @@
+.sanitary-page {
+  background: var(--bg);
+}
+
+.sanitary-hero {
+  position: relative;
+  min-height: 560px;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.sanitary-hero-media,
+.sanitary-hero-overlay,
+.sanitary-brand-bg {
+  position: absolute;
+  inset: 0;
+}
+
+.sanitary-hero-media,
+.sanitary-brand-bg {
+  background-size: cover;
+  background-position: center;
+}
+
+.sanitary-hero-overlay {
+  background:
+    linear-gradient(180deg, rgba(10, 10, 10, 0.1), rgba(10, 10, 10, 0.58)),
+    linear-gradient(90deg, rgba(10, 10, 10, 0.32), rgba(10, 10, 10, 0.08));
+}
+
+.sanitary-hero-content,
+.sanitary-brand-inner {
+  position: relative;
+  z-index: 1;
+}
+
+.sanitary-hero-content {
+  width: 100%;
+  padding-top: 132px;
+  padding-bottom: 74px;
+  color: #fff;
+}
+
+.sanitary-hero .pd-breadcrumb,
+.sanitary-hero .pd-breadcrumb a,
+.sanitary-hero .pd-breadcrumb strong {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.sanitary-hero h1 {
+  margin: 18px 0 0;
+  max-width: 8ch;
+  font-size: clamp(48px, 6vw, 92px);
+  line-height: 0.94;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+
+.sanitary-brand {
+  position: relative;
+  min-height: 560px;
+  overflow: hidden;
+}
+
+.sanitary-brand::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(17, 17, 17, 0.54), rgba(17, 17, 17, 0.12));
+}
+
+.sanitary-brand--vb::after {
+  background: linear-gradient(90deg, rgba(17, 17, 17, 0.1), rgba(17, 17, 17, 0.5));
+}
+
+.sanitary-brand-inner {
+  min-height: 560px;
+  display: flex;
+  align-items: center;
+}
+
+.sanitary-brand-inner--start {
+  justify-content: flex-start;
+}
+
+.sanitary-brand-inner--end {
+  justify-content: flex-end;
+}
+
+.sanitary-brand-panel {
+  width: min(470px, 100%);
+  padding: 42px 38px;
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  box-shadow: 0 22px 64px rgba(0, 0, 0, 0.12);
+}
+
+.sanitary-brand-panel img {
+  display: block;
+  max-width: 220px;
+  max-height: 82px;
+  object-fit: contain;
+}
+
+.sanitary-brand-panel p {
+  margin: 24px 0 28px;
+  font-size: 16px;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.sanitary-groups,
+.sanitary-strip,
+.sanitary-brands {
+  padding: 78px 0;
+}
+
+.sanitary-group-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 26px 22px;
+}
+
+.sanitary-group-card,
+.sanitary-slide-card {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sanitary-group-card {
+  display: block;
+}
+
+.sanitary-group-thumb {
+  aspect-ratio: 1.05 / 1;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--surface) 92%, #d4cec2 8%);
+}
+
+.sanitary-group-thumb img,
+.sanitary-slide-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.45s ease;
+}
+
+.sanitary-group-card h3,
+.sanitary-slide-card h3 {
+  margin: 16px 0 0;
+  font-size: 15px;
+  line-height: 1.35;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+
+.sanitary-group-card:hover img,
+.sanitary-group-card:focus-visible img,
+.sanitary-slide-card:hover img,
+.sanitary-slide-card:focus-visible img {
+  transform: scale(1.03);
+}
+
+.sanitary-slider-shell {
+  position: relative;
+}
+
+.sanitary-slider {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(280px, 31%);
+  gap: 22px;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  scrollbar-width: none;
+}
+
+.sanitary-slider::-webkit-scrollbar {
+  display: none;
+}
+
+.sanitary-slide-card {
+  scroll-snap-align: start;
+}
+
+.sanitary-slide-card img {
+  aspect-ratio: 1.18 / 1;
+}
+
+.sanitary-slider-btn {
+  position: absolute;
+  top: calc(50% - 32px);
+  z-index: 2;
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(0, 0, 0, 0.16);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.94);
+  color: var(--fg);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.sanitary-slider-btn:hover,
+.sanitary-slider-btn:focus-visible {
+  transform: translateY(-1px);
+  border-color: rgba(0, 0, 0, 0.28);
+}
+
+.sanitary-slider-btn--prev {
+  left: -18px;
+}
+
+.sanitary-slider-btn--next {
+  right: -18px;
+}
+
+.sanitary-brand-logos {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.sanitary-logo-card {
+  min-height: 180px;
+  display: grid;
+  place-items: center;
+  padding: 34px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.sanitary-logo-card img {
+  max-width: 180px;
+  width: 100%;
+  max-height: 78px;
+  object-fit: contain;
+}
+
+@media (max-width: 1199px) {
+  .sanitary-slider {
+    grid-auto-columns: minmax(300px, 38%);
+  }
+}
+
+@media (max-width: 1023px) {
+  .sanitary-hero {
+    min-height: 460px;
+  }
+
+  .sanitary-brand,
+  .sanitary-brand-inner {
+    min-height: 500px;
+  }
+
+  .sanitary-group-grid,
+  .sanitary-brand-logos {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .sanitary-slider {
+    grid-auto-columns: minmax(280px, 52%);
+  }
+
+  .sanitary-slider-btn {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .sanitary-hero-content {
+    padding-top: 116px;
+    padding-bottom: 58px;
+  }
+
+  .sanitary-brand-inner {
+    align-items: flex-end;
+    padding-top: 84px;
+    padding-bottom: 26px;
+  }
+
+  .sanitary-brand-panel {
+    padding: 28px 24px;
+  }
+
+  .sanitary-groups,
+  .sanitary-strip,
+  .sanitary-brands {
+    padding: 56px 0;
+  }
+
+  .sanitary-group-grid,
+  .sanitary-brand-logos {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .sanitary-slider {
+    grid-auto-columns: 84%;
+    gap: 16px;
+  }
+
+  .sanitary-group-card h3,
+  .sanitary-slide-card h3 {
+    font-size: 13px;
+    letter-spacing: 0.09em;
+  }
+}
