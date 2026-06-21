@@ -10,7 +10,7 @@
       primaryImage: '../assets/project-resort-v1.png',
       secondaryImage: '../assets/project-public-v1.png',
       description: 'Nam Hùng Resort mở ra một không gian nghỉ dưỡng khoáng đạt bên bãi biển Bãi Dài, với ngôn ngữ thiết kế đương đại và nhịp sáng tối được xử lý rất tiết chế.',
-      contribution: 'Lavatiles tham gia hoàn thiện bề mặt cho những khu vực trọng điểm, giữ cảm giác sang trọng nhưng vẫn đủ nhẹ để hòa vào bối cảnh biển và gió tự nhiên.'
+      contribution: 'Lavatile tham gia hoàn thiện bề mặt cho những khu vực trọng điểm, giữ cảm giác sang trọng nhưng vẫn đủ nhẹ để hòa vào bối cảnh biển và gió tự nhiên.'
     },
     '8915': {
       title: 'FUSION',
@@ -60,7 +60,7 @@
       primaryImage: '../assets/project-resort-v1.png',
       secondaryImage: '../assets/project-public-v1.png',
       description: 'The Holiday Nha Trang nổi bật với hình khối gợi chuyển động sóng và mặt dựng mở rộng tầm nhìn về phía biển.',
-      contribution: 'Lavatiles tham gia ở các khu vực có tần suất sử dụng cao, giữ đồng thời hai yêu cầu: cảm giác nghỉ dưỡng sáng thoáng và độ bền vận hành lâu dài.'
+      contribution: 'Lavatile tham gia ở các khu vực có tần suất sử dụng cao, giữ đồng thời hai yêu cầu: cảm giác nghỉ dưỡng sáng thoáng và độ bền vận hành lâu dài.'
     },
     '8943': {
       title: 'LUXNAM PHÚ QUỐC',
@@ -100,7 +100,7 @@
       primaryImage: '../assets/project-public-v1.png',
       secondaryImage: '../assets/project-commercial-v1.png',
       description: 'Sheraton Đà Nẵng mang tinh thần tân cổ điển sang trọng, với tỷ lệ lớn và một ngôn ngữ nội thất thiên về trải nghiệm lưu trú thượng lưu.',
-      contribution: 'Lavatiles góp phần củng cố độ trang trọng của không gian bằng hệ hoàn thiện có bề mặt chỉn chu, rõ tỷ lệ và phù hợp với nhịp sử dụng cao.'
+      contribution: 'Lavatile góp phần củng cố độ trang trọng của không gian bằng hệ hoàn thiện có bề mặt chỉn chu, rõ tỷ lệ và phù hợp với nhịp sử dụng cao.'
     },
     '8957': {
       title: 'LE MÉRIDIEN SÀI GÒN',
@@ -120,7 +120,7 @@
       primaryImage: '../assets/project-commercial-v1.png',
       secondaryImage: '../assets/project-public-v1.png',
       description: 'Pullman Saigon Centre có nhịp năng lượng đô thị rất rõ, với cách tổ chức không gian sắc gọn và phù hợp cho cả lưu trú lẫn hoạt động công việc.',
-      contribution: 'Lavatiles tham gia định hình các bề mặt nội thất theo hướng hiện đại, chắc tay và dễ bảo trì trong vận hành khách sạn.'
+      contribution: 'Lavatile tham gia định hình các bề mặt nội thất theo hướng hiện đại, chắc tay và dễ bảo trì trong vận hành khách sạn.'
     },
     '8979': {
       title: 'KHÁCH SẠN IBIS SÀI GÒN AIRPORT',
@@ -140,7 +140,7 @@
       primaryImage: '../assets/project-office-v1.png',
       secondaryImage: '../assets/project-residential-v1.png',
       description: 'Glow Scenia Bay nổi bật bằng cấu trúc xếp lớp và định hướng tầm nhìn ra biển, tạo cảm giác trẻ, sáng và phù hợp với nhịp nghỉ dưỡng ven vịnh.',
-      contribution: 'Lavatiles hỗ trợ phần hoàn thiện theo hướng gọn và sáng, để tận dụng tối đa lợi thế ánh sáng tự nhiên của công trình.'
+      contribution: 'Lavatile hỗ trợ phần hoàn thiện theo hướng gọn và sáng, để tận dụng tối đa lợi thế ánh sáng tự nhiên của công trình.'
     },
     '8985': {
       title: 'MIA RESORT',
@@ -160,7 +160,7 @@
       primaryImage: '../assets/project-resort-v1.png',
       secondaryImage: '../assets/project-commercial-v1.png',
       description: 'Park Hyatt Saigon mang vẻ đẹp Đông Dương trang trọng, nơi các chi tiết kiến trúc và nội thất đều được kiểm soát rất kỹ để giữ chất lịch duyệt.',
-      contribution: 'Các lựa chọn bề mặt của Lavatiles góp phần duy trì cảm giác sang trọng cổ điển nhưng vẫn đủ bền cho nhịp vận hành của một khách sạn biểu tượng.'
+      contribution: 'Các lựa chọn bề mặt của Lavatile góp phần duy trì cảm giác sang trọng cổ điển nhưng vẫn đủ bền cho nhịp vận hành của một khách sạn biểu tượng.'
     }
   };
 

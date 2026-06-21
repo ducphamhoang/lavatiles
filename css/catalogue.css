@@ -244,6 +244,11 @@
   transform: scale(1.03);
 }
 
+.static-listing-page .reveal {
+  opacity: 1;
+  transform: none;
+}
+
 .catalogue-card-body {
   display: flex;
   align-items: center;

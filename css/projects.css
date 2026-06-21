@@ -132,6 +132,11 @@
   text-transform: none;
 }
 
+.static-listing-page .reveal {
+  opacity: 1;
+  transform: none;
+}
+
 .projects-feedback {
   margin-top: 22px;
   padding: 12px 16px;

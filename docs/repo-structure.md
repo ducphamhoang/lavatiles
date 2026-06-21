@@ -1,6 +1,6 @@
 # Repository Structure
 
-This is a static Lavatiles-style website. Keep public route files stable so pages can be opened directly from disk or served by any static host.
+This is a static Lavatile-style website. Keep public route files stable so pages can be opened directly from disk or served by any static host.
 
 ## Active Source
 

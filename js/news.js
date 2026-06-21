@@ -46,7 +46,11 @@
 
     try {
       var url = new URL(window.location.href);
-      url.searchParams.set('category_id', id);
+      if (id === 'cam-hung-thiet-ke') {
+        url.searchParams.delete('category_id');
+      } else {
+        url.searchParams.set('category_id', id);
+      }
       window.history.replaceState({}, '', url);
     } catch (_) {}
   }

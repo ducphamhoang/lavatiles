@@ -303,6 +303,11 @@
   object-fit: cover;
 }
 
+.static-listing-page .reveal {
+  opacity: 1;
+  transform: none;
+}
+
 .news-archive-card h4 {
   margin: 10px 0 10px;
   font-size: 18px;

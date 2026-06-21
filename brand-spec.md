@@ -1,4 +1,4 @@
-# Lavatiles Reference System
+# Lavatile Reference System
 
 Source: https://vietceramics.com/
 Validated against downloaded homepage markup and site CSS on 2026-06-15.
