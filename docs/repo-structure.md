@@ -1,6 +1,6 @@
 # Repository Structure
 
-This is a static Vietceramics-style website. Keep public route files stable so pages can be opened directly from disk or served by any static host.
+This is a static Lavatiles-style website. Keep public route files stable so pages can be opened directly from disk or served by any static host.
 
 ## Active Source
 
@@ -24,7 +24,7 @@ This is a static Vietceramics-style website. Keep public route files stable so p
 └── docs/                              # Project documentation
 ```
 
-Compatibility redirect pages such as `du-an-page.html` and `vietceramics-about-us.html` stay at the root because they preserve old URLs.
+Compatibility redirect pages such as `du-an-page.html` and `lavatiles-about-us.html` stay at the root because they preserve old URLs.
 
 ## Page Conventions
 

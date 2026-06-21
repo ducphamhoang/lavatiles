@@ -18,7 +18,7 @@
     form.addEventListener('submit', function (event) {
       event.preventDefault();
       form.reset();
-      showInlineMessage(form, 'Cảm ơn bạn đã đăng ký nhận thông tin từ Vietceramics.');
+      showInlineMessage(form, 'Cảm ơn bạn đã đăng ký nhận thông tin từ Lavatiles.');
     });
   });
 })();

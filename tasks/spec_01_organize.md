@@ -5,7 +5,7 @@ Completed first pass:
 - Kept active public pages at their current paths so direct static browsing still works.
 - Kept compatibility redirect pages at the root:
   - `du-an-page.html`
-  - `vietceramics-about-us.html`
+  - `lavatiles-about-us.html`
 - Moved generated `.artifact.json` sidecars into `archive/artifacts/`.
 - Moved scratch `mq*` exports into `archive/scratch/`.
 - Added `docs/repo-structure.md` with the route map, page conventions, asset conventions, and brand guardrails.

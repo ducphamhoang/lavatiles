@@ -6,7 +6,7 @@
   var wishlistButton = document.getElementById('wishlistButton');
   var feedback = document.getElementById('pfdFeedback');
   var detailToggles = Array.prototype.slice.call(document.querySelectorAll('[data-detail-toggle]'));
-  var wishlistKey = 'vietceramics:wishlist:33604_299';
+  var wishlistKey = 'lavatiles:wishlist:33604_299';
 
   function showFeedback(message) {
     if (!feedback) {
