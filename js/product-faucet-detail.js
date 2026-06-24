@@ -6,7 +6,8 @@
   var wishlistButton = document.getElementById('wishlistButton');
   var feedback = document.getElementById('pfdFeedback');
   var detailToggles = Array.prototype.slice.call(document.querySelectorAll('[data-detail-toggle]'));
-  var wishlistKey = 'lavatile:wishlist:33604_299';
+  var productCode = document.body.getAttribute('data-product-code') || 'product';
+  var wishlistKey = 'lavatile:wishlist:' + productCode;
 
   function showFeedback(message) {
     if (!feedback) {

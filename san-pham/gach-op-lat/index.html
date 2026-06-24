@@ -71,6 +71,85 @@
     </div>
   </section>
 
+  <!-- Generated product catalogue -->
+  <section class="pd-catalog" id="pd-filters" data-reveal="from-bottom">
+    <div class="container">
+      <div class="pd-toolbar">
+        <div class="section-title pd-section-title pd-section-title--left">
+          <h2>Tất cả sản phẩm gạch và ngói</h2>
+          <p>Dữ liệu sản phẩm được tạo từ thư mục JSON nội bộ, liên kết trực tiếp đến trang chi tiết tương ứng.</p>
+        </div>
+        <div class="pd-search">
+          <label class="sr-only" for="pdSearch">Tìm kiếm mã sản phẩm</label>
+          <input id="pdSearch" type="search" placeholder="Tìm mã sản phẩm, ví dụ GP601">
+        </div>
+      </div>
+      <div class="pd-layout">
+        <aside class="pd-filter-panel">
+          <div class="pd-filter-head">
+            <h3>Filters</h3>
+            <button type="button" class="pd-reset" id="pdReset">Cài đặt lại</button>
+          </div>
+          <div class="pd-filter-group">
+            <h4>Bề mặt</h4>
+            <div class="pd-filter-list">
+              <label><input type="checkbox" data-filter-group="finish" value="Bóng"> Bóng</label>
+              <label><input type="checkbox" data-filter-group="finish" value="Mờ"> Mờ</label>
+              <label><input type="checkbox" data-filter-group="finish" value="Đang cập nhật"> Đang cập nhật</label>
+            </div>
+          </div>
+          <div class="pd-filter-group">
+            <h4>Danh mục</h4>
+            <div class="pd-chip-list">
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch lát nền">Gạch lát nền</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch sân vườn">Gạch sân vườn</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch 40x80">Gạch 40x80</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch 40x60">Gạch 40x60</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Ngói phẳng">Ngói phẳng</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Ngói sóng">Ngói sóng</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch">Gạch</button>
+            </div>
+          </div>
+          <div class="pd-filter-group">
+            <h4>Kích thước</h4>
+            <div class="pd-chip-list">
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x30cm">30x30cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x60cm">30x60cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="40x80cm">40x80cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="60x60cm">60x60cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="60x120cm">60x120cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="80x80cm">80x80cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="120x120cm">120x120cm</button>
+            </div>
+          </div>
+          <div class="pd-filter-group">
+            <h4>Ứng dụng</h4>
+            <div class="pd-chip-list">
+              <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Sàn">Sàn</button>
+              <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Tường">Tường</button>
+              <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Ngoài trời">Ngoài trời</button>
+              <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Mái">Mái</button>
+            </div>
+          </div>
+        </aside>
+        <div class="pd-results">
+          <div class="pd-results-head">
+            <div class="pd-active-filters" id="pdActiveFilters"></div>
+            <div class="pd-results-meta"><strong id="pdResultCount">0</strong> sản phẩm</div>
+          </div>
+          <div class="pd-grid" id="pd-grid"></div>
+          <div class="pd-empty" id="pdEmpty" hidden>
+            <h3>Chưa có kết quả phù hợp</h3>
+            <p>Hãy thử nới bộ lọc hoặc tìm theo mã sản phẩm khác.</p>
+          </div>
+          <div class="pd-loadmore">
+            <button type="button" class="vc-hero-btn vc-hero-btn--dark" id="pdLoadMore">Xem thêm</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Collection slider -->
   <section class="tiles-strip" data-reveal="from-bottom">
     <div class="container">
@@ -194,6 +273,9 @@
 <script src="../../js/site-chrome.js"></script>
 <script src="../../js/main.js"></script>
 <script src="../../js/ui-feedback.js"></script>
+<script src="../../js/product-filter.js"></script>
+<script src="../../js/generated-products.js"></script>
+<script src="../../js/product-detail.js"></script>
 <script src="../../js/tiles-index.js"></script>
 </body>
 </html>

@@ -1792,11 +1792,30 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   background: var(--surface);
   overflow: hidden;
 }
+.pd-product-link {
+  display: block;
+  height: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+.pd-product-link:hover h3,
+.pd-product-link:focus-visible h3 {
+  color: var(--accent);
+}
 .pd-product-media {
   aspect-ratio: 4 / 3;
   overflow: hidden;
   background: #e9e3db;
 }
+.pd-product-image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+  background: #fff;
+  transition: transform .5s;
+}
+.pd-product-card:hover .pd-product-image { transform: scale(1.03); }
 .pd-tile-art {
   position: relative;
   width: 100%;

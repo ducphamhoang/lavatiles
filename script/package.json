@@ -4,7 +4,9 @@
   "description": "Scrape product data from hoathanhphat.com.vn",
   "main": "scrape-products.js",
   "scripts": {
-    "start": "node scrape-products.js"
+    "start": "node scrape-products.js",
+    "generate:products": "node generate-product-pages.js",
+    "scan:missing-parts": "node scan-missing-parts.js"
   },
   "dependencies": {
     "axios": "^1.6.0",

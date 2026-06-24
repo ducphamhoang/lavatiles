@@ -30,6 +30,41 @@ npm install
 node scrape-products.js
 ```
 
+### Generate static product pages
+
+After product JSON files exist in `../data/products/`, generate the static detail pages and listing manifest:
+
+```bash
+npm run generate:products
+```
+
+Equivalent direct command from the repository root:
+
+```bash
+node script/generate-product-pages.js
+```
+
+This reads all individual JSON files in `../data/products/`, uses `../templates/product-detail.html`, and writes:
+
+- `../san-pham/gach-op-lat/<category>/<product>.html`
+- `../js/generated-products.js`
+
+### Scan missing menu URLs and CTA text
+
+Run a Product Design/QC scan for menu placeholders, broken local menu URLs, icon-only controls, and generic CTA text on menu-linked pages:
+
+```bash
+npm run scan:missing-parts
+```
+
+Equivalent direct command from the repository root:
+
+```bash
+node script/scan-missing-parts.js
+```
+
+The report is written to `../tasks/report_07_scan_missing_part.md`.
+
 ### Output
 
 The script generates two types of files in `../data/products/`:

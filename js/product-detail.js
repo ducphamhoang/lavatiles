@@ -18,23 +18,55 @@
     { code: '120278MACABLLP', finish: 'Mờ', color: 'Kem', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'calacatta-warm', collection: 'TELE DI MARMO LUMIA' },
     { code: '612MACABLLP', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'calacatta-soft', collection: 'ONYCE' }
   ];
+
+  var generatedProducts = window.LavatileGeneratedProducts || null;
+  var activeProducts = generatedProducts || products;
+  var filterKeys = generatedProducts ? ['finish', 'category', 'size', 'placement'] : ['finish', 'color', 'size', 'placement'];
+  var searchFields = generatedProducts ? ['code', 'title', 'collection', 'category', 'size', 'country', 'placement'] : ['code', 'collection', 'color', 'size', 'country'];
+
   function toneMarkup(tone) {
     return '<div class="pd-tile-art pd-tone-' + tone + '"><div class="pd-tile-shine"></div></div>';
   }
+
+  function escapeHtml(value) {
+    return String(value == null ? '' : value)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function mediaMarkup(product) {
+    if (product.image) {
+      return '<img class="pd-product-image" src="' + escapeHtml(product.image) + '" alt="' + escapeHtml(product.title || product.code) + '" loading="lazy" decoding="async">';
+    }
+    return toneMarkup(product.tone || 'alabaster-fine');
+  }
+
   function cardMarkup(product) {
+    var title = product.title || product.code;
+    var detail = [
+      '<div class="pd-product-media">' + mediaMarkup(product) + '</div>',
+      '<div class="pd-product-body">',
+      '<div class="pd-product-topline"><span>' + escapeHtml(product.collection) + '</span><strong>' + escapeHtml(product.country) + '</strong></div>',
+      '<h3>' + escapeHtml(title) + '</h3>',
+      '<ul class="pd-product-specs">',
+      '<li><span>Mã sản phẩm</span><strong>' + escapeHtml(product.code) + '</strong></li>',
+      '<li><span>Bề mặt</span><strong>' + escapeHtml(product.finishLabel || product.finish) + '</strong></li>',
+      '<li><span>Kích thước</span><strong>' + escapeHtml(product.size) + '</strong></li>',
+      '<li><span>Vị trí</span><strong>' + escapeHtml(product.placement.join(' / ')) + '</strong></li>',
+      '</ul>',
+      '</div>'
+    ].join('');
+
+    if (product.detailUrl) {
+      detail = '<a class="pd-product-link" href="' + escapeHtml(product.detailUrl) + '">' + detail + '</a>';
+    }
+
     return [
       '<article class="pd-product-card">',
-      '<div class="pd-product-media">' + toneMarkup(product.tone) + '</div>',
-      '<div class="pd-product-body">',
-      '<div class="pd-product-topline"><span>' + product.collection + '</span><strong>' + product.country + '</strong></div>',
-      '<h3>' + product.code + '</h3>',
-      '<ul class="pd-product-specs">',
-      '<li><span>Bề mặt</span><strong>' + product.finish + '</strong></li>',
-      '<li><span>Màu sắc</span><strong>' + product.color + '</strong></li>',
-      '<li><span>Kích thước</span><strong>' + product.size + '</strong></li>',
-      '<li><span>Vị trí</span><strong>' + product.placement.join(' / ') + '</strong></li>',
-      '</ul>',
-      '</div>',
+      detail,
       '</article>'
     ].join('');
   }
@@ -42,9 +74,11 @@
   if (!window.VCProductFilter) return;
 
   window.VCProductFilter.init({
-    products: products,
-    filterKeys: ['finish', 'color', 'size', 'placement'],
-    searchFields: ['code', 'collection', 'color', 'size', 'country'],
-    cardMarkup: cardMarkup
+    products: activeProducts,
+    filterKeys: filterKeys,
+    searchFields: searchFields,
+    cardMarkup: cardMarkup,
+    initialLimit: generatedProducts ? 12 : 8,
+    loadStep: generatedProducts ? 12 : 4
   });
 })();
