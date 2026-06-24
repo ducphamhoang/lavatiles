@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-ts1-817",
+  "title": "Gạch lát nền 80x80 Viglacera TS1-817",
+  "product_info": {
+    "Mã sản phẩm": "TS1-817",
+    "Loại sản phẩm": "Gạch ốp lát 80x80",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt men": "Men Nano bóng láng chống bẩn",
+    "Bề mặt": "Polish",
+    "Xương gạch": "Porcelain (Doublecharge)",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "3 viên/hộp​",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Doublecharge)"
+  },
+  "description": "TS1-817",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-817/ts1-817-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-817/ts1-817.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55679117530018903e7b01b470853850a36b169d4db79-4285.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/80x80-11-2300.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-6091.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS1-817",
+    "sku_key": "TS1817",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts1-817.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-817.html",
+        "title": "TS1-817",
+        "rawSku": "TS1-817",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-80x80-viglacera-ts1-817.json",
+        "title": "Gạch lát nền 80x80 Viglacera TS1-817",
+        "rawSku": "TS1-817",
+        "imageCount": 24
+      }
+    ]
+  }
+}

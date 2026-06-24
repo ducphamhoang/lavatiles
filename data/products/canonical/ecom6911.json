@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-ecom6911",
+  "title": "Gạch Viglacera ECOM6911",
+  "product_info": {
+    "Mã sản phẩm": "ECOM6911",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: ECOM6911",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-a-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-e.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/screen-shot-2019-07-02-at-14347-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/screen-shot-2019-07-02-at-14355-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/screen-shot-2019-07-02-at-14405-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/screen-shot-2019-07-02-at-14411-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/screen-shot-2019-07-02-at-14418-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6911/ecom6911.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECOM6911",
+    "sku_key": "ECOM6911",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ecom6911-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6911-1.html",
+        "title": "ECOM6911",
+        "rawSku": "ECOM6911",
+        "imageCount": 5
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/ecom6911.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6911.html",
+        "title": "ECOM6911",
+        "rawSku": "ECOM6911",
+        "imageCount": 7
+      }
+    ]
+  }
+}

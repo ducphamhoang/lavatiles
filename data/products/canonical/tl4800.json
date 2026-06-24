@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-tl4800",
+  "title": "Gạch Viglacera TL4800",
+  "product_info": {
+    "Mã sản phẩm": "TL4800",
+    "Kích thước": "40 x 80 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "TL4800",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4800/tl4800.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4800/tl4800-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4800/tl4800qr.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TL4800",
+    "sku_key": "TL4800",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tl4800.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tl4800.html",
+        "title": "TL4800",
+        "rawSku": "TL4800",
+        "imageCount": 3
+      }
+    ]
+  }
+}

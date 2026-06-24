@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-pl28-02",
+  "title": "Gạch Viglacera PL28-02",
+  "product_info": {
+    "Mã sản phẩm": "PL28-02",
+    "Kích thước": "20x80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Bộ sưu tập": "Platinum"
+  },
+  "description": "Mã sản phẩm PL28-02",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-10.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-11.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-12.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-13.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-14.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-15.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-16.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-17.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL28-02",
+    "sku_key": "PL2802",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl28-02.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl28-02.html",
+        "title": "PL28-02",
+        "rawSku": "PL28-02",
+        "imageCount": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-az6-gp61201-az6-gm61201",
+  "title": "Gạch Viglacera AZ6 GP61201/ AZ6 GM61201",
+  "product_info": {
+    "Mã sản phẩm": "AZ6 GP61201/ AZ6 GM61201",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Polished/ Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "2 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ6 GP61201/ AZ6 GM61201",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ6 GP61201/ AZ6 GM61201",
+    "sku_key": "AZ6GP61201AZ6GM61201",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az6-gp61201-az6-gm61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az6-gp61201-az6-gm61201.html",
+        "title": "AZ6 GP61201/ AZ6 GM61201",
+        "rawSku": "AZ6 GP61201/ AZ6 GM61201",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-uz-hm3601",
+  "title": "Gạch Viglacera UZ-HM3601",
+  "product_info": {
+    "Mã sản phẩm": "UZ-HM3601",
+    "Kích thước": "30x60",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "UZ-HM3601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f1-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f2-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f3-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f4-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f5-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f6-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UZ-HM3601",
+    "sku_key": "UZHM3601",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/uz-hm3601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/uz-hm3601.html",
+        "title": "UZ-HM3601",
+        "rawSku": "UZ-HM3601",
+        "imageCount": 6
+      }
+    ]
+  }
+}

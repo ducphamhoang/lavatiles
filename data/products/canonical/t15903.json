@@ -1,0 +1,47 @@
+{
+  "canonical_id": "viglacera-t15903",
+  "title": "Gạch Viglacera T15903",
+  "product_info": {
+    "Mã sản phẩm": "T15903",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "T15903",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-2-copy-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-2-copy.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-3-copy-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-3-copy.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-copy-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903-copy.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/t15903.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "T15903",
+    "sku_key": "T15903",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/t15903.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/t15903.html",
+        "title": "T15903",
+        "rawSku": "T15903",
+        "imageCount": 10
+      }
+    ]
+  }
+}

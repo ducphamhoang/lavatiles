@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh3-gm8805",
+  "title": "Gạch Viglacera SH3-GM8805",
+  "product_info": {
+    "Mã sản phẩm": "SH3-GM8805",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH3-GM8805",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh3-gm8805/11.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh3-gm8805/sh3-05.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh3-gm8805/sh3-052.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH3-GM8805",
+    "sku_key": "SH3GM8805",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh3-gm8805.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh3-gm8805.html",
+        "title": "SH3-GM8805",
+        "rawSku": "SH3-GM8805",
+        "imageCount": 3
+      }
+    ]
+  }
+}

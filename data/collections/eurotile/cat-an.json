@@ -1,0 +1,41 @@
+{
+  "collection_id": "eurotile-cat-an",
+  "title": "Cát An",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "CAN X01M"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "CAN X01M",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Cát An tựa bãi bờ rộng lớn ôm trọn dòng nước phiêu du, như đón chào sự trở về với nơi bình an, giúp ta tìm thấy được sự cân bằng trong tâm trí, nhận ra giá trị của những gì mình đang có, và niềm tin vào một tương lai không cần phải quá lo lắng. Ở một không gian an nhiên tự tại, những áp lực dường như tan biến và ta có thể hít thở thật sâu.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-minhhoa-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-phoicanh-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-phoicanh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/minhhoa-catan.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/map/CAN-X01M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/cat-an.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/cat-an.html",
+    "title": "Cát An",
+    "rawSku": "CAN X01M",
+    "imageCount": 7
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

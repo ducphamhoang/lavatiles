@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-va2-p121204",
+  "title": "Gạch Viglacera VA2-P121204",
+  "product_info": {
+    "Mã sản phẩm": "VA2-P121204",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VA2-P121204",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-e.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA2-P121204",
+    "sku_key": "VA2P121204",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va2-p121204.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/va2-p121204.html",
+        "title": "VA2-P121204",
+        "rawSku": "VA2-P121204",
+        "imageCount": 5
+      }
+    ]
+  }
+}

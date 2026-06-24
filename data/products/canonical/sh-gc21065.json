@@ -1,0 +1,48 @@
+{
+  "canonical_id": "viglacera-sh-gc21065",
+  "title": "Gạch Viglacera SH-GC21065",
+  "product_info": {
+    "Mã sản phẩm": "SH-GC21065",
+    "Kích thước": "20 x 100 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "SH-GC21065",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f1resize2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/screen-shot-2022-08-01-at-114307-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/screen-shot-2022-08-01-at-114321-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/screen-shot-2022-08-01-at-114337-am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GC21065",
+    "sku_key": "SHGC21065",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gc21065.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gc21065.html",
+        "title": "SH-GC21065",
+        "rawSku": "SH-GC21065",
+        "imageCount": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh-ce505",
+  "title": "Gạch Viglacera SH-CE505",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE505",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm SH-CE505",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce505/sh-ce5052.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce505/sh-ce505.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce505/sh-ce505a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE505",
+    "sku_key": "SHCE505",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-ce505.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce505.html",
+        "title": "SH-CE505",
+        "rawSku": "SH-CE505",
+        "imageCount": 3
+      }
+    ]
+  }
+}

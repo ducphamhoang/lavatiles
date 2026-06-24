@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-mdk662004",
+  "title": "Gạch Viglacera MDK662004",
+  "product_info": {
+    "Mã sản phẩm": "MDK662004",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "MDK662004",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662004/mdk-6620041.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662004/mdk-662004.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662004/mdk662004.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK662004",
+    "sku_key": "MDK662004",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk662004.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk662004.html",
+        "title": "MDK662004",
+        "rawSku": "MDK662004",
+        "imageCount": 3
+      }
+    ]
+  }
+}

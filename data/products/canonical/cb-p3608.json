@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-cb-p3608",
+  "title": "Gạch Viglacera CB-P3608",
+  "product_info": {
+    "Mã sản phẩm": "CB-P3608",
+    "Kích thước": "30x60cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB-P3608",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/a.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/b.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/c.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/d.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/e.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/f.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/g.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/h.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/i.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/k.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/l.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/m.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB-P3608",
+    "sku_key": "CBP3608",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-p3608.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-p3608.html",
+        "title": "CB-P3608",
+        "rawSku": "CB-P3608",
+        "imageCount": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ktm3992a",
+  "title": "Gạch Viglacera KTM3992A",
+  "product_info": {
+    "Mã sản phẩm": "KTM3992A",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KTM3992A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ktm3991-92-92a/ktm3992a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTM3992A",
+    "sku_key": "KTM3992A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktm3992a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktm3992a.html",
+        "title": "KTM3992A",
+        "rawSku": "KTM3992A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

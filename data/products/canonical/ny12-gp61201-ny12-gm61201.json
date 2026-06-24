@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ny12-gp61201-ny12-gm61201",
+  "title": "Gạch Viglacera NY12 GP61201 / NY12 GM61201",
+  "product_info": {
+    "Mã sản phẩm": "NY12 GP61201 / NY12 GM61201",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Polish / Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "2 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY12 GP61201 / NY12 GM61201",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY12 GP61201 / NY12 GM61201",
+    "sku_key": "NY12GP61201NY12GM61201",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny12-gp61201-ny12-gm61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny12-gp61201-ny12-gm61201.html",
+        "title": "NY12 GP61201 / NY12 GM61201",
+        "rawSku": "NY12 GP61201 / NY12 GM61201",
+        "imageCount": 0
+      }
+    ]
+  }
+}

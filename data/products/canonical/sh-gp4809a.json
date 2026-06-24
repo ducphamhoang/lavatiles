@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-sh-gp4809a",
+  "title": "Gạch Viglacera SH-GP4809A",
+  "product_info": {
+    "Mã sản phẩm": "SH-GP4809A",
+    "Kích thước": "40 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-GP4809A",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GP4809A",
+    "sku_key": "SHGP4809A",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gp4809a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gp4809a.html",
+        "title": "SH-GP4809A",
+        "rawSku": "SH-GP4809A",
+        "imageCount": 0
+      }
+    ]
+  }
+}

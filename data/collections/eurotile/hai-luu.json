@@ -1,0 +1,41 @@
+{
+  "collection_id": "eurotile-hai-luu",
+  "title": "Hải Lưu",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HAL X01M"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HAL X01M",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mặt biển có thể phẳng lặng, nhưng dưới lớp sóng êm những dòng hải lưu vẫn âm thầm chuyển động. Hải Lưu không chỉ là dòng chảy của đại dương, mà còn là biểu tượng cho sức mạnh nội lực để tạo nên những biến đổi sâu sắc trong lòng biển cả.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/minhhoa-Hailuu.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-X01M-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-X01M-PC.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-minhhoa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/map/HAL-X01M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hai-luu.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hai-luu.html",
+    "title": "Hải Lưu",
+    "rawSku": "HAL X01M",
+    "imageCount": 7
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-cl6-gp8801",
+  "title": "Gạch Viglacera CL6-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "CL6-GP8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL6-GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl6-gp8801/screenshot-2023-05-06-104528jpg.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl6-gp8801/screenshot-2023-05-06-104541jpg.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl6-gp8801/screenshot-2023-05-06-104555jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL6-GP8801",
+    "sku_key": "CL6GP8801",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl6-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl6-gp8801.html",
+        "title": "CL6-GP8801",
+        "rawSku": "CL6-GP8801",
+        "imageCount": 3
+      }
+    ]
+  }
+}

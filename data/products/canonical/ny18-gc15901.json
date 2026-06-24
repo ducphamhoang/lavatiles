@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-ny18-gc15901",
+  "title": "Gạch Viglacera NY18 GC15901",
+  "product_info": {
+    "Mã sản phẩm": "NY18 GC15901",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "8 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY18 GC15901",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-810.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-82.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-83.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-84.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-85.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-86.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-87.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-88.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-81.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-pc.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY18 GC15901",
+    "sku_key": "NY18GC15901",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny18-gc15901.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny18-gc15901.html",
+        "title": "NY18 GC15901",
+        "rawSku": "NY18 GC15901",
+        "imageCount": 11
+      }
+    ]
+  }
+}

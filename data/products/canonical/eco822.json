@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-eco822",
+  "title": "Gạch Viglacera ECO822",
+  "product_info": {
+    "Mã sản phẩm": "ECO822",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "ECO822",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/eco822.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECO822",
+    "sku_key": "ECO822",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/eco822.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/eco822.html",
+        "title": "ECO822",
+        "rawSku": "ECO822",
+        "imageCount": 8
+      }
+    ]
+  }
+}

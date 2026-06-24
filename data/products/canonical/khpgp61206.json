@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-khpgp61206",
+  "title": "Gạch Viglacera KHPGP61206",
+  "product_info": {
+    "Mã sản phẩm": "KHPGP61206",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHPGP61206",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61206.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHPGP61206",
+    "sku_key": "KHPGP61206",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khpgp61206.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khpgp61206.html",
+        "title": "KHPGP61206",
+        "rawSku": "KHPGP61206",
+        "imageCount": 1
+      }
+    ]
+  }
+}

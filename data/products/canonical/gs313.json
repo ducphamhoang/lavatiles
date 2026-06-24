@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-gs313",
+  "title": "Gạch Viglacera GS313",
+  "product_info": {
+    "Mã sản phẩm": "GS313",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "GS313",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gs313/gs313b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gs313/gs313.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GS313",
+    "sku_key": "GS313",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gs313.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gs313.html",
+        "title": "GS313",
+        "rawSku": "GS313",
+        "imageCount": 2
+      }
+    ]
+  }
+}

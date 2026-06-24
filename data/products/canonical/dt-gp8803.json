@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-dt-gp8803",
+  "title": "Gạch Viglacera DT GP8803",
+  "product_info": {
+    "Mã sản phẩm": "DT GP8803",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "DT GP8803",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/dt-gp8803/dt-gp8803.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "DT GP8803",
+    "sku_key": "DTGP8803",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/dt-gp8803.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/dt-gp8803.html",
+        "title": "DT GP8803",
+        "rawSku": "DT GP8803",
+        "imageCount": 1
+      }
+    ]
+  }
+}

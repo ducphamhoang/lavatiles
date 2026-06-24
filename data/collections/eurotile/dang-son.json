@@ -1,0 +1,36 @@
+{
+  "collection_id": "eurotile-dang-son",
+  "title": "Đăng Sơn",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "DAS QO1",
+    "DAS QO2",
+    "DAS DO1",
+    "DAS DO2"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "DAS QO1, DAS QO2, DAS DO1, DAS DO2",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q, KÍCH THƯỚC D",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Chiều chở mộng viền quanh phố núi Ráng hường hanh sót vạt hây hây Đường lên núi thấy quen mà lạ Vách đá choàng ôm những áng mây",
+  "images": [],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/dang-son.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/dang-son.html",
+    "title": "Đăng Sơn",
+    "rawSku": "DAS QO1, DAS QO2, DAS DO1, DAS DO2",
+    "imageCount": 0
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

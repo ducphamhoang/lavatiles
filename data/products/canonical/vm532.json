@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-vm532",
+  "title": "Gạch Viglacera VM532",
+  "product_info": {
+    "Mã sản phẩm": "VM532",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "VM532",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vm532/vm532.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vm532/vm532a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VM532",
+    "sku_key": "VM532",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vm532.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vm532.html",
+        "title": "VM532",
+        "rawSku": "VM532",
+        "imageCount": 2
+      }
+    ]
+  }
+}

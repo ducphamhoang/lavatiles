@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-sh25-p101003",
+  "title": "Gạch Viglacera SH25-P101003",
+  "product_info": {
+    "Mã sản phẩm": "SH25-P101003",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH25-P101003",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH25-P101003",
+    "sku_key": "SH25P101003",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh25-p101003.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh25-p101003.html",
+        "title": "SH25-P101003",
+        "rawSku": "SH25-P101003",
+        "imageCount": 6
+      }
+    ]
+  }
+}

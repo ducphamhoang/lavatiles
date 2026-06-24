@@ -15,6 +15,17 @@
     return active === section ? ' active' : '';
   }
 
+  function tileGroupList(root) {
+    return [
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=porcelain-kho-lon#pd-filters') + '">Porcelain khổ lớn</a></li>',
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=bo-suu-tap-platinum#pd-filters') + '">Bộ sưu tập Platinum</a></li>',
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=united-tiles-1#pd-filters') + '">United Tiles</a></li>',
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=bst-song-hong#pd-filters') + '">BST Sông Hồng</a></li>',
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=bst-cuu-long#pd-filters') + '">BST Cửu Long</a></li>',
+      '<li><a href="' + link(root, 'san-pham/gach-op-lat/index.html?category=san-pham-khac#pd-filters') + '">Sản phẩm khác</a></li>',
+    ].join('');
+  }
+
   function renderHeader(target) {
     var root = target.getAttribute('data-site-root') || '.';
     var active = target.getAttribute('data-active-nav') || '';
@@ -35,11 +46,7 @@
       '            <div class="megamenu-col">',
       '              <a href="' + link(root, 'san-pham/gach-op-lat/index.html') + '"><h6>Gạch ốp lát</h6></a>',
       '              <ul>',
-      '                <li><a href="' + link(root, 'gach-van-da-marble.html') + '">Gạch vân đá marble</a></li>',
-      '                <li><a href="#">Gạch vân đá tự nhiên</a></li>',
-      '                <li><a href="#">Gạch vân gỗ</a></li>',
-      '                <li><a href="#">Gạch thiết kế xi măng</a></li>',
-      '                <li><a href="#">Gạch trang trí</a></li>',
+      tileGroupList(root),
       '              </ul>',
       '            </div>',
       '            <div class="megamenu-col">',
@@ -96,7 +103,7 @@
       '<div class="sidenav-overlay" id="sidenavOverlay"></div>',
       '<div class="sidenav" id="sidenav">',
       '  <ul class="navbar-menu">',
-      '    <li class="nav-item dropdown"><a class="nav-link" href="' + link(root, 'san-pham/gach-op-lat/index.html') + '">Gạch ốp lát</a><div class="dropdown-menu"><ul><li><a href="' + link(root, 'gach-van-da-marble.html') + '">Gạch vân đá marble</a></li><li><a href="#">Gạch vân đá tự nhiên</a></li><li><a href="#">Gạch vân gỗ</a></li><li><a href="#">Gạch thiết kế xi măng</a></li><li><a href="#">Gạch trang trí</a></li></ul></div></li>',
+      '    <li class="nav-item dropdown"><a class="nav-link" href="' + link(root, 'san-pham/gach-op-lat/index.html') + '">Gạch ốp lát</a><div class="dropdown-menu"><ul>' + tileGroupList(root) + '</ul></div></li>',
       '    <li class="nav-item dropdown"><a class="nav-link" href="' + link(root, 'san-pham/thiet-bi-ve-sinh/index.html') + '">Thiết bị vệ sinh</a><div class="dropdown-menu"><ul><li><a href="' + link(root, 'san-pham/thiet-bi-ve-sinh/voi-nuoc.html') + '">Vòi nước</a></li><li><a href="#">Lavabo</a></li><li><a href="#">Bồn cầu</a></li><li><a href="#">Bồn tắm</a></li><li><a href="#">Sen tắm</a></li><li><a href="#">Khung âm và nút nhấn</a></li><li><a href="#">Gessi</a></li><li><a href="#">Villeroy &amp; Boch</a></li></ul></div></li>',
       '    <li class="nav-item dropdown"><a class="nav-link" href="#">Sàn gỗ</a><div class="dropdown-menu"><ul><li><a href="#">Sàn gỗ Laminate</a></li></ul></div></li>',
       '    <li class="nav-item"><a class="nav-link' + activeClass(active, 'about') + '" href="' + link(root, 've-chung-toi.html') + '">Về chúng tôi</a></li>',
@@ -124,7 +131,7 @@
       '        <p class="footer-showroom-link"><a href="#">Tìm địa chỉ Showroom</a></p>',
       '      </div>',
       '      <div class="footer-col"><h5>Lavatile</h5><ul><li><a href="' + link(root, 've-chung-toi.html') + '">Về Chúng Tôi</a></li><li><a href="#">Thông tin &amp; Báo cáo</a></li><li><a href="' + link(root, 'du-an.html') + '">Dự án</a></li><li><a href="#">Liên hệ Showroom</a></li><li><a href="#">Dịch vụ khách hàng</a></li></ul></div>',
-      '      <div class="footer-col"><h5>Gạch Ốp Lát</h5><ul><li><a href="' + link(root, 'gach-van-da-marble.html') + '">Gạch Vân Đá Marble</a></li><li><a href="#">Gạch Vân Đá Tự Nhiên</a></li><li><a href="#">Gạch Thiết Kế Xi Măng</a></li><li><a href="#">Gạch Trang Trí</a></li><li><a href="#">Gạch Vân Gỗ</a></li></ul></div>',
+      '      <div class="footer-col"><h5>Gạch Ốp Lát</h5><ul>' + tileGroupList(root) + '</ul></div>',
       '      <div class="footer-col"><h5>Thiết Bị Vệ Sinh</h5><ul><li><a href="' + link(root, 'san-pham/thiet-bi-ve-sinh/voi-nuoc.html') + '">Vòi nước</a></li><li><a href="#">Lavabo</a></li><li><a href="#">Bồn cầu</a></li><li><a href="#">Bồn tắm</a></li><li><a href="#">Sen tắm</a></li><li><a href="#">Khung âm và nút nhấn</a></li></ul></div>',
       '      <div class="footer-col"><h5>Tin Tức</h5><ul><li><a href="' + link(root, 'tin-tuc/cam-hung-thiet-ke.html') + '">Cảm hứng thiết kế</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=tin-san-pham') + '">Tin sản phẩm</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=tin-khuyen-mai') + '">Tin khuyến mãi</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=cong-ty') + '">Tin công ty</a></li><li><a href="#">Tin tuyển dụng</a></li></ul></div>',
       '      <div class="footer-newsletter"><p>Đăng ký để cập nhật thông tin mới nhất về khuyến mãi, sản phẩm và sự kiện</p><form data-newsletter-form><input type="email" placeholder="Email của bạn" required><button type="submit">Đăng ký</button></form></div>',

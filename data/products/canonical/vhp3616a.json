@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-vhp3616a",
+  "title": "Gạch Viglacera VHP3616A",
+  "product_info": {
+    "Mã sản phẩm": "VHP3616A",
+    "Kích thước": "30x60",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VHP3616A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3616/vhp3616a-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/vhp3616/vhp3616a-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP3616A",
+    "sku_key": "VHP3616A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp3616a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp3616a.html",
+        "title": "VHP3616A",
+        "rawSku": "VHP3616A",
+        "imageCount": 2
+      }
+    ]
+  }
+}

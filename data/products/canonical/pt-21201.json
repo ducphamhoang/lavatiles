@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-pt-21201",
+  "title": "Gạch Viglacera PT-21201",
+  "product_info": {
+    "Mã sản phẩm": "PT-21201",
+    "Kích thước": "20 x 120 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Platinum"
+  },
+  "description": "PT-21201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-10.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-11.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-12.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-13.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-14.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-15.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-6.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PT-21201",
+    "sku_key": "PT21201",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pt-21201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pt-21201.html",
+        "title": "PT-21201",
+        "rawSku": "PT-21201",
+        "imageCount": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-bs3629",
+  "title": "Gạch Viglacera BS3629",
+  "product_info": {
+    "Mã sản phẩm": "BS3629",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "BS3629",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3629/bs-3629a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3629/bs-3629.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS3629",
+    "sku_key": "BS3629",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs3629.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs3629.html",
+        "title": "BS3629",
+        "rawSku": "BS3629",
+        "imageCount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-kt3927",
+  "title": "Gạch Viglacera KT3927",
+  "product_info": {
+    "Mã sản phẩm": "KT3927",
+    "Kích thước": "30x60 cm",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bề Mặt": "Glossy"
+  },
+  "description": "KT3927",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt-3927.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT3927",
+    "sku_key": "KT3927",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt3927.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3927.html",
+        "title": "KT3927",
+        "rawSku": "KT3927",
+        "imageCount": 1
+      }
+    ]
+  }
+}

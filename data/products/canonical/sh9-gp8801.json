@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh9-gp8801",
+  "title": "Gạch Viglacera SH9-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "SH9-GP8801",
+    "Kích thước": "80x80",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men": "Polished"
+  },
+  "description": "SH9-GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh9-gp8801/sh9-gp8801-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh9-gp8801/sh9-gp8801f2-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh9-gp8801/sh9-gp8801f3-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/sh9-gp8801/sh9-gp8801-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH9-GP8801",
+    "sku_key": "SH9GP8801",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh9-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh9-gp8801.html",
+        "title": "SH9-GP8801",
+        "rawSku": "SH9-GP8801",
+        "imageCount": 4
+      }
+    ]
+  }
+}

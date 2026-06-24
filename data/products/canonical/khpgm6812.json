@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-khpgm6812",
+  "title": "Gạch Viglacera KHPGM6812",
+  "product_info": {
+    "Mã sản phẩm": "KHPGM6812",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHPGM6812",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-matt/khp-gm6812.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHPGM6812",
+    "sku_key": "KHPGM6812",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khpgm6812.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khpgm6812.html",
+        "title": "KHPGM6812",
+        "rawSku": "KHPGM6812",
+        "imageCount": 1
+      }
+    ]
+  }
+}

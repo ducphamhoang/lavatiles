@@ -1,0 +1,48 @@
+{
+  "collection_id": "eurotile-hoi-an",
+  "title": "Hội An",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HOA Q01",
+    "HOA Q02",
+    "HOA E01",
+    "HOA E02"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HOA Q01, HOA Q02, HOA E01, HOA E02",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q, KÍCH THƯỚC E",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Ngược dòng lạc bước phố đèn Xa rời cám dỗ, bon chen thị thành Dưới cầu thắp chiếc hoa đăng Đẩy theo dòng nước lo toan muộn phiền Đêm về phố hội lên đèn Bài chòi, giã gạo, hò khoan, thi cờ Rộn ràng tiếng trống đang chờ Chào người lữ khách cập bờ đêm thu Dẫu cho khắp chốn chu du Sắc màu non nước vẫn lưu phố đèn",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOABMPC-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOAPC-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOAPC-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/1HOABMPC-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ01-f-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ02-f-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/HOA-Q-02.png",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/website-qr-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/8080/HOA-E01-f1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/8080/HOA-E02-f2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoi-an/HOA-E-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hoi-an.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hoi-an.html",
+    "title": "Hội An",
+    "rawSku": "HOA Q01, HOA Q02, HOA E01, HOA E02",
+    "imageCount": 11
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

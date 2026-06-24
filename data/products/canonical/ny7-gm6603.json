@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-ny7-gm6603",
+  "title": "Gạch Viglacera NY7 GM6603",
+  "product_info": {
+    "Mã sản phẩm": "NY7 GM6603",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY7 GM6603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY7 GM6603",
+    "sku_key": "NY7GM6603",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny7-gm6603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny7-gm6603.html",
+        "title": "NY7 GM6603",
+        "rawSku": "NY7 GM6603",
+        "imageCount": 5
+      }
+    ]
+  }
+}

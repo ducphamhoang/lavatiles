@@ -1,0 +1,47 @@
+{
+  "canonical_id": "viglacera-cb-pt61201",
+  "title": "Gạch Viglacera CB-PT61201",
+  "product_info": {
+    "Mã sản phẩm": "CB-PT61201",
+    "Kích thước": "60x120cm",
+    "Bề mặt": "Hard Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB-PT61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-a.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-b.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-c.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-d.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-e.png",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstplatinum/cb-pt61201/layout-pt61201-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/layout-pt61201-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB-PT61201",
+    "sku_key": "CBPT61201",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-pt61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-pt61201.html",
+        "title": "CB-PT61201",
+        "rawSku": "CB-PT61201",
+        "imageCount": 9
+      }
+    ]
+  }
+}

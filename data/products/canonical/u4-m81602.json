@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-u4-m81602",
+  "title": "Gạch Viglacera U4-M81602",
+  "product_info": {
+    "Mã sản phẩm": "U4-M81602",
+    "Kích thước": "80x160 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "U4-M81602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-f-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-g-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-b-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "U4-M81602",
+    "sku_key": "U4M81602",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/u4-m81602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/u4-m81602.html",
+        "title": "U4-M81602",
+        "rawSku": "U4-M81602",
+        "imageCount": 8
+      }
+    ]
+  }
+}

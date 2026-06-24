@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-vi7-9gp81602",
+  "title": "Gạch Viglacera VI7-9GP81602",
+  "product_info": {
+    "Mã sản phẩm": "VI7-9GP81602",
+    "Kích thước": "80 x 160 cm",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Porcelain khổ lớn"
+  },
+  "description": "Mã sản phẩm: VI7-9GP81602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-e.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI7-9GP81602",
+    "sku_key": "VI79GP81602",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi7-9gp81602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi7-9gp81602.html",
+        "title": "VI7-9GP81602",
+        "rawSku": "VI7-9GP81602",
+        "imageCount": 5
+      }
+    ]
+  }
+}

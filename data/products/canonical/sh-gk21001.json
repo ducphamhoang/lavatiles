@@ -1,0 +1,48 @@
+{
+  "canonical_id": "viglacera-sh-gk21001",
+  "title": "Gạch Viglacera SH-GK21001",
+  "product_info": {
+    "Mã sản phẩm": "SH-GK21001",
+    "Kích thước": "20 x100 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-GK21001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-a-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-b-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-d-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-c-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-e-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-f-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-g-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-h-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-v1-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-v1-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GK21001",
+    "sku_key": "SHGK21001",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gk21001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gk21001.html",
+        "title": "SH-GK21001",
+        "rawSku": "SH-GK21001",
+        "imageCount": 10
+      }
+    ]
+  }
+}

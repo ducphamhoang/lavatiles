@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-d408",
+  "title": "Gạch Viglacera D408",
+  "product_info": {
+    "Mã sản phẩm": "D408",
+    "Kích thước": "40 x 40 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: D408",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d408.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "D408",
+    "sku_key": "D408",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/d408.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/d408.html",
+        "title": "D408",
+        "rawSku": "D408",
+        "imageCount": 1
+      }
+    ]
+  }
+}

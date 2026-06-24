@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-tb-821",
+  "title": "Gạch Viglacera TB 821",
+  "product_info": {
+    "Mã sản phẩm": "TB 821",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "TB 821",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821-f1-350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TB 821",
+    "sku_key": "TB821",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tb-821.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb-821.html",
+        "title": "TB 821",
+        "rawSku": "TB 821",
+        "imageCount": 5
+      }
+    ]
+  }
+}

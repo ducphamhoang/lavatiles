@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-gp802",
+  "title": "Gạch lát nền 80x80 Viglacera GP802",
+  "product_info": {
+    "Mã sản phẩm": "GP802",
+    "Loại sản phẩm": "Gạch ốp lát 80x80",
+    "Kích thước": "80x80cm",
+    "Bề mặt men": "Men bóng",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Vân đá",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "3 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-2-5114.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/80x80-7-2955.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-1558.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GP802",
+    "sku_key": "GP802",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-lt-nn-80x80-viglacera-gp802.json",
+        "title": "Gạch lát nền 80x80 Viglacera GP802",
+        "rawSku": "GP802",
+        "imageCount": 24
+      }
+    ]
+  }
+}

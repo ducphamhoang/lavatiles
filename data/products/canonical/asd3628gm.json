@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-asd3628gm",
+  "title": "Gạch Viglacera ASD3628GM",
+  "product_info": {
+    "Mã sản phẩm": "ASD3628GM",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD3628GM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3628gm/asd-3628gm-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3628gm/asd-3628gm-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3628gm/asd-3628gm-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3628gm/asd-3628gm-d.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD3628GM",
+    "sku_key": "ASD3628GM",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd3628gm.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd3628gm.html",
+        "title": "ASD3628GM",
+        "rawSku": "ASD3628GM",
+        "imageCount": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-h516",
+  "title": "Gạch Viglacera H516",
+  "product_info": {
+    "Mã sản phẩm": "H516",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "H516",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h516/h516.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h516/h516-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "H516",
+    "sku_key": "H516",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/h516.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/h516.html",
+        "title": "H516",
+        "rawSku": "H516",
+        "imageCount": 2
+      }
+    ]
+  }
+}

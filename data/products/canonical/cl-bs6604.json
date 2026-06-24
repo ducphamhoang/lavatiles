@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-cl-bs6604",
+  "title": "Gạch Viglacera CL-BS6604",
+  "product_info": {
+    "Mã sản phẩm": "CL-BS6604",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-BS6604",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-BS6604",
+    "sku_key": "CLBS6604",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-bs6604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-bs6604.html",
+        "title": "CL-BS6604",
+        "rawSku": "CL-BS6604",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "collection_id": "eurotile-hai-phong-1",
+  "title": "Hải Phong",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HAP N01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HAP N01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Gió vi vu gọi gió cuốn xa Biển trào dâng gọi biển bao la Gió bay bay mãi vào vô tận Biển gọi biển gào biển thiết tha Biển hòa gió quyện mãi âm vang Gió thổi thênh thang sóng nhẹ nhàng",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/NEN-HAP.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/GTL-Hai-Phong-web.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/GTL-Hai-Phong-web6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/HAP-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/HAP-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hai-phong-1.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hai-phong-1.html",
+    "title": "Hải Phong",
+    "rawSku": "HAP N01P",
+    "imageCount": 5
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

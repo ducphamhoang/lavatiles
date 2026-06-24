@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh-ce3615",
+  "title": "Gạch Viglacera SH-CE3615",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE3615",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Glossy",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH-CE3615",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3615/sh-ce3615-v1.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3615/sh-ce-3615-v2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3615/sh-ce-3615-v3.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3615/sh-ce-3615-v4.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE3615",
+    "sku_key": "SHCE3615",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-ce3615.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce3615.html",
+        "title": "SH-CE3615",
+        "rawSku": "SH-CE3615",
+        "imageCount": 4
+      }
+    ]
+  }
+}

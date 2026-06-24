@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-cb-pt61208",
+  "title": "Gạch Viglacera CB-PT61208",
+  "product_info": {
+    "Mã sản phẩm": "CB-PT61208",
+    "Kích thước": "60x120cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB-PT61208",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/a.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/b.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/c.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/d.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/e.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB-PT61208",
+    "sku_key": "CBPT61208",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-pt61208.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-pt61208.html",
+        "title": "CB-PT61208",
+        "rawSku": "CB-PT61208",
+        "imageCount": 5
+      }
+    ]
+  }
+}

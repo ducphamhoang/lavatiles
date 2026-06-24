@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-tp200j",
+  "title": "Gạch Viglacera TP200J",
+  "product_info": {
+    "Mã sản phẩm": "TP200J",
+    "Kích thước": "25 x 40 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "TP200J",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tp200j/tp200jb.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tp200j/tp200j.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TP200J",
+    "sku_key": "TP200J",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tp200j.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tp200j.html",
+        "title": "TP200J",
+        "rawSku": "TP200J",
+        "imageCount": 2
+      }
+    ]
+  }
+}

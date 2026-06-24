@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-ny3-p121201",
+  "title": "Gạch Viglacera NY3-P121201",
+  "product_info": {
+    "Mã sản phẩm": "NY3-P121201",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "NEW YORK"
+  },
+  "description": "NY3-P121201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f1-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f2-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f3-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f4-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f5-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f2-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY3-P121201",
+    "sku_key": "NY3P121201",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny3-p121201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny3-p121201.html",
+        "title": "NY3-P121201",
+        "rawSku": "NY3-P121201",
+        "imageCount": 6
+      }
+    ]
+  }
+}

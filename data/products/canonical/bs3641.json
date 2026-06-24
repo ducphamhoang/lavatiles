@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-bs3641",
+  "title": "Gạch Viglacera BS3641",
+  "product_info": {
+    "Mã sản phẩm": "BS3641",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "BS3641",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v1b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v7.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v8.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS3641",
+    "sku_key": "BS3641",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs3641.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs3641.html",
+        "title": "BS3641",
+        "rawSku": "BS3641",
+        "imageCount": 9
+      }
+    ]
+  }
+}

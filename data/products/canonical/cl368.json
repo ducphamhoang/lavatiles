@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-cl368",
+  "title": "Gạch Viglacera CL368",
+  "product_info": {
+    "Mã sản phẩm": "CL368",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phầm: CL368",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL368",
+    "sku_key": "CL368",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl368.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl368.html",
+        "title": "CL368",
+        "rawSku": "CL368",
+        "imageCount": 0
+      }
+    ]
+  }
+}

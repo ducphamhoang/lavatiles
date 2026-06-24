@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-khp36912",
+  "title": "Gạch Viglacera KHP36912",
+  "product_info": {
+    "Mã sản phẩm": "KHP36912",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: KHP36912",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36912jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHP36912",
+    "sku_key": "KHP36912",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khp36912.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khp36912.html",
+        "title": "KHP36912",
+        "rawSku": "KHP36912",
+        "imageCount": 1
+      }
+    ]
+  }
+}

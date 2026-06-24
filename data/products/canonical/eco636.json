@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-eco636",
+  "title": "Gạch Viglacera ECO636",
+  "product_info": {
+    "Mã sản phẩm": "ECO636",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "ECO636",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-e.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-f.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/eco-636-g.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECO636",
+    "sku_key": "ECO636",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/eco636.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/eco636.html",
+        "title": "ECO636",
+        "rawSku": "ECO636",
+        "imageCount": 8
+      }
+    ]
+  }
+}

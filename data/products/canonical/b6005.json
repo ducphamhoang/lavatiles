@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-b6005",
+  "title": "Gạch Viglacera B6005",
+  "product_info": {
+    "Mã sản phẩm": "B6005",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: B6005",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6005.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "B6005",
+    "sku_key": "B6005",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/b6005.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/b6005.html",
+        "title": "B6005",
+        "rawSku": "B6005",
+        "imageCount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ecom6901",
+  "title": "Gạch Viglacera ECOM6901",
+  "product_info": {
+    "Mã sản phẩm": "ECOM6901",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: ECOM6901",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6901/m6901-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECOM6901",
+    "sku_key": "ECOM6901",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ecom6901.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6901.html",
+        "title": "ECOM6901",
+        "rawSku": "ECOM6901",
+        "imageCount": 1
+      }
+    ]
+  }
+}

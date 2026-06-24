@@ -1,0 +1,48 @@
+{
+  "canonical_id": "viglacera-ny18-gc15903",
+  "title": "Gạch Viglacera NY18 GC15903",
+  "product_info": {
+    "Mã sản phẩm": "NY18 GC15903",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "8 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY18 GC15903",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-71.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-710.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-72.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-73.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-74.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-77.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-76.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-78.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-79.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY18 GC15903",
+    "sku_key": "NY18GC15903",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny18-gc15903.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny18-gc15903.html",
+        "title": "NY18 GC15903",
+        "rawSku": "NY18 GC15903",
+        "imageCount": 9
+      }
+    ]
+  }
+}

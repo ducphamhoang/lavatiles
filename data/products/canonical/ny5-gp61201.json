@@ -1,0 +1,51 @@
+{
+  "canonical_id": "viglacera-ny5-gp61201",
+  "title": "Gạch Viglacera NY5 GP61201",
+  "product_info": {
+    "Mã sản phẩm": "NY5 GP61201",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "6 viên/ hộp",
+    "Bộ sưu tập": "Newyork"
+  },
+  "description": "NY5 GP61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-random.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-pc-2.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY5 GP61201",
+    "sku_key": "NY5GP61201",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny5-gp61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny5-gp61201.html",
+        "title": "NY5 GP61201",
+        "rawSku": "NY5 GP61201",
+        "imageCount": 14
+      }
+    ]
+  }
+}

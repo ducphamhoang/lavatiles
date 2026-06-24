@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-sh478",
+  "title": "Gạch Viglacera SH478",
+  "product_info": {
+    "Mã sản phẩm": "SH478",
+    "Kích thước": "40 x 40 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: SH478",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh478jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH478",
+    "sku_key": "SH478",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh478.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sh478.html",
+        "title": "SH478",
+        "rawSku": "SH478",
+        "imageCount": 1
+      }
+    ]
+  }
+}

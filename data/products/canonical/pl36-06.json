@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-pl36-06",
+  "title": "Gạch Viglacera PL36-06",
+  "product_info": {
+    "Mã sản phẩm": "PL36-06",
+    "Kích thước": "30x60cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "BST Platinum",
+    "Đóng gói": "6 viên / hộp"
+  },
+  "description": "Mã sản phẩm PL36-06",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-06/pl36-06.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL36-06",
+    "sku_key": "PL3606",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl36-06-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-06-1.html",
+        "title": "PL36-06",
+        "rawSku": "PL36-06",
+        "imageCount": 1
+      }
+    ]
+  }
+}

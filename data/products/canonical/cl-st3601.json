@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-cl-st3601",
+  "title": "Gạch Viglacera CL-ST3601",
+  "product_info": {
+    "Mã sản phẩm": "CL-ST3601",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-ST3601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3601/cl-st3601-vien-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3601/cl-st3601-vien-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3601/cl-st3601-vien-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3601/cl-st3601-vien-4.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-ST3601",
+    "sku_key": "CLST3601",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-st3601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-st3601.html",
+        "title": "CL-ST3601",
+        "rawSku": "CL-ST3601",
+        "imageCount": 4
+      }
+    ]
+  }
+}

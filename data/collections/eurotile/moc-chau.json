@@ -1,0 +1,49 @@
+{
+  "collection_id": "eurotile-moc-chau",
+  "title": "Mộc Châu",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "MOC D01",
+    "MOC D02",
+    "MOC D03",
+    "MOC D04",
+    "MOC M01",
+    "MOC M02",
+    "MOC M03",
+    "MOC M04"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "MOC D01, MOC D02, MOC D03, MOC D04, MOC M01, MOC M02, MOC M03, MOC M04",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC D, KÍCH THƯỚC M",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Không quá gần, cũng không quá xa. Không quá chập chùng để thấy choáng ngợp, không quá thưa thớt để thấy nhạt nhoà. Nhưng đủ để có cảm tưởng như mình đang đứng trong đất trời mênh mông.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-1-Copy-copy.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-2-copy.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-3-copy.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-do3/MOC-D03-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-do4/MOC-D04-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-m03/MOC-M03-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-mo4/MOC-M04-1.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/moc-chau.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/moc-chau.html",
+    "title": "Mộc Châu",
+    "rawSku": "MOC D01, MOC D02, MOC D03, MOC D04, MOC M01, MOC M02, MOC M03, MOC M04",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

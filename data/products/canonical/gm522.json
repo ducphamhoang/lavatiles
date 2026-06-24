@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-gm522",
+  "title": "Gạch Viglacera GM522",
+  "product_info": {
+    "Mã sản phẩm": "GM522",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "GM522",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm522/gm522-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm522/gm522.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GM522",
+    "sku_key": "GM522",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gm522.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gm522.html",
+        "title": "GM522",
+        "rawSku": "GM522",
+        "imageCount": 2
+      }
+    ]
+  }
+}

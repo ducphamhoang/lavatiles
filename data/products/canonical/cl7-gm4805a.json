@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-cl7-gm4805a",
+  "title": "Gạch Viglacera CL7-GM4805A",
+  "product_info": {
+    "Mã sản phẩm": "CL7-GM4805A",
+    "Kích thước": "40 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL7-GM4805A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4805a/cl7-gm4805a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL7-GM4805A",
+    "sku_key": "CL7GM4805A",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl7-gm4805a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl7-gm4805a.html",
+        "title": "CL7-GM4805A",
+        "rawSku": "CL7-GM4805A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

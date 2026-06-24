@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-cl3-gm8802",
+  "title": "Gạch Viglacera CL3-GM8802",
+  "product_info": {
+    "Mã sản phẩm": "CL3-GM8802",
+    "Kích thước": "80 x80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL3-GM8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm8802/cl3-gm8802-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm8802/cl3-gm8802-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm8802/cl3-gm8802-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL3-GM8802",
+    "sku_key": "CL3GM8802",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl3-gm8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl3-gm8802.html",
+        "title": "CL3-GM8802",
+        "rawSku": "CL3-GM8802",
+        "imageCount": 3
+      }
+    ]
+  }
+}

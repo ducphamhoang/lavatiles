@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-va6-9gp101001",
+  "title": "Gạch Viglacera VA6-9GP101001",
+  "product_info": {
+    "Mã sản phẩm": "VA6-9GP101001",
+    "Kích thước": "100x100cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "Mã sản phẩm VA6-9GP101001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc0.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc00.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/17032286917240813.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA6-9GP101001",
+    "sku_key": "VA69GP101001",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va6-9gp101001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va6-9gp101001.html",
+        "title": "VA6-9GP101001",
+        "rawSku": "VA6-9GP101001",
+        "imageCount": 7
+      }
+    ]
+  }
+}

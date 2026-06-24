@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-hpd-gp61201",
+  "title": "Gạch Viglacera HPD GP61201",
+  "product_info": {
+    "Mã sản phẩm": "HPD GP61201",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "HPD GP61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61201/hpd-gp61201-f1.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61201/hpd-gp61201-f2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61201/hpd-gp61201-f3.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "HPD GP61201",
+    "sku_key": "HPDGP61201",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/hpd-gp61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/hpd-gp61201.html",
+        "title": "HPD GP61201",
+        "rawSku": "HPD GP61201",
+        "imageCount": 3
+      }
+    ]
+  }
+}

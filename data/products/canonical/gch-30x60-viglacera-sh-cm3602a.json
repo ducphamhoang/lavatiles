@@ -1,0 +1,56 @@
+{
+  "canonical_id": "viglacera-sh-cm3602a",
+  "title": "Gạch 30x60 Viglacera SH-CM3602A",
+  "product_info": {
+    "Mã sản phẩm": "SH-CM3602A",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30x60 cm",
+    "Bề mặt men": "Matt",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Xương gạch": "Ceramic",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "SH-CM3602A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602a.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shcm3602a-7114.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-12-4165.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-8336.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CM3602A",
+    "sku_key": "SHCM3602A",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-cm3602a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-cm3602a.html",
+        "title": "SH-CM3602A",
+        "rawSku": "SH-CM3602A",
+        "imageCount": 1
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-30x60-viglacera-sh-cm3602a.json",
+        "title": "Gạch 30x60 Viglacera SH-CM3602A",
+        "rawSku": "SH-CM3602A",
+        "imageCount": 24
+      }
+    ]
+  }
+}

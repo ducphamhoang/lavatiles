@@ -1,0 +1,51 @@
+{
+  "canonical_id": "viglacera-pl36-st04",
+  "title": "Gạch Viglacera PL36-ST04",
+  "product_info": {
+    "Mã sản phẩm": "PL36-ST04",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt Satine",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Đóng gói": "6 viên / hộp",
+    "Bộ sưu tập": "Platinum"
+  },
+  "description": "Mã sản phẩm PL36-ST04",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-10.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-11.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-12.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-7.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-8.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-9.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL36-ST04",
+    "sku_key": "PL36ST04",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl36-st04.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-st04.html",
+        "title": "PL36-ST04",
+        "rawSku": "PL36-ST04",
+        "imageCount": 13
+      }
+    ]
+  }
+}

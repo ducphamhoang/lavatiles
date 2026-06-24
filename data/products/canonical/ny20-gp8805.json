@@ -1,0 +1,36 @@
+{
+  "canonical_id": "viglacera-ny20-gp8805",
+  "title": "Gạch Viglacera NY20-GP8805",
+  "product_info": {
+    "Mã sản phẩm": "NY20-GP8805",
+    "Kích thước": "80x80",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "NY20-GP8805",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY20-GP8805",
+    "sku_key": "NY20GP8805",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny20-gp8805.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny20-gp8805.html",
+        "title": "NY20-GP8805",
+        "rawSku": "NY20-GP8805",
+        "imageCount": 0
+      }
+    ]
+  }
+}

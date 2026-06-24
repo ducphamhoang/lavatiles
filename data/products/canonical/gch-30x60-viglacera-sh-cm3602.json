@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-sh-cm3602",
+  "title": "Gạch 30x60 Viglacera SH-CM3602",
+  "product_info": {
+    "Mã sản phẩm": "SH-CM3602",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30x60 cm",
+    "Bề mặt men": "Men mờ Matt",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Xương gạch": "Ceramic",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "SH-CM3602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602-3.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shcm360a-5365.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-12-8376.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-4862.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CM3602",
+    "sku_key": "SHCM3602",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-cm3602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-cm3602.html",
+        "title": "SH-CM3602",
+        "rawSku": "SH-CM3602",
+        "imageCount": 3
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-30x60-viglacera-sh-cm3602.json",
+        "title": "Gạch 30x60 Viglacera SH-CM3602",
+        "rawSku": "SH-CM3602",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-asd3620gm",
+  "title": "Gạch Viglacera ASD3620GM",
+  "product_info": {
+    "Mã sản phẩm": "ASD3620GM",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD3620GM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-f.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-g.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-h.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD3620GM",
+    "sku_key": "ASD3620GM",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd3620gm.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd3620gm.html",
+        "title": "ASD3620GM",
+        "rawSku": "ASD3620GM",
+        "imageCount": 8
+      }
+    ]
+  }
+}

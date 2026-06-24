@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-hm821",
+  "title": "Gạch lát nền vân đá 80x80 Viglacera HM821",
+  "product_info": {
+    "Mã sản phẩm": "HM821",
+    "Loại sản phẩm": "Gạch ốp lát 80x80",
+    "Kích thước": "80x80cm",
+    "Bề mặt men": "Mờ (Matt)",
+    "Xương gạch": "Semi Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch đa dạng phong phú",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "3 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32192gachlatnen80x80viglacerahm821-3408.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/80x80-14-7572.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9467.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "HM821",
+    "sku_key": "HM821",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-lt-nn-vn-80x80-viglacera-hm821.json",
+        "title": "Gạch lát nền vân đá 80x80 Viglacera HM821",
+        "rawSku": "HM821",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-cl-m3603",
+  "title": "Gạch Viglacera CL-M3603",
+  "product_info": {
+    "Mã sản phẩm": "CL-M3603",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL-M3603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/30x60/cl-m3603/anh-chup-man-hinh-2022-07-01-luc-150138.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-M3603",
+    "sku_key": "CLM3603",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-m3603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-m3603.html",
+        "title": "CL-M3603",
+        "rawSku": "CL-M3603",
+        "imageCount": 1
+      }
+    ]
+  }
+}

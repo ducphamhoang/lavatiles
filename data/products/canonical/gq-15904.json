@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-gq-15904",
+  "title": "Gạch Viglacera GQ 15904",
+  "product_info": {
+    "Mã sản phẩm": "GQ 15904",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "GQ 15904",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/screen-shot-2018-04-24-at-111108-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/screen-shot-2018-04-24-at-111117-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/screen-shot-2018-04-24-at-111124-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/screen-shot-2018-04-24-at-111132-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/screen-shot-2018-04-24-at-111138-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/gq-15904.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GQ 15904",
+    "sku_key": "GQ15904",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gq-15904.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gq-15904.html",
+        "title": "GQ 15904",
+        "rawSku": "GQ 15904",
+        "imageCount": 7
+      }
+    ]
+  }
+}

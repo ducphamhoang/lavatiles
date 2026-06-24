@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-va4-9gp101001",
+  "title": "Gạch Viglacera VA4-9GP101001",
+  "product_info": {
+    "Mã sản phẩm": "VA4-9GP101001",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VA4-9GP101001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va4-9gp101001/va4-9gp101001-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va4-9gp101001/va4-9gp101001-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va4-9gp101001/va4-9gp101001-c.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA4-9GP101001",
+    "sku_key": "VA49GP101001",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va4-9gp101001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va4-9gp101001.html",
+        "title": "VA4-9GP101001",
+        "rawSku": "VA4-9GP101001",
+        "imageCount": 3
+      }
+    ]
+  }
+}

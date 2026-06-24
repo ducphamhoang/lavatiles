@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-asd-6614gm",
+  "title": "Gạch Viglacera ASD 6614GM",
+  "product_info": {
+    "Mã sản phẩm": "ASD 6614GM",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 6614GM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-e.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 6614GM",
+    "sku_key": "ASD6614GM",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-6614gm.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-6614gm.html",
+        "title": "ASD 6614GM",
+        "rawSku": "ASD 6614GM",
+        "imageCount": 5
+      }
+    ]
+  }
+}

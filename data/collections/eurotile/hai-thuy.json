@@ -1,0 +1,34 @@
+{
+  "collection_id": "eurotile-hai-thuy",
+  "title": "Hải Thụy",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HAT I01",
+    "HAT I02"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HAT I01, HAT I02",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC I",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Hải Thụy, giấc mơ của biển, là hình ảnh bầu trời xanh dịu và làn nước mênh mông, xanh thẵm. Như một điểm sáng giữa đại dương, một cánh hoa trắng nhẹ nhàng trôi trên mặt biển. Tất cả cho ta cảm giác như chính cánh hoa ấy đang ngủ quên trên sự êm ái. Và cứ thế, biển cả ôm lấy cánh hoa như vòng tay bao la người cha ôm đứa con gái nhỏ, điềm tĩnh và nhẹ nhàng.",
+  "images": [],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hai-thuy.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hai-thuy.html",
+    "title": "Hải Thụy",
+    "rawSku": "HAT I01, HAT I02",
+    "imageCount": 0
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

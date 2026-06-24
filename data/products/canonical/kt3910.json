@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-kt3910",
+  "title": "Gạch Viglacera KT3910",
+  "product_info": {
+    "Mã sản phẩm": "KT3910",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KT3910",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3910/kt39102.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3910/kt39103.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT3910",
+    "sku_key": "KT3910",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt3910.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3910.html",
+        "title": "KT3910",
+        "rawSku": "KT3910",
+        "imageCount": 2
+      }
+    ]
+  }
+}

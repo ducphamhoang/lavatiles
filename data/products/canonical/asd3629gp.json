@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-asd3629gp",
+  "title": "Gạch Viglacera ASD3629GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD3629GP",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD3629GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3629gp/asd-3629gp-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3629gp/asd-3629gp-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3629gp/asd-3629gp-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3629gp/asd-3629gp-d.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD3629GP",
+    "sku_key": "ASD3629GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd3629gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd3629gp.html",
+        "title": "ASD3629GP",
+        "rawSku": "ASD3629GP",
+        "imageCount": 4
+      }
+    ]
+  }
+}

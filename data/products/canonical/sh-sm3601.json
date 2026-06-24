@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-sh-sm3601",
+  "title": "Gạch Viglacera SH-SM3601",
+  "product_info": {
+    "Mã sản phẩm": "SH-SM3601",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt Baby",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-SM3601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f1a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f2a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f3a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f4a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f5a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-SM3601",
+    "sku_key": "SHSM3601",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-sm3601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-sm3601.html",
+        "title": "SH-SM3601",
+        "rawSku": "SH-SM3601",
+        "imageCount": 8
+      }
+    ]
+  }
+}

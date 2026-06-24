@@ -1,0 +1,35 @@
+{
+  "canonical_id": "viglacera-ktce3620a",
+  "title": "Gạch Viglacera KTCE3620A",
+  "product_info": {
+    "Mã sản phẩm": "KTCE3620A",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mã sản phẩm: KTCE3620A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3620-a/kt-ce3620a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTCE3620A",
+    "sku_key": "KTCE3620A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktce3620a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktce3620a.html",
+        "title": "KTCE3620A",
+        "rawSku": "KTCE3620A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

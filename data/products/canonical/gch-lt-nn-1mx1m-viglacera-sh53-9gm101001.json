@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-sh53-9gm101001",
+  "title": "Gạch lát nền 1mx1m Viglacera SH53-9GM101001",
+  "product_info": {
+    "Mã sản phẩm": "SH53-9GM101001",
+    "Kích thước": "100x100 cm",
+    "Bề mặt men": "Men Matt",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Xương gạch": "Granite",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Ốp tường, Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "2 viên/hộp",
+    "Giá": "Liên hệ",
+    "Màu sắc và họa tiết": "Vân đá ghi đen tinh tế và sang trọng"
+  },
+  "description": "SH53-9GM101001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101001/sh53-9gm101001-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101001/sh53-9gm101001-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101001/sh53-9gm101001-c.webp",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh53-9gm101001-a-9469.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/100x100-4-3908.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt100-7363.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH53-9GM101001",
+    "sku_key": "SH539GM101001",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh53-9gm101001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh53-9gm101001.html",
+        "title": "SH53-9GM101001",
+        "rawSku": "SH53-9GM101001",
+        "imageCount": 3
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh53-9gm101001.json",
+        "title": "Gạch lát nền 1mx1m Viglacera SH53-9GM101001",
+        "rawSku": "SH53-9GM101001",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-sh-gm6602",
+  "title": "Gạch Viglacera SH-GM6602",
+  "product_info": {
+    "Mã sản phẩm": "SH-GM6602",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: SH-GM6602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6602/sh-gm6602-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6602/sh-gm6602-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6602/sh-gm6602-f3.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/phoicanh-hardmatt60x60/sh-gm6602.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/phoicanh-hardmatt60x60/sh-gm6602.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GM6602",
+    "sku_key": "SHGM6602",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gm6602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gm6602.html",
+        "title": "SH-GM6602",
+        "rawSku": "SH-GM6602",
+        "imageCount": 5
+      }
+    ]
+  }
+}

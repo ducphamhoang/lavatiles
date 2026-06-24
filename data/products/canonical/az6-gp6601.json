@@ -1,0 +1,51 @@
+{
+  "canonical_id": "viglacera-az6-gp6601",
+  "title": "Gạch Viglacera AZ6 GP6601",
+  "product_info": {
+    "Mã sản phẩm": "AZ6 GP6601",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ6 GP6601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66011.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66012.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66013.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66014.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66015.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-2-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-2-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-1-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-1-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-3-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-3-az6-5-az6-gp6601.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/pc-0-az6-5-az6-gp6601.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ6 GP6601",
+    "sku_key": "AZ6GP6601",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az6-gp6601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az6-gp6601.html",
+        "title": "AZ6 GP6601",
+        "rawSku": "AZ6 GP6601",
+        "imageCount": 15
+      }
+    ]
+  }
+}

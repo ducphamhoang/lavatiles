@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tb8994",
+  "title": "Gạch Viglacera TB8994",
+  "product_info": {
+    "Mã sản phẩm": "TB8994",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: TB8994",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8994.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TB8994",
+    "sku_key": "TB8994",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tb8994.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb8994.html",
+        "title": "TB8994",
+        "rawSku": "TB8994",
+        "imageCount": 1
+      }
+    ]
+  }
+}

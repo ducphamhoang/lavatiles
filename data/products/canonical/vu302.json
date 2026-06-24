@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-vu302",
+  "title": "Gạch Viglacera VU302",
+  "product_info": {
+    "Mã sản phẩm": "VU302",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "VU302",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu302/vu302a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu302/vu302.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VU302",
+    "sku_key": "VU302",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vu302.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vu302.html",
+        "title": "VU302",
+        "rawSku": "VU302",
+        "imageCount": 2
+      }
+    ]
+  }
+}

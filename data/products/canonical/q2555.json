@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-q2555",
+  "title": "Gạch Viglacera Q2555",
+  "product_info": {
+    "Mã sản phẩm": "Q2555",
+    "Kích thước": "25 x 40 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Q2555",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/q2555/q-2555b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/q2555/q-2555.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "Q2555",
+    "sku_key": "Q2555",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/q2555.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/q2555.html",
+        "title": "Q2555",
+        "rawSku": "Q2555",
+        "imageCount": 2
+      }
+    ]
+  }
+}

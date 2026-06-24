@@ -1,0 +1,57 @@
+{
+  "canonical_id": "viglacera-sh4-gp4804",
+  "title": "Gạch Viglacera SH4-GP4804",
+  "product_info": {
+    "Mã sản phẩm": "SH4-GP4804",
+    "Kích thước": "40X80",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men": "Polished",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "SH4-GP4804",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4804/sh4-gp4804-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4804/sh4-gp4804-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4804/sh4-gp4804-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/sh4-gp4804/sh4-gp4804-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh4-gp4804/1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh4-gp4804/2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh4-gp4804/3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH4-GP4804",
+    "sku_key": "SH4GP4804",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh4-gp4804-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4804-1.html",
+        "title": "SH4-GP4804",
+        "rawSku": "SH4-GP4804",
+        "imageCount": 4
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/sh4-gp4804.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4804.html",
+        "title": "SH4-GP4804",
+        "rawSku": "SH4-GP4804",
+        "imageCount": 3
+      }
+    ]
+  }
+}

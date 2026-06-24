@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-t363",
+  "title": "Gạch Viglacera T363",
+  "product_info": {
+    "Mã sản phẩm": "T363",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "T363",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t363/t363-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t363/t363.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t363/t363qr.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "T363",
+    "sku_key": "T363",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/t363.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/t363.html",
+        "title": "T363",
+        "rawSku": "T363",
+        "imageCount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vhp3603",
+  "title": "Gạch Viglacera VHP3603",
+  "product_info": {
+    "Mã sản phẩm": "VHP3603",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "VHP3603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3603-bjpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP3603",
+    "sku_key": "VHP3603",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp3603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp3603.html",
+        "title": "VHP3603",
+        "rawSku": "VHP3603",
+        "imageCount": 1
+      }
+    ]
+  }
+}

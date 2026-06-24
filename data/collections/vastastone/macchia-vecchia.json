@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-macchia-vecchia",
+  "title": "Macchia Vecchia",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Macchia Vecchia"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Macchia Vecchia",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Chất liệu cổ điển của mãu đá này tạo ra một dòng chảy liên tục vượt thời gian và không gian, nơi thiết kế có thể hướng đến nhiều thời kỳ hoặc kết hợp chúng. Xu hướng thiết kế cổ điển đương đại mới làm mờ ranh giới, trong khi kết hợp hoàn hảo hai trường phái để giữ nguyên giá trị di sản nhưng vẫn truyền tải sự thanh lịch và hiện đại. KÍCH THƯỚC 160×320 cm BỀ MẶT MỜ MỊN BÓNG THICKNESSES 6mm 12mm 20mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAL1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAIL-4.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-2048x711.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/macchia-vecchia.json",
+    "url": "https://vastastone.com/vi/collection/macchia-vecchia/",
+    "title": "Macchia Vecchia",
+    "rawSku": "Macchia Vecchia",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

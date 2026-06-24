@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-az8-gm8801",
+  "title": "Gạch Viglacera AZ8 GM8801",
+  "product_info": {
+    "Mã sản phẩm": "AZ8 GM8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ8 GM8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ8 GM8801",
+    "sku_key": "AZ8GM8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az8-gm8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az8-gm8801.html",
+        "title": "AZ8 GM8801",
+        "rawSku": "AZ8 GM8801",
+        "imageCount": 5
+      }
+    ]
+  }
+}

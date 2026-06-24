@@ -1,0 +1,53 @@
+{
+  "collection_id": "eurotile-khai-ca",
+  "title": "Khải Ca",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG.KHC Q01S",
+    "SIG.KHC Q02S",
+    "SIG.KHC E01S",
+    "SIG.KHC E02S"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG.KHC Q01S, SIG.KHC Q02S, SIG.KHC E01S, SIG.KHC E02S",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q, KÍCH THƯỚC E",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Chẳng có ai là hoàn hảo trên cuộc đời này, ngay cả một chiếc bát lâu ngày cũng có thể nứt mẻ theo thời gian. Nhưng nếu can đảm đối mặt với những \"vết nứt cuộc đời\", chúng ta sẽ tỏa sáng như chiếc bát được hàn gắn lại từ bột vàng.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-03.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-04.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-05.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/MH-Khai-Ca.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/khc-q/SIG-KHC-Q01S-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/khc-q/SIG-KHC-Q02S-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/khc-q/pic/KHC-Q-01.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/khc-e/khc-e01/SIG-KHC-E01S-1.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/khai-ca.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/khai-ca.html",
+    "title": "Khải Ca",
+    "rawSku": "SIG.KHC Q01S, SIG.KHC Q02S, SIG.KHC E01S, SIG.KHC E02S",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

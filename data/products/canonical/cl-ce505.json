@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-cl-ce505",
+  "title": "Gạch Viglacera CL-CE505",
+  "product_info": {
+    "Mã sản phẩm": "CL-CE505",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-CE505",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce505/cl-ce505a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce505/cl-ce505.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-CE505",
+    "sku_key": "CLCE505",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-ce505.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-ce505.html",
+        "title": "CL-CE505",
+        "rawSku": "CL-CE505",
+        "imageCount": 2
+      }
+    ]
+  }
+}

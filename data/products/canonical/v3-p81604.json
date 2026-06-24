@@ -1,0 +1,36 @@
+{
+  "canonical_id": "viglacera-v3-p81604",
+  "title": "Gạch Viglacera V3-P81604",
+  "product_info": {
+    "Mã sản phẩm": "V3-P81604",
+    "Kích thước": "80x160",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "V3-P81604",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "V3-P81604",
+    "sku_key": "V3P81604",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/v3-p81604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/v3-p81604.html",
+        "title": "V3-P81604",
+        "rawSku": "V3-P81604",
+        "imageCount": 0
+      }
+    ]
+  }
+}

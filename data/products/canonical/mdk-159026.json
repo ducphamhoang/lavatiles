@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-mdk-159026",
+  "title": "Gạch Viglacera MDK 159026",
+  "product_info": {
+    "Mã sản phẩm": "MDK 159026",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "MDK 159026",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/screen-shot-2019-05-23-at-100415-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/screen-shot-2019-05-23-at-100420-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/screen-shot-2019-05-23-at-100426-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/screen-shot-2019-05-23-at-100431-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/screen-shot-2019-05-23-at-100437-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/mdk-159026.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK 159026",
+    "sku_key": "MDK159026",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk-159026.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk-159026.html",
+        "title": "MDK 159026",
+        "rawSku": "MDK 159026",
+        "imageCount": 7
+      }
+    ]
+  }
+}

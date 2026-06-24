@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vv-gp6605",
+  "title": "Gạch Viglacera VV-GP6605",
+  "product_info": {
+    "Mã sản phẩm": "VV-GP6605",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VV-GP6605",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6605/screenshot-2022-12-14-134355.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6605/screenshot-2022-12-14-134429.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6605/screenshot-2022-12-14-134439.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VV-GP6605",
+    "sku_key": "VVGP6605",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vv-gp6605.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vv-gp6605.html",
+        "title": "VV-GP6605",
+        "rawSku": "VV-GP6605",
+        "imageCount": 3
+      }
+    ]
+  }
+}

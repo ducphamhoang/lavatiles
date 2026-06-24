@@ -1,0 +1,61 @@
+{
+  "canonical_id": "viglacera-sh-bs6601",
+  "title": "Gạch lát nền 60x60 Viglacera SH-BS6601",
+  "product_info": {
+    "Mã sản phẩm": "SH-BS6601",
+    "Loại sản phẩm": "Gạch ốp lát 60x60",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt men": "Men mờ Matt",
+    "Bề mặt": "Matt",
+    "Xương gạch": "Semi Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "4 viên/hộp​",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-BS6601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6601/yp-66m-2022-13ic-3-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6601/yp-66m-2022-13ic-3-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6601/yp-66m-2022-13ic-3-f3.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/yp-66m-2022-13ic-3-f2-6738.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x60-5-6400.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-1275.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-BS6601",
+    "sku_key": "SHBS6601",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-bs6601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-bs6601.html",
+        "title": "SH-BS6601",
+        "rawSku": "SH-BS6601",
+        "imageCount": 3
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-60x60-viglacera-sh-bs6601.json",
+        "title": "Gạch lát nền 60x60 Viglacera SH-BS6601",
+        "rawSku": "SH-BS6601",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vig-gm483004",
+  "title": "Gạch Viglacera VIG-GM483004",
+  "product_info": {
+    "Mã sản phẩm": "VIG-GM483004",
+    "Kích thước": "40 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIG-GM483004",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483004-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483004-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483004-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIG-GM483004",
+    "sku_key": "VIGGM483004",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vig-gm483004.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vig-gm483004.html",
+        "title": "VIG-GM483004",
+        "rawSku": "VIG-GM483004",
+        "imageCount": 3
+      }
+    ]
+  }
+}

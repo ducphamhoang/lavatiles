@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-linear-harmony",
+  "title": "Linear Harmony",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Linear Harmony"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Linear Harmony",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Với Linear Harmony, bạn có thể tạo nên một ý tưởng không gian cuốn hút, nơi sự chú ý được dẫn dắt qua dòng chảy câu chuyện hình ảnh từ không gian này sang không gian khác với các khu vực và điểm nhấn được xác định rõ ràng. Khách tham quan có thể không ngờ tới những điều đang chờ đón ở góc tiếp theo, từ đó kích thích sự tò mò và niềm vui khám phá trên hành trình của họ. Bảng màu đồng nhất mang đến cảm giác trang nhã, tạo sự kết nối giữa môi trường và con người, cùng cảm giác yên bình và gần gũi. Sự liền mạch trong thiết kế mời gọi sự tương tác với không gian và những chi tiết bên trong. KÍCH THƯỚC 160×320 cm BỀ MẶT MỜ MỊN BÓNG THICKNESSES 6mm 12mm 20mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-1-22.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-25.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-2048x711.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/linear-harmony.json",
+    "url": "https://vastastone.com/vi/collection/linear-harmony/",
+    "title": "Linear Harmony",
+    "rawSku": "Linear Harmony",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

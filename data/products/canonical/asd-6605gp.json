@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-asd-6605gp",
+  "title": "Gạch Viglacera ASD 6605GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD 6605GP",
+    "Kích thước": "60x60 cm",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 6605GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-e.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 6605GP",
+    "sku_key": "ASD6605GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-6605gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-6605gp.html",
+        "title": "ASD 6605GP",
+        "rawSku": "ASD 6605GP",
+        "imageCount": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-kv-n303",
+  "title": "Gạch Viglacera KV-N303",
+  "product_info": {
+    "Mã sản phẩm": "KV-N303",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KV-N303",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n303/kv-n303b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n303/kv-n303.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KV-N303",
+    "sku_key": "KVN303",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kv-n303.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kv-n303.html",
+        "title": "KV-N303",
+        "rawSku": "KV-N303",
+        "imageCount": 2
+      }
+    ]
+  }
+}

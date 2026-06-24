@@ -1,0 +1,40 @@
+{
+  "collection_id": "eurotile-lan-ha",
+  "title": "Lan Hạ",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "LHA X01M"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "LHA X01M",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Giữa vịnh nhỏ trong xanh, hàng trăm hòn đảo đá vôi nối tiếp nhau, xếp đặt khéo léo thành bức phù điêu thiên nhiên tráng lệ, vừa thơ mộng, vừa hữu tình. Cảnh sắc dành cho những ai yêu thích vẻ đẹp nguyên sơ, mong muốn một lần đặt chân tới trải nghiệm.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-mimh-hoa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-mimh-hoa-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-X01M-.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/lan-ha.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/lan-ha.html",
+    "title": "Lan Hạ",
+    "rawSku": "LHA X01M",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

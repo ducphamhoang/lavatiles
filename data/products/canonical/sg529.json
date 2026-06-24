@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-sg529",
+  "title": "Gạch Viglacera SG529",
+  "product_info": {
+    "Mã sản phẩm": "SG529",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "SG529",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg529/sg529.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg529/sg529-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SG529",
+    "sku_key": "SG529",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sg529.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sg529.html",
+        "title": "SG529",
+        "rawSku": "SG529",
+        "imageCount": 2
+      }
+    ]
+  }
+}

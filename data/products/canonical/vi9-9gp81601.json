@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-vi9-9gp81601",
+  "title": "Gạch Viglacera VI9-9GP81601",
+  "product_info": {
+    "Mã sản phẩm": "VI9-9GP81601",
+    "Kích thước": "80 x 160 cm",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Porcelain khổ lớn"
+  },
+  "description": "Mã sản phẩm: VI9-9GP81601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-e.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-d.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI9-9GP81601",
+    "sku_key": "VI99GP81601",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi9-9gp81601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi9-9gp81601.html",
+        "title": "VI9-9GP81601",
+        "rawSku": "VI9-9GP81601",
+        "imageCount": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "collection_id": "eurotile-phong-luu",
+  "title": "Phong Lưu",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG. P8803"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG. P8803",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "Sig. P-03, SIG. P8803",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Gió thổi, mây trôi, nước chảy, ấy là Phong Lưu",
+  "images": [],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/phong-luu.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/phong-luu.html",
+    "title": "Phong Lưu",
+    "rawSku": "SIG. P8803",
+    "imageCount": 0
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

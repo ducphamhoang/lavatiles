@@ -1,0 +1,48 @@
+{
+  "canonical_id": "viglacera-pl36-42",
+  "title": "Gạch Viglacera PL36-42",
+  "product_info": {
+    "Mã sản phẩm": "PL36-42",
+    "Kích thước": "30x60cm",
+    "Bề mặt": "Hard Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "BST Platinum",
+    "Đóng gói": "6 viên / hộp"
+  },
+  "description": "Mã sản phẩm PL36-42",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-7.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-8.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL36-42",
+    "sku_key": "PL3642",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl36-42.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-42.html",
+        "title": "PL36-42",
+        "rawSku": "PL36-42",
+        "imageCount": 9
+      }
+    ]
+  }
+}

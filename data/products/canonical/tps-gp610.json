@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tps-gp610",
+  "title": "Gạch Viglacera TPS-GP610",
+  "product_info": {
+    "Mã sản phẩm": "TPS-GP610",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "TPS-GP610",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp610/tps-gp610.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TPS-GP610",
+    "sku_key": "TPSGP610",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tps-gp610.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tps-gp610.html",
+        "title": "TPS-GP610",
+        "rawSku": "TPS-GP610",
+        "imageCount": 1
+      }
+    ]
+  }
+}

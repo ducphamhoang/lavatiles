@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-pd413",
+  "title": "Gạch Viglacera PD413",
+  "product_info": {
+    "Mã sản phẩm": "PD413",
+    "Kích thước": "40 x 40 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: PD413",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/pd413.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PD413",
+    "sku_key": "PD413",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pd413.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/pd413.html",
+        "title": "PD413",
+        "rawSku": "PD413",
+        "imageCount": 1
+      }
+    ]
+  }
+}

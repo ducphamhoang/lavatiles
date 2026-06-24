@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-un24-gm61206",
+  "title": "Gạch Viglacera UN24 GM61206",
+  "product_info": {
+    "Mã sản phẩm": "UN24 GM61206",
+    "Kích thước": "60x120cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "UN24 GM61206",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-c.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-pc-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UN24 GM61206",
+    "sku_key": "UN24GM61206",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/un24-gm61206.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/un24-gm61206.html",
+        "title": "UN24 GM61206",
+        "rawSku": "UN24 GM61206",
+        "imageCount": 5
+      }
+    ]
+  }
+}

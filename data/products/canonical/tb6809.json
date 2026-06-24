@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tb6809",
+  "title": "Gạch Viglacera TB6809",
+  "product_info": {
+    "Mã sản phẩm": "TB6809",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: TB6809",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6809.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TB6809",
+    "sku_key": "TB6809",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tb6809.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6809.html",
+        "title": "TB6809",
+        "rawSku": "TB6809",
+        "imageCount": 1
+      }
+    ]
+  }
+}

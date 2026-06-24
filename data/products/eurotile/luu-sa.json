@@ -1,0 +1,25 @@
+{
+  "title": "Lưu Sa",
+  "product_info": {
+    "Mã sản phẩm": "LUS H01, LUS H02, LUS H03, LUS G01, LUS G02, LUS G03, LUS G04",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC H, KÍCH THƯỚC G",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ",
+    "Nguồn dữ liệu": "Eurotile",
+    "URL": "https://www.eurotile.vn/vi/san-pham/luu-sa.html"
+  },
+  "description": "Hạt cát nhỏ nhoi trong vũ trụ bao la, nước có thể cuốn trôi, gió có thể xô bạt. Dù có phiêu bạt về nơi đâu, cát vẫn trơ lại với màu thời gian, trường tồn trước những biến động. Cuộc sống quan trọng là \"lòng nhân\", tâm bất biến giữa dòng đời vạn biến.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H01-1.png",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H02-1.png",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H03-1.png",
+    "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H.png"
+  ],
+  "view_count": 0
+}

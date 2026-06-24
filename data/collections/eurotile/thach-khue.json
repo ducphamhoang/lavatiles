@@ -1,0 +1,42 @@
+{
+  "collection_id": "eurotile-thach-khue",
+  "title": "Thạch Khuê",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "THK H01",
+    "THK H02",
+    "THK G01",
+    "THK G02"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "THK H01, THK H02, THK G01, THK G02",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC H, KÍCH THƯỚC G",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Sao Khuê một vì sao tinh tú, chiếu sáng những núi đá mộc mạc thô kệch, nhưng vô cùng vững chãi. Thạch Khuê mang nét đẹp trân quý đó. Là dấu ấn của một sự khởi đầu.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue4.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thach-khue.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thach-khue.html",
+    "title": "Thạch Khuê",
+    "rawSku": "THK H01, THK H02, THK G01, THK G02",
+    "imageCount": 5
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

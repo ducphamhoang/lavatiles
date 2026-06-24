@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-khp3900v",
+  "title": "Gạch Viglacera KHP3900V",
+  "product_info": {
+    "Mã sản phẩm": "KHP3900V",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KHP3900V",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900v/khp3900v-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900v/khp3900v.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900v/khp3900vqr.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHP3900V",
+    "sku_key": "KHP3900V",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khp3900v.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khp3900v.html",
+        "title": "KHP3900V",
+        "rawSku": "KHP3900V",
+        "imageCount": 3
+      }
+    ]
+  }
+}

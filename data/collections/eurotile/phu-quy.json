@@ -1,0 +1,55 @@
+{
+  "collection_id": "eurotile-phu-quy",
+  "title": "Phú Quý",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "PHQ G01 TF",
+    "PHQ G02 TF",
+    "PHQ G03 TF",
+    "PHQ L01 TF",
+    "PHQ L02 TF",
+    "PHQ L03 TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "PHQ G01 TF, PHQ G02 TF, PHQ G03 TF, PHQ L01 TF, PHQ L02 TF, PHQ L03 TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G, KÍCH THƯỚC L",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Hải Thượng Lãn Ông Lê Hữu Trác có nói: “Chỉ có tiếng thơm đời để mãi/ Giàu sang giả dối vốn phù vân”. Vì thế, hãy làm giàu nhân nghĩa, giàu tấm lòng, giàu trí tuệ, giàu hạnh phúc, niềm vui. Hãy sống có ích cho cuộc đời để con người mình trở nên cao quý.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-007-glare.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-004.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-002.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-PC2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-006.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-005.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-PC1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-G01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-G03-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-G02-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-G.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L-6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L-04.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/phu-quy.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/phu-quy.html",
+    "title": "Phú Quý",
+    "rawSku": "PHQ G01 TF, PHQ G02 TF, PHQ G03 TF, PHQ L01 TF, PHQ L02 TF, PHQ L03 TF",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

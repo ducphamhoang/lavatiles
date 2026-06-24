@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-ts1-815",
+  "title": "Gạch Viglacera TS1-815",
+  "product_info": {
+    "Mã sản phẩm": "TS1-815",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Doublecharge)"
+  },
+  "description": "TS1-815",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-815/ts1-815-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-815/ts1-815.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-815.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-815-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-815-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-815-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-815-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-815-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-815-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-815-pc-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-815-pc-4.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-815-pc-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS1-815",
+    "sku_key": "TS1815",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts1-815-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-815-1.html",
+        "title": "TS1-815",
+        "rawSku": "TS1-815",
+        "imageCount": 2
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/ts1-815.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-815.html",
+        "title": "TS1-815",
+        "rawSku": "TS1-815",
+        "imageCount": 11
+      }
+    ]
+  }
+}

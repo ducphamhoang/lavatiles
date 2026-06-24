@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-ny22-gp61204",
+  "title": "Gạch Viglacera NY22-GP61204",
+  "product_info": {
+    "Mã sản phẩm": "NY22-GP61204",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "NEW YORK"
+  },
+  "description": "NY22-GP61204",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-a-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY22-GP61204",
+    "sku_key": "NY22GP61204",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny22-gp61204.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny22-gp61204.html",
+        "title": "NY22-GP61204",
+        "rawSku": "NY22-GP61204",
+        "imageCount": 6
+      }
+    ]
+  }
+}

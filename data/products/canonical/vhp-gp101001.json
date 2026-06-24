@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-vhp-gp101001",
+  "title": "Gạch Viglacera VHP-GP101001",
+  "product_info": {
+    "Mã sản phẩm": "VHP-GP101001",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VHP-GP101001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP-GP101001",
+    "sku_key": "VHPGP101001",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp-gp101001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp-gp101001.html",
+        "title": "VHP-GP101001",
+        "rawSku": "VHP-GP101001",
+        "imageCount": 6
+      }
+    ]
+  }
+}

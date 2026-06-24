@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ca2-gm6602",
+  "title": "Gạch Viglacera CA2-GM6602",
+  "product_info": {
+    "Mã sản phẩm": "CA2-GM6602",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "California"
+  },
+  "description": "CA2-GM6602",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CA2-GM6602",
+    "sku_key": "CA2GM6602",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ca2-gm6602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ca2-gm6602.html",
+        "title": "CA2-GM6602",
+        "rawSku": "CA2-GM6602",
+        "imageCount": 0
+      }
+    ]
+  }
+}

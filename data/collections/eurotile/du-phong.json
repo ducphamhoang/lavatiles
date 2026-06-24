@@ -1,0 +1,35 @@
+{
+  "collection_id": "eurotile-du-phong",
+  "title": "Du Phong",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG. P8807",
+    "SIG. P4807",
+    "SIG. P61207"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG. P8807, SIG. P4807, SIG. P61207",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "Sig. P-07, SIG. P8807, SIG. P4807, SIG. P61207",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Tôi nhuộm màu cỏ cây, tôi nhuốm màu đất mẹ, tôi mang sắc của trời, vị lạ của hương mây. Trời xanh có thay sắc, lá xanh có đổi màu, đời dù có biến đổi, người người có đổi thay thì tôi vẫn như thế – một cơn gió lãng du.",
+  "images": [],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/du-phong.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/du-phong.html",
+    "title": "Du Phong",
+    "rawSku": "SIG. P8807, SIG. P4807, SIG. P61207",
+    "imageCount": 0
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

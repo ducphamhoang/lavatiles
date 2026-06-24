@@ -1,0 +1,3508 @@
+{
+  "summary": {
+    "raw_records": 2084,
+    "raw_product_records": 1960,
+    "canonical_products": 1772,
+    "duplicate_sku_groups": 111,
+    "raw_collection_records": 124,
+    "review_queue_records": 73
+  },
+  "output": {
+    "canonical_products_dir": "data/products/canonical",
+    "collections_dir": "data/collections",
+    "products_tree": "data/products/canonical/products-tree.json",
+    "collections_index": "data/collections/collections-index.json"
+  },
+  "duplicate_actions": [
+    {
+      "sku_key": "BS503",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs503.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs503.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs503.html",
+          "title": "BS503",
+          "rawSku": "BS503",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs503.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS503",
+          "rawSku": "BS503",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS505",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs505.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs505.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs505.html",
+          "title": "BS505",
+          "rawSku": "BS505",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs505.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS505",
+          "rawSku": "BS505",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS506",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs506.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs506-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs506-1.html",
+          "title": "BS506",
+          "rawSku": "BS506",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/bs506.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs506.html",
+          "title": "BS506",
+          "rawSku": "BS506",
+          "imageCount": 1
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs506.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS506",
+          "rawSku": "BS506",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS507",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs507.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs507.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs507.html",
+          "title": "BS507",
+          "rawSku": "BS507",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs507.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS507",
+          "rawSku": "BS507",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS508",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs508.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs508.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs508.html",
+          "title": "BS508",
+          "rawSku": "BS508",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs508.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS508",
+          "rawSku": "BS508",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS509",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs509.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs509.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs509.html",
+          "title": "BS509",
+          "rawSku": "BS509",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs509.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS509",
+          "rawSku": "BS509",
+          "imageCount": 21
+        }
+      ]
+    },
+    {
+      "sku_key": "BS513",
+      "canonical_file": "data/products/canonical/gch-sn-vn-50x50-viglacera-bs513.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/bs513.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs513.html",
+          "title": "BS513",
+          "rawSku": "BS513",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-sn-vn-50x50-viglacera-bs513.json",
+          "title": "Gạch sân vườn 50x50 Viglacera BS513",
+          "rawSku": "BS513",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "CBL636",
+      "canonical_file": "data/products/canonical/cb-l636.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cb-l636-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-l636-1.html",
+          "title": "CB L636",
+          "rawSku": "CB L636",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cb-l636.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-l636.html",
+          "title": "CB-L636",
+          "rawSku": "CB-L636",
+          "imageCount": 3
+        }
+      ]
+    },
+    {
+      "sku_key": "CBP3606",
+      "canonical_file": "data/products/canonical/cb-p3606.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cb-p3606-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-p3606-1.html",
+          "title": "CB-P3606",
+          "rawSku": "CB-P3606",
+          "imageCount": 10
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cb-p3606.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-p3606.html",
+          "title": "CB-P3606",
+          "rawSku": "CB-P3606",
+          "imageCount": 0
+        }
+      ]
+    },
+    {
+      "sku_key": "CBPT61202",
+      "canonical_file": "data/products/canonical/cb-pt61202.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cb-pt61202-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-pt61202-1.html",
+          "title": "CB-PT61202",
+          "rawSku": "CB-PT61202",
+          "imageCount": 7
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cb-pt61202.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-pt61202.html",
+          "title": "CB-PT61202",
+          "rawSku": "CB-PT61202",
+          "imageCount": 11
+        }
+      ]
+    },
+    {
+      "sku_key": "CL1GP8801",
+      "canonical_file": "data/products/canonical/cl1-gp8801.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cl1-gp8801-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl1-gp8801-1.html",
+          "title": "CL1-GP8801",
+          "rawSku": "CL1-GP8801",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cl1-gp8801.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl1-gp8801.html",
+          "title": "CL1-GP8801",
+          "rawSku": "CL1-GP8801",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "CLCE508",
+      "canonical_file": "data/products/canonical/cl-ce508.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cl-ce508-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-ce508-1.html",
+          "title": "CL-CE508",
+          "rawSku": "CL-CE508",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cl-ce508.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-ce508.html",
+          "title": "CL-CE508",
+          "rawSku": "CL-CE508",
+          "imageCount": 9
+        }
+      ]
+    },
+    {
+      "sku_key": "CLSM3601",
+      "canonical_file": "data/products/canonical/cl-sm3601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cl-sm3601-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm3601-1.html",
+          "title": "CL-SM3601",
+          "rawSku": "CL-SM3601",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cl-sm3601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm3601.html",
+          "title": "CL-SM3601",
+          "rawSku": "CL-SM3601",
+          "imageCount": 10
+        }
+      ]
+    },
+    {
+      "sku_key": "CLSM606",
+      "canonical_file": "data/products/canonical/cl-sm606.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/cl-sm606-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm606-1.html",
+          "title": "CL-SM606",
+          "rawSku": "CL-SM606",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cl-sm606-2.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm606-2.html",
+          "title": "CL-SM606",
+          "rawSku": "CL-SM606",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/cl-sm606.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm606.html",
+          "title": "CL-SM606",
+          "rawSku": "CL-SM606",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOB3604",
+      "canonical_file": "data/products/canonical/ecob3604.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecob3604-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecob3604-1.html",
+          "title": "ECOB3604",
+          "rawSku": "ECOB3604",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecob3604.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecob3604.html",
+          "title": "ECOB3604",
+          "rawSku": "ECOB3604",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM601",
+      "canonical_file": "data/products/canonical/ecom601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom601-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom601-1.html",
+          "title": "ECOM601",
+          "rawSku": "ECOM601",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom601.html",
+          "title": "ECOM601",
+          "rawSku": "ECOM601",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM621",
+      "canonical_file": "data/products/canonical/ecom621.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom621-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom621-1.html",
+          "title": "ECOM621",
+          "rawSku": "ECOM621",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom621.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom621.html",
+          "title": "ECOM621",
+          "rawSku": "ECOM621",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM622",
+      "canonical_file": "data/products/canonical/ecom622.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom622-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom622-1.html",
+          "title": "ECOM622",
+          "rawSku": "ECOM622",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom622.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom622.html",
+          "title": "ECOM622",
+          "rawSku": "ECOM622",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM625",
+      "canonical_file": "data/products/canonical/ecom625.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom625-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom625-1.html",
+          "title": "ECOM625",
+          "rawSku": "ECOM625",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom625.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom625.html",
+          "title": "ECOM625",
+          "rawSku": "ECOM625",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM6911",
+      "canonical_file": "data/products/canonical/ecom6911.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom6911-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6911-1.html",
+          "title": "ECOM6911",
+          "rawSku": "ECOM6911",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom6911.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6911.html",
+          "title": "ECOM6911",
+          "rawSku": "ECOM6911",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOM6914",
+      "canonical_file": "data/products/canonical/ecom6914.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecom6914-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6914-1.html",
+          "title": "ECOM6914",
+          "rawSku": "ECOM6914",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecom6914.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6914.html",
+          "title": "ECOM6914",
+          "rawSku": "ECOM6914",
+          "imageCount": 4
+        }
+      ]
+    },
+    {
+      "sku_key": "ECOS822",
+      "canonical_file": "data/products/canonical/ecos822.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ecos822-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecos822-1.html",
+          "title": "ECOS822",
+          "rawSku": "ECOS822",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ecos822.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecos822.html",
+          "title": "ECOS822",
+          "rawSku": "ECOS822",
+          "imageCount": 3
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15902",
+      "canonical_file": "data/products/canonical/gt-15902.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15902-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15902-1.html",
+          "title": "GT 15902",
+          "rawSku": "GT 15902",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt-15902.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15902.html",
+          "title": "GT 15902",
+          "rawSku": "GT 15902",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15903",
+      "canonical_file": "data/products/canonical/gt-15903.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15903-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15903-1.html",
+          "title": "GT 15903",
+          "rawSku": "GT 15903",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt-15903.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15903.html",
+          "title": "GT 15903",
+          "rawSku": "GT 15903",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15904",
+      "canonical_file": "data/products/canonical/gt-15904.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15904-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15904-1.html",
+          "title": "GT 15904",
+          "rawSku": "GT 15904",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt-15904.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15904.html",
+          "title": "GT 15904",
+          "rawSku": "GT 15904",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15905",
+      "canonical_file": "data/products/canonical/gt-15905.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15905-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15905-1.html",
+          "title": "GT 15905",
+          "rawSku": "GT 15905",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt-15905.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15905.html",
+          "title": "GT 15905",
+          "rawSku": "GT 15905",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15906",
+      "canonical_file": "data/products/canonical/gt-15906.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15906.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15906.html",
+          "title": "GT 15906",
+          "rawSku": "GT 15906",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt15906.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt15906.html",
+          "title": "GT15906",
+          "rawSku": "GT15906",
+          "imageCount": 4
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15907",
+      "canonical_file": "data/products/canonical/gt-15907.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15907.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15907.html",
+          "title": "GT 15907",
+          "rawSku": "GT 15907",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt15907.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt15907.html",
+          "title": "GT15907",
+          "rawSku": "GT15907",
+          "imageCount": 4
+        }
+      ]
+    },
+    {
+      "sku_key": "GT15908",
+      "canonical_file": "data/products/canonical/gt-15908.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt-15908.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15908.html",
+          "title": "GT 15908",
+          "rawSku": "GT 15908",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt15908.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt15908.html",
+          "title": "GT15908",
+          "rawSku": "GT15908",
+          "imageCount": 4
+        }
+      ]
+    },
+    {
+      "sku_key": "GT21223",
+      "canonical_file": "data/products/canonical/gt21223.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/gt21223-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt21223-1.html",
+          "title": "GT21223",
+          "rawSku": "GT21223",
+          "imageCount": 10
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/gt21223.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt21223.html",
+          "title": "GT21223",
+          "rawSku": "GT21223",
+          "imageCount": 11
+        }
+      ]
+    },
+    {
+      "sku_key": "KT3902A",
+      "canonical_file": "data/products/canonical/kt3902a.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/kt3902a-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3902a-1.html",
+          "title": "KT3902A",
+          "rawSku": "KT3902A",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/kt3902a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3902a.html",
+          "title": "KT3902A",
+          "rawSku": "KT3902A",
+          "imageCount": 1
+        }
+      ]
+    },
+    {
+      "sku_key": "KTM3980A",
+      "canonical_file": "data/products/canonical/ktm3980a.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ktm3980a-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktm3980a-1.html",
+          "title": "KTM3980A",
+          "rawSku": "KTM3980A",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ktm3980a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktm3980a.html",
+          "title": "KTM3980A",
+          "rawSku": "KTM3980A",
+          "imageCount": 1
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK362017",
+      "canonical_file": "data/products/canonical/mdk-362017.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-362017.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362017.html",
+          "title": "MDK 362017",
+          "rawSku": "MDK 362017",
+          "imageCount": 11
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk362017.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362017.html",
+          "title": "MDK362017",
+          "rawSku": "MDK362017",
+          "imageCount": 6
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK362018",
+      "canonical_file": "data/products/canonical/mdk-362018.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-362018.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362018.html",
+          "title": "MDK 362018",
+          "rawSku": "MDK 362018",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk362018.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362018.html",
+          "title": "MDK362018",
+          "rawSku": "MDK362018",
+          "imageCount": 6
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK362019",
+      "canonical_file": "data/products/canonical/mdk-362019.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-362019.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362019.html",
+          "title": "MDK 362019",
+          "rawSku": "MDK 362019",
+          "imageCount": 9
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk362019.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362019.html",
+          "title": "MDK362019",
+          "rawSku": "MDK362019",
+          "imageCount": 6
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK362033",
+      "canonical_file": "data/products/canonical/mdk-362033.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-362033.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362033.html",
+          "title": "MDK 362033",
+          "rawSku": "MDK 362033",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk362033.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362033.html",
+          "title": "MDK362033",
+          "rawSku": "MDK362033",
+          "imageCount": 5
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK362034",
+      "canonical_file": "data/products/canonical/mdk-362034.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-362034.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362034.html",
+          "title": "MDK 362034",
+          "rawSku": "MDK 362034",
+          "imageCount": 7
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk362034.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362034.html",
+          "title": "MDK362034",
+          "rawSku": "MDK362034",
+          "imageCount": 6
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK662017",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-mdk662017.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-662017.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662017.html",
+          "title": "MDK 662017",
+          "rawSku": "MDK 662017",
+          "imageCount": 7
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk662017.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk662017.html",
+          "title": "MDK662017",
+          "rawSku": "MDK662017",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-mdk662017.json",
+          "title": "Gạch lát nền 60x60 Viglacera MDK662017",
+          "rawSku": "MDK662017",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK662018",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-mdk662018.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-662018.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662018.html",
+          "title": "MDK 662018",
+          "rawSku": "MDK 662018",
+          "imageCount": 11
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-mdk662018.json",
+          "title": "Gạch lát nền 60x60 Viglacera MDK662018",
+          "rawSku": "MDK662018",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK662019",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-mdk662019.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-662019.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662019.html",
+          "title": "MDK 662019",
+          "rawSku": "MDK 662019",
+          "imageCount": 15
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-mdk662019.json",
+          "title": "Gạch lát nền 60x60 Viglacera MDK662019",
+          "rawSku": "MDK662019",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "MDK662021",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-mdk662021.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/mdk-662021.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662021.html",
+          "title": "MDK 662021",
+          "rawSku": "MDK 662021",
+          "imageCount": 11
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/mdk662021.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk662021.html",
+          "title": "MDK662021",
+          "rawSku": "MDK662021",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-mdk662021.json",
+          "title": "Gạch lát nền 60x60 Viglacera MDK662021",
+          "rawSku": "MDK662021",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "NY18GC15904",
+      "canonical_file": "data/products/canonical/ny18-gc15904.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ny18-gc15904.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny18-gc15904.html",
+          "title": "NY18 GC15904",
+          "rawSku": "NY18 GC15904",
+          "imageCount": 16
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ny18-gc15905.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny18-gc15905.html",
+          "title": "NY18 GC15904",
+          "rawSku": "NY18 GC15904",
+          "imageCount": 16
+        }
+      ]
+    },
+    {
+      "sku_key": "PH3665",
+      "canonical_file": "data/products/canonical/ph366-5.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ph366-5-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/ph366-5-1.html",
+          "title": "PH366-5",
+          "rawSku": "PH366-5",
+          "imageCount": 6
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ph366-5.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/ph366-5.html",
+          "title": "PH366-5",
+          "rawSku": "PH366-5",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "PL3602",
+      "canonical_file": "data/products/canonical/pl36-02.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/pl36-02-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-02-1.html",
+          "title": "PL36-02",
+          "rawSku": "PL36-02",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/pl36-02a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-02a.html",
+          "title": "PL36-02",
+          "rawSku": "PL36-02",
+          "imageCount": 1
+        }
+      ]
+    },
+    {
+      "sku_key": "SGM324",
+      "canonical_file": "data/products/canonical/sgm324.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sgm324-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sgm324-1.html",
+          "title": "SGM324",
+          "rawSku": "SGM324",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/sgm324.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sgm324.html",
+          "title": "SGM324",
+          "rawSku": "SGM324",
+          "imageCount": 1
+        }
+      ]
+    },
+    {
+      "sku_key": "SH10GM61201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh10gm61201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh10-gm61201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh10-gm61201.html",
+          "title": "SH10-GM61201",
+          "rawSku": "SH10-GM61201",
+          "imageCount": 9
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh10gm61201.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH10_GM61201",
+          "rawSku": "SH10_GM61201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH10GM61203",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh10gm61203.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh10-gm61203.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh10-gm61203.html",
+          "title": "SH10-GM61203",
+          "rawSku": "SH10-GM61203",
+          "imageCount": 9
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh10gm61203.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH10_GM61203",
+          "rawSku": "SH10_GM61203",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH11GM61201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh11gm61201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh11-gm61201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh11-gm61201.html",
+          "title": "SH11-GM61201",
+          "rawSku": "SH11-GM61201",
+          "imageCount": 9
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh11gm61201.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH11_GM61201",
+          "rawSku": "SH11_GM61201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH11GM61203",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh11gm61203.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh11-gm61203.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh11-gm61203.html",
+          "title": "SH11-GM61203",
+          "rawSku": "SH11-GM61203",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh11gm61203.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH11_GM61203",
+          "rawSku": "SH11_GM61203",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH12GP61201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh12gp61201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh12-gp61201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh12-gp61201.html",
+          "title": "SH12-GP61201",
+          "rawSku": "SH12-GP61201",
+          "imageCount": 13
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh12gp61201.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH12_GP61201",
+          "rawSku": "SH12_GP61201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH12GP61203",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh12gp61203.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh12-gp61203.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh12-gp61203.html",
+          "title": "SH12-GP61203",
+          "rawSku": "SH12-GP61203",
+          "imageCount": 9
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh12gp61203.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH12_GP61203",
+          "rawSku": "SH12_GP61203",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH1321",
+      "canonical_file": "data/products/canonical/sh1321.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh1321-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh1321-1.html",
+          "title": "SH1321",
+          "rawSku": "SH1321",
+          "imageCount": 7
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/sh1321.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh1321.html",
+          "title": "SH1321",
+          "rawSku": "SH1321",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "SH1GP8801",
+      "canonical_file": "data/products/canonical/gch-lt-nn-80x80-viglacera-sh1-gp8801.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh1-gp8801.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh1-gp8801.html",
+          "title": "SH1-GP8801",
+          "rawSku": "SH1-GP8801",
+          "imageCount": 0
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-80x80-viglacera-sh1-gp8801.json",
+          "title": "Gạch lát nền 80x80 Viglacera SH1-GP8801",
+          "rawSku": "SH1-GP8801",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH1P121201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh1-p121201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh1-p121201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh1-p121201.html",
+          "title": "SH1-P121201",
+          "rawSku": "SH1-P121201",
+          "imageCount": 6
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh1-p121201.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH1-P121201",
+          "rawSku": "SH1-P121201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH2GP4803",
+      "canonical_file": "data/products/canonical/gch-40x80-viglacera-sh2-gp4803.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh2-gp4803.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh2-gp4803.html",
+          "title": "SH2-GP4803",
+          "rawSku": "SH2-GP4803",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x80-viglacera-sh2-gp4803.json",
+          "title": "Gạch 40x80 Viglacera SH2-GP4803",
+          "rawSku": "SH2-GP4803",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH2M121205",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh2-m121205.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh2-m121205.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh2-m121205.html",
+          "title": "SH2-M121205",
+          "rawSku": "SH2-M121205",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh2-m121205.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH2-M121205",
+          "rawSku": "SH2-M121205",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH2P121204",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh2-p121204.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh2-p121204.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh2-p121204.html",
+          "title": "SH2-P121204",
+          "rawSku": "SH2-P121204",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh2-p121204.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH2-P121204",
+          "rawSku": "SH2-P121204",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH302",
+      "canonical_file": "data/products/canonical/gch-lt-nn-30x30-viglacera-sh302.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-302.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-302.html",
+          "title": "SH 302",
+          "rawSku": "SH 302",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-30x30-viglacera-sh302.json",
+          "title": "Gạch lát nền 30x30 Viglacera SH302",
+          "rawSku": "SH302",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH304",
+      "canonical_file": "data/products/canonical/gch-lt-nn-30x30-viglacera-sh304.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-304.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-304.html",
+          "title": "SH 304",
+          "rawSku": "SH 304",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-30x30-viglacera-sh304.json",
+          "title": "Gạch lát nền 30x30 Viglacera SH304",
+          "rawSku": "SH304",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH306",
+      "canonical_file": "data/products/canonical/gch-lt-nn-30x30-viglacera-sh306.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-306.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-306.html",
+          "title": "SH 306",
+          "rawSku": "SH 306",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-30x30-viglacera-sh306.json",
+          "title": "Gạch lát nền 30x30 Viglacera SH306",
+          "rawSku": "SH306",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH308",
+      "canonical_file": "data/products/canonical/gch-lt-nn-30x30-viglacera-sh308.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-308.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-308.html",
+          "title": "SH 308",
+          "rawSku": "SH 308",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-30x30-viglacera-sh308.json",
+          "title": "Gạch lát nền 30x30 Viglacera SH308",
+          "rawSku": "SH308",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH312",
+      "canonical_file": "data/products/canonical/gch-lt-nn-30x30-viglacera-sh312.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-312.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-312.html",
+          "title": "SH 312",
+          "rawSku": "SH 312",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-30x30-viglacera-sh312.json",
+          "title": "Gạch lát nền 30x30 Viglacera SH312",
+          "rawSku": "SH312",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH3M121202",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh3-m121202.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh3-m121202.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh3-m121202.html",
+          "title": "SH3-M121202",
+          "rawSku": "SH3-M121202",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh3-m121202.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH3-M121202",
+          "rawSku": "SH3-M121202",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH3P121201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh3-p121201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh3-p121201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh3-p121201.html",
+          "title": "SH3-P121201",
+          "rawSku": "SH3-P121201",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh3-p121201.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH3-P121201",
+          "rawSku": "SH3-P121201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH3P121202",
+      "canonical_file": "data/products/canonical/gch-lt-nn-120x120-viglacera-sh3-p121202.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh3-p121202.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh3-p121202.html",
+          "title": "SH3-P121202",
+          "rawSku": "SH3-P121202",
+          "imageCount": 5
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-120x120-viglacera-sh3-p121202.json",
+          "title": "Gạch lát nền 120x120 Viglacera SH3-P121202",
+          "rawSku": "SH3-P121202",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH4GP4804",
+      "canonical_file": "data/products/canonical/sh4-gp4804.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh4-gp4804-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4804-1.html",
+          "title": "SH4-GP4804",
+          "rawSku": "SH4-GP4804",
+          "imageCount": 4
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/sh4-gp4804.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4804.html",
+          "title": "SH4-GP4804",
+          "rawSku": "SH4-GP4804",
+          "imageCount": 3
+        }
+      ]
+    },
+    {
+      "sku_key": "SH4GP4805",
+      "canonical_file": "data/products/canonical/gch-40x80-viglacera-sh4-gp4805.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh4-gp4805.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4805.html",
+          "title": "SH4-GP4805",
+          "rawSku": "SH4-GP4805",
+          "imageCount": 4
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x80-viglacera-sh4-gp4805.json",
+          "title": "Gạch 40x80 Viglacera SH4-GP4805",
+          "rawSku": "SH4-GP4805",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH4GP4805A",
+      "canonical_file": "data/products/canonical/gch-40x80-viglacera-sh4-gp4805a.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh4-gp4805a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4805a.html",
+          "title": "SH4-GP4805A",
+          "rawSku": "SH4-GP4805A",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x80-viglacera-sh4-gp4805a.json",
+          "title": "Gạch 40x80 Viglacera SH4-GP4805A",
+          "rawSku": "SH4-GP4805A",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH519GP101001",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh51-9gp101001.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh51-9gp101001.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh51-9gp101001.html",
+          "title": "SH51-9GP101001",
+          "rawSku": "SH51-9GP101001",
+          "imageCount": 10
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh51-9gp101001.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH51-9GP101001",
+          "rawSku": "SH51-9GP101001",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH529GP101001",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh52-9gp101001.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh52-9gp101001.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh52-9gp101001.html",
+          "title": "SH52-9GP101001",
+          "rawSku": "SH52-9GP101001",
+          "imageCount": 12
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh52-9gp101001.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH52-9GP101001",
+          "rawSku": "SH52-9GP101001",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH529GP101002",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh52-9gp101002.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh52-9gp101002.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh52-9gp101002.html",
+          "title": "SH52-9GP101002",
+          "rawSku": "SH52-9GP101002",
+          "imageCount": 12
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh52-9gp101002.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH52-9GP101002",
+          "rawSku": "SH52-9GP101002",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH539GM101001",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh53-9gm101001.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh53-9gm101001.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh53-9gm101001.html",
+          "title": "SH53-9GM101001",
+          "rawSku": "SH53-9GM101001",
+          "imageCount": 3
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh53-9gm101001.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH53-9GM101001",
+          "rawSku": "SH53-9GM101001",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH539GP101001",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh53-9gp101001.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh53-9gp101001.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh53-9gp101001.html",
+          "title": "SH53-9GP101001",
+          "rawSku": "SH53-9GP101001",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh53-9gp101001.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH53-9GP101001",
+          "rawSku": "SH53-9GP101001",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH539GP101002",
+      "canonical_file": "data/products/canonical/gch-lt-nn-1mx1m-viglacera-sh53-9gp101002.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh53-9gp101002.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh53-9gp101002.html",
+          "title": "SH53-9GP101002",
+          "rawSku": "SH53-9GP101002",
+          "imageCount": 6
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-1mx1m-viglacera-sh53-9gp101002.json",
+          "title": "Gạch lát nền 1mx1m Viglacera SH53-9GP101002",
+          "rawSku": "SH53-9GP101002",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SH9GP61201",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x120-viglacera-sh9gp61201.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh9-gp61201.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh9-gp61201.html",
+          "title": "SH9-GP61201",
+          "rawSku": "SH9-GP61201",
+          "imageCount": 3
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x120-viglacera-sh9gp61201.json",
+          "title": "Gạch lát nền 60x120 Viglacera SH9_GP61201",
+          "rawSku": "SH9_GP61201",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHBS6601",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-sh-bs6601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-bs6601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-bs6601.html",
+          "title": "SH-BS6601",
+          "rawSku": "SH-BS6601",
+          "imageCount": 3
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-sh-bs6601.json",
+          "title": "Gạch lát nền 60x60 Viglacera SH-BS6601",
+          "rawSku": "SH-BS6601",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHBS6602",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-sh-bs6602.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-bs6602.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-bs6602.html",
+          "title": "SH-BS6602",
+          "rawSku": "SH-BS6602",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-sh-bs6602.json",
+          "title": "Gạch lát nền 60x60 Viglacera SH-BS6602",
+          "rawSku": "SH-BS6602",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHBS6604",
+      "canonical_file": "data/products/canonical/gch-lt-nn-60x60-viglacera-sh-bs6604.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-bs6604.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-bs6604.html",
+          "title": "SH-BS6604",
+          "rawSku": "SH-BS6604",
+          "imageCount": 3
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-60x60-viglacera-sh-bs6604.json",
+          "title": "Gạch lát nền 60x60 Viglacera SH-BS6604",
+          "rawSku": "SH-BS6604",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHCE3601",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-ce3601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-ce3601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce3601.html",
+          "title": "SH-CE3601",
+          "rawSku": "SH-CE3601",
+          "imageCount": 0
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-ce3601.json",
+          "title": "Gạch 30x60 Viglacera SH-CE3601",
+          "rawSku": "SH-CE3601",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHCE501",
+      "canonical_file": "data/products/canonical/sh-ce501.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-ce501-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce501-1.html",
+          "title": "SH-CE501",
+          "rawSku": "SH-CE501",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/sh-ce501.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce501.html",
+          "title": "SH-CE501",
+          "rawSku": "SH-CE501",
+          "imageCount": 6
+        }
+      ]
+    },
+    {
+      "sku_key": "SHCM3602",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-cm3602.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-cm3602.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-cm3602.html",
+          "title": "SH-CM3602",
+          "rawSku": "SH-CM3602",
+          "imageCount": 3
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-cm3602.json",
+          "title": "Gạch 30x60 Viglacera SH-CM3602",
+          "rawSku": "SH-CM3602",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHCM3602A",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-cm3602a.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-cm3602a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-cm3602a.html",
+          "title": "SH-CM3602A",
+          "rawSku": "SH-CM3602A",
+          "imageCount": 1
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-cm3602a.json",
+          "title": "Gạch 30x60 Viglacera SH-CM3602A",
+          "rawSku": "SH-CM3602A",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHGM6610",
+      "canonical_file": "data/products/canonical/sh-gm6610.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/sh-gm6610-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gm6610-1.html",
+          "title": "SH-GM6610",
+          "rawSku": "SH-GM6610",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/sh-gm6610.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gm6610.html",
+          "title": "SH-GM6610",
+          "rawSku": "SH-GM6610",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "SHGP3607",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-gp3607.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/shgp3607.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3607.html",
+          "title": "SHGP3607",
+          "rawSku": "SHGP3607",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-gp3607.json",
+          "title": "Gạch 30x60 Viglacera SH-GP3607",
+          "rawSku": "SH-GP3607",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHGP3608",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-gp3608.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/shgp3608.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3608.html",
+          "title": "SHGP3608",
+          "rawSku": "SHGP3608",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-gp3608.json",
+          "title": "Gạch 30x60 Viglacera SH-GP3608",
+          "rawSku": "SH-GP3608",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "SHGP3608A",
+      "canonical_file": "data/products/canonical/gch-30x60-viglacera-sh-gp3608a.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/shgp3608a.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3608a.html",
+          "title": "SHGP3608A",
+          "rawSku": "SHGP3608A",
+          "imageCount": 1
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-30x60-viglacera-sh-gp3608a.json",
+          "title": "Gạch 30x60 Viglacera SH-GP3608A",
+          "rawSku": "SH-GP3608A",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "T15902",
+      "canonical_file": "data/products/canonical/t15902.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/t15902-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/t15902-1.html",
+          "title": "T15902",
+          "rawSku": "T15902",
+          "imageCount": 10
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/t15902.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/t15902.html",
+          "title": "T15902",
+          "rawSku": "T15902",
+          "imageCount": 15
+        }
+      ]
+    },
+    {
+      "sku_key": "TB6701",
+      "canonical_file": "data/products/canonical/tb6701.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb6701-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6701-1.html",
+          "title": "TB6701",
+          "rawSku": "TB6701",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb6701.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6701.html",
+          "title": "TB6701",
+          "rawSku": "TB6701",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "TB6703",
+      "canonical_file": "data/products/canonical/tb6703.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb6703-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6703-1.html",
+          "title": "TB6703",
+          "rawSku": "TB6703",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb6703.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6703.html",
+          "title": "TB6703",
+          "rawSku": "TB6703",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "TB6706",
+      "canonical_file": "data/products/canonical/tb6706.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb6706-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6706-1.html",
+          "title": "TB6706",
+          "rawSku": "TB6706",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb6706.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6706.html",
+          "title": "TB6706",
+          "rawSku": "TB6706",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "TB6707",
+      "canonical_file": "data/products/canonical/tb6707.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb6707-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6707-1.html",
+          "title": "TB6707",
+          "rawSku": "TB6707",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb6707.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6707.html",
+          "title": "TB6707",
+          "rawSku": "TB6707",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "TB8701",
+      "canonical_file": "data/products/canonical/tb8701.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb8701-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb8701-1.html",
+          "title": "TB8701",
+          "rawSku": "TB8701",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb8701.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb8701.html",
+          "title": "TB8701",
+          "rawSku": "TB8701",
+          "imageCount": 1
+        }
+      ]
+    },
+    {
+      "sku_key": "TB892",
+      "canonical_file": "data/products/canonical/tb892.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/tb892-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb892-1.html",
+          "title": "TB892",
+          "rawSku": "TB892",
+          "imageCount": 1
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/tb892.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb892.html",
+          "title": "TB892",
+          "rawSku": "TB892",
+          "imageCount": 2
+        }
+      ]
+    },
+    {
+      "sku_key": "TL4816",
+      "canonical_file": "data/products/canonical/gch-40x80-viglacera-tl4816.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "primary",
+          "file": "data/products/gch-40x80-viglacera-tl4816.json",
+          "title": "Gạch 40x80 Viglacera TL4816",
+          "rawSku": "TL4816",
+          "imageCount": 24
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x80-viglacera-tl4816a.json",
+          "title": "Gạch 40x80 Viglacera TL4816A",
+          "rawSku": "TL4816",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "TS1815",
+      "canonical_file": "data/products/canonical/ts1-815.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ts1-815-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-815-1.html",
+          "title": "TS1-815",
+          "rawSku": "TS1-815",
+          "imageCount": 2
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/ts1-815.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-815.html",
+          "title": "TS1-815",
+          "rawSku": "TS1-815",
+          "imageCount": 11
+        }
+      ]
+    },
+    {
+      "sku_key": "TS1817",
+      "canonical_file": "data/products/canonical/gch-lt-nn-80x80-viglacera-ts1-817.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/ts1-817.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-817.html",
+          "title": "TS1-817",
+          "rawSku": "TS1-817",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-80x80-viglacera-ts1-817.json",
+          "title": "Gạch lát nền 80x80 Viglacera TS1-817",
+          "rawSku": "TS1-817",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "V1P81601",
+      "canonical_file": "data/products/canonical/gch-lt-nn-80x160-viglacera-v1-p81601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/v1-p81601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/v1-p81601.html",
+          "title": "V1-P81601",
+          "rawSku": "V1-P81601",
+          "imageCount": 6
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-80x160-viglacera-v1-p81601.json",
+          "title": "Gạch lát nền 80x160 Viglacera V1-P81601",
+          "rawSku": "V1-P81601",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "V2P81601",
+      "canonical_file": "data/products/canonical/gch-lt-nn-80x160-viglacera-v2-p81601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/v2-p81601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/v2-p81601.html",
+          "title": "V2-P81601",
+          "rawSku": "V2-P81601",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-80x160-viglacera-v2-p81601.json",
+          "title": "Gạch lát nền 80x160 Viglacera V2-P81601",
+          "rawSku": "V2-P81601",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "V2P81603",
+      "canonical_file": "data/products/canonical/gch-lt-nn-80x160-viglacera-v2-p81603.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/v2-p81603.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/v2-p81603.html",
+          "title": "V2-P81603",
+          "rawSku": "V2-P81603",
+          "imageCount": 7
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-lt-nn-80x160-viglacera-v2-p81603.json",
+          "title": "Gạch lát nền 80x160 Viglacera V2-P81603",
+          "rawSku": "V2-P81603",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "VA79GP101002",
+      "canonical_file": "data/products/canonical/va7-9gp101002.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/va7-9gp101002-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va7-9gp101002-1.html",
+          "title": "VA7-9GP101002",
+          "rawSku": "VA7-9GP101002",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/va7-9gp101002.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/va7-9gp101002.html",
+          "title": "VA7-9GP101002",
+          "rawSku": "VA7-9GP101002",
+          "imageCount": 10
+        }
+      ]
+    },
+    {
+      "sku_key": "VA79GP101004",
+      "canonical_file": "data/products/canonical/va7-9gp101004.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/va7-9gp101004-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va7-9gp101004-1.html",
+          "title": "VA7-9GP101004",
+          "rawSku": "VA7-9GP101004",
+          "imageCount": 3
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/va7-9gp101004.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/va7-9gp101004.html",
+          "title": "VA7-9GP101004",
+          "rawSku": "VA7-9GP101004",
+          "imageCount": 8
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4601",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4601.html",
+          "title": "VBS 4601",
+          "rawSku": "VBS 4601",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4601.json",
+          "title": "Gạch 40x60 Viglacera VBS4601",
+          "rawSku": "VBS4601",
+          "imageCount": 23
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4602",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4602.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4602.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4602.html",
+          "title": "VBS 4602",
+          "rawSku": "VBS 4602",
+          "imageCount": 8
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4602.json",
+          "title": "Gạch 40x60 Viglacera VBS4602",
+          "rawSku": "VBS4602",
+          "imageCount": 23
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4603",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4603.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4603.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4603.html",
+          "title": "VBS 4603",
+          "rawSku": "VBS 4603",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4603.json",
+          "title": "Gạch 40x60 Viglacera VBS4603",
+          "rawSku": "VBS4603",
+          "imageCount": 23
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4604",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4604.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4604.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4604.html",
+          "title": "VBS 4604",
+          "rawSku": "VBS 4604",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4604.json",
+          "title": "Gạch 40x60 Viglacera VBS4604",
+          "rawSku": "VBS4604",
+          "imageCount": 23
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4605",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4605.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4605.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4605.html",
+          "title": "VBS 4605",
+          "rawSku": "VBS 4605",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4605.json",
+          "title": "Gạch 40x60 Viglacera VBS4605",
+          "rawSku": "VBS4605",
+          "imageCount": 23
+        }
+      ]
+    },
+    {
+      "sku_key": "VBS4606",
+      "canonical_file": "data/products/canonical/gch-40x60-viglacera-vbs4606.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vbs-4606.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4606.html",
+          "title": "VBS 4606",
+          "rawSku": "VBS 4606",
+          "imageCount": 2
+        },
+        {
+          "source": "current",
+          "sourceLabel": "Current Hoathanhphat data",
+          "role": "duplicate",
+          "file": "data/products/gch-40x60-viglacera-vbs4606.json",
+          "title": "Gạch 40x60 Viglacera VBS4606",
+          "rawSku": "VBS4606",
+          "imageCount": 24
+        }
+      ]
+    },
+    {
+      "sku_key": "VI1GM81601",
+      "canonical_file": "data/products/canonical/vi1-gm81601.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vi1-gm81601-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-gm81601-1.html",
+          "title": "VI1-GM81601",
+          "rawSku": "VI1-GM81601",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/vi1-gm81601.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-gm81601.html",
+          "title": "VI1-GM81601",
+          "rawSku": "VI1-GM81601",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "VI1GM81603",
+      "canonical_file": "data/products/canonical/vi1-gm81603.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vi1-gm81603-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-gm81603-1.html",
+          "title": "VI1-GM81603",
+          "rawSku": "VI1-GM81603",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/vi1-gm81603.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-gm81603.html",
+          "title": "VI1-GM81603",
+          "rawSku": "VI1-GM81603",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "VI2GM81602",
+      "canonical_file": "data/products/canonical/vi2-gm81602.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vi2-gm81602-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi2-gm81602-1.html",
+          "title": "VI2-GM81602",
+          "rawSku": "VI2-GM81602",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/vi2-gm81602.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi2-gm81602.html",
+          "title": "VI2-GM81602",
+          "rawSku": "VI2-GM81602",
+          "imageCount": 7
+        }
+      ]
+    },
+    {
+      "sku_key": "VI2GM81603",
+      "canonical_file": "data/products/canonical/vi2-gm81603.json",
+      "action": "merged_to_single_canonical_product",
+      "sources": [
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "primary",
+          "file": "data/products/viglaceratiles/vi2-gm81603-1.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi2-gm81603-1.html",
+          "title": "VI2-GM81603",
+          "rawSku": "VI2-GM81603",
+          "imageCount": 5
+        },
+        {
+          "source": "viglaceratiles",
+          "sourceLabel": "Viglacera Tiles official",
+          "role": "duplicate",
+          "file": "data/products/viglaceratiles/vi2-gm81603.json",
+          "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi2-gm81603.html",
+          "title": "VI2-GM81603",
+          "rawSku": "VI2-GM81603",
+          "imageCount": 7
+        }
+      ]
+    }
+  ],
+  "review_queue": [
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/az55-9gp101004.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/bs521.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/bs522.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/bs523.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/bs524.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/bs525.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/cl-gt15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/cl-gt15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/cl-gt15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/cl-gt15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/sh-gt15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/sh-gt15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/sh-gt15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/sh-gt15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ua-gt15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ua-gt15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ua-gt15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ua-gt15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ubs2501.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ubs2502.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/ubs2503.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3605.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3606.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3611.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3612.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3613.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3614.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3615.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3616.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3617.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3618.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3619.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3620.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uhm3621.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um805.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um821.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um822.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um823.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um824.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/um825.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us501.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us502.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us503.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us504.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us505.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us506.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us507.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/us508.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/utl3601.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/utl3602.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uy-gt15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uy-gt15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uy-gt15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uy-gt15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-gt15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-gt15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-gt15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-gt15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3603.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3604.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3605.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3606.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3607.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/uz-hm3608.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/vbs-302.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/vgt-15801.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/vgt-15802.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/vgt-15803.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    },
+    {
+      "reason": "missing_or_generic_sku",
+      "source": "viglaceratiles",
+      "file": "data/products/viglaceratiles/vgt-15804.json",
+      "title": "Gạch ốp lát",
+      "rawSku": "Gạch ốp lát"
+    }
+  ]
+}

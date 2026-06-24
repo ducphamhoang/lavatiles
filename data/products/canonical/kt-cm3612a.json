@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-kt-cm3612a",
+  "title": "Gạch Viglacera KT-CM3612A",
+  "product_info": {
+    "Mã sản phẩm": "KT-CM3612A",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KT-CM3612A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3611/ktcm3612a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT-CM3612A",
+    "sku_key": "KTCM3612A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt-cm3612a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt-cm3612a.html",
+        "title": "KT-CM3612A",
+        "rawSku": "KT-CM3612A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vhp8801",
+  "title": "Gạch Viglacera VHP8801",
+  "product_info": {
+    "Mã sản phẩm": "VHP8801",
+    "Kích thước": "80X80",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "Viglacera, Eurotile, United , Betongkhi, gachkholon, vatlieuxaydung, Gachoplat",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8801/vhp-8801-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8801/vhp-8801a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8801/vhp-8801b-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/vhp8801/vhp-8801-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP8801",
+    "sku_key": "VHP8801",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp8801.html",
+        "title": "VHP8801",
+        "rawSku": "VHP8801",
+        "imageCount": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-fl4-gp8802",
+  "title": "Gạch Viglacera FL4 GP8802",
+  "product_info": {
+    "Mã sản phẩm": "FL4 GP8802",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "Florida"
+  },
+  "description": "FL4 GP8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "FL4 GP8802",
+    "sku_key": "FL4GP8802",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/fl4-gp8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/fl4-gp8802.html",
+        "title": "FL4 GP8802",
+        "rawSku": "FL4 GP8802",
+        "imageCount": 5
+      }
+    ]
+  }
+}

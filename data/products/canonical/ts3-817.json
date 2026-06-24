@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ts3-817",
+  "title": "Gạch Viglacera TS3-817",
+  "product_info": {
+    "Mã sản phẩm": "TS3-817",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Doublecharge)"
+  },
+  "description": "TS3-817",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-817/ts3-817-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-817/ts3-817.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS3-817",
+    "sku_key": "TS3817",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts3-817.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts3-817.html",
+        "title": "TS3-817",
+        "rawSku": "TS3-817",
+        "imageCount": 2
+      }
+    ]
+  }
+}

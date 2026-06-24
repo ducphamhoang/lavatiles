@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-mdk-362033",
+  "title": "Gạch Viglacera MDK 362033",
+  "product_info": {
+    "Mã sản phẩm": "MDK 362033",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "8 viên/ hộp",
+    "Bộ sưu tập": "MDK"
+  },
+  "description": "MDK 362033",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362033/screen-shot-2022-06-06-at-112522-am-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362033/screen-shot-2022-06-06-at-112522-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362033/screen-shot-2022-06-06-at-112530-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362033/screen-shot-2022-06-06-at-112537-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362033/screen-shot-2022-06-06-at-112545-am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK 362033",
+    "sku_key": "MDK362033",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk-362033.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-362033.html",
+        "title": "MDK 362033",
+        "rawSku": "MDK 362033",
+        "imageCount": 5
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/mdk362033.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362033.html",
+        "title": "MDK362033",
+        "rawSku": "MDK362033",
+        "imageCount": 5
+      }
+    ]
+  }
+}

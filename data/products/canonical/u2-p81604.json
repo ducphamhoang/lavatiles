@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-u2-p81604",
+  "title": "Gạch Viglacera U2-P81604",
+  "product_info": {
+    "Mã sản phẩm": "U2-P81604",
+    "Kích thước": "80x160 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "U2-P81604",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-f-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-g-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-b-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "U2-P81604",
+    "sku_key": "U2P81604",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/u2-p81604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/u2-p81604.html",
+        "title": "U2-P81604",
+        "rawSku": "U2-P81604",
+        "imageCount": 8
+      }
+    ]
+  }
+}

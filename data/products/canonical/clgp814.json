@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-clgp814",
+  "title": "Gạch Viglacera CLGP814",
+  "product_info": {
+    "Mã sản phẩm": "CLGP814",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sư tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CLGP814",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110644jpg.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110709jpg.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110722jpg.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110644jpg.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110709jpg.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110722jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CLGP814",
+    "sku_key": "CLGP814",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/clgp814.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/clgp814.html",
+        "title": "CLGP814",
+        "rawSku": "CLGP814",
+        "imageCount": 6
+      }
+    ]
+  }
+}

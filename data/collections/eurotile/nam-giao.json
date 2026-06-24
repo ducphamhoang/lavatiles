@@ -1,0 +1,42 @@
+{
+  "collection_id": "eurotile-nam-giao",
+  "title": "Nam Giao",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "NAG N01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "NAG N01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Hàng cây xanh mướt rợp bóng mát, những bước chân đi thật nhẹ nhàng. Bao nguyện ước gửi gắm cùng trời cao, mong sao cuộc sống thật an bình.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/NEN-NAG2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-10.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-9.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/NAG-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/NAG-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/nam-giao.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/nam-giao.html",
+    "title": "Nam Giao",
+    "rawSku": "NAG N01P",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

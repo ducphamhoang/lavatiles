@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-sh26-gp121211",
+  "title": "Gạch Viglacera SH26 GP121211",
+  "product_info": {
+    "Mã sản phẩm": "SH26 GP121211",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcerlain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH26 GP121211",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-1.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-3.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-4.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-5.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-6.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH26 GP121211",
+    "sku_key": "SH26GP121211",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh26-gp121211.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh26-gp121211.html",
+        "title": "SH26 GP121211",
+        "rawSku": "SH26 GP121211",
+        "imageCount": 6
+      }
+    ]
+  }
+}

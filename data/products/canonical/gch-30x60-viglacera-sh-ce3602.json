@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-sh-ce3602",
+  "title": "Gạch 30x60 Viglacera SH-CE3602",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE3602",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30X60cm",
+    "Bề mặt men": "Men Bóng Polish",
+    "Bề mặt": "Men bóng (Polish) dễ vệ sinh, không bám bẩn, không rêu mốc, chống trầy xước hiệu quả",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Màu sắc và họa tiết": "Vân đá ghi sáng tinh tế và tối giản"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3602-1-6979.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-7-5930.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-5697.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE3602",
+    "sku_key": "SHCE3602",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-30x60-viglacera-sh-ce3602.json",
+        "title": "Gạch 30x60 Viglacera SH-CE3602",
+        "rawSku": "SH-CE3602",
+        "imageCount": 24
+      }
+    ]
+  }
+}

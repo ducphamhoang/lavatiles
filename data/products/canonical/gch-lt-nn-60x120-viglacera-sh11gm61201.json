@@ -1,0 +1,65 @@
+{
+  "canonical_id": "viglacera-sh11-gm61201",
+  "title": "Gạch lát nền 60x120 Viglacera SH11_GM61201",
+  "product_info": {
+    "Mã sản phẩm": "SH11-GM61201",
+    "Loại sản phẩm": "Gạch ốp tường 60x120",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "Châu Âu",
+    "Họa tiết": "Vân đá random",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men gạch": "Matt",
+    "Đóng gói": "2 viên / hộp"
+  },
+  "description": "SH11-GM61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/sh11-gm61201-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/sh11-gm61201-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/sh11-gm61201-c.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/01.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/01.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/03.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/03.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/04.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/04.webp",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh11-gm61201-a-7576.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x120-5-5047.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-3747.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH11-GM61201",
+    "sku_key": "SH11GM61201",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh11-gm61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh11-gm61201.html",
+        "title": "SH11-GM61201",
+        "rawSku": "SH11-GM61201",
+        "imageCount": 9
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-60x120-viglacera-sh11gm61201.json",
+        "title": "Gạch lát nền 60x120 Viglacera SH11_GM61201",
+        "rawSku": "SH11_GM61201",
+        "imageCount": 24
+      }
+    ]
+  }
+}

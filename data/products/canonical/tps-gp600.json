@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tps-gp600",
+  "title": "Gạch Viglacera TPS-GP600",
+  "product_info": {
+    "Mã sản phẩm": "TPS-GP600",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "TPS-GP600",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp600/tps-gp600.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TPS-GP600",
+    "sku_key": "TPSGP600",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tps-gp600.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tps-gp600.html",
+        "title": "TPS-GP600",
+        "rawSku": "TPS-GP600",
+        "imageCount": 1
+      }
+    ]
+  }
+}

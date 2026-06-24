@@ -1,0 +1,55 @@
+{
+  "canonical_id": "viglacera-gt-15903",
+  "title": "Gạch Viglacera GT 15903",
+  "product_info": {
+    "Mã sản phẩm": "GT 15903",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "GT 15903",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/screen-shot-2018-12-05-at-84709-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/screen-shot-2018-12-05-at-84717-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/screen-shot-2018-12-05-at-84724-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/screen-shot-2018-12-05-at-84730-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/screen-shot-2018-12-05-at-84737-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903-tien-son/gt-15903-f1-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903-tien-son/gt-15903-f1-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GT 15903",
+    "sku_key": "GT15903",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gt-15903-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15903-1.html",
+        "title": "GT 15903",
+        "rawSku": "GT 15903",
+        "imageCount": 6
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/gt-15903.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15903.html",
+        "title": "GT 15903",
+        "rawSku": "GT 15903",
+        "imageCount": 2
+      }
+    ]
+  }
+}

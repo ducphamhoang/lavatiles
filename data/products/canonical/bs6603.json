@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-bs6603",
+  "title": "Gạch Viglacera BS6603",
+  "product_info": {
+    "Mã sản phẩm": "BS6603",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: BS6603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bs6603jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS6603",
+    "sku_key": "BS6603",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs6603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs6603.html",
+        "title": "BS6603",
+        "rawSku": "BS6603",
+        "imageCount": 1
+      }
+    ]
+  }
+}

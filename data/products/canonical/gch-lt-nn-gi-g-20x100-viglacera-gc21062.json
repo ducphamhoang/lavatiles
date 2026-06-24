@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-gc21062",
+  "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21062",
+  "product_info": {
+    "Mã sản phẩm": "GC21062",
+    "Kích thước": "20x100cm",
+    "Bề mặt men": "Matt",
+    "Xương gạch": "Porcelain",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Ốp tường và lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "6 viên/hộp",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-1-2824.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/san-vuon-2-1010.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5997830209544e47416c7f587d737e5a42a1cd35775cc-3698.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GC21062",
+    "sku_key": "GC21062",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-lt-nn-gi-g-20x100-viglacera-gc21062.json",
+        "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21062",
+        "rawSku": "GC21062",
+        "imageCount": 24
+      }
+    ]
+  }
+}

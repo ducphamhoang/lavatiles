@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-gp602",
+  "title": "Gạch lát nền 60x60 Viglacera GP602",
+  "product_info": {
+    "Mã sản phẩm": "GP602",
+    "Loại sản phẩm": "Gạch ốp lát 60x60",
+    "Kích thước": "60x60cm",
+    "Bề mặt men": "Men bóng",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "4 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-4-6914.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x60-13-7151.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-6307.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GP602",
+    "sku_key": "GP602",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-lt-nn-60x60-viglacera-gp602.json",
+        "title": "Gạch lát nền 60x60 Viglacera GP602",
+        "rawSku": "GP602",
+        "imageCount": 24
+      }
+    ]
+  }
+}

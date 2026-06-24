@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-uz-cm3308",
+  "title": "Gạch Viglacera UZ-CM3308",
+  "product_info": {
+    "Mã sản phẩm": "UZ-CM3308",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "United Tiles",
+    "Đóng gói": "8 viên / thùng"
+  },
+  "description": "Mã sản phẩm: UZ-CM3308",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/united-hai-duong/uzcm3308f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/united-hai-duong/uzcm3308f2.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UZ-CM3308",
+    "sku_key": "UZCM3308",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/uz-cm3308.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/uz-cm3308.html",
+        "title": "UZ-CM3308",
+        "rawSku": "UZ-CM3308",
+        "imageCount": 2
+      }
+    ]
+  }
+}

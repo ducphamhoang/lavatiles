@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ktcm3608a",
+  "title": "Gạch Viglacera KTCM3608A",
+  "product_info": {
+    "Mã sản phẩm": "KTCM3608A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KTCM3608A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3608a/ktcm3608a2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3608a/ktcm3608a3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTCM3608A",
+    "sku_key": "KTCM3608A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktcm3608a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktcm3608a.html",
+        "title": "KTCM3608A",
+        "rawSku": "KTCM3608A",
+        "imageCount": 2
+      }
+    ]
+  }
+}

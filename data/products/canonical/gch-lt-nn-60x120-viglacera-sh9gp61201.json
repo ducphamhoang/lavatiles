@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-sh9-gp61201",
+  "title": "Gạch lát nền 60x120 Viglacera SH9_GP61201",
+  "product_info": {
+    "Mã sản phẩm": "SH9-GP61201",
+    "Loại sản phẩm": "Gạch ốp tường 60x120",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "Châu Âu",
+    "Họa tiết": "Vân đá random",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men gạch": "Men bóng",
+    "Đóng gói": "2 viên / hộp"
+  },
+  "description": "SH9-GP61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh9-gp61201/sh9-gp61201-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh9-gp61201/sh9-gp61201-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh9-gp61201/sh9-gp61201-c.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh9-gp61201-a-7878.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x120-7061.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt2-9699.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH9-GP61201",
+    "sku_key": "SH9GP61201",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh9-gp61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh9-gp61201.html",
+        "title": "SH9-GP61201",
+        "rawSku": "SH9-GP61201",
+        "imageCount": 3
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-60x120-viglacera-sh9gp61201.json",
+        "title": "Gạch lát nền 60x120 Viglacera SH9_GP61201",
+        "rawSku": "SH9_GP61201",
+        "imageCount": 24
+      }
+    ]
+  }
+}

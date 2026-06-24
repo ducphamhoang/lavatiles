@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-f3602",
+  "title": "Gạch Viglacera F3602",
+  "product_info": {
+    "Mã sản phẩm": "F3602",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "F3602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3602/f-36021.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3602/f-36023.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "F3602",
+    "sku_key": "F3602",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/f3602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/f3602.html",
+        "title": "F3602",
+        "rawSku": "F3602",
+        "imageCount": 2
+      }
+    ]
+  }
+}

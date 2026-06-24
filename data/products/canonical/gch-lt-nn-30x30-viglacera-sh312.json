@@ -1,0 +1,61 @@
+{
+  "canonical_id": "viglacera-sh-312",
+  "title": "Gạch lát nền 30x30 Viglacera SH312",
+  "product_info": {
+    "Mã sản phẩm": "SH 312",
+    "Loại sản phẩm": "Gạch ốp lát 30x30",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt men": "Matt",
+    "Bề mặt": "Matt",
+    "Xương gạch": "Ceramic",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Sông Hồng",
+    "Quy cánh đóng gói": "11 viên/hộp"
+  },
+  "description": "Mã sản phẩm SH 312",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-312/sh312-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-312/sh312-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-312/sh312-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-312/sh312-f3.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh312-f1-5715.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-5-1193.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-5958.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH 312",
+    "sku_key": "SH312",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-312.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-312.html",
+        "title": "SH 312",
+        "rawSku": "SH 312",
+        "imageCount": 4
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-30x30-viglacera-sh312.json",
+        "title": "Gạch lát nền 30x30 Viglacera SH312",
+        "rawSku": "SH312",
+        "imageCount": 24
+      }
+    ]
+  }
+}

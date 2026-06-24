@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-mdk-159007",
+  "title": "Gạch Viglacera MDK 159007",
+  "product_info": {
+    "Mã sản phẩm": "MDK 159007",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "MDK 159007",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/screen-shot-2020-05-04-at-30538-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/screen-shot-2020-05-04-at-30546-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/screen-shot-2020-05-04-at-30553-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/mdk-159007.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK 159007",
+    "sku_key": "MDK159007",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk-159007.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk-159007.html",
+        "title": "MDK 159007",
+        "rawSku": "MDK 159007",
+        "imageCount": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-vhp-gsm101005",
+  "title": "Gạch Viglacera VHP-GSM101005",
+  "product_info": {
+    "Mã sản phẩm": "VHP-GSM101005",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VHP-GSM101005",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP-GSM101005",
+    "sku_key": "VHPGSM101005",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp-gsm101005.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp-gsm101005.html",
+        "title": "VHP-GSM101005",
+        "rawSku": "VHP-GSM101005",
+        "imageCount": 6
+      }
+    ]
+  }
+}

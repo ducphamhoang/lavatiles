@@ -1,0 +1,35 @@
+{
+  "collection_id": "eurotile-hai-phong",
+  "title": "Hải Phong",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG. P4801",
+    "SIG. P8801",
+    "SIG. P61201"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG. P4801, SIG. P8801, SIG. P61201",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "Sig. P-01, SIG. P4801, SIG. P8801, SIG. P61201",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Gió vi vu gọi gió cuốn xa Biển trào dâng gọi biển bao la Gió bay bay mãi vào vô tận Biển gọi biển gào biển thiết tha Biển hòa gió quyện mãi âm vang Gió thổi thênh thang sóng nhẹ nhàng",
+  "images": [],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hai-phong.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hai-phong.html",
+    "title": "Hải Phong",
+    "rawSku": "SIG. P4801, SIG. P8801, SIG. P61201",
+    "imageCount": 0
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

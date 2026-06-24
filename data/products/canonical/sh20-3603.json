@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-sh20-3603",
+  "title": "Gạch Viglacera SH20-3603",
+  "product_info": {
+    "Mã sản phẩm": "SH20-3603",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Hard matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH20-3603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f1a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f1b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f2a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f2b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f3a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f3b.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH20-3603",
+    "sku_key": "SH203603",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh20-3603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh20-3603.html",
+        "title": "SH20-3603",
+        "rawSku": "SH20-3603",
+        "imageCount": 6
+      }
+    ]
+  }
+}

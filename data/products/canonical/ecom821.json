@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ecom821",
+  "title": "Gạch Viglacera ECOM821",
+  "product_info": {
+    "Mã sản phẩm": "ECOM821",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "ECOM821",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom821/ecom-821.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom821/ecom-821-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECOM821",
+    "sku_key": "ECOM821",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ecom821.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom821.html",
+        "title": "ECOM821",
+        "rawSku": "ECOM821",
+        "imageCount": 2
+      }
+    ]
+  }
+}

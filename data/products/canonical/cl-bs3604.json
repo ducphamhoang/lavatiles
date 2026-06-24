@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-cl-bs3604",
+  "title": "Gạch Viglacera CL-BS3604",
+  "product_info": {
+    "Mã sản phẩm": "CL-BS3604",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-BS3604",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3604/cl-bs-3604-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3604/cl-bs-3604-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3604/cl-bs-3604-f3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-BS3604",
+    "sku_key": "CLBS3604",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-bs3604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-bs3604.html",
+        "title": "CL-BS3604",
+        "rawSku": "CL-BS3604",
+        "imageCount": 3
+      }
+    ]
+  }
+}

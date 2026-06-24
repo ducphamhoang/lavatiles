@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vps2553",
+  "title": "Gạch Viglacera VPS2553",
+  "product_info": {
+    "Mã sản phẩm": "VPS2553",
+    "Kích thước": "25x50 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VPS2553",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2553/vps2553.png",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/vps2553/pc-1-vps2553.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2553/pc-1-vps2553.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VPS2553",
+    "sku_key": "VPS2553",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vps2553.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/vps2553.html",
+        "title": "VPS2553",
+        "rawSku": "VPS2553",
+        "imageCount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ts600-ts5-600",
+  "title": "Gạch Viglacera TS600 (TS5-600)",
+  "product_info": {
+    "Mã sản phẩm": "TS600 (TS5-600)",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Doublecharge)"
+  },
+  "description": "TS600 (TS5-600)",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts600-ts5-600/ts-600-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts600-ts5-600/ts-600.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS600 (TS5-600)",
+    "sku_key": "TS600TS5600",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts600-ts5-600.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts600-ts5-600.html",
+        "title": "TS600 (TS5-600)",
+        "rawSku": "TS600 (TS5-600)",
+        "imageCount": 2
+      }
+    ]
+  }
+}

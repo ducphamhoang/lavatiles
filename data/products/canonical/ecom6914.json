@@ -1,0 +1,54 @@
+{
+  "canonical_id": "viglacera-ecom6914",
+  "title": "Gạch Viglacera ECOM6914",
+  "product_info": {
+    "Mã sản phẩm": "ECOM6914",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: ECOM6914",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6914/m6914-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6914/m6914-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6914/m6914-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6914/350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6914/screen-shot-2019-07-02-at-15415-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6914/screen-shot-2019-07-02-at-15431-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6914/screen-shot-2019-07-02-at-15443-pm.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECOM6914",
+    "sku_key": "ECOM6914",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ecom6914-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6914-1.html",
+        "title": "ECOM6914",
+        "rawSku": "ECOM6914",
+        "imageCount": 3
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/ecom6914.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecom6914.html",
+        "title": "ECOM6914",
+        "rawSku": "ECOM6914",
+        "imageCount": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-ktce3617",
+  "title": "Gạch Viglacera KTCE3617",
+  "product_info": {
+    "Mã sản phẩm": "KTCE3617",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: KTCE3617",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f6.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTCE3617",
+    "sku_key": "KTCE3617",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktce3617.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktce3617.html",
+        "title": "KTCE3617",
+        "rawSku": "KTCE3617",
+        "imageCount": 6
+      }
+    ]
+  }
+}

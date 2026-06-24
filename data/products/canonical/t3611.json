@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-t3611",
+  "title": "Gạch Viglacera T3611",
+  "product_info": {
+    "Mã sản phẩm": "T3611",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "T3611",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t3611/t3611-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t3611/t3611-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t3611/t3611qr.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "T3611",
+    "sku_key": "T3611",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/t3611.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/t3611.html",
+        "title": "T3611",
+        "rawSku": "T3611",
+        "imageCount": 3
+      }
+    ]
+  }
+}

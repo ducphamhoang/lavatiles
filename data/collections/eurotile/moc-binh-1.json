@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-moc-binh-1",
+  "title": "Mộc Bình",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "MOB M01",
+    "MOB M02",
+    "MOB M03"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "MOB M01, MOB M02, MOB M03",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC M",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Giữa bề bộn cuộc sống, có đôi lần ta loay hoay và tự hỏi liệu sự bình yên mình vốn có giờ đây đã đi đâu mất rồi? Để giữ lại trong lòng chút bình yên, ta chẳng cần phải chật vật kiếm tìm. Bình yên, vốn hiện diện ở những điều giản đơn trong cuộc sống này mà ta đã vô tình quên đi.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-hinh-minh-hoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-phoi-canh-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-phoi-canh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-MINH-HOA-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/mob-m01/MOB-M01-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/mob-m02/MOB-M02-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/mob-m03/MOB-M03-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-thong-so-ky-thuat.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/moc-binh-1.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/moc-binh-1.html",
+    "title": "Mộc Bình",
+    "rawSku": "MOB M01, MOB M02, MOB M03",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

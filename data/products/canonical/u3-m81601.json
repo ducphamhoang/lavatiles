@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-u3-m81601",
+  "title": "Gạch Viglacera U3-M81601",
+  "product_info": {
+    "Mã sản phẩm": "U3-M81601",
+    "Kích thước": "80x160 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "U3-M81601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-f-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-g-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-b-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "U3-M81601",
+    "sku_key": "U3M81601",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/u3-m81601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/u3-m81601.html",
+        "title": "U3-M81601",
+        "rawSku": "U3-M81601",
+        "imageCount": 8
+      }
+    ]
+  }
+}

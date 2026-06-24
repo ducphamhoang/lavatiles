@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-amano-marble",
+  "title": "Amano Marble",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Amano Marble"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Amano Marble",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Sự choáng ngợp của Amano Marble là sản phẩm của sự kết hợp và tỷ lệ của sắc tối và sáng trên bề mặt. Sự cân bằng nhị nguyên này thể hiện yếu tố thiết kế cổ điển đầy thách thức kết hợp với tính linh hoạt trong ứng dụng. Ấn tượng mà sản phẩm mang lại khá rõ nét và cuốn hút, khơi dậy mong muốn ở gần không gian. SIZES 160×320 cm BỀ MẶT MỜ MỊN BÓNG THICKNESSES 6mm 12mm 20mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAIL-1-9.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAIL-12.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-2048x711.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/amano-marble.json",
+    "url": "https://vastastone.com/vi/collection/amano-marble/",
+    "title": "Amano Marble",
+    "rawSku": "Amano Marble",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

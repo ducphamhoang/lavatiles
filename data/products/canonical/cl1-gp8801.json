@@ -1,0 +1,58 @@
+{
+  "canonical_id": "viglacera-cl1-gp8801",
+  "title": "Gạch Viglacera CL1-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "CL1-GP8801",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "CL1-GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-a-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-b-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-c-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-c.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-a-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL1-GP8801",
+    "sku_key": "CL1GP8801",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl1-gp8801-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl1-gp8801-1.html",
+        "title": "CL1-GP8801",
+        "rawSku": "CL1-GP8801",
+        "imageCount": 3
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/cl1-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl1-gp8801.html",
+        "title": "CL1-GP8801",
+        "rawSku": "CL1-GP8801",
+        "imageCount": 7
+      }
+    ]
+  }
+}

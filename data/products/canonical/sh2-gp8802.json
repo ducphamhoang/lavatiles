@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh2-gp8802",
+  "title": "Gạch Viglacera SH2-GP8802",
+  "product_info": {
+    "Mã sản phẩm": "SH2-GP8802",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH2-GP8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh2-gp8802/sh2-gp8802.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh2-gp8802/sh2-gp8802c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh2-gp8802/sh2-gp8802f.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH2-GP8802",
+    "sku_key": "SH2GP8802",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh2-gp8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh2-gp8802.html",
+        "title": "SH2-GP8802",
+        "rawSku": "SH2-GP8802",
+        "imageCount": 3
+      }
+    ]
+  }
+}

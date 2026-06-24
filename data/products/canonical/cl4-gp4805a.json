@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-cl4-gp4805a",
+  "title": "Gạch Viglacera CL4-GP4805A",
+  "product_info": {
+    "Mã sản phẩm": "CL4-GP4805A",
+    "Kích thước": "40 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL4-GP4805A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp4805a/a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL4-GP4805A",
+    "sku_key": "CL4GP4805A",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl4-gp4805a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl4-gp4805a.html",
+        "title": "CL4-GP4805A",
+        "rawSku": "CL4-GP4805A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

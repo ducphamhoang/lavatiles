@@ -1,0 +1,49 @@
+{
+  "canonical_id": "viglacera-az5-gm3604",
+  "title": "Gạch Viglacera AZ5 GM3604",
+  "product_info": {
+    "Mã sản phẩm": "AZ5 GM3604",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "8 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ5 GM3604",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-10.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-7.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-8.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-9.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ5 GM3604",
+    "sku_key": "AZ5GM3604",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az5-gm3604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az5-gm3604.html",
+        "title": "AZ5 GM3604",
+        "rawSku": "AZ5 GM3604",
+        "imageCount": 10
+      }
+    ]
+  }
+}

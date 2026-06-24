@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-h-s204",
+  "title": "Gạch Viglacera H-S204",
+  "product_info": {
+    "Mã sản phẩm": "H-S204",
+    "Kích thước": "20 x 20 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "H-S204",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s204/h-s204resize-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s204/h-s204.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "H-S204",
+    "sku_key": "HS204",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/h-s204.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/h-s204.html",
+        "title": "H-S204",
+        "rawSku": "H-S204",
+        "imageCount": 2
+      }
+    ]
+  }
+}

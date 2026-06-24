@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-us402",
+  "title": "Gạch Viglacera US402",
+  "product_info": {
+    "Mã sản phẩm": "US402",
+    "Kích thước": "40 x 40 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: US402",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us402.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "US402",
+    "sku_key": "US402",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/us402.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/us402.html",
+        "title": "US402",
+        "rawSku": "US402",
+        "imageCount": 1
+      }
+    ]
+  }
+}

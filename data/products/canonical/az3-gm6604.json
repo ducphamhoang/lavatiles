@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-az3-gm6604",
+  "title": "Gạch Viglacera AZ3 GM6604",
+  "product_info": {
+    "Mã sản phẩm": "AZ3 GM6604",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ3 GM6604",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ3 GM6604",
+    "sku_key": "AZ3GM6604",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az3-gm6604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az3-gm6604.html",
+        "title": "AZ3 GM6604",
+        "rawSku": "AZ3 GM6604",
+        "imageCount": 5
+      }
+    ]
+  }
+}

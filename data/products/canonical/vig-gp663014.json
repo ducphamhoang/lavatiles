@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-vig-gp663014",
+  "title": "Gạch Viglacera VIG-GP663014",
+  "product_info": {
+    "Mã sản phẩm": "VIG-GP663014",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIG-GP663014",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104728-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104734-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104741-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104747-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104753-am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIG-GP663014",
+    "sku_key": "VIGGP663014",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vig-gp663014.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vig-gp663014.html",
+        "title": "VIG-GP663014",
+        "rawSku": "VIG-GP663014",
+        "imageCount": 5
+      }
+    ]
+  }
+}

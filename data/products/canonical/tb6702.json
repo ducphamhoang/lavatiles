@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tb6702",
+  "title": "Gạch Viglacera TB6702",
+  "product_info": {
+    "Mã sản phẩm": "TB6702",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: TB6702",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6702.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TB6702",
+    "sku_key": "TB6702",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tb6702.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6702.html",
+        "title": "TB6702",
+        "rawSku": "TB6702",
+        "imageCount": 1
+      }
+    ]
+  }
+}

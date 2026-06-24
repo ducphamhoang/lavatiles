@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-asd-61257gm",
+  "title": "Gạch Viglacera ASD 61257GM",
+  "product_info": {
+    "Mã sản phẩm": "ASD 61257GM",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 61257GM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61257gm/asd-61257gm-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61257gm/asd-61257gm-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61257gm/asd-61257gm-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61257gm/asd-61257gm-d.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 61257GM",
+    "sku_key": "ASD61257GM",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-61257gm.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-61257gm.html",
+        "title": "ASD 61257GM",
+        "rawSku": "ASD 61257GM",
+        "imageCount": 4
+      }
+    ]
+  }
+}

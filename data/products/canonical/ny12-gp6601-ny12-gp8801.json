@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ny12-gp6601-ny12-gp8801",
+  "title": "Gạch Viglacera NY12 GP6601/ NY12 GP8801",
+  "product_info": {
+    "Mã sản phẩm": "NY12 GP6601/ NY12 GP8801",
+    "Kích thước": "60 x 60 cm / 80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp; 3 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY12 GP6601/NY GP8801",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY12 GP6601/ NY12 GP8801",
+    "sku_key": "NY12GP6601NY12GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny12-gp6601ny-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny12-gp6601ny-gp8801.html",
+        "title": "NY12 GP6601/ NY12 GP8801",
+        "rawSku": "NY12 GP6601/ NY12 GP8801",
+        "imageCount": 0
+      }
+    ]
+  }
+}

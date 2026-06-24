@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-vi9-9gp81603",
+  "title": "Gạch Viglacera VI9-9GP81603",
+  "product_info": {
+    "Mã sản phẩm": "VI9-9GP81603",
+    "Kích thước": "80 x 160 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VI9-9GP81603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-e.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-pc.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI9-9GP81603",
+    "sku_key": "VI99GP81603",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi9-9gp81603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi9-9gp81603.html",
+        "title": "VI9-9GP81603",
+        "rawSku": "VI9-9GP81603",
+        "imageCount": 7
+      }
+    ]
+  }
+}

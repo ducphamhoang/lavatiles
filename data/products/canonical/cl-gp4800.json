@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-cl-gp4800",
+  "title": "Gạch Viglacera CL-GP4800",
+  "product_info": {
+    "Mã sản phẩm": "CL-GP4800",
+    "Kích thước": "40x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL-GP4800",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-gp4800/cl-gp4800.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-gp4800/cl-gp4800a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-GP4800",
+    "sku_key": "CLGP4800",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-gp4800.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-gp4800.html",
+        "title": "CL-GP4800",
+        "rawSku": "CL-GP4800",
+        "imageCount": 2
+      }
+    ]
+  }
+}

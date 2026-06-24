@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-bs3642a",
+  "title": "Gạch Viglacera BS3642A",
+  "product_info": {
+    "Mã sản phẩm": "BS3642A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "BS3642A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3642a/bs3642a2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3642a/bs3642a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS3642A",
+    "sku_key": "BS3642A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs3642a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs3642a.html",
+        "title": "BS3642A",
+        "rawSku": "BS3642A",
+        "imageCount": 2
+      }
+    ]
+  }
+}

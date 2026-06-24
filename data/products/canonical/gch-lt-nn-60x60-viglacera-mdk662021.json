@@ -1,0 +1,78 @@
+{
+  "canonical_id": "viglacera-mdk-662021",
+  "title": "Gạch lát nền 60x60 Viglacera MDK662021",
+  "product_info": {
+    "Mã sản phẩm": "MDK 662021",
+    "Loại sản phẩm": "Gạch ốp lát 60x60",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt men": "Men matt",
+    "Bề mặt": "Matt",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "4 viên/hộp",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "MDK"
+  },
+  "description": "MDK 662021",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f5.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-pc2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662021/350.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK 662021",
+    "sku_key": "MDK662021",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk-662021.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662021.html",
+        "title": "MDK 662021",
+        "rawSku": "MDK 662021",
+        "imageCount": 11
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/mdk662021.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk662021.html",
+        "title": "MDK662021",
+        "rawSku": "MDK662021",
+        "imageCount": 7
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-60x60-viglacera-mdk662021.json",
+        "title": "Gạch lát nền 60x60 Viglacera MDK662021",
+        "rawSku": "MDK662021",
+        "imageCount": 24
+      }
+    ]
+  }
+}

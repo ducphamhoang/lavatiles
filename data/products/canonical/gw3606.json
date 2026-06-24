@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-gw3606",
+  "title": "Gạch Viglacera GW3606",
+  "product_info": {
+    "Mã sản phẩm": "GW3606",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: GW3606",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3606.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GW3606",
+    "sku_key": "GW3606",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gw3606.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gw3606.html",
+        "title": "GW3606",
+        "rawSku": "GW3606",
+        "imageCount": 1
+      }
+    ]
+  }
+}

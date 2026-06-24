@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-viggp883014",
+  "title": "Gạch Viglacera VIGGP883014",
+  "product_info": {
+    "Mã sản phẩm": "VIGGP883014",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIGGP883014",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104728-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104734-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104741-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104747-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104753-am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIGGP883014",
+    "sku_key": "VIGGP883014",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/viggp883014.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/viggp883014.html",
+        "title": "VIGGP883014",
+        "rawSku": "VIGGP883014",
+        "imageCount": 5
+      }
+    ]
+  }
+}

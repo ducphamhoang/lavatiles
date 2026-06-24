@@ -1,0 +1,36 @@
+{
+  "canonical_id": "viglacera-khp-gm8813",
+  "title": "Gạch Viglacera KHP-GM8813",
+  "product_info": {
+    "Mã sản phẩm": "KHP-GM8813",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHP-GM8813",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHP-GM8813",
+    "sku_key": "KHPGM8813",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khp-gm8813.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khp-gm8813.html",
+        "title": "KHP-GM8813",
+        "rawSku": "KHP-GM8813",
+        "imageCount": 0
+      }
+    ]
+  }
+}

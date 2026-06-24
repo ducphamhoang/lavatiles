@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-n3008",
+  "title": "Gạch Viglacera N3008",
+  "product_info": {
+    "Mã sản phẩm": "N3008",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "N3008",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3008/n3008b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3008/n3008.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "N3008",
+    "sku_key": "N3008",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/n3008.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/n3008.html",
+        "title": "N3008",
+        "rawSku": "N3008",
+        "imageCount": 2
+      }
+    ]
+  }
+}

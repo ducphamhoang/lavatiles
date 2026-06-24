@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-az22-gp8801",
+  "title": "Gạch Viglacera AZ22 GP8801",
+  "product_info": {
+    "Mã sản phẩm": "AZ22 GP8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ22 GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88011.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88012.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88013.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88014.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88015.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ22 GP8801",
+    "sku_key": "AZ22GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az22-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az22-gp8801.html",
+        "title": "AZ22 GP8801",
+        "rawSku": "AZ22 GP8801",
+        "imageCount": 5
+      }
+    ]
+  }
+}

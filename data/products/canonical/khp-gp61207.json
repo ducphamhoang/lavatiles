@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-khp-gp61207",
+  "title": "Gạch Viglacera KHP-GP61207",
+  "product_info": {
+    "Mã sản phẩm": "KHP-GP61207",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KHP-GP61207",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/khp-gp61207/khp-gp61207-72-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/khp-gp61207/khp-gp61207-72-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/khp-gp61207/khp-gp61207-72-c.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHP-GP61207",
+    "sku_key": "KHPGP61207",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khp-gp61207.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khp-gp61207.html",
+        "title": "KHP-GP61207",
+        "rawSku": "KHP-GP61207",
+        "imageCount": 3
+      }
+    ]
+  }
+}

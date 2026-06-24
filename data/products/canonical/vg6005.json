@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vg6005",
+  "title": "Gạch Viglacera VG6005",
+  "product_info": {
+    "Mã sản phẩm": "VG6005",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: VG6005",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6005-moi.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VG6005",
+    "sku_key": "VG6005",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vg6005.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vg6005.html",
+        "title": "VG6005",
+        "rawSku": "VG6005",
+        "imageCount": 1
+      }
+    ]
+  }
+}

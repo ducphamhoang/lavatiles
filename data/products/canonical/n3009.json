@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-n3009",
+  "title": "Gạch Viglacera N3009",
+  "product_info": {
+    "Mã sản phẩm": "N3009",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "N3009",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3009/n3009b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3009/n3009.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "N3009",
+    "sku_key": "N3009",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/n3009.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/n3009.html",
+        "title": "N3009",
+        "rawSku": "N3009",
+        "imageCount": 2
+      }
+    ]
+  }
+}

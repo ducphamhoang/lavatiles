@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ca2-gp3601a",
+  "title": "Gạch Viglacera CA2 GP3601A",
+  "product_info": {
+    "Mã sản phẩm": "CA2 GP3601A",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "CA26 GP3601A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3601a/ca26-gp3601-01a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CA2 GP3601A",
+    "sku_key": "CA2GP3601A",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ca26-gp3601a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ca26-gp3601a.html",
+        "title": "CA2 GP3601A",
+        "rawSku": "CA2 GP3601A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

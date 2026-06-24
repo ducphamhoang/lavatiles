@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-cb-l600",
+  "title": "Gạch Viglacera CB L600",
+  "product_info": {
+    "Mã sản phẩm": "CB L600",
+    "Kích thước": "60x60cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB L600",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-l600/cb-l600.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB L600",
+    "sku_key": "CBL600",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-l600.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-l600.html",
+        "title": "CB L600",
+        "rawSku": "CB L600",
+        "imageCount": 1
+      }
+    ]
+  }
+}

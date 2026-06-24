@@ -1,0 +1,63 @@
+{
+  "canonical_id": "viglacera-v2-p81603",
+  "title": "Gạch lát nền 80x160 Viglacera V2-P81603",
+  "product_info": {
+    "Mã sản phẩm": "V2-P81603",
+    "Kích thước": "80x160 cm",
+    "Bề mặt men": "Men Bóng",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Xương gạch": "Granite",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Ốp tường, Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "2 viên/hộp",
+    "Giá": "Liên hệ",
+    "Màu sắc và họa tiết": "Vân đá tinh tế và sang trọng"
+  },
+  "description": "V2-P81603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-e.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-f.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-g.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/v2-p81603-a-3753.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/80x160-4585.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z596155901257384a71efca860529dcec41370264bce87-6120.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "V2-P81603",
+    "sku_key": "V2P81603",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/v2-p81603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/v2-p81603.html",
+        "title": "V2-P81603",
+        "rawSku": "V2-P81603",
+        "imageCount": 7
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-80x160-viglacera-v2-p81603.json",
+        "title": "Gạch lát nền 80x160 Viglacera V2-P81603",
+        "rawSku": "V2-P81603",
+        "imageCount": 24
+      }
+    ]
+  }
+}

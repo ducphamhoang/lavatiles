@@ -1,0 +1,49 @@
+{
+  "canonical_id": "viglacera-ca26-gp3605",
+  "title": "Gạch Viglacera CA26 GP3605",
+  "product_info": {
+    "Mã sản phẩm": "CA26 GP3605",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "CA26 GP3605",
+  "images": [
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-1.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-1.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-2.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-3.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-3.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-4.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-4.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-5.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-5.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CA26 GP3605",
+    "sku_key": "CA26GP3605",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ca26-gp3605.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ca26-gp3605.html",
+        "title": "CA26 GP3605",
+        "rawSku": "CA26 GP3605",
+        "imageCount": 12
+      }
+    ]
+  }
+}

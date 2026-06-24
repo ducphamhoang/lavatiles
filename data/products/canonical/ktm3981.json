@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ktm3981",
+  "title": "Gạch Viglacera KTM3981",
+  "product_info": {
+    "Mã sản phẩm": "KTM3981",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KTM3981",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3981/ktm39812.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3981/ktm39813.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTM3981",
+    "sku_key": "KTM3981",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktm3981.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktm3981.html",
+        "title": "KTM3981",
+        "rawSku": "KTM3981",
+        "imageCount": 2
+      }
+    ]
+  }
+}

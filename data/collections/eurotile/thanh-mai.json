@@ -1,0 +1,41 @@
+{
+  "collection_id": "eurotile-thanh-mai",
+  "title": "Thanh Mai",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "THM N01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "THM N01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Thanh Mai, một đóa hoa tinh khôi e ấp trong nắng xuân với nét đẹp dịu dàng và thuần khiết tựa nàng thiếu nữ tuổi đôi mươi.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/NEN-THM.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/THM-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/THM-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thanh-mai.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thanh-mai.html",
+    "title": "Thanh Mai",
+    "rawSku": "THM N01P",
+    "imageCount": 7
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

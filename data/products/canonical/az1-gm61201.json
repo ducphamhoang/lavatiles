@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-az1-gm61201",
+  "title": "Gạch Viglacera AZ1 GM61201",
+  "product_info": {
+    "Mã sản phẩm": "AZ1 GM61201",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "6 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ1 GM61201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-5.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-pc1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ1 GM61201",
+    "sku_key": "AZ1GM61201",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az1-gm61201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az1-gm61201.html",
+        "title": "AZ1 GM61201",
+        "rawSku": "AZ1 GM61201",
+        "imageCount": 7
+      }
+    ]
+  }
+}

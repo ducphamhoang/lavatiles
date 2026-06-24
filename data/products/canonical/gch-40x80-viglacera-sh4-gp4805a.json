@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-sh4-gp4805a",
+  "title": "Gạch 40x80 Viglacera SH4-GP4805A",
+  "product_info": {
+    "Mã sản phẩm": "SH4-GP4805A",
+    "Loại sản phẩm": "Gạch ốp lát 40x80",
+    "Kích thước": "40X80",
+    "Bề mặt men": "Men bóng Polish",
+    "Xương": "Porcelain",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Ốp tường và lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "6 viên/hộp​",
+    "Giá": "Liên hệ",
+    "Men": "Polished"
+  },
+  "description": "SH4-GP4805A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4805a/sh4-gp4805a-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/sh4-gp4805a/sh4-gp4805a-min.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh4-gp4805a-7412.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/40x80-5-4184.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-5320.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH4-GP4805A",
+    "sku_key": "SH4GP4805A",
+    "brand": "Viglacera",
+    "category_slug": "gach-40x80",
+    "category_label": "Gạch 40x80",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh4-gp4805a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh4-gp4805a.html",
+        "title": "SH4-GP4805A",
+        "rawSku": "SH4-GP4805A",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-40x80-viglacera-sh4-gp4805a.json",
+        "title": "Gạch 40x80 Viglacera SH4-GP4805A",
+        "rawSku": "SH4-GP4805A",
+        "imageCount": 24
+      }
+    ]
+  }
+}

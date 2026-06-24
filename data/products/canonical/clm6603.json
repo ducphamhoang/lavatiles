@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-clm6603",
+  "title": "Gạch Viglacera CLM6603",
+  "product_info": {
+    "Mã sản phẩm": "CLM6603",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CLM6603",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clm6603/cl-m6603.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CLM6603",
+    "sku_key": "CLM6603",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/clm6603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/clm6603.html",
+        "title": "CLM6603",
+        "rawSku": "CLM6603",
+        "imageCount": 1
+      }
+    ]
+  }
+}

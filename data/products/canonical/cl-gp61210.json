@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-cl-gp61210",
+  "title": "Gạch Viglacera CL-GP61210",
+  "product_info": {
+    "Mã sản phẩm": "CL-GP61210",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "2 viên / hộp",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL-GP61210",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-1.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-2.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-3.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-4.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-5.png",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/cl-gp61210.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-GP61210",
+    "sku_key": "CLGP61210",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-gp61210.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-gp61210.html",
+        "title": "CL-GP61210",
+        "rawSku": "CL-GP61210",
+        "imageCount": 7
+      }
+    ]
+  }
+}

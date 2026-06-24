@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-ulbs8804",
+  "title": "Gạch Viglacera ULBS8804",
+  "product_info": {
+    "Mã sản phẩm": "ULBS8804",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ULBS8804",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-e.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ULBS8804",
+    "sku_key": "ULBS8804",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ulbs8804.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ulbs8804.html",
+        "title": "ULBS8804",
+        "rawSku": "ULBS8804",
+        "imageCount": 5
+      }
+    ]
+  }
+}

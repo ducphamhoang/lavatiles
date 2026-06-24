@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-vi1-gm81602",
+  "title": "Gạch Viglacera VI1-GM81602",
+  "product_info": {
+    "Mã sản phẩm": "VI1-GM81602",
+    "Kích thước": "80 x 160 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VI1-GM81602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113536.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113544.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113552.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113601.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113609.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI1-GM81602",
+    "sku_key": "VI1GM81602",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi1-gm81602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-gm81602.html",
+        "title": "VI1-GM81602",
+        "rawSku": "VI1-GM81602",
+        "imageCount": 5
+      }
+    ]
+  }
+}

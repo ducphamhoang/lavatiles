@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-az12-gk15905",
+  "title": "Gạch Viglacera AZ12 GK15905",
+  "product_info": {
+    "Mã sản phẩm": "AZ12 GK15905",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "8 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ12 GK15905",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ12 GK15905",
+    "sku_key": "AZ12GK15905",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az12-gk15905.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az12-gk15905.html",
+        "title": "AZ12 GK15905",
+        "rawSku": "AZ12 GK15905",
+        "imageCount": 0
+      }
+    ]
+  }
+}

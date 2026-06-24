@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ny-d8835-ny-d6635",
+  "title": "Gạch Viglacera NY D8835/ NY D6635",
+  "product_info": {
+    "Mã sản phẩm": "NY D8835/ NY D6635",
+    "Kích thước": "80 x 80 cm/ 60 x 60 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Double Charge",
+    "Đóng gói": "3 viên/ hộp, 4 viên/ hộp",
+    "Bộ sưu tập": "Newyork"
+  },
+  "description": "NY D8835/ NY D6635",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY D8835/ NY D6635",
+    "sku_key": "NYD8835NYD6635",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny-d8835-ny-d6635.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny-d8835-ny-d6635.html",
+        "title": "NY D8835/ NY D6635",
+        "rawSku": "NY D8835/ NY D6635",
+        "imageCount": 0
+      }
+    ]
+  }
+}

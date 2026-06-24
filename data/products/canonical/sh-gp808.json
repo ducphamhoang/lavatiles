@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-sh-gp808",
+  "title": "Gạch Viglacera SH-GP808",
+  "product_info": {
+    "Mã sản phẩm": "SH-GP808",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-GP808",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GP808",
+    "sku_key": "SHGP808",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gp808.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gp808.html",
+        "title": "SH-GP808",
+        "rawSku": "SH-GP808",
+        "imageCount": 0
+      }
+    ]
+  }
+}

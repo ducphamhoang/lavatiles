@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-cl-ce3612",
+  "title": "Gạch Viglacera CL-CE3612",
+  "product_info": {
+    "Mã sản phẩm": "CL-CE3612",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-CE3612",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-CE3612",
+    "sku_key": "CLCE3612",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-ce3612.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-ce3612.html",
+        "title": "CL-CE3612",
+        "rawSku": "CL-CE3612",
+        "imageCount": 0
+      }
+    ]
+  }
+}

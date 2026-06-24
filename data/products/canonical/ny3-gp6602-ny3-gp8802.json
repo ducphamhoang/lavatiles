@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ny3-gp6602-ny3-gp8802",
+  "title": "Gạch Viglacera NY3 GP6602/ NY3 GP8802",
+  "product_info": {
+    "Mã sản phẩm": "NY3 GP6602/ NY3 GP8802",
+    "Kích thước": "60 x 60 cm/ 80 x 80 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp, 3 viên/ hộp",
+    "Bộ sưu tập": "Newyork"
+  },
+  "description": "NY3 GP6602/ NY3 GP8802",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY3 GP6602/ NY3 GP8802",
+    "sku_key": "NY3GP6602NY3GP8802",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny3-gp6602-ny3-gp8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny3-gp6602-ny3-gp8802.html",
+        "title": "NY3 GP6602/ NY3 GP8802",
+        "rawSku": "NY3 GP6602/ NY3 GP8802",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-sgm321",
+  "title": "Gạch Viglacera SGM321",
+  "product_info": {
+    "Mã sản phẩm": "SGM321",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "SGM321",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm321/sgm321b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm321/sgm321.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SGM321",
+    "sku_key": "SGM321",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sgm321.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sgm321.html",
+        "title": "SGM321",
+        "rawSku": "SGM321",
+        "imageCount": 2
+      }
+    ]
+  }
+}

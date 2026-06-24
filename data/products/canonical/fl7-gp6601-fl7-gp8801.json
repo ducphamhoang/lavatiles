@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-fl7-gp6601-fl7-gp8801",
+  "title": "Gạch Viglacera FL7 GP6601/ FL7 GP8801",
+  "product_info": {
+    "Mã sản phẩm": "FL7 GP6601/ FL7 GP8801",
+    "Kích thước": "60 x 60 cm/ 80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp, 3 viên/ hộp",
+    "Bộ sưu tập": "Florida"
+  },
+  "description": "FL7 GP6601/ FL7 GP8801",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "FL7 GP6601/ FL7 GP8801",
+    "sku_key": "FL7GP6601FL7GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/fl7-gp6601-fl7-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/fl7-gp6601-fl7-gp8801.html",
+        "title": "FL7 GP6601/ FL7 GP8801",
+        "rawSku": "FL7 GP6601/ FL7 GP8801",
+        "imageCount": 0
+      }
+    ]
+  }
+}

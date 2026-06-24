@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-va25-gsmc101003",
+  "title": "Gạch Viglacera VA25-GSMC101003",
+  "product_info": {
+    "Mã sản phẩm": "VA25-GSMC101003",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VA25-GSMC101003",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA25-GSMC101003",
+    "sku_key": "VA25GSMC101003",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va25-gsmc101003.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va25-gsmc101003.html",
+        "title": "VA25-GSMC101003",
+        "rawSku": "VA25-GSMC101003",
+        "imageCount": 6
+      }
+    ]
+  }
+}

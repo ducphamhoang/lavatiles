@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-gt21223",
+  "title": "Gạch Viglacera GT21223",
+  "product_info": {
+    "Mã sản phẩm": "GT21223",
+    "Kích thước": "20 x 120 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "GT21223",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/re350.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181409.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181421.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181434.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181451.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181502.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181511.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181525.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181537.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/anh-chup-man-hinh-2020-04-10-luc-181600.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/gt21223-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/gt21223-f2.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GT21223",
+    "sku_key": "GT21223",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gt21223-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt21223-1.html",
+        "title": "GT21223",
+        "rawSku": "GT21223",
+        "imageCount": 10
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/gt21223.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt21223.html",
+        "title": "GT21223",
+        "rawSku": "GT21223",
+        "imageCount": 11
+      }
+    ]
+  }
+}

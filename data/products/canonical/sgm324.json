@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-sgm324",
+  "title": "Gạch Viglacera SGM324",
+  "product_info": {
+    "Mã sản phẩm": "SGM324",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "SGM324",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm324/sgm324b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm324/sgm324.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/sgm324.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SGM324",
+    "sku_key": "SGM324",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sgm324-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sgm324-1.html",
+        "title": "SGM324",
+        "rawSku": "SGM324",
+        "imageCount": 2
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/sgm324.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/sgm324.html",
+        "title": "SGM324",
+        "rawSku": "SGM324",
+        "imageCount": 1
+      }
+    ]
+  }
+}

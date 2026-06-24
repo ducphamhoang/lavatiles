@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-ca6-gm6601",
+  "title": "Gạch Viglacera CA6-GM6601",
+  "product_info": {
+    "Mã sản phẩm": "CA6-GM6601",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "California"
+  },
+  "description": "CA6-GM6601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66011.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66012.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66013.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66014.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66015.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CA6-GM6601",
+    "sku_key": "CA6GM6601",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ca6-gm6601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ca6-gm6601.html",
+        "title": "CA6-GM6601",
+        "rawSku": "CA6-GM6601",
+        "imageCount": 5
+      }
+    ]
+  }
+}

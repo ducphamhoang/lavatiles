@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-pl36-st06",
+  "title": "Gạch Viglacera PL36-ST06",
+  "product_info": {
+    "Mã sản phẩm": "PL36-ST06",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt Satine",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Đóng gói": "6 viên / hộp",
+    "Bộ sưu tập": "Platinum"
+  },
+  "description": "PL36-ST06",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-06/pl36-st06.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL36-ST06",
+    "sku_key": "PL36ST06",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl36-st06.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl36-st06.html",
+        "title": "PL36-ST06",
+        "rawSku": "PL36-ST06",
+        "imageCount": 6
+      }
+    ]
+  }
+}

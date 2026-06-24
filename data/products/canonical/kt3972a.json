@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-kt3972a",
+  "title": "Gạch Viglacera KT3972A",
+  "product_info": {
+    "Mã sản phẩm": "KT3972A",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Glossy",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KT3972A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3972a-vien-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT3972A",
+    "sku_key": "KT3972A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt3972a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3972a.html",
+        "title": "KT3972A",
+        "rawSku": "KT3972A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

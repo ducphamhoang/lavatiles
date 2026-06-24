@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-va4-m121201",
+  "title": "Gạch Viglacera VA4-M121201",
+  "product_info": {
+    "Mã sản phẩm": "VA4-M121201",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VA4-M121201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va4-m121201/va4-m121201-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va4-m121201/va4-m121201-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va4-m121201/va4-m121201-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA4-M121201",
+    "sku_key": "VA4M121201",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va4-m121201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/va4-m121201.html",
+        "title": "VA4-M121201",
+        "rawSku": "VA4-M121201",
+        "imageCount": 3
+      }
+    ]
+  }
+}

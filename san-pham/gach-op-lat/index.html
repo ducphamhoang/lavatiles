@@ -77,7 +77,7 @@
       <div class="pd-toolbar">
         <div class="section-title pd-section-title pd-section-title--left">
           <h2>Tất cả sản phẩm gạch và ngói</h2>
-          <p>Dữ liệu sản phẩm được tạo từ thư mục JSON nội bộ, liên kết trực tiếp đến trang chi tiết tương ứng.</p>
+          <p>Dữ liệu sản phẩm được tạo từ lớp canonical đã gộp trùng SKU, liên kết trực tiếp đến trang chi tiết tương ứng.</p>
         </div>
         <div class="pd-search">
           <label class="sr-only" for="pdSearch">Tìm kiếm mã sản phẩm</label>
@@ -92,7 +92,7 @@
           </div>
           <div class="pd-filter-group">
             <h4>Bề mặt</h4>
-            <div class="pd-filter-list">
+            <div class="pd-filter-list" data-generated-filter-list="finish">
               <label><input type="checkbox" data-filter-group="finish" value="Bóng"> Bóng</label>
               <label><input type="checkbox" data-filter-group="finish" value="Mờ"> Mờ</label>
               <label><input type="checkbox" data-filter-group="finish" value="Đang cập nhật"> Đang cập nhật</label>
@@ -100,7 +100,7 @@
           </div>
           <div class="pd-filter-group">
             <h4>Danh mục</h4>
-            <div class="pd-chip-list">
+            <div class="pd-chip-list" data-generated-filter-list="category">
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch lát nền">Gạch lát nền</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch sân vườn">Gạch sân vườn</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch 40x80">Gạch 40x80</button>
@@ -112,7 +112,7 @@
           </div>
           <div class="pd-filter-group">
             <h4>Kích thước</h4>
-            <div class="pd-chip-list">
+            <div class="pd-chip-list" data-generated-filter-list="size">
               <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x30cm">30x30cm</button>
               <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x60cm">30x60cm</button>
               <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="40x80cm">40x80cm</button>
@@ -124,7 +124,7 @@
           </div>
           <div class="pd-filter-group">
             <h4>Ứng dụng</h4>
-            <div class="pd-chip-list">
+            <div class="pd-chip-list" data-generated-filter-list="placement">
               <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Sàn">Sàn</button>
               <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Tường">Tường</button>
               <button type="button" class="pd-chip" data-filter-group="placement" data-filter-value="Ngoài trời">Ngoài trời</button>
@@ -275,6 +275,7 @@
 <script src="../../js/ui-feedback.js"></script>
 <script src="../../js/product-filter.js"></script>
 <script src="../../js/generated-products.js"></script>
+<script src="../../js/generated-collections.js"></script>
 <script src="../../js/product-detail.js"></script>
 <script src="../../js/tiles-index.js"></script>
 </body>

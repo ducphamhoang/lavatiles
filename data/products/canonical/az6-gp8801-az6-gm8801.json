@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-az6-gp8801-az6-gm8801",
+  "title": "Gạch Viglacera AZ6 GP8801/ AZ6 GM8801",
+  "product_info": {
+    "Mã sản phẩm": "AZ6 GP8801/ AZ6 GM8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polished/ Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ6 GP8801/ AZ6 GM8801",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ6 GP8801/ AZ6 GM8801",
+    "sku_key": "AZ6GP8801AZ6GM8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az6-gp8801-az6-gm8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az6-gp8801-az6-gm8801.html",
+        "title": "AZ6 GP8801/ AZ6 GM8801",
+        "rawSku": "AZ6 GP8801/ AZ6 GM8801",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-kt-cm3613",
+  "title": "Gạch Viglacera KT-CM3613",
+  "product_info": {
+    "Mã sản phẩm": "KT-CM3613",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KT-CM3613",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3613-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3613-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3613-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3613-4.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT-CM3613",
+    "sku_key": "KTCM3613",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt-cm3613.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt-cm3613.html",
+        "title": "KT-CM3613",
+        "rawSku": "KT-CM3613",
+        "imageCount": 4
+      }
+    ]
+  }
+}

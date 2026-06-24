@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-khpgp8802",
+  "title": "Gạch Viglacera KHPGP8802",
+  "product_info": {
+    "Mã sản phẩm": "KHPGP8802",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHPGP8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8802/khp-gp8802.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8802/khp-gp8802-v3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8802/khp-gp8802-v3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHPGP8802",
+    "sku_key": "KHPGP8802",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khpgp8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khpgp8802.html",
+        "title": "KHPGP8802",
+        "rawSku": "KHPGP8802",
+        "imageCount": 3
+      }
+    ]
+  }
+}

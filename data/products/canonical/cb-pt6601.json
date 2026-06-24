@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-cb-pt6601",
+  "title": "Gạch Viglacera CB-PT6601",
+  "product_info": {
+    "Mã sản phẩm": "CB-PT6601",
+    "Kích thước": "60x60cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB-PT6601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt6601/cb-pt6601.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB-PT6601",
+    "sku_key": "CBPT6601",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-pt6601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-pt6601.html",
+        "title": "CB-PT6601",
+        "rawSku": "CB-PT6601",
+        "imageCount": 1
+      }
+    ]
+  }
+}

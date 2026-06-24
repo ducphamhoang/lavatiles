@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-vhp-gp4806",
+  "title": "Gạch Viglacera VHP GP4806",
+  "product_info": {
+    "Mã sản phẩm": "VHP GP4806",
+    "Kích thước": "40X80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VHP GP4806",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-f.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP GP4806",
+    "sku_key": "VHPGP4806",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp-gp4806.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp-gp4806.html",
+        "title": "VHP GP4806",
+        "rawSku": "VHP GP4806",
+        "imageCount": 8
+      }
+    ]
+  }
+}

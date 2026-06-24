@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-gt21221",
+  "title": "Gạch Viglacera GT21221",
+  "product_info": {
+    "Mã sản phẩm": "GT21221",
+    "Kích thước": "20 x 120 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "GT21221",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/a2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/anh-chup-man-hinh-2020-04-10-luc-133316.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/anh-chup-man-hinh-2020-04-10-luc-155520.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/anh-chup-man-hinh-2020-04-10-luc-155531.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/anh-chup-man-hinh-2020-04-10-luc-155545.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/anh-chup-man-hinh-2020-04-10-luc-155600.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GT21221",
+    "sku_key": "GT21221",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gt21221.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt21221.html",
+        "title": "GT21221",
+        "rawSku": "GT21221",
+        "imageCount": 6
+      }
+    ]
+  }
+}

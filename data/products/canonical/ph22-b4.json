@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-ph22-b4",
+  "title": "Gạch Viglacera PH22-B4",
+  "product_info": {
+    "Mã sản phẩm": "PH22-B4",
+    "Kích thước": "20x20 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Đóng gói": "30 viên / hộp",
+    "Bộ sưu tập": "Platinum"
+  },
+  "description": "Mã sản phẩm PH22-B4",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b4/ph22-b4-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PH22-B4",
+    "sku_key": "PH22B4",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ph22-b4.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/ph22-b4.html",
+        "title": "PH22-B4",
+        "rawSku": "PH22-B4",
+        "imageCount": 1
+      }
+    ]
+  }
+}

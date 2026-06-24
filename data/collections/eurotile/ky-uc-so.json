@@ -1,0 +1,40 @@
+{
+  "collection_id": "eurotile-ky-uc-so",
+  "title": "Ký ức số",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "KUS Q01TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "KUS Q01TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Khi thời đại không còn ranh giới giữa thật và ảo, con người sống giữa những mảng dữ liệu đan xen như tấm thảm lập trình màu xanh thẳm. Mỗi ô vuông trong “Ký Ức Số” lưu giữ niềm vui, thử thách và thành công, hòa thành bức tranh số hóa của cảm xúc và ước mơ.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-SO-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q-thongsokythuat-09.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/QRKy-uc-so.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/ky-uc-so.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/ky-uc-so.html",
+    "title": "Ký ức số",
+    "rawSku": "KUS Q01TF",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

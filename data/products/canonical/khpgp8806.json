@@ -1,0 +1,36 @@
+{
+  "canonical_id": "viglacera-khpgp8806",
+  "title": "Gạch Viglacera KHPGP8806",
+  "product_info": {
+    "Mã sản phẩm": "KHPGP8806",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHPGP8806",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHPGP8806",
+    "sku_key": "KHPGP8806",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khpgp8806.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khpgp8806.html",
+        "title": "KHPGP8806",
+        "rawSku": "KHPGP8806",
+        "imageCount": 0
+      }
+    ]
+  }
+}

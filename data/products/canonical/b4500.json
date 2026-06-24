@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-b4500",
+  "title": "Gạch Viglacera B4500",
+  "product_info": {
+    "Mã sản phẩm": "B4500",
+    "Kích thước": "30 x 45 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "B4500",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4500/b4500b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4500/b4500.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "B4500",
+    "sku_key": "B4500",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/b4500.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/b4500.html",
+        "title": "B4500",
+        "rawSku": "B4500",
+        "imageCount": 2
+      }
+    ]
+  }
+}

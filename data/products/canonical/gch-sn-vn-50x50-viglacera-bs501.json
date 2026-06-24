@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-bs501",
+  "title": "Gạch sân vườn 50x50 Viglacera BS501",
+  "product_info": {
+    "Mã sản phẩm": "BS501",
+    "Loại sản phẩm": "Gạch sân vườn 50x50",
+    "Kích thước": "50×50 cm",
+    "Bề mặt": "Nhám",
+    "Loại gạch": "Semi Porcelain",
+    "Họa tiết": "Trang trí",
+    "Thương hiệu": "Viglacera",
+    "Xuất xứ": "Việt Nam​",
+    "Giá": "Liên hệ",
+    "Hãng sản xuất": "Viglacera"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs501-6951.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/san-vuon-3-2183.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-2223.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS501",
+    "sku_key": "BS501",
+    "brand": "Viglacera",
+    "category_slug": "gach-san-vuon",
+    "category_label": "Gạch sân vườn",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-sn-vn-50x50-viglacera-bs501.json",
+        "title": "Gạch sân vườn 50x50 Viglacera BS501",
+        "rawSku": "BS501",
+        "imageCount": 24
+      }
+    ]
+  }
+}

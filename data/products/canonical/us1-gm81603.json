@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-us1-gm81603",
+  "title": "Gạch Viglacera US1-GM81603",
+  "product_info": {
+    "Mã sản phẩm": "US1-GM81603",
+    "Kích thước": "80 x 160 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "Mã sản phẩm: US1-9GM81603",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "US1-GM81603",
+    "sku_key": "US1GM81603",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/us1-gm81603.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/us1-gm81603.html",
+        "title": "US1-GM81603",
+        "rawSku": "US1-GM81603",
+        "imageCount": 0
+      }
+    ]
+  }
+}

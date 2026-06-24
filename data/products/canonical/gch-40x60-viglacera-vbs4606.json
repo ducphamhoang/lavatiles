@@ -1,0 +1,56 @@
+{
+  "canonical_id": "viglacera-vbs-4606",
+  "title": "Gạch 40x60 Viglacera VBS4606",
+  "product_info": {
+    "Mã sản phẩm": "VBS 4606",
+    "Loại sản phẩm": "Gạch sân vườn 40x60",
+    "Kích thước": "40X60",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Loại gạch": "Semi Porcelain",
+    "Họa tiết": "Vân đá",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Xuất xứ": "Việt Nam​",
+    "Giá": "Liên hệ"
+  },
+  "description": "VBS 4606",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4606/vbs-4606-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/vbs-4606/vbs-4606-min.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4606-8335.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sv-40x60-6-8276.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9834.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VBS 4606",
+    "sku_key": "VBS4606",
+    "brand": "Viglacera",
+    "category_slug": "gach-40x60",
+    "category_label": "Gạch 40x60",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vbs-4606.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-4606.html",
+        "title": "VBS 4606",
+        "rawSku": "VBS 4606",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-40x60-viglacera-vbs4606.json",
+        "title": "Gạch 40x60 Viglacera VBS4606",
+        "rawSku": "VBS4606",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vhp-gp4810a",
+  "title": "Gạch Viglacera VHP GP4810A",
+  "product_info": {
+    "Mã sản phẩm": "VHP GP4810A",
+    "Kích thước": "40x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VHP GP4810A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4810/vhp-gp4810a.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VHP GP4810A",
+    "sku_key": "VHPGP4810A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vhp-gp4810a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vhp-gp4810a.html",
+        "title": "VHP GP4810A",
+        "rawSku": "VHP GP4810A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

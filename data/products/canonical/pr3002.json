@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-pr3002",
+  "title": "Gạch Viglacera PR3002",
+  "product_info": {
+    "Mã sản phẩm": "PR3002",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "PR3002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3002/pr3002b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3002/pr3002.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PR3002",
+    "sku_key": "PR3002",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pr3002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/pr3002.html",
+        "title": "PR3002",
+        "rawSku": "PR3002",
+        "imageCount": 2
+      }
+    ]
+  }
+}

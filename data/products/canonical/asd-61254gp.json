@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-asd-61254gp",
+  "title": "Gạch Viglacera ASD 61254GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD 61254GP",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 61254GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61254gp/asd-61254gp-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61254gp/asd-61254gp-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61254gp/asd-61254gp-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61254gp/asd-61254gp-d.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 61254GP",
+    "sku_key": "ASD61254GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-61254gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-61254gp.html",
+        "title": "ASD 61254GP",
+        "rawSku": "ASD 61254GP",
+        "imageCount": 4
+      }
+    ]
+  }
+}

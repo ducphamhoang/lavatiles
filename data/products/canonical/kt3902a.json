@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-kt3902a",
+  "title": "Gạch Viglacera KT3902A",
+  "product_info": {
+    "Mã sản phẩm": "KT3902A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "KT3902A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3902a/kt3902a2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3902a/kt3902a3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt3902a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT3902A",
+    "sku_key": "KT3902A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt3902a-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3902a-1.html",
+        "title": "KT3902A",
+        "rawSku": "KT3902A",
+        "imageCount": 2
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/kt3902a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3902a.html",
+        "title": "KT3902A",
+        "rawSku": "KT3902A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

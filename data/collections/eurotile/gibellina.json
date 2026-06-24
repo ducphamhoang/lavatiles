@@ -1,0 +1,54 @@
+{
+  "collection_id": "eurotile-gibellina",
+  "title": "Gibellina",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "GIB20 G02",
+    "GIB20 G03",
+    "GIB20 G04",
+    "GIB20 H03",
+    "GIB20 H04"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "GIB20 G02, GIB20 G03, GIB20 G04, GIB20 H03, GIB20 H04",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G, KÍCH THƯỚC H",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Lấy cảm hứng từ nghệ thuật Burri, bộ sưu tập Gibellina gợi nhắc về nghệ thuật đầy biến hoá của nghệ sĩ người Ý Alberto Burri trong việc chuyển đổi những vết nứt thời gian và không gian bằng 3 tông màu thiết kế mang tính ứng dụng cao.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G7.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G02A.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G03A.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G04A.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G-02.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-h/QRGIB20-01.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-h/GIB20-H03-A.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-h/GIB20-H04A.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-h/GIB20-H-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/gibellina.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/gibellina.html",
+    "title": "Gibellina",
+    "rawSku": "GIB20 G02, GIB20 G03, GIB20 G04, GIB20 H03, GIB20 H04",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

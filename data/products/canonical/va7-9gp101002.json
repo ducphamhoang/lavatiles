@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-va7-9gp101002",
+  "title": "Gạch Viglacera VA7-9GP101002",
+  "product_info": {
+    "Mã sản phẩm": "VA7-9GP101002",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "VA"
+  },
+  "description": "VA7-9GP101002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/va7-9gp101002/va7-9gp101002.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/va7-9gp101002/va7-9gp101002-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/va7-9gp101002/va7-9gp101002-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/17032407221934036.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/va7-9gp101002/va7-9gp101002-pc.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA7-9GP101002",
+    "sku_key": "VA79GP101002",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va7-9gp101002-1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va7-9gp101002-1.html",
+        "title": "VA7-9GP101002",
+        "rawSku": "VA7-9GP101002",
+        "imageCount": 3
+      },
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "duplicate",
+        "file": "data/products/viglaceratiles/va7-9gp101002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/va7-9gp101002.html",
+        "title": "VA7-9GP101002",
+        "rawSku": "VA7-9GP101002",
+        "imageCount": 10
+      }
+    ]
+  }
+}

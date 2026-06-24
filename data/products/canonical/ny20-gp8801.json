@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-ny20-gp8801",
+  "title": "Gạch Viglacera NY20-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "NY20-GP8801",
+    "Kích thước": "80x80",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "CALIFORNIA"
+  },
+  "description": "NY20-GP8801",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY20-GP8801",
+    "sku_key": "NY20GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny20-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny20-gp8801.html",
+        "title": "NY20-GP8801",
+        "rawSku": "NY20-GP8801",
+        "imageCount": 0
+      }
+    ]
+  }
+}

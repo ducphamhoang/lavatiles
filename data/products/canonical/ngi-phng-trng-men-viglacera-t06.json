@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-0",
+  "title": "Ngói phẳng tráng men Viglacera T06",
+  "product_info": {
+    "Mã sản phẩm": "0",
+    "Giá": "Liên hệ",
+    "Hãng sản xuất": "Viglacera"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/8-5128.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5979009014094914d0cb40ca878949293db8f8bcd3333-8884.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59790090140903bb7456ec45ce6a102855e63a230ebf9-1231.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5979009032834a06202b2e93dd50f9c1ba9f81641245d-9565.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59790090328335a17f01c7bc4284d126692560161f2e0-8270.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5979009014321accec2363ac5fa4e542136980d6decbf-8892.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "0",
+    "sku_key": "NGOIPHANGTRANGMENVIGLACERAT06",
+    "brand": "Viglacera",
+    "category_slug": "ngoi-phng-t",
+    "category_label": "Ngói phẳng",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/ngi-phng-trng-men-viglacera-t06.json",
+        "title": "Ngói phẳng tráng men Viglacera T06",
+        "rawSku": "0",
+        "imageCount": 19
+      }
+    ]
+  }
+}

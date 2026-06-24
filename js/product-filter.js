@@ -25,10 +25,11 @@
     var searchFields = config.searchFields || [];
     var initialLimit = config.initialLimit || 8;
     var loadStep = config.loadStep || 4;
-    var state = { search: '', limit: initialLimit };
+    var initialFilters = config.initialFilters || {};
+    var state = { search: text(initialFilters.search || '').toLowerCase(), limit: initialLimit };
 
     filterKeys.forEach(function (key) {
-      state[key] = [];
+      state[key] = (initialFilters[key] || []).map(text);
     });
 
     var grid = document.getElementById(config.gridId || 'pd-grid');
@@ -41,6 +42,19 @@
 
     if (!grid || !empty || !count || !active || !loadMore || !search || !reset || !config.cardMarkup) {
       return null;
+    }
+
+    function syncControls() {
+      search.value = state.search;
+      document.querySelectorAll('input[data-filter-group]').forEach(function (input) {
+        var key = input.getAttribute('data-filter-group');
+        input.checked = Boolean(state[key] && state[key].indexOf(input.value) !== -1);
+      });
+      document.querySelectorAll('.pd-chip').forEach(function (chip) {
+        var key = chip.getAttribute('data-filter-group');
+        var value = chip.getAttribute('data-filter-value');
+        chip.classList.toggle('is-active', Boolean(state[key] && state[key].indexOf(value) !== -1));
+      });
     }
 
     function hasMatch(product, key) {
@@ -144,6 +158,7 @@
       render();
     });
 
+    syncControls();
     render();
     return { render: render, state: state };
   }

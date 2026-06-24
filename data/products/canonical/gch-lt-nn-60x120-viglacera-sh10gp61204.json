@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-0",
+  "title": "Gạch lát nền 60x120 Viglacera SH10_GP61204",
+  "product_info": {
+    "Mã sản phẩm": "0",
+    "Loại sản phẩm": "Gạch ốp tường 60x120",
+    "Kích thước": "60x120cm",
+    "Bề mặt": "nhẵn",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "Châu Âu",
+    "Họa tiết": "Vân đá random",
+    "Thương hiệu": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men gạch": "Men bóng",
+    "Đóng gói": "2 viên / hộp",
+    "Hãng sản xuất": "Viglacera"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh10-gp61204-a-9849-min-1380.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x120-4-9680.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9762.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "0",
+    "sku_key": "GACHLATNEN60X120VIGLACERASH10GP61204",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-lt-nn-60x120-viglacera-sh10gp61204.json",
+        "title": "Gạch lát nền 60x120 Viglacera SH10_GP61204",
+        "rawSku": "0",
+        "imageCount": 24
+      }
+    ]
+  }
+}

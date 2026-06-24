@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-cl52-9gp101001",
+  "title": "Gạch Viglacera CL52-9GP101001",
+  "product_info": {
+    "Mã sản phẩm": "CL52-9GP101001",
+    "Kích thước": "100 x 100 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL52-9GP101001",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/17032381911519578.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc2.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL52-9GP101001",
+    "sku_key": "CL529GP101001",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl52-9gp101001.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl52-9gp101001.html",
+        "title": "CL52-9GP101001",
+        "rawSku": "CL52-9GP101001",
+        "imageCount": 9
+      }
+    ]
+  }
+}

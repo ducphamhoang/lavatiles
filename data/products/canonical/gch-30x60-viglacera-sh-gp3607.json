@@ -1,0 +1,60 @@
+{
+  "canonical_id": "viglacera-shgp3607",
+  "title": "Gạch 30x60 Viglacera SH-GP3607",
+  "product_info": {
+    "Mã sản phẩm": "SHGP3607",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt men": "Men Bóng Polish",
+    "Bề mặt": "Polish",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng",
+    "Màu sắc và họa tiết": "Vân đá ghi sáng tinh tế và tối giản"
+  },
+  "description": "Mã sản phẩm: SHGP3607",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3607/sh-gp3607-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3607/sh-gp3607-b.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-gp3607-a-3025.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-7193.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-16-3378.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SHGP3607",
+    "sku_key": "SHGP3607",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/shgp3607.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3607.html",
+        "title": "SHGP3607",
+        "rawSku": "SHGP3607",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-30x60-viglacera-sh-gp3607.json",
+        "title": "Gạch 30x60 Viglacera SH-GP3607",
+        "rawSku": "SH-GP3607",
+        "imageCount": 24
+      }
+    ]
+  }
+}

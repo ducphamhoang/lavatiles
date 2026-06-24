@@ -1,0 +1,39 @@
+{
+  "collection_id": "eurotile-hoa-vien",
+  "title": "Hoa Viên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HOV C02 TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HOV C02 TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC C",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Khi bạn ngồi bên chiếc bàn thưởng thức một tách trà, nghe tiếng chim lảnh lót, ngắm nhìn vườn hoa nhỏ và hòn non bộ với những chú cá nhỏ tung tăng bơi lội, sẽ là lúc tâm hồn bạn thư thái và trút bỏ hết muộn phiền.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-05.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-04.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-06.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/THONGSO-HOV-07.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-03.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hoa-vien.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hoa-vien.html",
+    "title": "Hoa Viên",
+    "rawSku": "HOV C02 TF",
+    "imageCount": 5
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

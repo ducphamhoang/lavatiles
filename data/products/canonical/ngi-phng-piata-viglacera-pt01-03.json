@@ -1,0 +1,34 @@
+{
+  "canonical_id": "viglacera-0",
+  "title": "Ngói phẳng Piata Viglacera PT01-03",
+  "product_info": {
+    "Mã sản phẩm": "0",
+    "Giá": "Liên hệ",
+    "Hãng sản xuất": "Viglacera"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510497411af92211fd0a1d6488fca8fe99b4feb0-6213.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "0",
+    "sku_key": "NGOIPHANGPIATAVIGLACERAPT0103",
+    "brand": "Viglacera",
+    "category_slug": "ngoi-phng-t",
+    "category_label": "Ngói phẳng",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/ngi-phng-piata-viglacera-pt01-03.json",
+        "title": "Ngói phẳng Piata Viglacera PT01-03",
+        "rawSku": "0",
+        "imageCount": 13
+      }
+    ]
+  }
+}

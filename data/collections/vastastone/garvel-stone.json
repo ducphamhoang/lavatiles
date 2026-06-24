@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-garvel-stone",
+  "title": "Garvel Stone",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Garvel Stone"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Garvel Stone",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Sự pha trộn hài hòa giữa kết cấu tự nhiên và tông màu đất tạo nên vẻ đẹp tinh tế, thêm vào sự mạnh mẽ và thanh lịch cho bất kỳ không gian nào. Nó nắm bắt sức hút táo bạo của đá tự nhiên, bổ sung dễ dàng cho cả phong cách kiến trúc hiện đại và mộc mạc. Bảng màu linh hoạt phù hợp với nhiều bối cảnh, trong khi độ bền đặc biệt đảm bảo vẻ đẹp bền lâu. Đây là lựa chọn hoàn hảo cho các dự án đòi hỏi cả tính thẩm mỹ và độ bền lâu dài. KÍCH THƯỚC 120×280 cm BỀ MẶT MỜ MỊN BÓNG THICKNESSES 9mm 15mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2024/10/GRAVEL-STONE-GRS09E-DM-VASTA-ESSENTIALS.jpg",
+    "https://vastastone.com/wp-content/uploads/2024/10/17.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-2048x711.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/garvel-stone.json",
+    "url": "https://vastastone.com/vi/collection/garvel-stone/",
+    "title": "Garvel Stone",
+    "rawSku": "Garvel Stone",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

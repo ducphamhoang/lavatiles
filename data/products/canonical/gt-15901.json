@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-gt-15901",
+  "title": "Gạch Viglacera GT 15901",
+  "product_info": {
+    "Mã sản phẩm": "GT 15901",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "GT 15901",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15901-tien-son/gt-15901-f1-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15901-tien-son/gt-15901-f1-3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GT 15901",
+    "sku_key": "GT15901",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gt-15901.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gt-15901.html",
+        "title": "GT 15901",
+        "rawSku": "GT 15901",
+        "imageCount": 2
+      }
+    ]
+  }
+}

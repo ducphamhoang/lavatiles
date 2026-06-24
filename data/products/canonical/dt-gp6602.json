@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-dt-gp6602",
+  "title": "Gạch Viglacera DT-GP6602",
+  "product_info": {
+    "Mã sản phẩm": "DT-GP6602",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "DT-GP6602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6602/dt-gp6602-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6602/dt-gp6602-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6602/dt-gp6602-c.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "DT-GP6602",
+    "sku_key": "DTGP6602",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/dt-gp6602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/dt-gp6602.html",
+        "title": "DT-GP6602",
+        "rawSku": "DT-GP6602",
+        "imageCount": 3
+      }
+    ]
+  }
+}

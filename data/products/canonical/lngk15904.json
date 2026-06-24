@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-lngk15904",
+  "title": "Gạch Viglacera LNGK15904",
+  "product_info": {
+    "Mã sản phẩm": "LNGK15904",
+    "Kích thước": "15 x 90 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "LNGK15904",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/lngk15904-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/lngk15904-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/screen-shot-2022-04-27-at-14145-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/screen-shot-2022-04-27-at-14153-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/screen-shot-2022-04-27-at-14201-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/screen-shot-2022-04-27-at-14211-pm.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/lngk15904qr.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "LNGK15904",
+    "sku_key": "LNGK15904",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/lngk15904.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/lngk15904.html",
+        "title": "LNGK15904",
+        "rawSku": "LNGK15904",
+        "imageCount": 7
+      }
+    ]
+  }
+}

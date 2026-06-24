@@ -1,0 +1,50 @@
+{
+  "canonical_id": "viglacera-cl2-p121201",
+  "title": "Gạch Viglacera CL2-P121201",
+  "product_info": {
+    "Mã sản phẩm": "CL2-P121201",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL2-P121201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-e.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-3.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/cl2-p121201/cl2-p121201-pc-4.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL2-P121201",
+    "sku_key": "CL2P121201",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl2-p121201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl2-p121201.html",
+        "title": "CL2-P121201",
+        "rawSku": "CL2-P121201",
+        "imageCount": 15
+      }
+    ]
+  }
+}

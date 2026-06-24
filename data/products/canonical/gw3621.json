@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-gw3621",
+  "title": "Gạch Viglacera GW3621",
+  "product_info": {
+    "Mã sản phẩm": "GW3621",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: GW3621",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3621.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GW3621",
+    "sku_key": "GW3621",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gw3621.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gw3621.html",
+        "title": "GW3621",
+        "rawSku": "GW3621",
+        "imageCount": 1
+      }
+    ]
+  }
+}

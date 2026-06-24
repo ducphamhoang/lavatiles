@@ -1,0 +1,43 @@
+{
+  "collection_id": "eurotile-son-du",
+  "title": "Sơn Du",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SOD N01P",
+    "SOD N01H"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SOD N01P, SOD N01H",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mải mê ta bước lên cao Cỏ cây lẫn đá cheo leo chập chùng Ta thầm hỏi: đâu đỉnh non Cho ta lên mãi thoát vòng nhân gian Cho tiêu tan hết sầu buồn Gởi theo gió núi mây ngàn trắng trong.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/NEN-SOD.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01P-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/SOD-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/SOD-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/son-du.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/son-du.html",
+    "title": "Sơn Du",
+    "rawSku": "SOD N01P, SOD N01H",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vbs-305",
+  "title": "Gạch Viglacera VBS 305",
+  "product_info": {
+    "Mã sản phẩm": "VBS 305",
+    "Kích thước": "30x30 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VBS 305",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs305.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VBS 305",
+    "sku_key": "VBS305",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vbs-305.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vbs-305.html",
+        "title": "VBS 305",
+        "rawSku": "VBS 305",
+        "imageCount": 1
+      }
+    ]
+  }
+}

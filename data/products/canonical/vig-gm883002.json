@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vig-gm883002",
+  "title": "Gạch Viglacera VIG-GM883002",
+  "product_info": {
+    "Mã sản phẩm": "VIG-GM883002",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIG-GM883002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vig-gm883002.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIG-GM883002",
+    "sku_key": "VIGGM883002",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vig-gm883002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vig-gm883002.html",
+        "title": "VIG-GM883002",
+        "rawSku": "VIG-GM883002",
+        "imageCount": 1
+      }
+    ]
+  }
+}

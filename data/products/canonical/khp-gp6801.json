@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-khp-gp6801",
+  "title": "Gạch Viglacera KHP-GP6801",
+  "product_info": {
+    "Mã sản phẩm": "KHP-GP6801",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: KHP-GP6801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6801.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KHP-GP6801",
+    "sku_key": "KHPGP6801",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/khp-gp6801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/khp-gp6801.html",
+        "title": "KHP-GP6801",
+        "rawSku": "KHP-GP6801",
+        "imageCount": 1
+      }
+    ]
+  }
+}

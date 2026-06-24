@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-vi11-9gp81601",
+  "title": "Gạch Viglacera VI11-9GP81601",
+  "product_info": {
+    "Mã sản phẩm": "VI11-9GP81601",
+    "Kích thước": "80 x 160 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VI11-9GP81601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-e.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI11-9GP81601",
+    "sku_key": "VI119GP81601",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi11-9gp81601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi11-9gp81601.html",
+        "title": "VI11-9GP81601",
+        "rawSku": "VI11-9GP81601",
+        "imageCount": 9
+      }
+    ]
+  }
+}

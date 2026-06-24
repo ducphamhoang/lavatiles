@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-vu-khuc",
+  "title": "Vũ Khúc",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "VUK X01P",
+    "VUK S01G"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "VUK X01P, VUK S01G",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X, KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Tựa khúc hoan ca dịu dàng, nơi ánh nắng mỏng manh hòa cùng vũ điệu nhẹ nhàng của mưa, không gian bỗng ngân lên những giai điệu trầm bổng trong khoảnh khắc giao mùa giữa trời đất. Cảm xúc ấy không gọi tên, chỉ có thể cảm nhận bằng ánh nhìn, lắng nghe qua những nhịp chuyển không lời. Nhưng chính điều đó lại khiến lòng người rung động, để rồi đọng lại mãi trong tâm trí.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-S01G-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/Minhhoa-VUK.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-X01p-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-minhhoa-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/map-120240/VUK-X01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-X-THONG-SO-KY-THUAT-07.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/map-vuk/VUK-S01G-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G-THONG-SO-KY-THUAT-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/vu-khuc.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/vu-khuc.html",
+    "title": "Vũ Khúc",
+    "rawSku": "VUK X01P, VUK S01G",
+    "imageCount": 10
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

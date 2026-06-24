@@ -1,0 +1,36 @@
+{
+  "collection_id": "vastastone-sahara-noir",
+  "title": "Sahara Noir",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Sahara Noir"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Sahara Noir",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Đá cẩm thạch đen bóng mượt tạo sự kết nối giữa cái cũ và cái mới mà không gây ảnh hưởng lẫn nhau. Bề mặt họa tiết gắn kết sự đồng nhất và mâu thuẫn tự nhiên, tạo nên cảm giác chiều sâu và trật tự cho tổng thể. SIZES 160×320 cm BỀ MẶT MỜ MỊN BÓNG ĐỘ DÀY 6mm 12mm 20mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-1-2.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-5.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/sahara-noir.json",
+    "url": "https://vastastone.com/vi/collection/sahara-noir/",
+    "title": "Sahara Noir",
+    "rawSku": "Sahara Noir",
+    "imageCount": 4
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

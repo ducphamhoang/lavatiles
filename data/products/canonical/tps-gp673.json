@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-tps-gp673",
+  "title": "Gạch Viglacera TPS-GP673",
+  "product_info": {
+    "Mã sản phẩm": "TPS-GP673",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "TPS-GP673",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp673/tps-gp673.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TPS-GP673",
+    "sku_key": "TPSGP673",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tps-gp673.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tps-gp673.html",
+        "title": "TPS-GP673",
+        "rawSku": "TPS-GP673",
+        "imageCount": 1
+      }
+    ]
+  }
+}

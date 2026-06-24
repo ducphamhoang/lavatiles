@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ngoi-viglacera-s08",
+  "title": "Ngói sóng tráng men Viglacera S08",
+  "product_info": {
+    "Mã sản phẩm": "NGÓI VIGLACERA S08",
+    "Giá": "Liên hệ",
+    "Hãng sản xuất": "Viglacera"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/web4-7075-min-1341.gif",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5978988346359e523406f81b23e37c9ec1eaecdd0271a-3620.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5978988346358897ee21190de05e940018d1d97ba6a46-4969.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5978988311839066ec0868fc6183818eeacc5ad707bef-5976.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5978988311598aeb8ed2b913e3ed584cc6653c54ace82-7240.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59789883288622edbd38dca31af6198472bbc00eb3f7a-2498.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NGÓI VIGLACERA S08",
+    "sku_key": "NGOIVIGLACERAS08",
+    "brand": "Viglacera",
+    "category_slug": "ngoi-song",
+    "category_label": "Ngói sóng",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/ngi-sng-trng-men-viglacera-s08.json",
+        "title": "Ngói sóng tráng men Viglacera S08",
+        "rawSku": "NGÓI VIGLACERA S08",
+        "imageCount": 19
+      }
+    ]
+  }
+}

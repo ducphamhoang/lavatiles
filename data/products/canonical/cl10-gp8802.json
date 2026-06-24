@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-cl10-gp8802",
+  "title": "Gạch Viglacera CL10-GP8802",
+  "product_info": {
+    "Mã sản phẩm": "CL10-GP8802",
+    "Kích thước": "80x80",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men": "Polished"
+  },
+  "description": "CL10-GP8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl10-gp8802/cl10-gp8802-f2-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl10-gp8802/cl10-gp8802-f3-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl10-gp8802/cl10-gp8802-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/cl10-gp8802/cl10-gp8802-f2-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL10-GP8802",
+    "sku_key": "CL10GP8802",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl10-gp8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl10-gp8802.html",
+        "title": "CL10-GP8802",
+        "rawSku": "CL10-GP8802",
+        "imageCount": 4
+      }
+    ]
+  }
+}

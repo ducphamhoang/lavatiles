@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-mq6004",
+  "title": "Gạch Viglacera MQ6004",
+  "product_info": {
+    "Mã sản phẩm": "MQ6004",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: MQ6004",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/mq6004-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MQ6004",
+    "sku_key": "MQ6004",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mq6004.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mq6004.html",
+        "title": "MQ6004",
+        "rawSku": "MQ6004",
+        "imageCount": 1
+      }
+    ]
+  }
+}

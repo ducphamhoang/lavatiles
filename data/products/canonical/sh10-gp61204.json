@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-sh10-gp61204",
+  "title": "Gạch Viglacera SH10-GP61204",
+  "product_info": {
+    "Mã sản phẩm": "SH10-GP61204",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH10-GP61204",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gp61204/sh10-gp61204-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gp61204/sh10-gp61204-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gp61204/sh10-gp61204-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH10-GP61204",
+    "sku_key": "SH10GP61204",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh10-gp61204.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh10-gp61204.html",
+        "title": "SH10-GP61204",
+        "rawSku": "SH10-GP61204",
+        "imageCount": 3
+      }
+    ]
+  }
+}

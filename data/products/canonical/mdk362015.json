@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-mdk362015",
+  "title": "Gạch Viglacera MDK362015",
+  "product_info": {
+    "Mã sản phẩm": "MDK362015",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "MDK362015",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110100-am2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110100-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110119-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110128-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110138-am.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110150-am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK362015",
+    "sku_key": "MDK362015",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk362015.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/mdk362015.html",
+        "title": "MDK362015",
+        "rawSku": "MDK362015",
+        "imageCount": 6
+      }
+    ]
+  }
+}

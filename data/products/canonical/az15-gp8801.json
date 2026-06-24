@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-az15-gp8801",
+  "title": "Gạch Viglacera AZ15-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "AZ15-GP8801",
+    "Kích thước": "80x80",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men": "Polished",
+    "Bộ sưu tập": "ARIZONA"
+  },
+  "description": "AZ15-GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-e.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ15-GP8801",
+    "sku_key": "AZ15GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az15-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az15-gp8801.html",
+        "title": "AZ15-GP8801",
+        "rawSku": "AZ15-GP8801",
+        "imageCount": 6
+      }
+    ]
+  }
+}

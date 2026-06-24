@@ -1,0 +1,49 @@
+{
+  "canonical_id": "viglacera-h-r221",
+  "title": "Gạch Viglacera H-R221",
+  "product_info": {
+    "Mã sản phẩm": "H-R221",
+    "Kích thước": "20 x 20 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "H-R221",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-7.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-8.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-9.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-12.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-10.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-11.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "H-R221",
+    "sku_key": "HR221",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/h-r221.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/h-r221.html",
+        "title": "H-R221",
+        "rawSku": "H-R221",
+        "imageCount": 12
+      }
+    ]
+  }
+}

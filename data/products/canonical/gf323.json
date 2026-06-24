@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-gf323",
+  "title": "Gạch Viglacera GF323",
+  "product_info": {
+    "Mã sản phẩm": "GF323",
+    "Kích thước": "30 x 30 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "GF323",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gf323/gf323b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gf323/gf323.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "GF323",
+    "sku_key": "GF323",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/gf323.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/gf323.html",
+        "title": "GF323",
+        "rawSku": "GF323",
+        "imageCount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-ny11-gm8802",
+  "title": "Gạch Viglacera NY11 GM8802",
+  "product_info": {
+    "Mã sản phẩm": "NY11 GM8802",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "New York"
+  },
+  "description": "NY11 GM8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-5.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-pc-2.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "NY11 GM8802",
+    "sku_key": "NY11GM8802",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ny11-gm8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ny11-gm8802.html",
+        "title": "NY11 GM8802",
+        "rawSku": "NY11 GM8802",
+        "imageCount": 7
+      }
+    ]
+  }
+}

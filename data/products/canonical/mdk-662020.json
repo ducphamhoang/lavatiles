@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-mdk-662020",
+  "title": "Gạch Viglacera MDK 662020",
+  "product_info": {
+    "Mã sản phẩm": "MDK 662020",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "4 viên/ hộp",
+    "Bộ sưu tập": "MDK"
+  },
+  "description": "MDK 662020",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662020-azf2-050122-3-grey-22-5faces-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662020-azf2-050122-3-grey-22-5faces-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662020-azf2-050122-3-grey-22-5faces-3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662020-azf2-050122-3-grey-22-5faces-5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "MDK 662020",
+    "sku_key": "MDK662020",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/mdk-662020.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/mdk-662020.html",
+        "title": "MDK 662020",
+        "rawSku": "MDK 662020",
+        "imageCount": 4
+      }
+    ]
+  }
+}

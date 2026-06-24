@@ -5,3 +5,4 @@ https://vastastone.com/vi/bo-suu-tap/
 here are 3 website that we need to scrape data, and output like what in data/product/*.json
 
 Spawn multiple sub agents to work on 3 links in parallel, and scrape products on those links. Of course we need to go to each product details page to get info, so remember to create scripts to work on them.
+Remember to put the json files in seperate folders, like: data/product/viglaceratiles/, data/products/eurotile/, and so on

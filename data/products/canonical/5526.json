@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-5526",
+  "title": "Gạch Viglacera 5526",
+  "product_info": {
+    "Mã sản phẩm": "5526",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "5526",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5526/5526.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5526/5526-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "5526",
+    "sku_key": "5526",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/5526.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/5526.html",
+        "title": "5526",
+        "rawSku": "5526",
+        "imageCount": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-cb-p607",
+  "title": "Gạch Viglacera CB-P607",
+  "product_info": {
+    "Mã sản phẩm": "CB-P607",
+    "Kích thước": "60x60cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "BST Platinum"
+  },
+  "description": "Mã sản phẩm CB-P607",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CB-P607",
+    "sku_key": "CBP607",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cb-p607.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/cb-p607.html",
+        "title": "CB-P607",
+        "rawSku": "CB-P607",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-cl26-gp61213",
+  "title": "Gạch Viglacera CL26 GP61213",
+  "product_info": {
+    "Mã sản phẩm": "CL26 GP61213",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcerlain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "CL26 GP61213",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-3.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-4.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-5.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-6.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL26 GP61213",
+    "sku_key": "CL26GP61213",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl26-gp61213.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl26-gp61213.html",
+        "title": "CL26 GP61213",
+        "rawSku": "CL26 GP61213",
+        "imageCount": 6
+      }
+    ]
+  }
+}

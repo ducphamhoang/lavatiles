@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-sh-ce3601",
+  "title": "Gạch 30x60 Viglacera SH-CE3601",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE3601",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt men": "Men Bóng Polish",
+    "Bề mặt": "Glossy",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic",
+    "Đóng gói": "8 viên / hộp",
+    "Bộ sưu tập": "Sông Hồng",
+    "Màu sắc và họa tiết": "Vân đá ghi sáng tinh tế và tối giản"
+  },
+  "description": "SH-CE3601",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3601-1-2010.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z61917700912608f70b42c9c75e41393b857c4c352e1a3-6456.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-7-4548.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE3601",
+    "sku_key": "SHCE3601",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-ce3601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-ce3601.html",
+        "title": "SH-CE3601",
+        "rawSku": "SH-CE3601",
+        "imageCount": 0
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-30x60-viglacera-sh-ce3601.json",
+        "title": "Gạch 30x60 Viglacera SH-CE3601",
+        "rawSku": "SH-CE3601",
+        "imageCount": 24
+      }
+    ]
+  }
+}

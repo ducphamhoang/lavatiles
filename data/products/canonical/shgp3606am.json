@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-shgp3606am",
+  "title": "Gạch Viglacera SHGP3606AM",
+  "product_info": {
+    "Mã sản phẩm": "SHGP3606AM",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SHGP3606AM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3606/shgp3606am.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SHGP3606AM",
+    "sku_key": "SHGP3606AM",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/shgp3606am.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3606am.html",
+        "title": "SHGP3606AM",
+        "rawSku": "SHGP3606AM",
+        "imageCount": 1
+      }
+    ]
+  }
+}

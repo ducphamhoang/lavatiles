@@ -1,0 +1,59 @@
+{
+  "canonical_id": "viglacera-shgp3608a",
+  "title": "Gạch 30x60 Viglacera SH-GP3608A",
+  "product_info": {
+    "Mã sản phẩm": "SHGP3608A",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt men": "Men Bóng Polish",
+    "Bề mặt": "Polish",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng",
+    "Màu sắc và họa tiết": "Vân đá ghi sáng tinh tế và tối giản"
+  },
+  "description": "Mã sản phẩm: SHGP3608A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3608/shgp3608a.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-gp3608am-8391.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/30x60-16-5770.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9124.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SHGP3608A",
+    "sku_key": "SHGP3608A",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/shgp3608a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/shgp3608a.html",
+        "title": "SHGP3608A",
+        "rawSku": "SHGP3608A",
+        "imageCount": 1
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-30x60-viglacera-sh-gp3608a.json",
+        "title": "Gạch 30x60 Viglacera SH-GP3608A",
+        "rawSku": "SH-GP3608A",
+        "imageCount": 24
+      }
+    ]
+  }
+}

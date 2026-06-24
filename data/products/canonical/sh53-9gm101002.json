@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-sh53-9gm101002",
+  "title": "Gạch Viglacera SH53-9GM101002",
+  "product_info": {
+    "Mã sản phẩm": "SH53-9GM101002",
+    "Kích thước": "100x100 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH53-9GM101002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101002/sh53-9gm101002-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101002/sh53-9gm101002-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101002/sh53-9gm101002-c.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH53-9GM101002",
+    "sku_key": "SH539GM101002",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh53-9gm101002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh53-9gm101002.html",
+        "title": "SH53-9GM101002",
+        "rawSku": "SH53-9GM101002",
+        "imageCount": 3
+      }
+    ]
+  }
+}

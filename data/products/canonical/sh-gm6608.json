@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-sh-gm6608",
+  "title": "Gạch Viglacera SH-GM6608",
+  "product_info": {
+    "Mã sản phẩm": "SH-GM6608",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "60 x 60 cm",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm：SH-GM6608",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f5.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GM6608",
+    "sku_key": "SHGM6608",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gm6608.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gm6608.html",
+        "title": "SH-GM6608",
+        "rawSku": "SH-GM6608",
+        "imageCount": 5
+      }
+    ]
+  }
+}

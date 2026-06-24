@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-az8-gm8804",
+  "title": "Gạch Viglacera AZ8 GM8804",
+  "product_info": {
+    "Mã sản phẩm": "AZ8 GM8804",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "3 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ8 GM8804",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ8 GM8804",
+    "sku_key": "AZ8GM8804",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az8-gm8804.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az8-gm8804.html",
+        "title": "AZ8 GM8804",
+        "rawSku": "AZ8 GM8804",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-garni-gorge",
+  "title": "Garni Gorge",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Garni Gorge"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Garni Gorge",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Các sắc xám đậm kết hợp với vân đá nhẹ nhàng gợi lên vẻ đẹp gồ ghề của những hẻm núi tự nhiên, tạo cảm giác uy nghiêm và bí ẩn cho bất kỳ không gian nào. Thiết kế này mang lại thẩm mỹ táo bạo và khác biệt, lý tưởng để trở thành tâm điểm của nội thất. Sức mạnh và độ bền của nó làm cho sản phẩm này hoàn hảo cho các khu vực đòi hỏi độ bền cao và sử dụng thường xuyên. Kết hợp giữa thẩm mỹ hiện đại và chức năng tuyệt vời, đây là lựa chọn hoàn hảo cho các dự án kiến trúc tham vọng. KÍCH THƯỚC 120×280 cm BỀ MẶT MỜ MỊN BÓNG THICKNESSES 9mm 15mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2024/10/GARNI-GORGE-GAG09E-DM-VASTA-ESSENTIALS.jpg",
+    "https://vastastone.com/wp-content/uploads/2024/10/16-2.jpg",
+    "https://vastastone.com/wp-content/uploads/2024/10/15-2.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/garni-gorge.json",
+    "url": "https://vastastone.com/vi/collection/garni-gorge/",
+    "title": "Garni Gorge",
+    "rawSku": "Garni Gorge",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

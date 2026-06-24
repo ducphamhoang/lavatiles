@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-kt-ce3609d1",
+  "title": "Gạch Viglacera KT-CE3609D1",
+  "product_info": {
+    "Mã sản phẩm": "KT-CE3609D1",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Glossy",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KT-CE3609D1",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-ce3609d1/kt-ce3609d1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT-CE3609D1",
+    "sku_key": "KTCE3609D1",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt-ce3609d1.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt-ce3609d1.html",
+        "title": "KT-CE3609D1",
+        "rawSku": "KT-CE3609D1",
+        "imageCount": 1
+      }
+    ]
+  }
+}

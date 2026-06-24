@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-tsmt601",
+  "title": "Gạch Viglacera TSMT601",
+  "product_info": {
+    "Mã sản phẩm": "TSMT601",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt tráng",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Color body)"
+  },
+  "description": "TSMT601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt601/ts-mt601-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt601/ts-mt601.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TSMT601",
+    "sku_key": "TSMT601",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tsmt601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tsmt601.html",
+        "title": "TSMT601",
+        "rawSku": "TSMT601",
+        "imageCount": 2
+      }
+    ]
+  }
+}

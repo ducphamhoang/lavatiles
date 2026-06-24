@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-sh-ce3621v",
+  "title": "Gạch 30x60 Viglacera SH-CE3621V",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE3621V",
+    "Loại sản phẩm": "Gạch ốp lát 30x60",
+    "Kích thước": "30X60cm",
+    "Bề mặt men": "Men Bóng Polish",
+    "Bề mặt": "Men bóng (Polish) dễ vệ sinh, không bám bẩn, không rêu mốc, chống trầy xước hiệu quả",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "8 viên/hộp",
+    "Giá": "Liên hệ",
+    "Màu sắc và họa tiết": "Vân đá ghi sáng tinh tế và tối giản"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shce-3621v-2602.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE3621V",
+    "sku_key": "SHCE3621V",
+    "brand": "Viglacera",
+    "category_slug": "gach",
+    "category_label": "Gạch",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-30x60-viglacera-sh-ce3621v.json",
+        "title": "Gạch 30x60 Viglacera SH-CE3621V",
+        "rawSku": "SH-CE3621V",
+        "imageCount": 21
+      }
+    ]
+  }
+}

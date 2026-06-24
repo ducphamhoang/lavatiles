@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-cl25-gsmc121202",
+  "title": "Gạch Viglacera CL25-GSMC121202",
+  "product_info": {
+    "Mã sản phẩm": "CL25-GSMC121202",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL25-GSMC121202",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL25-GSMC121202",
+    "sku_key": "CL25GSMC121202",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl25-gsmc121202.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl25-gsmc121202.html",
+        "title": "CL25-GSMC121202",
+        "rawSku": "CL25-GSMC121202",
+        "imageCount": 6
+      }
+    ]
+  }
+}

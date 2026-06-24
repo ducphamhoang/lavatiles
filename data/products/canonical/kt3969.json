@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-kt3969",
+  "title": "Gạch Viglacera KT3969",
+  "product_info": {
+    "Mã sản phẩm": "KT3969",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Glossy",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "KT3969",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3969.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KT3969",
+    "sku_key": "KT3969",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/kt3969.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/kt3969.html",
+        "title": "KT3969",
+        "rawSku": "KT3969",
+        "imageCount": 1
+      }
+    ]
+  }
+}

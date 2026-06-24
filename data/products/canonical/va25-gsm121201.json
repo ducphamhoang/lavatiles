@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-va25-gsm121201",
+  "title": "Gạch Viglacera VA25-GSM121201",
+  "product_info": {
+    "Mã sản phẩm": "VA25-GSM121201",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VA25-GSM121201",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VA25-GSM121201",
+    "sku_key": "VA25GSM121201",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/va25-gsm121201.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/va25-gsm121201.html",
+        "title": "VA25-GSM121201",
+        "rawSku": "VA25-GSM121201",
+        "imageCount": 6
+      }
+    ]
+  }
+}

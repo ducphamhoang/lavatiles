@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-h515",
+  "title": "Gạch Viglacera H515",
+  "product_info": {
+    "Mã sản phẩm": "H515",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "H515",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h515/h515.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h515/h515-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "H515",
+    "sku_key": "H515",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/h515.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/h515.html",
+        "title": "H515",
+        "rawSku": "H515",
+        "imageCount": 2
+      }
+    ]
+  }
+}

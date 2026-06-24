@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-ubs-4604",
+  "title": "Gạch Viglacera UBS 4604",
+  "product_info": {
+    "Mã sản phẩm": "UBS 4604",
+    "Kích thước": "40x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "DÒNG SẢN PHẨM": "GẠCH UNO"
+  },
+  "description": "UBS 4604",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4604-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4604-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4604-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4604-f4.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UBS 4604",
+    "sku_key": "UBS4604",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ubs-4604.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ubs-4604.html",
+        "title": "UBS 4604",
+        "rawSku": "UBS 4604",
+        "imageCount": 4
+      }
+    ]
+  }
+}

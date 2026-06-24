@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vvgp8805",
+  "title": "Gạch Viglacera VVGP8805",
+  "product_info": {
+    "Mã sản phẩm": "VVGP8805",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VVGP8805",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8805/screenshot-2022-07-01-111149.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8805/screenshot-2022-07-01-111225.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8805/screenshot-2022-07-01-111236.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VVGP8805",
+    "sku_key": "VVGP8805",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vvgp8805.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vvgp8805.html",
+        "title": "VVGP8805",
+        "rawSku": "VVGP8805",
+        "imageCount": 3
+      }
+    ]
+  }
+}

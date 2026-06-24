@@ -1,0 +1,62 @@
+{
+  "canonical_id": "viglacera-sh3-m121202",
+  "title": "Gạch lát nền 120x120 Viglacera SH3-M121202",
+  "product_info": {
+    "Mã sản phẩm": "SH3-M121202",
+    "Kích thước": "120x120 cm",
+    "Bề mặt men": "Men Bóng",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Xương gạch": "Granite",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Ốp tường, Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "2 viên/hộp",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Sông Hồng",
+    "Màu sắc và họa tiết": "Vân đá tinh tế và sang trọng"
+  },
+  "description": "SH3-M121202",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-e.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh3-m121202-a-1-2279.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z596155633760762133e56c0c60a78c7642ed076fe405a-1116.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/120x120-2-2493.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH3-M121202",
+    "sku_key": "SH3M121202",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh3-m121202.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh3-m121202.html",
+        "title": "SH3-M121202",
+        "rawSku": "SH3-M121202",
+        "imageCount": 5
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-120x120-viglacera-sh3-m121202.json",
+        "title": "Gạch lát nền 120x120 Viglacera SH3-M121202",
+        "rawSku": "SH3-M121202",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-cl52-9gp101002",
+  "title": "Gạch Viglacera CL52-9GP101002",
+  "product_info": {
+    "Mã sản phẩm": "CL52-9GP101002",
+    "Kích thước": "100 x 100 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm CL52-9GP101002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-12.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-3-copy.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/1703238756908502.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL52-9GP101002",
+    "sku_key": "CL529GP101002",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl52-9gp101002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl52-9gp101002.html",
+        "title": "CL52-9GP101002",
+        "rawSku": "CL52-9GP101002",
+        "imageCount": 7
+      }
+    ]
+  }
+}

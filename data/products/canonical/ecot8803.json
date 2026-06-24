@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ecot8803",
+  "title": "Gạch Viglacera ECOT8803",
+  "product_info": {
+    "Mã sản phẩm": "ECOT8803",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "ECOT8803",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecot8803/eco-t8803-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecot8803/eco-t8803.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ECOT8803",
+    "sku_key": "ECOT8803",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ecot8803.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ecot8803.html",
+        "title": "ECOT8803",
+        "rawSku": "ECOT8803",
+        "imageCount": 2
+      }
+    ]
+  }
+}

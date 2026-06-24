@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-h-s206",
+  "title": "Gạch Viglacera H-S206",
+  "product_info": {
+    "Mã sản phẩm": "H-S206",
+    "Kích thước": "20 x 20 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "H-S206",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s206/h-s206resize-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s206/h-s206.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "H-S206",
+    "sku_key": "HS206",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/h-s206.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/h-s206.html",
+        "title": "H-S206",
+        "rawSku": "H-S206",
+        "imageCount": 2
+      }
+    ]
+  }
+}

@@ -20,6 +20,7 @@
   ];
 
   var generatedProducts = window.LavatileGeneratedProducts || null;
+  var generatedFacets = window.LavatileProductFacets || null;
   var activeProducts = generatedProducts || products;
   var filterKeys = generatedProducts ? ['finish', 'category', 'size', 'placement'] : ['finish', 'color', 'size', 'placement'];
   var searchFields = generatedProducts ? ['code', 'title', 'collection', 'category', 'size', 'country', 'placement'] : ['code', 'collection', 'color', 'size', 'country'];
@@ -35,6 +36,81 @@
       .replace(/>/g, '&gt;')
       .replace(/"/g, '&quot;')
       .replace(/'/g, '&#39;');
+  }
+
+  function slugify(value) {
+    return String(value == null ? '' : value)
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/đ/g, 'd')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-+|-+$/g, '')
+      .replace(/-+/g, '-');
+  }
+
+  function filterButtonMarkup(group, item) {
+    return '<button type="button" class="pd-chip" data-filter-group="' + escapeHtml(group) + '" data-filter-value="' + escapeHtml(item.value) + '">' + escapeHtml(item.label) + '</button>';
+  }
+
+  function filterCheckboxMarkup(group, item) {
+    var id = 'pd-' + group + '-' + slugify(item.value);
+    return '<label for="' + escapeHtml(id) + '"><input id="' + escapeHtml(id) + '" type="checkbox" data-filter-group="' + escapeHtml(group) + '" value="' + escapeHtml(item.value) + '"> ' + escapeHtml(item.label) + '</label>';
+  }
+
+  function renderGeneratedFilters() {
+    if (!generatedFacets) return;
+    var config = {
+      finish: { values: generatedFacets.finishes || [], markup: filterCheckboxMarkup },
+      category: { values: generatedFacets.categories || [], markup: filterButtonMarkup },
+      size: { values: generatedFacets.sizes || [], markup: filterButtonMarkup },
+      placement: { values: generatedFacets.placements || [], markup: filterButtonMarkup }
+    };
+
+    Object.keys(config).forEach(function (group) {
+      var target = document.querySelector('[data-generated-filter-list="' + group + '"]');
+      if (!target || !config[group].values.length) return;
+      target.innerHTML = config[group].values.map(function (item) {
+        return config[group].markup(group, item);
+      }).join('');
+    });
+  }
+
+  function valuesFromQuery(group) {
+    var params = new URLSearchParams(window.location.search);
+    var rawValues = params.getAll(group).concat(params.getAll(group + '[]'));
+    var values = [];
+    rawValues.forEach(function (raw) {
+      raw.split(',').forEach(function (value) {
+        var normalized = value.trim();
+        if (normalized) values.push(normalized);
+      });
+    });
+    return values;
+  }
+
+  function matchFacetValues(group, rawValues) {
+    var facetKey = group === 'category' ? 'categories' : group + 's';
+    var facets = generatedFacets && generatedFacets[facetKey] || [];
+    return rawValues.map(function (raw) {
+      var rawSlug = slugify(raw);
+      var match = facets.find(function (item) {
+        return item.value === raw || item.label === raw || item.slug === raw || slugify(item.value) === rawSlug || slugify(item.label) === rawSlug;
+      });
+      return match ? match.value : raw;
+    });
+  }
+
+  function initialFiltersFromQuery() {
+    var params = new URLSearchParams(window.location.search);
+    var initial = {};
+    filterKeys.forEach(function (group) {
+      initial[group] = matchFacetValues(group, valuesFromQuery(group));
+    });
+    if (params.has('search')) {
+      initial.search = params.get('search') || '';
+    }
+    return initial;
   }
 
   function mediaMarkup(product) {
@@ -73,11 +149,14 @@
 
   if (!window.VCProductFilter) return;
 
+  renderGeneratedFilters();
+
   window.VCProductFilter.init({
     products: activeProducts,
     filterKeys: filterKeys,
     searchFields: searchFields,
     cardMarkup: cardMarkup,
+    initialFilters: initialFiltersFromQuery(),
     initialLimit: generatedProducts ? 12 : 8,
     loadStep: generatedProducts ? 12 : 4
   });

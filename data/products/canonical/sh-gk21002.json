@@ -1,0 +1,46 @@
+{
+  "canonical_id": "viglacera-sh-gk21002",
+  "title": "Gạch Viglacera SH-GK21002",
+  "product_info": {
+    "Mã sản phẩm": "SH-GK21002",
+    "Kích thước": "20 x 100 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-GK21002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-d.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-e.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-f.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-g.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-i.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002h.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-v3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-v3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GK21002",
+    "sku_key": "SHGK21002",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gk21002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gk21002.html",
+        "title": "SH-GK21002",
+        "rawSku": "SH-GK21002",
+        "imageCount": 8
+      }
+    ]
+  }
+}

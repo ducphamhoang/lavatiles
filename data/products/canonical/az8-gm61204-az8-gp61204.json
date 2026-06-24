@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-az8-gm61204-az8-gp61204",
+  "title": "Gạch Viglacera AZ8 GM61204/ AZ8 GP61204",
+  "product_info": {
+    "Mã sản phẩm": "AZ8 GM61204/ AZ8 GP61204",
+    "Kích thước": "60 x 120 cm",
+    "Bề mặt": "Matt/ Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Đóng gói": "2 viên/ hộp",
+    "Bộ sưu tập": "Arizona"
+  },
+  "description": "AZ8 GM61204/ AZ8 GP61204",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "AZ8 GM61204/ AZ8 GP61204",
+    "sku_key": "AZ8GM61204AZ8GP61204",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/az8-gm61204-az8-gp61204.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/az8-gm61204-az8-gp61204.html",
+        "title": "AZ8 GM61204/ AZ8 GP61204",
+        "rawSku": "AZ8 GM61204/ AZ8 GP61204",
+        "imageCount": 0
+      }
+    ]
+  }
+}

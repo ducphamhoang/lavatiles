@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-b4501",
+  "title": "Gạch Viglacera B4501",
+  "product_info": {
+    "Mã sản phẩm": "B4501",
+    "Kích thước": "30 x 45 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "B4501",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4501/b4501b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4501/b4501.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "B4501",
+    "sku_key": "B4501",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/b4501.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/b4501.html",
+        "title": "B4501",
+        "rawSku": "B4501",
+        "imageCount": 2
+      }
+    ]
+  }
+}

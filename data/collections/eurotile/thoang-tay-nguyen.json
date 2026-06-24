@@ -1,0 +1,40 @@
+{
+  "collection_id": "eurotile-thoang-tay-nguyen",
+  "title": "Thoáng tây nguyên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "TTN Q01TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "TTN Q01TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Giữa dấu ấn M’nông cổ xưa, vang vọng tiếng đại ngàn thuở đất trời còn nguyên sơ. Hoa văn vòng tròn, gân sóng, dải thổ cẩm như tái hiện cội nguồn Tây Nguyên bằng ngôn ngữ thiết kế đương đại. Nơi lịch sử và tương lai cùng in sâu trong từng hoa văn chạm khắc.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q-thongsokythuat-xong-09.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/QRThoang-tay-nguyen.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thoang-tay-nguyen.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thoang-tay-nguyen.html",
+    "title": "Thoáng tây nguyên",
+    "rawSku": "TTN Q01TF",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

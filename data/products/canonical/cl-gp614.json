@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-cl-gp614",
+  "title": "Gạch Viglacera CL-GP614",
+  "product_info": {
+    "Mã sản phẩm": "CL-GP614",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "CL-GP614",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-GP614",
+    "sku_key": "CLGP614",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-gp614.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-gp614.html",
+        "title": "CL-GP614",
+        "rawSku": "CL-GP614",
+        "imageCount": 0
+      }
+    ]
+  }
+}

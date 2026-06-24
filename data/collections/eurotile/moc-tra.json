@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-moc-tra",
+  "title": "Mộc Trà",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "MTR A01C",
+    "MTR A02C",
+    "MTR A03C"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "MTR A01C, MTR A02C, MTR A03C",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC A",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mộc Trà đưa ta về nơi buổi chiều yên tĩnh, ánh nắng chiếu rọi qua mái hiên gỗ, thoảng mùi hương dịu nhẹ. Khoảnh khắc ấy mọi thứ như chậm lại, lòng người bỗng lặng yên, để lại một khoảng lặng nhỏ nhưng đủ làm dịu cả ngày dài.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A01C.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A02C.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A03C.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/mtr-a01c/CB.MTR-A01C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/mtr-a02c/CB.MTR-A02C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/mtr-a03c/CB.MTR-A03C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-thongsokythuat-09.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/moc-tra.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/moc-tra.html",
+    "title": "Mộc Trà",
+    "rawSku": "MTR A01C, MTR A02C, MTR A03C",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

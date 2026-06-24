@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vig-gp883025",
+  "title": "Gạch Viglacera VIG-GP883025",
+  "product_info": {
+    "Mã sản phẩm": "VIG-GP883025",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIG-GP883025",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883025/screenshot-2023-05-06-110009.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883025/screenshot-2023-05-06-110033.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883025/screenshot-2023-05-06-110045.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIG-GP883025",
+    "sku_key": "VIGGP883025",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vig-gp883025.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vig-gp883025.html",
+        "title": "VIG-GP883025",
+        "rawSku": "VIG-GP883025",
+        "imageCount": 3
+      }
+    ]
+  }
+}

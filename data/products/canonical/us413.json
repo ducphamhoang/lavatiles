@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-us413",
+  "title": "Gạch Viglacera US413",
+  "product_info": {
+    "Mã sản phẩm": "US413",
+    "Kích thước": "40 x 40 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: US413",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us413.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "US413",
+    "sku_key": "US413",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/us413.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/us413.html",
+        "title": "US413",
+        "rawSku": "US413",
+        "imageCount": 1
+      }
+    ]
+  }
+}

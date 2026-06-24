@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-dang-nguyen",
+  "title": "Đăng Nguyên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "DAN N01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "DAN N01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Trên con thuyền ký ức, ta thả hồn trôi theo dòng thời gian. Những ước mơ, khát vọng, hoài niệm đẹp đẽ, tất cả như cánh chim bay về cội nguồn. Thấy đôi mắt trẻ thơ là ánh sáng thuần khiết, trong sáng và hồn nhiên.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/NEN-DAN.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-7.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-8.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/NEN-DAN1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/DAN-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/DAN-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/dang-nguyen.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/dang-nguyen.html",
+    "title": "Đăng Nguyên",
+    "rawSku": "DAN N01P",
+    "imageCount": 11
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

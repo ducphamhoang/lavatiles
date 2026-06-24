@@ -2,10 +2,14 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
-const DATA_DIR = path.join(ROOT_DIR, 'data/products');
+const RAW_DATA_DIR = path.join(ROOT_DIR, 'data/products');
+const CANONICAL_DATA_DIR = path.join(RAW_DATA_DIR, 'canonical');
+const DATA_DIR = fs.existsSync(path.join(CANONICAL_DATA_DIR, 'products-tree.json')) ? CANONICAL_DATA_DIR : RAW_DATA_DIR;
+const COLLECTIONS_INDEX_PATH = path.join(ROOT_DIR, 'data/collections/collections-index.json');
 const TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/product-detail.html');
 const OUTPUT_ROOT = path.join(ROOT_DIR, 'san-pham/gach-op-lat');
 const MANIFEST_PATH = path.join(ROOT_DIR, 'js/generated-products.js');
+const COLLECTIONS_MANIFEST_PATH = path.join(ROOT_DIR, 'js/generated-collections.js');
 const ROOT_FROM_DETAIL = '../../..';
 const LISTING_FROM_DETAIL = '../index.html';
 
@@ -16,6 +20,13 @@ const CATEGORY_LABELS = {
   'ngoi-song': 'Ngói sóng',
   'gach-40x80': 'Gạch 40x80',
   'gach-40x60': 'Gạch 40x60',
+  'gach-op-lat': 'Gạch ốp lát',
+  'san-pham-khac': 'Sản phẩm khác',
+  'bst-song-hong': 'BST Sông Hồng',
+  'bst-cuu-long': 'BST Cửu Long',
+  'bo-suu-tap-platinum': 'Bộ sưu tập Platinum',
+  'united-tiles-1': 'United Tiles',
+  'porcelain-kho-lon': 'Porcelain khổ lớn',
   gach: 'Gạch',
 };
 
@@ -113,6 +124,9 @@ function buildCategoryMap() {
       if (key) {
         map.set(key, category);
       }
+      if (product.canonical && product.canonical.sku_key) {
+        map.set(`sku:${product.canonical.sku_key}`, category);
+      }
     });
   });
   return map;
@@ -128,14 +142,18 @@ function valueFromInfo(info, keys) {
 
 function normalizedFinish(info) {
   const raw = valueFromInfo(info, ['Bề mặt men', 'Bề mặt']);
-  if (/bóng/i.test(raw)) return 'Bóng';
-  if (/mờ|matte/i.test(raw)) return 'Mờ';
+  if (/^\d+\s*x\s*\d+/i.test(raw) || /\bcm\b/i.test(raw)) return 'Đang cập nhật';
+  if (/porcelain/i.test(raw)) return 'Đang cập nhật';
+  if (/bóng|glossy|polish/i.test(raw)) return 'Bóng';
+  if (/mờ|matte|matt/i.test(raw)) return 'Mờ';
+  if (/nhám/i.test(raw)) return 'Nhám';
   return raw || 'Đang cập nhật';
 }
 
 function normalizedSize(info) {
   return valueFromInfo(info, ['Kích thước'])
     .replace(/\s+/g, '')
+    .replace(/×/g, 'x')
     .replace(/X/g, 'x') || 'Đang cập nhật';
 }
 
@@ -158,8 +176,16 @@ function productImages(images) {
     const src = cleanText(image);
     if (!src || seen.has(src)) return false;
     seen.add(src);
-    return /\/thumbs\/480x381x2\/upload\/product\//.test(src) || /\/upload\/product\//.test(src) && !/\/thumbs\/(?:37x37x2|277x220x2)\//.test(src);
+    if (!/\.(?:avif|webp|png|jpe?g)(?:$|\?)/i.test(src)) return false;
+    if (/logo|favicon|apple-touch-icon|zalo|icon|captcha|qrcode|qr-code|\/qr[-_0-9]/i.test(src)) return false;
+    return true;
   }).slice(0, 6);
+}
+
+function sourceImage(image) {
+  return cleanText(image)
+    .replace(/\\/g, '/')
+    .replace(/-\d+x\d+(?=\.(?:png|jpe?g|webp|avif)(?:$|\?))/i, '');
 }
 
 function galleryMarkup(product, images) {
@@ -238,6 +264,18 @@ function detailPanel(info, category) {
   return rows.join('\n            ');
 }
 
+function productCategory(product, info, categoryMap) {
+  if (product.canonical && product.canonical.category_slug) {
+    return product.canonical.category_slug;
+  }
+  const skuKey = product.canonical && product.canonical.sku_key;
+  if (skuKey && categoryMap.has(`sku:${skuKey}`)) {
+    return categoryMap.get(`sku:${skuKey}`);
+  }
+  const titleKey = cleanText(product.title).toLowerCase();
+  return categoryMap.get(titleKey) || inferCategory(product.title);
+}
+
 function metaDescription(product, info, category) {
   const code = valueFromInfo(info, ['Mã sản phẩm']);
   const size = valueFromInfo(info, ['Kích thước']);
@@ -260,11 +298,57 @@ function renderTemplate(template, replacements) {
   }, template);
 }
 
+function uniqueSorted(values) {
+  return Array.from(new Set(values.map(cleanText).filter(Boolean))).sort((a, b) => a.localeCompare(b, 'vi'));
+}
+
+function buildFacets(manifest) {
+  return {
+    categories: uniqueSorted(manifest.map((product) => product.category)).map((label) => {
+      const product = manifest.find((item) => item.category === label);
+      return { label, value: label, slug: product ? product.categorySlug : slugify(label) };
+    }),
+    finishes: uniqueSorted(manifest.map((product) => product.finish)).map((label) => ({ label, value: label })),
+    sizes: uniqueSorted(manifest.map((product) => product.size)).map((label) => ({ label, value: label })),
+    placements: uniqueSorted(manifest.flatMap((product) => product.placement)).map((label) => ({ label, value: label })),
+  };
+}
+
+function buildCollectionsManifest() {
+  if (!fs.existsSync(COLLECTIONS_INDEX_PATH)) {
+    return [];
+  }
+
+  const index = readJson(COLLECTIONS_INDEX_PATH);
+  return Object.entries(index).flatMap(([source, collections]) => {
+    return Object.entries(collections).map(([slug, item]) => {
+      const collectionPath = path.join(ROOT_DIR, item.file);
+      const collection = fs.existsSync(collectionPath) ? readJson(collectionPath) : {};
+      const images = productImages(collection.images || []);
+      return {
+        title: item.title,
+        brand: item.brand,
+        type: item.type,
+        source,
+        slug,
+        image: sourceImage(images[0] || ''),
+        images: images.map(sourceImage),
+        description: cleanText(collection.description || ''),
+        productInfo: collection.product_info || {},
+        productCodes: item.product_codes || [],
+        detailUrl: `bo-suu-tap.html?source=${encodeURIComponent(source)}&collection=${encodeURIComponent(slug)}`,
+        sourceUrl: collection.source_ref && collection.source_ref.url || '',
+      };
+    });
+  }).filter((collection) => collection.title)
+    .sort((a, b) => a.brand.localeCompare(b.brand, 'vi') || a.title.localeCompare(b.title, 'vi'));
+}
+
 function main() {
   const template = fs.readFileSync(TEMPLATE_PATH, 'utf8');
   const categoryMap = buildCategoryMap();
   const files = fs.readdirSync(DATA_DIR)
-    .filter((file) => file.endsWith('.json') && file !== 'products-tree.json')
+    .filter((file) => file.endsWith('.json') && !['products-tree.json', '_dedup-report.json'].includes(file))
     .sort();
 
   const manifest = [];
@@ -274,8 +358,7 @@ function main() {
   files.forEach((file) => {
     const product = readJson(path.join(DATA_DIR, file));
     const info = product.product_info || {};
-    const titleKey = cleanText(product.title).toLowerCase();
-    const category = categoryMap.get(titleKey) || inferCategory(product.title);
+    const category = productCategory(product, info, categoryMap);
     const categorySlug = slugify(category);
     const outputDir = path.join(OUTPUT_ROOT, categorySlug);
     const outputName = file.replace(/\.json$/, '.html');
@@ -325,6 +408,8 @@ function main() {
 
   const manifestJs = [
     '// Generated by script/generate-product-pages.js. Do not edit by hand.',
+    `window.LavatileProductDataSource = ${JSON.stringify(path.relative(ROOT_DIR, DATA_DIR))};`,
+    `window.LavatileProductFacets = ${JSON.stringify(buildFacets(manifest), null, 2)};`,
     'window.LavatileGeneratedProducts = ',
     JSON.stringify(manifest, null, 2),
     ';',
@@ -333,8 +418,20 @@ function main() {
 
   fs.writeFileSync(MANIFEST_PATH, manifestJs, 'utf8');
 
+  const collections = buildCollectionsManifest();
+  const collectionsJs = [
+    '// Generated by script/generate-product-pages.js. Do not edit by hand.',
+    'window.LavatileGeneratedCollections = ',
+    JSON.stringify(collections, null, 2),
+    ';',
+    '',
+  ].join('\n');
+
+  fs.writeFileSync(COLLECTIONS_MANIFEST_PATH, collectionsJs, 'utf8');
+
   console.log(`Generated ${files.length} product detail pages.`);
   console.log(`Manifest: ${path.relative(ROOT_DIR, MANIFEST_PATH)} (${manifest.length} products)`);
+  console.log(`Collections manifest: ${path.relative(ROOT_DIR, COLLECTIONS_MANIFEST_PATH)} (${collections.length} collections)`);
   console.log(`Products without product images: ${missingImages}`);
   console.log(`Products without explicit SKU: ${missingCode}`);
 }

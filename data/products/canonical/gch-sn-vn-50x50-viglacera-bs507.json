@@ -1,0 +1,54 @@
+{
+  "canonical_id": "viglacera-bs507",
+  "title": "Gạch sân vườn 50x50 Viglacera BS507",
+  "product_info": {
+    "Mã sản phẩm": "BS507",
+    "Loại sản phẩm": "Gạch sân vườn 50x50",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Matt",
+    "Loại gạch": "Semi Porcelain",
+    "Họa tiết": "Trang trí",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Xuất xứ": "Việt Nam​",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "BS507",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs507/bs507.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs507/bs507-1.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs507-1-4308.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS507",
+    "sku_key": "BS507",
+    "brand": "Viglacera",
+    "category_slug": "gach-san-vuon",
+    "category_label": "Gạch sân vườn",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs507.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs507.html",
+        "title": "BS507",
+        "rawSku": "BS507",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-sn-vn-50x50-viglacera-bs507.json",
+        "title": "Gạch sân vườn 50x50 Viglacera BS507",
+        "rawSku": "BS507",
+        "imageCount": 21
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-f3618",
+  "title": "Gạch Viglacera F3618",
+  "product_info": {
+    "Mã sản phẩm": "F3618",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "F3618",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3618/f-36182.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3618/f-3618.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "F3618",
+    "sku_key": "F3618",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/f3618.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/f3618.html",
+        "title": "F3618",
+        "rawSku": "F3618",
+        "imageCount": 2
+      }
+    ]
+  }
+}

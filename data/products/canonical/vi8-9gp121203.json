@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vi8-9gp121203",
+  "title": "Gạch Viglacera VI8-9GP121203",
+  "product_info": {
+    "Mã sản phẩm": "VI8-9GP121203",
+    "Kích thước": "120x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "VI8-9GP121203",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi8-9gp121203/vi8-9gp121203-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi8-9gp121203/vi8-9gp121203-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi8-9gp121203/vi8-9gp121203-c.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI8-9GP121203",
+    "sku_key": "VI89GP121203",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi8-9gp121203.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vi8-9gp121203.html",
+        "title": "VI8-9GP121203",
+        "rawSku": "VI8-9GP121203",
+        "imageCount": 3
+      }
+    ]
+  }
+}

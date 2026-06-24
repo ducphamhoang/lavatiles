@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-atp1-364a",
+  "title": "Gạch Viglacera ATP1-364A",
+  "product_info": {
+    "Mã sản phẩm": "ATP1-364A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "ATP1-364A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-364a/atp1-364a1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-364a/atp1-364a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ATP1-364A",
+    "sku_key": "ATP1364A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/atp1-364a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/atp1-364a.html",
+        "title": "ATP1-364A",
+        "rawSku": "ATP1-364A",
+        "imageCount": 2
+      }
+    ]
+  }
+}

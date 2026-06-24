@@ -1,0 +1,40 @@
+{
+  "collection_id": "eurotile-hoa-trong-gio-lang",
+  "title": "Hoa trong gió lặng",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HTG Q01TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HTG Q01TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "\"Hoa Trong Gió Lặng\" không nghiêng mình theo gió, mà đứng yên lắng nghe lời thì thầm của đất. Mỗi cánh hoa là một miền hồi ức, có đóa vàng nhuốm màu nắng xưa, đóa xanh ươm niềm hy vọng, và cả khoảng lặng của riêng mình.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/minhhoa-HTG.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q-thongsokythuat-09.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/QRHoa-trong-gio-lang.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hoa-trong-gio-lang.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hoa-trong-gio-lang.html",
+    "title": "Hoa trong gió lặng",
+    "rawSku": "HTG Q01TF",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

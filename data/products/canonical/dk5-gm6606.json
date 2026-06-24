@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-dk5-gm6606",
+  "title": "Gạch Viglacera DK5-GM6606",
+  "product_info": {
+    "Mã sản phẩm": "DK5-GM6606",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "DK5-GM6606",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-b-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "DK5-GM6606",
+    "sku_key": "DK5GM6606",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/dk5-gm6606.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/dk5-gm6606.html",
+        "title": "DK5-GM6606",
+        "rawSku": "DK5-GM6606",
+        "imageCount": 6
+      }
+    ]
+  }
+}

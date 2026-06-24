@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-sh-gm3664a",
+  "title": "Gạch Viglacera SH-GM3664A",
+  "product_info": {
+    "Mã sản phẩm": "SH-GM3664A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH-GM3664A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3664a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-GM3664A",
+    "sku_key": "SHGM3664A",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-gm3664a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-gm3664a.html",
+        "title": "SH-GM3664A",
+        "rawSku": "SH-GM3664A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-ca18-gp8801",
+  "title": "Gạch Viglacera CA18-GP8801",
+  "product_info": {
+    "Mã sản phẩm": "CA18-GP8801",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "CALIFORNIA"
+  },
+  "description": "CA18-GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8801/ca18-gp8801-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8801/ca18-gp8801-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8801/ca18-gp8801-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca18-gp8801/ca18-gp8801-a-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CA18-GP8801",
+    "sku_key": "CA18GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ca18-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/ca18-gp8801.html",
+        "title": "CA18-GP8801",
+        "rawSku": "CA18-GP8801",
+        "imageCount": 4
+      }
+    ]
+  }
+}

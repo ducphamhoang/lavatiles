@@ -1,0 +1,36 @@
+{
+  "canonical_id": "viglacera-ts800-ts5-800",
+  "title": "Gạch Viglacera TS800 (TS5-800)",
+  "product_info": {
+    "Mã sản phẩm": "TS800 (TS5-800)",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain (Doublecharge)"
+  },
+  "description": "TS800 (TS5-800)",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS800 (TS5-800)",
+    "sku_key": "TS800TS5800",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts800-ts5-800.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts800-ts5-800.html",
+        "title": "TS800 (TS5-800)",
+        "rawSku": "TS800 (TS5-800)",
+        "imageCount": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "canonical_id": "viglacera-sh12-gp61203",
+  "title": "Gạch lát nền 60x120 Viglacera SH12_GP61203",
+  "product_info": {
+    "Mã sản phẩm": "SH12-GP61203",
+    "Loại sản phẩm": "Gạch ốp tường 60x120",
+    "Kích thước": "60x120 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Xương gạch": "Porcelain",
+    "Công nghệ sản xuất": "Châu Âu",
+    "Họa tiết": "Vân đá random",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Giá": "Liên hệ",
+    "Men gạch": "Men bóng",
+    "Đóng gói": "2 viên / hộp"
+  },
+  "description": "SH12-GP61203",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp61203-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp61203-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp61203-c.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612031.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612031.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612032.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612032.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612033.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp612033.webp",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh12-gp61203a-9995.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/60x120-8-6497.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-1501.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH12-GP61203",
+    "sku_key": "SH12GP61203",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh12-gp61203.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh12-gp61203.html",
+        "title": "SH12-GP61203",
+        "rawSku": "SH12-GP61203",
+        "imageCount": 9
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-60x120-viglacera-sh12gp61203.json",
+        "title": "Gạch lát nền 60x120 Viglacera SH12_GP61203",
+        "rawSku": "SH12_GP61203",
+        "imageCount": 24
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-sh-cm3601",
+  "title": "Gạch Viglacera SH-CM3601",
+  "product_info": {
+    "Mã sản phẩm": "SH-CM3601",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Ceramic",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "SH-CM3601",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3601-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3601-2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3601-3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CM3601",
+    "sku_key": "SHCM3601",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh-cm3601.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh-cm3601.html",
+        "title": "SH-CM3601",
+        "rawSku": "SH-CM3601",
+        "imageCount": 3
+      }
+    ]
+  }
+}

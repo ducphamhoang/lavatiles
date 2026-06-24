@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-sh5-gm4804",
+  "title": "Gạch 40x80 Viglacera SH5-GM4804",
+  "product_info": {
+    "Mã sản phẩm": "SH5-GM4804",
+    "Loại sản phẩm": "Gạch ốp lát 40x80",
+    "Kích thước": "40x80cm",
+    "Bề mặt men": "Men mờ Matt",
+    "Xương gạch": "Granite",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Ốp tường và lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "6 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh5-gm4805-a-5090.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/40x80-6-4662.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-6265.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH5-GM4804",
+    "sku_key": "SH5GM4804",
+    "brand": "Viglacera",
+    "category_slug": "gach-40x80",
+    "category_label": "Gạch 40x80",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-40x80-viglacera-sh5-gm4804.json",
+        "title": "Gạch 40x80 Viglacera SH5-GM4804",
+        "rawSku": "SH5-GM4804",
+        "imageCount": 24
+      }
+    ]
+  }
+}

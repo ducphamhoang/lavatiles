@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-asd4866gp",
+  "title": "Gạch Viglacera ASD4866GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD4866GP",
+    "Kích thước": "40x80 cm",
+    "Bề mặt": "Porcelain",
+    "Xương": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD4866GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD4866GP",
+    "sku_key": "ASD4866GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd4866gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd4866gp.html",
+        "title": "ASD4866GP",
+        "rawSku": "ASD4866GP",
+        "imageCount": 6
+      }
+    ]
+  }
+}

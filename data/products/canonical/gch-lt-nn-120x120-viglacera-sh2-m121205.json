@@ -1,0 +1,61 @@
+{
+  "canonical_id": "viglacera-sh2-m121205",
+  "title": "Gạch lát nền 120x120 Viglacera SH2-M121205",
+  "product_info": {
+    "Mã sản phẩm": "SH2-M121205",
+    "Kích thước": "120x120 cm",
+    "Bề mặt men": "Men matt",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Xương gạch": "Granite",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Ứng dụng": "Ốp tường, Lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "2 viên/hộp",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "Sông Hồng",
+    "Màu sắc và họa tiết": "Vân đá tinh tế và sang trọng"
+  },
+  "description": "SH2-M121205",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-m121205/sh2-m121205-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-m121205/sh2-m121205-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-m121205/sh2-m121205-c.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-m121205/sh2-m121205-d.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh2-m121205-a-7682.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z596155545299039b9f20d0d7ceb9f083dd5f97e027cbf-3648.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/120x120-1841.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH2-M121205",
+    "sku_key": "SH2M121205",
+    "brand": "Viglacera",
+    "category_slug": "gach-lat-nen",
+    "category_label": "Gạch lát nền",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh2-m121205.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/sh2-m121205.html",
+        "title": "SH2-M121205",
+        "rawSku": "SH2-M121205",
+        "imageCount": 4
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-lt-nn-120x120-viglacera-sh2-m121205.json",
+        "title": "Gạch lát nền 120x120 Viglacera SH2-M121205",
+        "rawSku": "SH2-M121205",
+        "imageCount": 24
+      }
+    ]
+  }
+}

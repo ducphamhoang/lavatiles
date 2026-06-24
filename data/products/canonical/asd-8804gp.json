@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-asd-8804gp",
+  "title": "Gạch Viglacera ASD 8804GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD 8804GP",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 8804GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8804gp/asd-8804gp-f1.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8804gp/asd-8804gp-f2.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8804gp/asd-8804gp-f3.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 8804GP",
+    "sku_key": "ASD8804GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-8804gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-8804gp.html",
+        "title": "ASD 8804GP",
+        "rawSku": "ASD 8804GP",
+        "imageCount": 3
+      }
+    ]
+  }
+}

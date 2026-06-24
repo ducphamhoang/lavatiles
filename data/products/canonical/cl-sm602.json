@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-cl-sm602",
+  "title": "Gạch Viglacera CL-SM602",
+  "product_info": {
+    "Mã sản phẩm": "CL-SM602",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt Baby",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi porcelain",
+    "Bộ sưu tập": "Cửu Long"
+  },
+  "description": "Mã sản phẩm: CL-SM602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm602/cl-sm602-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm602/cl-sm602-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm602/cl-sm602-f3.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "CL-SM602",
+    "sku_key": "CLSM602",
+    "brand": "Viglacera",
+    "category_slug": "bst-cuu-long",
+    "category_label": "bst cuu long",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/cl-sm602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-cuu-long/cl-sm602.html",
+        "title": "CL-SM602",
+        "rawSku": "CL-SM602",
+        "imageCount": 3
+      }
+    ]
+  }
+}

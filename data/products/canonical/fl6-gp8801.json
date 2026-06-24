@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-fl6-gp8801",
+  "title": "Gạch Viglacera FL6 GP8801",
+  "product_info": {
+    "Mã sản phẩm": "FL6 GP8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "Mã sản phẩm: FL6 GP8801",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f2.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f3.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f4.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f5.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/17033132904775723.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f6.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f6.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "FL6 GP8801",
+    "sku_key": "FL6GP8801",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/fl6-gp8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/fl6-gp8801.html",
+        "title": "FL6 GP8801",
+        "rawSku": "FL6 GP8801",
+        "imageCount": 8
+      }
+    ]
+  }
+}

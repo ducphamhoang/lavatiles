@@ -1,0 +1,57 @@
+{
+  "canonical_id": "viglacera-tl4816",
+  "title": "Gạch 40x80 Viglacera TL4816",
+  "product_info": {
+    "Mã sản phẩm": "TL4816",
+    "Loại sản phẩm": "Gạch ốp lát 40x80",
+    "Kích thước": "40x80cm",
+    "Bề mặt men": "Men bóng Polish",
+    "Xương gạch": "Ceramic",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Ốp tường và lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "6 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-091020-9603.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/40x80-10-6022.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9180.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-091025-7079.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/40x80-10-1885.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-4591.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TL4816",
+    "sku_key": "TL4816",
+    "brand": "Viglacera",
+    "category_slug": "gach-40x80",
+    "category_label": "Gạch 40x80",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-40x80-viglacera-tl4816.json",
+        "title": "Gạch 40x80 Viglacera TL4816",
+        "rawSku": "TL4816",
+        "imageCount": 24
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-40x80-viglacera-tl4816a.json",
+        "title": "Gạch 40x80 Viglacera TL4816A",
+        "rawSku": "TL4816",
+        "imageCount": 24
+      }
+    ]
+  }
+}

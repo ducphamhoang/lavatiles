@@ -1,0 +1,42 @@
+{
+  "canonical_id": "viglacera-un24-gp61202",
+  "title": "Gạch Viglacera UN24 GP61202",
+  "product_info": {
+    "Mã sản phẩm": "UN24 GP61202",
+    "Kích thước": "60x120cm",
+    "Bề mặt": "Polished",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Bộ sưu tập": "United Tiles"
+  },
+  "description": "UN24 GP61202",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-c.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-pc1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-pc1.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UN24 GP61202",
+    "sku_key": "UN24GP61202",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/un24-gp61202.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/un24-gp61202.html",
+        "title": "UN24 GP61202",
+        "rawSku": "UN24 GP61202",
+        "imageCount": 5
+      }
+    ]
+  }
+}

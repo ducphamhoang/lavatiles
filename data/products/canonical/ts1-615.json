@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-ts1-615",
+  "title": "Gạch Viglacera TS1-615",
+  "product_info": {
+    "Mã sản phẩm": "TS1-615",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Double Charge"
+  },
+  "description": "TS1-615",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-615-md-d601.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/sanphamkhac/ts1-615.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-615.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TS1-615",
+    "sku_key": "TS1615",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ts1-615.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ts1-615.html",
+        "title": "TS1-615",
+        "rawSku": "TS1-615",
+        "imageCount": 3
+      }
+    ]
+  }
+}

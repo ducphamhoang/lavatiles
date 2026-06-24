@@ -1,0 +1,44 @@
+{
+  "canonical_id": "viglacera-pl2-gm8802",
+  "title": "Gạch Viglacera PL2-GM8802",
+  "product_info": {
+    "Mã sản phẩm": "PL2-GM8802",
+    "Kích thước": "80x80 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "PL2-GM8802",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-e.webp",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-pc.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-pc.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "PL2-GM8802",
+    "sku_key": "PL2GM8802",
+    "brand": "Viglacera",
+    "category_slug": "bo-suu-tap-platinum",
+    "category_label": "bo suu tap platinum",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/pl2-gm8802.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bo-suu-tap-platinum/pl2-gm8802.html",
+        "title": "PL2-GM8802",
+        "rawSku": "PL2-GM8802",
+        "imageCount": 7
+      }
+    ]
+  }
+}

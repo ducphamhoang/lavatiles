@@ -1,0 +1,56 @@
+{
+  "canonical_id": "viglacera-bs513",
+  "title": "Gạch sân vườn 50x50 Viglacera BS513",
+  "product_info": {
+    "Mã sản phẩm": "BS513",
+    "Loại sản phẩm": "Gạch sân vườn 50x50",
+    "Kích thước": "50 x 50 cm",
+    "Bề mặt": "Matt",
+    "Loại gạch": "Semi Porcelain",
+    "Họa tiết": "Trang trí",
+    "Hãng sản xuất": "Viglacera",
+    "Thương hiệu": "Viglacera",
+    "Xuất xứ": "Việt Nam​",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "BS513",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs513/bs513-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs513/bs513.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs513-4115.jpg",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/san-vuon-2-1610.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-3396.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "BS513",
+    "sku_key": "BS513",
+    "brand": "Viglacera",
+    "category_slug": "gach-san-vuon",
+    "category_label": "Gạch sân vườn",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/bs513.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/bs513.html",
+        "title": "BS513",
+        "rawSku": "BS513",
+        "imageCount": 2
+      },
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "duplicate",
+        "file": "data/products/gch-sn-vn-50x50-viglacera-bs513.json",
+        "title": "Gạch sân vườn 50x50 Viglacera BS513",
+        "rawSku": "BS513",
+        "imageCount": 24
+      }
+    ]
+  }
+}

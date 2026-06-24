@@ -1,0 +1,37 @@
+{
+  "canonical_id": "viglacera-sh8-gm8801",
+  "title": "Gạch Viglacera SH8-GM8801",
+  "product_info": {
+    "Mã sản phẩm": "SH8-GM8801",
+    "Kích thước": "80 x 80 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm: SH8-GM8801",
+  "images": [],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH8-GM8801",
+    "sku_key": "SH8GM8801",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh8-gm8801.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh8-gm8801.html",
+        "title": "SH8-GM8801",
+        "rawSku": "SH8-GM8801",
+        "imageCount": 0
+      }
+    ]
+  }
+}

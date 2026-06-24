@@ -1,0 +1,48 @@
+{
+  "collection_id": "vastastone-fantasy-rosa",
+  "title": "Fantasy Rosa",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Fantasy Rosa"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Fantasy Rosa",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Một bức tường kỳ ảo với sắc thái pastel lấy cảm hứng từ hoa nở và đồng cỏ, thể hiện sự tự do một cách mê đắm nhất. Bộ sưu tập này tạo nên một cuộc hành trình tưởng tượng qua các không gian và tầng bậc, thể hiện sự vững chắc và nhẹ nhàng của đất và trời. Những nét phô diễn tạo nên sự phản chiếu lấp lánh trên bầu trời, mang lại cảm giác bình yên và thanh thản. SIZES 160×320 cm BỀ MẶT MATTE ĐỘ DÀY 6mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAIL-1-7.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/DETAIL-10.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-300x74.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1024x252.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-768x189.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-1536x379.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-specifications-2048x505.png",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-scaled.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-300x104.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1024x355.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-768x266.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-1536x533.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/vasta-stone-technical-specifications-sheet-2048x711.jpg"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/fantasy-rosa.json",
+    "url": "https://vastastone.com/vi/collection/fantasy-rosa/",
+    "title": "Fantasy Rosa",
+    "rawSku": "Fantasy Rosa",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-ubs-4602",
+  "title": "Gạch Viglacera UBS 4602",
+  "product_info": {
+    "Mã sản phẩm": "UBS 4602",
+    "Kích thước": "40x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "DÒNG SẢN PHẨM": "GẠCH UNO"
+  },
+  "description": "UBS 4602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs4602.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UBS 4602",
+    "sku_key": "UBS4602",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ubs-4602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ubs-4602.html",
+        "title": "UBS 4602",
+        "rawSku": "UBS 4602",
+        "imageCount": 1
+      }
+    ]
+  }
+}

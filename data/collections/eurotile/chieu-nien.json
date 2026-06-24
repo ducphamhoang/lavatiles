@@ -1,0 +1,41 @@
+{
+  "collection_id": "eurotile-chieu-nien",
+  "title": "Chiêu Niên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "CHN X01C"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "CHN X01C",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mỗi chúng ta đều lớn lên từ những ước mơ bé bỏng, từ nụ cười trong veo của tuổi thơ hồn nhiên. Mỗi khoảnh khắc là món quà dịu dàng của thời gian, mỗi trải nghiệm là bước nhỏ nuôi dưỡng giấc mơ tương lai, dù ngọt ngào hay chông gai, đều là điều quý giá.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-thum-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/MINHHOA-CHN.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/Thit-k-cha-c-tn-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/map/CHN-X01C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/chieu-nien.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/chieu-nien.html",
+    "title": "Chiêu Niên",
+    "rawSku": "CHN X01C",
+    "imageCount": 7
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  }
+}

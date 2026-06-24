@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ubs-303",
+  "title": "Gạch Viglacera UBS 303",
+  "product_info": {
+    "Mã sản phẩm": "UBS 303",
+    "Kích thước": "30x30 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Semi Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "UBS 303",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs303.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "UBS 303",
+    "sku_key": "UBS303",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ubs-303.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ubs-303.html",
+        "title": "UBS 303",
+        "rawSku": "UBS 303",
+        "imageCount": 1
+      }
+    ]
+  }
+}

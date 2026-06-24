@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-dk5-gm3602",
+  "title": "Gạch Viglacera DK5-GM3602",
+  "product_info": {
+    "Mã sản phẩm": "DK5-GM3602",
+    "Kích thước": "30x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "DK5-GM3602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-a-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-b-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-c-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-d-min.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-e-min.jpg",
+    "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-b-min.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "DK5-GM3602",
+    "sku_key": "DK5GM3602",
+    "brand": "Viglacera",
+    "category_slug": "united-tiles-1",
+    "category_label": "united tiles 1",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/dk5-gm3602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/united-tiles-1/dk5-gm3602.html",
+        "title": "DK5-GM3602",
+        "rawSku": "DK5-GM3602",
+        "imageCount": 6
+      }
+    ]
+  }
+}

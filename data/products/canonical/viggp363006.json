@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-viggp363006",
+  "title": "Gạch Viglacera VIGGP363006",
+  "product_info": {
+    "Mã sản phẩm": "VIGGP363006",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIGGP363006",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363006/vig-gp363006.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIGGP363006",
+    "sku_key": "VIGGP363006",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/viggp363006.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/viggp363006.html",
+        "title": "VIGGP363006",
+        "rawSku": "VIGGP363006",
+        "imageCount": 1
+      }
+    ]
+  }
+}

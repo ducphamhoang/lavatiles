@@ -1,0 +1,45 @@
+{
+  "canonical_id": "viglacera-sh-ce4822",
+  "title": "Gạch 40x80 Viglacera SH-CE4822",
+  "product_info": {
+    "Mã sản phẩm": "SH-CE4822",
+    "Loại sản phẩm": "Gạch ốp lát 40x80",
+    "Kích thước": "40x80cm",
+    "Bề mặt men": "Men bóng Polish",
+    "Xương gạch": "Ceramic",
+    "Công nghệ sản xuất": "ITALIA",
+    "Công nghệ in": "Kỹ thuật số",
+    "Họa tiết": "Gạch vân đá",
+    "Ứng dụng": "Ốp tường và lát nền",
+    "Hãng sản xuất": "Viglacera",
+    "Quy cách đóng gói": "6 viên/hộp​",
+    "Giá": "Liên hệ"
+  },
+  "description": "",
+  "images": [
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090919-6145.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/40x80-8-5996.png",
+    "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/tt-9220.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH-CE4822",
+    "sku_key": "SHCE4822",
+    "brand": "Viglacera",
+    "category_slug": "gach-40x80",
+    "category_label": "Gạch 40x80",
+    "primary_source": "current",
+    "source_refs": [
+      {
+        "source": "current",
+        "sourceLabel": "Current Hoathanhphat data",
+        "role": "primary",
+        "file": "data/products/gch-40x80-viglacera-sh-ce4822.json",
+        "title": "Gạch 40x80 Viglacera SH-CE4822",
+        "rawSku": "SH-CE4822",
+        "imageCount": 24
+      }
+    ]
+  }
+}

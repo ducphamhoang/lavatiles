@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-ktce3606a",
+  "title": "Gạch Viglacera KTCE3606A",
+  "product_info": {
+    "Mã sản phẩm": "KTCE3606A",
+    "Kích thước": "30 x 60 cm",
+    "Bề mặt": "Glossy",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Ceramic"
+  },
+  "description": "Mã sản phẩm: KTCE3606A",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3606-a/kt-ce3606a.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "KTCE3606A",
+    "sku_key": "KTCE3606A",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/ktce3606a.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/ktce3606a.html",
+        "title": "KTCE3606A",
+        "rawSku": "KTCE3606A",
+        "imageCount": 1
+      }
+    ]
+  }
+}

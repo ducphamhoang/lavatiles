@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-sh1322",
+  "title": "Gạch Viglacera SH1322",
+  "product_info": {
+    "Mã sản phẩm": "SH1322",
+    "Kích thước": "10 x 30 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain",
+    "Bộ sưu tập": "Sông Hồng"
+  },
+  "description": "Mã sản phẩm SH1322",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1322/sh1322-1.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH1322",
+    "sku_key": "SH1322",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh1322.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh1322.html",
+        "title": "SH1322",
+        "rawSku": "SH1322",
+        "imageCount": 1
+      }
+    ]
+  }
+}

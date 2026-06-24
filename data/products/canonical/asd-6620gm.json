@@ -1,0 +1,41 @@
+{
+  "canonical_id": "viglacera-asd-6620gm",
+  "title": "Gạch Viglacera ASD 6620GM",
+  "product_info": {
+    "Mã sản phẩm": "ASD 6620GM",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Matt",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD 6620GM",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6620gm/asd-6620gm-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6620gm/asd-6620gm-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6620gm/asd-6620gm-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6620gm/asd-6620gm-d.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD 6620GM",
+    "sku_key": "ASD6620GM",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd-6620gm.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd-6620gm.html",
+        "title": "ASD 6620GM",
+        "rawSku": "ASD 6620GM",
+        "imageCount": 4
+      }
+    ]
+  }
+}

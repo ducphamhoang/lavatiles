@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vg6011",
+  "title": "Gạch Viglacera VG6011",
+  "product_info": {
+    "Mã sản phẩm": "VG6011",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Semi Porcelain"
+  },
+  "description": "Mã sản phẩm: VG6011",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6011jpg.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VG6011",
+    "sku_key": "VG6011",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vg6011.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vg6011.html",
+        "title": "VG6011",
+        "rawSku": "VG6011",
+        "imageCount": 1
+      }
+    ]
+  }
+}

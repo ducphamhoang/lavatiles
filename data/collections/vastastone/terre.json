@@ -1,0 +1,42 @@
+{
+  "collection_id": "vastastone-terre",
+  "title": "Terre",
+  "brand": "Vasta Stone",
+  "type": "surface_collection",
+  "product_codes": [
+    "Terre"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "Terre",
+    "Loại sản phẩm": "Đá nung kết / tấm lớn",
+    "Hãng sản xuất": "Vasta Stone",
+    "Giá": "Liên hệ"
+  },
+  "description": "Một thiết kế với bề mặt xuyên suốt và bảng màu trung tính, các không gian nội thất có thể hưởng lợi từ câu chuyện được lên kế hoạch, đan xen với thiết kế sáng tạo. Bề mặt với sắc thái đất tinh tế tạo ra một bầu không khí đồng đều và chức năng, tạo nên không gian vừa dễ chịu vừa đáng giá. KÍCH THƯỚC 160×320 cm BỀ MẶT MỜ ĐỘ DÀY 6mm 12mm 20mm Working on something big? We collaborate with architects, designers and dreamers—get in touch!",
+  "images": [
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-2-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-7-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-6-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-5-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-4-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-3-1.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-1-17.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/03/detail-20.jpg",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2-173x300.png",
+    "https://vastastone.com/wp-content/uploads/2023/02/SIZE-2.png"
+  ],
+  "source_ref": {
+    "source": "vastastone",
+    "sourceLabel": "Vasta Stone official",
+    "role": "primary",
+    "file": "data/products/vastastone/terre.json",
+    "url": "https://vastastone.com/vi/collection/terre/",
+    "title": "Terre",
+    "rawSku": "Terre",
+    "imageCount": 10
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "vastastone"
+  }
+}

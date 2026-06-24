@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-sh2-gp6602",
+  "title": "Gạch Viglacera SH2-GP6602",
+  "product_info": {
+    "Mã sản phẩm": "SH2-GP6602",
+    "Kích thước": "60x60 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "SH2-GP6602",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gp6602/anh-man-hinh-2023-03-20-luc-170049.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gp6602/anh-man-hinh-2023-03-20-luc-170055.png",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gp6602/anh-man-hinh-2023-03-20-luc-170102.png"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "SH2-GP6602",
+    "sku_key": "SH2GP6602",
+    "brand": "Viglacera",
+    "category_slug": "bst-song-hong",
+    "category_label": "bst song hong",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/sh2-gp6602.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/bst-song-hong/sh2-gp6602.html",
+        "title": "SH2-GP6602",
+        "rawSku": "SH2-GP6602",
+        "imageCount": 3
+      }
+    ]
+  }
+}

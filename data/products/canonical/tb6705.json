@@ -1,0 +1,39 @@
+{
+  "canonical_id": "viglacera-tb6705",
+  "title": "Gạch Viglacera TB6705",
+  "product_info": {
+    "Mã sản phẩm": "TB6705",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Polish",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "TB6705",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb6705/tb-6705-tb-8705-1.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb6705/tb-6705-tb-8705.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "TB6705",
+    "sku_key": "TB6705",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/tb6705.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/tb6705.html",
+        "title": "TB6705",
+        "rawSku": "TB6705",
+        "imageCount": 2
+      }
+    ]
+  }
+}

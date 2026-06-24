@@ -1,0 +1,38 @@
+{
+  "canonical_id": "viglacera-vi1-9gm121203",
+  "title": "Gạch Viglacera VI1-9GM121203",
+  "product_info": {
+    "Mã sản phẩm": "VI1-9GM121203",
+    "Kích thước": "120 X 120 cm",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mã sản phẩm: VI1-9GM121203",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-9gm121203/vi1-9gm121203-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-9gm121203/vi1-9gm121203-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-9gm121203/vi1-9gm121203-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VI1-9GM121203",
+    "sku_key": "VI19GM121203",
+    "brand": "Viglacera",
+    "category_slug": "porcelain-kho-lon",
+    "category_label": "porcelain kho lon",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vi1-9gm121203.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/porcelain-kho-lon/vi1-9gm121203.html",
+        "title": "VI1-9GM121203",
+        "rawSku": "VI1-9GM121203",
+        "imageCount": 3
+      }
+    ]
+  }
+}

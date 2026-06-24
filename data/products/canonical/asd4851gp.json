@@ -1,0 +1,43 @@
+{
+  "canonical_id": "viglacera-asd4851gp",
+  "title": "Gạch Viglacera ASD4851GP",
+  "product_info": {
+    "Mã sản phẩm": "ASD4851GP",
+    "Kích thước": "40x80 cm",
+    "Bề mặt": "Polished",
+    "Xương": "Porcelain",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ"
+  },
+  "description": "ASD4851GP",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-a.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-b.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-c.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-d.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-e.webp",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-f.webp"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "ASD4851GP",
+    "sku_key": "ASD4851GP",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/asd4851gp.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/asd4851gp.html",
+        "title": "ASD4851GP",
+        "rawSku": "ASD4851GP",
+        "imageCount": 6
+      }
+    ]
+  }
+}

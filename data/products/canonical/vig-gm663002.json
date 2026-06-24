@@ -1,0 +1,40 @@
+{
+  "canonical_id": "viglacera-vig-gm663002",
+  "title": "Gạch Viglacera VIG-GM663002",
+  "product_info": {
+    "Mã sản phẩm": "VIG-GM663002",
+    "Kích thước": "60 x 60 cm",
+    "Bề mặt": "Matt",
+    "Hãng sản xuất": "Viglacera",
+    "Giá": "Liên hệ",
+    "Chủng loại": "Porcelain"
+  },
+  "description": "Mã sản phẩm: VIG-GM663002",
+  "images": [
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663002-a.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663002-b.jpg",
+    "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663002-c.jpg"
+  ],
+  "view_count": 0,
+  "canonical": {
+    "status": "survived",
+    "sku": "VIG-GM663002",
+    "sku_key": "VIGGM663002",
+    "brand": "Viglacera",
+    "category_slug": "san-pham-khac",
+    "category_label": "Sản phẩm khác",
+    "primary_source": "viglaceratiles",
+    "source_refs": [
+      {
+        "source": "viglaceratiles",
+        "sourceLabel": "Viglacera Tiles official",
+        "role": "primary",
+        "file": "data/products/viglaceratiles/vig-gm663002.json",
+        "url": "https://viglaceratiles.vn/san-pham/gach-op-lat/san-pham-khac/vig-gm663002.html",
+        "title": "VIG-GM663002",
+        "rawSku": "VIG-GM663002",
+        "imageCount": 3
+      }
+    ]
+  }
+}
