@@ -5,20 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Bộ sưu tập gạch ốp lát | Lavatile</title>
   <meta name="description" content="Khám phá bộ sưu tập gạch ốp lát và đá nung kết cao cấp tại Lavatile.">
-  <link rel="stylesheet" href="../../css/style.css">
-  <link rel="stylesheet" href="../../css/tiles-index.css">
+  <link rel="stylesheet" href="{{ROOT}}/css/style.css">
+  <link rel="stylesheet" href="{{ROOT}}/css/tiles-index.css">
 </head>
 <body class="template-productcategorypage">
 
-<div data-site-header data-site-root="../.." data-active-nav="products"></div>
+<div data-site-header data-site-root="{{ROOT}}" data-active-nav="products"></div>
 
 <main class="collection-detail-page">
   <section class="collection-inspiration-header">
     <div class="container">
       <nav class="pd-breadcrumb" aria-label="Breadcrumb">
-        <a href="../../index.html">Trang chủ</a>
+        <a href="{{ROOT}}/index.html">Trang chủ</a>
         <span>/</span>
-        <a href="index.html">Gạch ốp lát</a>
+        <a href="{{LISTING_URL}}">Gạch ốp lát</a>
         <span>/</span>
         <strong data-collection-breadcrumb>Bộ sưu tập</strong>
       </nav>
@@ -82,7 +82,7 @@
         <h2>Tìm sản phẩm</h2>
         <p>Khám phá thêm các bề mặt, kích thước và bộ sưu tập phù hợp với không gian của bạn.</p>
       </div>
-      <a class="vc-hero-btn vc-hero-btn--light" href="index.html#pd-filters">Tìm kiếm nâng cao</a>
+      <a class="vc-hero-btn vc-hero-btn--light" href="{{LISTING_URL}}#pd-filters">Tìm kiếm nâng cao</a>
     </div>
   </section>
 
@@ -97,7 +97,7 @@
     <div class="container">
       <h1>Không tìm thấy bộ sưu tập</h1>
       <p>Đường dẫn này không khớp với dữ liệu bộ sưu tập hiện có.</p>
-      <a class="vc-hero-btn vc-hero-btn--dark" href="index.html">Quay lại gạch ốp lát</a>
+      <a class="vc-hero-btn vc-hero-btn--dark" href="{{LISTING_URL}}">Quay lại gạch ốp lát</a>
     </div>
   </section>
 </main>
@@ -114,16 +114,16 @@
   </div>
 </div>
 
-<div data-site-footer data-site-root="../.."></div>
+<div data-site-footer data-site-root="{{ROOT}}"></div>
 
 <button type="button" id="scrollTop" aria-label="Scroll to top">
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
 </button>
 
-<script src="../../js/site-chrome.js"></script>
-<script src="../../js/main.js"></script>
-<script src="../../js/ui-feedback.js"></script>
-<script src="../../js/generated-collections.js"></script>
-<script src="../../js/collection-detail.js"></script>
+<script src="{{ROOT}}/js/site-chrome.js"></script>
+<script src="{{ROOT}}/js/main.js"></script>
+<script src="{{ROOT}}/js/ui-feedback.js"></script>
+<script src="{{ROOT}}/js/generated-collections.js"></script>
+<script src="{{ROOT}}/js/collection-detail.js"></script>
 </body>
 </html>

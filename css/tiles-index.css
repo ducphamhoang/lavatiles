@@ -256,163 +256,440 @@
   transform: scale(1.04);
 }
 
-/* Collection detail */
+/* Collection inspiration detail */
 .collection-detail-page {
   background: var(--bg);
 }
 
-.collection-detail-hero {
-  position: relative;
-  min-height: 620px;
-  display: flex;
-  align-items: flex-end;
-  overflow: hidden;
+.collection-inspiration-header {
+  padding: 148px 0 56px;
+  text-align: center;
 }
 
-.collection-detail-hero-media {
-  position: absolute;
-  inset: 0;
-  background-color: #1c1b19;
+.collection-inspiration-header .pd-breadcrumb {
+  justify-content: center;
+  margin-bottom: 38px;
+}
+
+.collection-inspiration-header .pd-breadcrumb,
+.collection-inspiration-header .pd-breadcrumb a,
+.collection-inspiration-header .pd-breadcrumb strong {
+  color: rgba(66, 64, 62, 0.68);
+}
+
+.collection-inspiration-header h1 {
+  margin: 0;
+  color: #5d5b58;
+  font-size: clamp(46px, 6vw, 84px);
+  line-height: 0.98;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.collection-inspiration-header p {
+  max-width: 760px;
+  margin: 18px auto 0;
+  color: rgba(66, 64, 62, 0.56);
+  font-size: 14px;
+  letter-spacing: 0.18em;
+  line-height: 1.7;
+  text-transform: uppercase;
+}
+
+.collection-inspiration-banner {
+  min-height: 66vh;
+  overflow: hidden;
+  background: #1d1b19;
+}
+
+.collection-inspiration-banner-bg {
+  width: 100%;
+  min-height: 66vh;
   background-size: cover;
   background-position: center;
+  transform: scale(1.01);
 }
 
-.collection-detail-hero-overlay {
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(180deg, rgba(10, 10, 10, 0.05), rgba(10, 10, 10, 0.7)),
-    linear-gradient(90deg, rgba(10, 10, 10, 0.52), rgba(10, 10, 10, 0.08));
+.collection-inspiration-story,
+.collection-inspiration-gallery,
+.collection-inspiration-colors,
+.collection-inspiration-products,
+.collection-inspiration-actions,
+.collection-inspiration-search,
+.collection-detail-related {
+  padding: 82px 0;
 }
 
-.collection-detail-hero-content {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  padding-top: 132px;
-  padding-bottom: 78px;
-  color: #fff;
+.collection-inspiration-story-grid {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.42fr) minmax(0, 0.58fr);
+  gap: 60px;
+  align-items: center;
 }
 
-.collection-detail-hero .pd-breadcrumb,
-.collection-detail-hero .pd-breadcrumb a,
-.collection-detail-hero .pd-breadcrumb strong {
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.collection-detail-brand,
-.collection-detail-kicker {
+.collection-inspiration-story-copy span {
   display: inline-block;
-  margin-top: 22px;
+  margin-bottom: 18px;
+  color: var(--accent);
   font-size: 12px;
+  font-weight: 700;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: var(--accent);
-  font-weight: 700;
 }
 
-.collection-detail-hero h1 {
-  margin: 12px 0 0;
-  max-width: 12ch;
-  font-size: clamp(46px, 6vw, 88px);
-  line-height: 0.96;
-  color: #fff;
-}
-
-.collection-detail-intro,
-.collection-detail-products,
-.collection-detail-gallery,
-.collection-detail-related {
-  padding: 74px 0;
-}
-
-.collection-detail-intro-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
-  gap: 70px;
-  align-items: start;
-}
-
-.collection-detail-intro p {
-  margin: 14px 0 0;
-  max-width: 760px;
-  color: var(--muted);
-  font-size: 18px;
-  line-height: 1.8;
-}
-
-.collection-detail-specs {
+.collection-inspiration-story-copy h2,
+.collection-inspiration-section-title,
+.collection-inspiration-search h2 {
   margin: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.12);
-}
-
-.collection-detail-specs div {
-  display: grid;
-  grid-template-columns: 140px minmax(0, 1fr);
-  gap: 22px;
-  padding: 18px 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
-}
-
-.collection-detail-specs dt {
-  color: var(--muted);
-  font-size: 12px;
-  letter-spacing: 0.1em;
+  color: var(--fg);
+  font-size: clamp(24px, 2.7vw, 38px);
+  line-height: 1.1;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.collection-detail-specs dd {
+.collection-inspiration-story-copy p {
+  margin: 22px 0 0;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.85;
+}
+
+.collection-inspiration-story-media {
   margin: 0;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--surface) 90%, #cfc7ba 10%);
+}
+
+.collection-inspiration-story-media[data-collection-image-open] {
+  cursor: zoom-in;
+}
+
+.collection-inspiration-story-media img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.collection-inspiration-section-title {
+  margin-bottom: 30px;
+  font-size: clamp(22px, 2.2vw, 30px);
+}
+
+.collection-inspiration-gallery-track {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(250px, 28%);
+  gap: 18px;
+  overflow-x: auto;
+  scroll-snap-type: x proximity;
+  scrollbar-width: none;
+}
+
+.collection-inspiration-gallery-track::-webkit-scrollbar {
+  display: none;
+}
+
+.collection-inspiration-gallery-item {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  scroll-snap-align: start;
+  background: color-mix(in srgb, var(--surface) 90%, #d4cec2 10%);
+  cursor: zoom-in;
+}
+
+.collection-inspiration-gallery-item img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 6 / 7;
+  object-fit: cover;
+  transition: transform 0.45s ease;
+}
+
+.collection-inspiration-gallery-item:hover img {
+  transform: scale(1.03);
+}
+
+.collection-inspiration-color-grid,
+.collection-inspiration-product-grid,
+.collection-detail-related-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.collection-inspiration-color-card,
+.collection-inspiration-product-card {
+  min-width: 0;
+  padding: 0;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  color: inherit;
+  cursor: zoom-in;
+  font: inherit;
+  text-align: left;
+}
+
+.collection-inspiration-color-copy {
+  min-height: 154px;
+  padding: 22px 20px;
+}
+
+.collection-inspiration-color-copy h3,
+.collection-inspiration-product-body h3 {
+  margin: 0 0 10px;
   color: var(--fg);
+  font-size: 15px;
+  line-height: 1.35;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.collection-inspiration-color-copy p,
+.collection-inspiration-product-body p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
   line-height: 1.55;
 }
 
-.collection-detail-codes {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
+.collection-inspiration-color-copy span,
+.collection-inspiration-product-body span {
+  display: inline-block;
+  margin-top: 12px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
 }
 
-.collection-detail-codes span {
-  display: inline-flex;
-  min-height: 42px;
+.collection-inspiration-color-media,
+.collection-inspiration-product-media {
+  overflow: hidden;
+  background: color-mix(in srgb, var(--surface) 90%, #d4cec2 10%);
+  background-position: center;
+  background-size: cover;
+  aspect-ratio: 1 / 1;
+  transition: transform 0.45s ease;
+}
+
+.collection-inspiration-product-card:hover .collection-inspiration-product-media,
+.collection-inspiration-color-card:hover .collection-inspiration-color-media {
+  transform: scale(1.03);
+}
+
+.collection-inspiration-product-body {
+  padding: 18px 18px 20px;
+}
+
+.collection-inspiration-product-body span {
+  margin: 0 0 10px;
+}
+
+.collection-inspiration-spec-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.collection-inspiration-spec-grid[hidden] {
+  display: none;
+}
+
+.collection-inspiration-spec-card {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.58fr) minmax(220px, 0.42fr);
   align-items: center;
-  padding: 0 16px;
-  border: 1px solid rgba(0, 0, 0, 0.14);
-  background: rgba(255, 255, 255, 0.62);
+  gap: 28px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: #151412;
+  color: #fff;
+  cursor: zoom-in;
+  font: inherit;
+  text-align: left;
+}
+
+.collection-inspiration-spec-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background: #111;
+}
+
+.collection-inspiration-spec-card div {
+  padding: 28px 30px 28px 0;
+}
+
+.collection-inspiration-spec-card span {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.collection-inspiration-spec-card h3 {
+  margin: 0 0 10px;
+  color: #fff;
+  font-size: 22px;
+  line-height: 1.2;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.collection-inspiration-spec-card p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.collection-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1200;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 34px;
+}
+
+.collection-lightbox.is-open {
+  display: flex;
+}
+
+.collection-lightbox-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(17, 16, 15, 0.84);
+}
+
+.collection-lightbox-dialog {
+  position: relative;
+  z-index: 1;
+  width: min(1040px, 100%);
+  max-height: min(86vh, 860px);
+  background: #f7f6f4;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+}
+
+.collection-lightbox-dialog img {
+  width: 100%;
+  max-height: calc(86vh - 108px);
+  object-fit: contain;
+  background: #111;
+}
+
+.collection-lightbox-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  z-index: 2;
+  width: 42px;
+  height: 42px;
+  border: 1px solid rgba(255, 255, 255, 0.45);
+  border-radius: 50%;
+  background: rgba(17, 16, 15, 0.62);
+  color: #fff;
+  cursor: pointer;
+  font-size: 26px;
+  line-height: 1;
+}
+
+.collection-lightbox-copy {
+  padding: 22px 24px;
+}
+
+.collection-lightbox-copy span {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.collection-lightbox-copy h2 {
+  margin: 0;
+  color: var(--fg);
+  font-size: 20px;
+  line-height: 1.25;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+body.collection-lightbox-open {
+  overflow: hidden;
+}
+
+.collection-inspiration-actions {
+  padding-top: 38px;
+  padding-bottom: 38px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.collection-inspiration-action-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.collection-inspiration-share {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: var(--muted);
   font-size: 13px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
-.collection-detail-gallery-grid {
+.collection-inspiration-share a {
+  color: var(--fg);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.collection-inspiration-search {
+  background: #262321;
+  color: #fff;
+}
+
+.collection-inspiration-search-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 18px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 44px;
+  align-items: center;
 }
 
-.collection-detail-gallery-item {
-  margin: 0;
-  overflow: hidden;
-  background: color-mix(in srgb, var(--surface) 92%, #d4cec2 8%);
+.collection-inspiration-search h2 {
+  color: #fff;
 }
 
-.collection-detail-gallery-item img {
-  width: 100%;
-  aspect-ratio: 1.14 / 1;
-  display: block;
-  object-fit: cover;
-  transition: transform 0.45s ease;
+.collection-inspiration-search p {
+  max-width: 540px;
+  margin: 14px 0 0;
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.7;
 }
 
-.collection-detail-gallery-item:hover img {
-  transform: scale(1.03);
-}
-
-.collection-detail-related-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 22px;
+.collection-inspiration-search .vc-hero-btn--light {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.72);
 }
 
 .collection-detail-empty {
@@ -442,6 +719,8 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .collection-inspiration-color-grid,
+  .collection-inspiration-product-grid,
   .collection-detail-related-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
@@ -468,19 +747,15 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .collection-detail-intro-grid {
+  .collection-inspiration-story-grid {
     grid-template-columns: 1fr;
     gap: 42px;
   }
 
-  .collection-detail-gallery-grid,
+  .collection-inspiration-color-grid,
+  .collection-inspiration-product-grid,
   .collection-detail-related-grid {
     grid-template-columns: 1fr 1fr;
-  }
-
-  .collection-detail-specs div {
-    grid-template-columns: 1fr;
-    gap: 7px;
   }
 }
 
@@ -525,28 +800,71 @@
     gap: 12px;
   }
 
-  .collection-detail-hero {
-    min-height: 500px;
+  .collection-inspiration-header {
+    padding: 124px 0 42px;
   }
 
-  .collection-detail-hero-content {
-    padding-top: 116px;
-    padding-bottom: 58px;
+  .collection-inspiration-header .pd-breadcrumb {
+    justify-content: flex-start;
+    margin-bottom: 26px;
   }
 
-  .collection-detail-intro,
-  .collection-detail-products,
-  .collection-detail-gallery,
+  .collection-inspiration-header {
+    text-align: left;
+  }
+
+  .collection-inspiration-header p {
+    margin-left: 0;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+  }
+
+  .collection-inspiration-banner,
+  .collection-inspiration-banner-bg {
+    min-height: 440px;
+  }
+
+  .collection-inspiration-story,
+  .collection-inspiration-gallery,
+  .collection-inspiration-colors,
+  .collection-inspiration-products,
+  .collection-inspiration-search,
   .collection-detail-related {
     padding: 56px 0;
   }
 
-  .collection-detail-intro p {
+  .collection-inspiration-story-copy p {
     font-size: 16px;
   }
 
-  .collection-detail-gallery-grid,
+  .collection-inspiration-gallery-track {
+    grid-auto-columns: 76%;
+    gap: 14px;
+  }
+
+  .collection-inspiration-color-grid,
+  .collection-inspiration-product-grid,
   .collection-detail-related-grid {
     grid-template-columns: 1fr;
+  }
+
+  .collection-inspiration-spec-card {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  .collection-inspiration-spec-card div {
+    padding: 22px;
+  }
+
+  .collection-lightbox {
+    padding: 18px;
+  }
+
+  .collection-inspiration-action-row,
+  .collection-inspiration-search-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: start;
   }
 }

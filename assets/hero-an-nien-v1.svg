@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" width="2560" height="1440">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe4ee"/>
+      <stop offset="0.48" stop-color="#eaf0ec"/>
+      <stop offset="1" stop-color="#f3e7cd"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9bad67"/>
+      <stop offset="0.4" stop-color="#b6b46f"/>
+      <stop offset="1" stop-color="#d8af61"/>
+    </linearGradient>
+    <linearGradient id="straw" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8b76c"/>
+      <stop offset="1" stop-color="#a66f34"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8db0a1" stop-opacity="0.28"/>
+      <stop offset="0.45" stop-color="#f3d78f" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#6f917d" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="72%" cy="32%" r="46%">
+      <stop offset="0" stop-color="#fff4c6" stop-opacity="0.82"/>
+      <stop offset="0.45" stop-color="#ffe0a1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ffe0a1" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGrain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="11"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.045"/>
+      </feComponentTransfer>
+    </filter>
+    <filter id="blurHaze">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="2560" height="1440" fill="url(#sky)"/>
+  <rect width="2560" height="1440" fill="url(#sun)"/>
+
+  <g opacity="0.48" filter="url(#blurHaze)">
+    <path d="M-120 258c238-86 390-41 618-13 270 33 420-42 656-35 204 7 352 82 572 57 227-26 391-105 858-3v130H-120z" fill="#fff7e7"/>
+    <path d="M-80 385c247-52 365-11 566 3 316 22 468-74 730-47 251 27 390 93 656 43 214-41 420-42 782 39v92H-80z" fill="#ffffff"/>
+  </g>
+
+  <g opacity="0.78">
+    <path d="M0 640c310-66 546-72 806-49 236 20 448-34 705-9 285 28 597-15 1049-37v194H0z" fill="#69866a"/>
+    <path d="M0 690c242-68 540-77 835-54 276 22 504-38 761-6 329 41 546-3 964-35v190H0z" fill="#7a9468"/>
+    <path d="M0 739c307-46 510-36 729-24 331 19 505-48 840-14 270 28 558-11 991-18v163H0z" fill="#8ba066"/>
+  </g>
+
+  <g opacity="0.78">
+    <path d="M1030 586h76v63h-76z" fill="#f3e8d6"/>
+    <path d="M1022 586l47-35 51 35z" fill="#b7634a"/>
+    <path d="M1145 608h96v56h-96z" fill="#efe1cf"/>
+    <path d="M1136 608l58-38 64 38z" fill="#bf7255"/>
+    <path d="M1285 594h72v62h-72z" fill="#eadccc"/>
+    <path d="M1276 594l45-32 49 32z" fill="#aa5b48"/>
+    <path d="M1476 606h95v60h-95z" fill="#f0e5d5"/>
+    <path d="M1462 606l62-37 68 37z" fill="#be7457"/>
+    <path d="M1610 592h65v67h-65z" fill="#e8d9ca"/>
+    <path d="M1601 592l43-30 43 30z" fill="#a95846"/>
+  </g>
+
+  <g opacity="0.58">
+    <path d="M0 738c180 32 340 20 520 5 178-15 328-7 485 20 233 40 419 12 638-10 280-28 526 17 917-12v95H0z" fill="#6e8d62"/>
+    <path d="M0 789c259-18 416 35 686 13 250-20 493-51 754-4 333 59 659-10 1120-26v89H0z" fill="#96a760"/>
+  </g>
+
+  <rect y="820" width="2560" height="210" fill="url(#field)"/>
+  <path d="M0 859c286 39 552-31 817 11 257 40 420 22 660-13 284-42 535 41 1083-6v86H0z" fill="#c1b96b" opacity="0.56"/>
+  <path d="M0 946c282-56 531-26 780 1 266 29 506-52 805-14 341 44 553-2 975-27v122H0z" fill="#d4bf6d" opacity="0.6"/>
+  <path d="M0 1018c285-40 499 44 784 7 286-38 436-92 759-33 363 66 610-16 1017-30v122H0z" fill="#b79155" opacity="0.42"/>
+
+  <g opacity="0.44">
+    <path d="M-80 1008c424-53 844-49 1318-18 465 31 833 15 1402-45v61c-527 65-953 87-1414 55-501-35-886-43-1306 12z" fill="url(#water)"/>
+    <path d="M-80 1124c354-62 770-63 1188-26 461 42 816 39 1532-31v62c-569 65-1044 91-1515 49-471-42-846-29-1205 41z" fill="url(#water)"/>
+  </g>
+
+  <rect y="1040" width="2560" height="400" fill="url(#straw)"/>
+  <path d="M0 1065c382 69 690-46 1052 11 371 58 752 9 1508-58v94c-735 81-1171 104-1556 37-391-68-663 19-1004-34z" fill="#e6c779" opacity="0.64"/>
+  <path d="M0 1180c375-101 740-40 1104-1 425 46 829-67 1456-85v92c-538 23-936 139-1419 88-461-48-739-85-1141 24z" fill="#c08a43" opacity="0.36"/>
+  <path d="M0 1264c353-58 718 23 1084 26 469 4 815-132 1476-104v254H0z" fill="#b87938" opacity="0.52"/>
+
+  <g stroke-linecap="round" opacity="0.68">
+    <path d="M76 1091c41 43 50 112 39 196" stroke="#f3d98a" stroke-width="5"/>
+    <path d="M176 1064c-28 74-19 155 27 244" stroke="#95602f" stroke-width="4"/>
+    <path d="M292 1102c29 50 42 117 21 211" stroke="#e9c274" stroke-width="5"/>
+    <path d="M431 1067c-42 62-50 144-25 246" stroke="#f0cf83" stroke-width="4"/>
+    <path d="M612 1091c39 73 58 146 41 240" stroke="#996530" stroke-width="5"/>
+    <path d="M778 1066c-31 90-15 174 48 270" stroke="#e7c071" stroke-width="5"/>
+    <path d="M915 1107c47 49 65 123 50 236" stroke="#f1d183" stroke-width="4"/>
+    <path d="M1108 1070c-49 67-61 151-26 284" stroke="#9a622c" stroke-width="5"/>
+    <path d="M1293 1092c34 61 51 142 31 258" stroke="#e6bb6a" stroke-width="5"/>
+    <path d="M1462 1064c-43 80-45 178 5 296" stroke="#f0d08a" stroke-width="4"/>
+    <path d="M1617 1110c35 43 58 128 40 255" stroke="#9d652d" stroke-width="5"/>
+    <path d="M1798 1072c-44 84-43 173 3 295" stroke="#e7c075" stroke-width="4"/>
+    <path d="M1965 1097c45 65 57 151 36 278" stroke="#f1d486" stroke-width="5"/>
+    <path d="M2147 1067c-54 78-62 178-16 314" stroke="#98612e" stroke-width="5"/>
+    <path d="M2319 1104c38 62 53 149 32 281" stroke="#e8bf70" stroke-width="4"/>
+  </g>
+
+  <g opacity="0.48">
+    <path d="M0 858h2560" stroke="#fff1bf" stroke-width="2"/>
+    <path d="M0 1038h2560" stroke="#fff0bd" stroke-width="2"/>
+    <path d="M0 1156h2560" stroke="#7e572f" stroke-width="2"/>
+  </g>
+
+  <rect width="2560" height="1440" filter="url(#softGrain)" opacity="0.55"/>
+  <rect width="2560" height="1440" fill="#f2e6d1" opacity="0.08"/>
+</svg>

@@ -7,11 +7,15 @@ const CANONICAL_DATA_DIR = path.join(RAW_DATA_DIR, 'canonical');
 const DATA_DIR = fs.existsSync(path.join(CANONICAL_DATA_DIR, 'products-tree.json')) ? CANONICAL_DATA_DIR : RAW_DATA_DIR;
 const COLLECTIONS_INDEX_PATH = path.join(ROOT_DIR, 'data/collections/collections-index.json');
 const TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/product-detail.html');
+const COLLECTION_TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/collection-detail.html');
 const OUTPUT_ROOT = path.join(ROOT_DIR, 'san-pham/gach-op-lat');
 const MANIFEST_PATH = path.join(ROOT_DIR, 'js/generated-products.js');
 const COLLECTIONS_MANIFEST_PATH = path.join(ROOT_DIR, 'js/generated-collections.js');
+const COLLECTION_DETAIL_PATH = path.join(OUTPUT_ROOT, 'bo-suu-tap.html');
 const ROOT_FROM_DETAIL = '../../..';
 const LISTING_FROM_DETAIL = '../index.html';
+const ROOT_FROM_COLLECTION_DETAIL = '../..';
+const LISTING_FROM_COLLECTION_DETAIL = 'index.html';
 
 const CATEGORY_LABELS = {
   'gach-lat-nen': 'Gạch lát nền',
@@ -325,13 +329,14 @@ function buildCollectionsManifest() {
       const collectionPath = path.join(ROOT_DIR, item.file);
       const collection = fs.existsSync(collectionPath) ? readJson(collectionPath) : {};
       const images = productImages(collection.images || []);
+      const heroImage = sourceImage(collection.hero_image || images[0] || '');
       return {
         title: item.title,
         brand: item.brand,
         type: item.type,
         source,
         slug,
-        image: sourceImage(images[0] || ''),
+        image: heroImage,
         images: images.map(sourceImage),
         description: cleanText(collection.description || ''),
         productInfo: collection.product_info || {},
@@ -342,6 +347,18 @@ function buildCollectionsManifest() {
     });
   }).filter((collection) => collection.title)
     .sort((a, b) => a.brand.localeCompare(b.brand, 'vi') || a.title.localeCompare(b.title, 'vi'));
+}
+
+function writeCollectionDetailTemplate() {
+  if (!fs.existsSync(COLLECTION_TEMPLATE_PATH)) {
+    return;
+  }
+
+  const template = fs.readFileSync(COLLECTION_TEMPLATE_PATH, 'utf8');
+  fs.writeFileSync(COLLECTION_DETAIL_PATH, renderTemplate(template, {
+    ROOT: ROOT_FROM_COLLECTION_DETAIL,
+    LISTING_URL: LISTING_FROM_COLLECTION_DETAIL,
+  }), 'utf8');
 }
 
 function main() {
@@ -428,6 +445,7 @@ function main() {
   ].join('\n');
 
   fs.writeFileSync(COLLECTIONS_MANIFEST_PATH, collectionsJs, 'utf8');
+  writeCollectionDetailTemplate();
 
   console.log(`Generated ${files.length} product detail pages.`);
   console.log(`Manifest: ${path.relative(ROOT_DIR, MANIFEST_PATH)} (${manifest.length} products)`);

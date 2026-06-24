@@ -7,7 +7,7 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "an-nien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "image": "../../assets/hero-an-nien-v2.png",
     "images": [
       "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
       "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien1.jpg",
