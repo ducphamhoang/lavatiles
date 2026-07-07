@@ -39,7 +39,7 @@ This directory contains scraped product data from https://www.hoathanhphat.com.v
         "Loại sản phẩm": "Gạch ốp lát 60x60",
         "Kích thước": "60x60cm",
         "Giá": "Liên hệ",
-        "Hãng sản xuất": "Viglacera"
+        "Thương hiệu": "Viglacera"
       },
       "description": "",
       "images": [

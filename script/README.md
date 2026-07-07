@@ -92,7 +92,7 @@ The script generates two types of files in `../data/products/`:
         "Bề mặt men": "Men Bóng Polish",
         "Công nghệ sản xuất": "ITALIA",
         "Công nghệ in": "Kỹ thuật số",
-        "Hãng sản xuất": "Viglacera",
+        "Thương hiệu": "Viglacera",
         "Ứng dụng": "Gạch lát nền và Gạch ốp tường",
         "Quy cách đóng gói": "8 viên/hộp",
         "Giá": "Liên hệ",

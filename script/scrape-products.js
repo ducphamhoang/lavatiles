@@ -244,6 +244,12 @@ async function scrapeProductDetail($) {
     product.view_count = parseInt($viewCount.text().replace(/\D/g, '')) || 0;
   }
 
+  // Normalize brand field: use "Thương hiệu" instead of "Hãng sản xuất"
+  if (product.product_info['Hãng sản xuất']) {
+    product.product_info['Thương hiệu'] = product.product_info['Hãng sản xuất'];
+    delete product.product_info['Hãng sản xuất'];
+  }
+
   return product;
 }
 

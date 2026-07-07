@@ -1,22 +1,22 @@
 (function () {
   'use strict';
   var products = [
-    { code: '3060PM36602S', finish: 'Bóng', color: 'Trắng', size: '30x60cm', placement: ['Tường'], country: 'Malaysia', tone: 'pearl-white', collection: 'ONYCE' },
-    { code: '612MF6N', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Ý', tone: 'sand-cream', collection: 'TELE DI MARMO LUMIA' },
-    { code: '612EN8A', finish: 'Bóng', color: 'Xám', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'silver-grey', collection: 'MARVEL X' },
-    { code: '612MTSACRMT', finish: 'Mờ', color: 'Nâu', size: '60x120cm', placement: ['Tường'], country: 'Ấn Độ', tone: 'cocoa-vein', collection: 'MARVEL GALA' },
-    { code: '75150MXFIBOSK', finish: 'Bóng', color: 'Đen', size: '75x150cm', placement: ['Sàn'], country: 'Ý', tone: 'obsidian-gold', collection: 'ONYCE' },
-    { code: '612MOPELP', finish: 'Mờ', color: 'Xanh dương; xanh lá', size: '60x120cm', placement: ['Tường'], country: 'Indonesia', tone: 'verdant-mist', collection: 'TELE DI MARMO LUMIA' },
-    { code: '612MVGRLP', finish: 'Mờ', color: 'Xám', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Malaysia', tone: 'graphite-cloud', collection: 'MARVEL X' },
-    { code: '612MHCAPRLP', finish: 'Bóng', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Ý', tone: 'ivory-gold', collection: 'ONYCE' },
-    { code: '120278MADSOLP', finish: 'Mờ', color: 'Trắng', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'alabaster-fine', collection: 'TELE DI MARMO LUMIA' },
-    { code: '612MXCAAPHA', finish: 'Bóng', color: 'Hồng', size: '60x120cm', placement: ['Tường'], country: 'Trung Quốc', tone: 'rose-marble', collection: 'MARVEL GALA' },
-    { code: '120278MDBLTESK', finish: 'Mờ', color: 'Đen', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'noir-strata', collection: 'MARVEL X' },
-    { code: '120278MDWHEVSK', finish: 'Bóng', color: 'Trắng', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'white-veil', collection: 'TELE DI MARMO LUMIA' },
-    { code: '120MDWHEVVE', finish: 'Bóng', color: 'Trắng', size: '120x120cm', placement: ['Sàn', 'Tường'], country: 'Thái Lan', tone: 'opal-mirror', collection: 'ONYCE' },
-    { code: '612MDBLTEVE', finish: 'Bóng', color: 'Xám', size: '60x120cm', placement: ['Sàn'], country: 'Ý', tone: 'smoke-polish', collection: 'MARVEL GALA' },
-    { code: '120278MACABLLP', finish: 'Mờ', color: 'Kem', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'calacatta-warm', collection: 'TELE DI MARMO LUMIA' },
-    { code: '612MACABLLP', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'calacatta-soft', collection: 'ONYCE' }
+    { code: '3060PM36602S', brand: 'Viglacera', finish: 'Bóng', color: 'Trắng', size: '30x60cm', placement: ['Tường'], country: 'Malaysia', tone: 'pearl-white', collection: 'ONYCE' },
+    { code: '612MF6N', brand: 'Viglacera', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Ý', tone: 'sand-cream', collection: 'TELE DI MARMO LUMIA' },
+    { code: '612EN8A', brand: 'Viglacera', finish: 'Bóng', color: 'Xám', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'silver-grey', collection: 'MARVEL X' },
+    { code: '612MTSACRMT', brand: 'Viglacera', finish: 'Mờ', color: 'Nâu', size: '60x120cm', placement: ['Tường'], country: 'Ấn Độ', tone: 'cocoa-vein', collection: 'MARVEL GALA' },
+    { code: '75150MXFIBOSK', brand: 'Viglacera', finish: 'Bóng', color: 'Đen', size: '75x150cm', placement: ['Sàn'], country: 'Ý', tone: 'obsidian-gold', collection: 'ONYCE' },
+    { code: '612MOPELP', brand: 'Viglacera', finish: 'Mờ', color: 'Xanh dương; xanh lá', size: '60x120cm', placement: ['Tường'], country: 'Indonesia', tone: 'verdant-mist', collection: 'TELE DI MARMO LUMIA' },
+    { code: '612MVGRLP', brand: 'Viglacera', finish: 'Mờ', color: 'Xám', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Malaysia', tone: 'graphite-cloud', collection: 'MARVEL X' },
+    { code: '612MHCAPRLP', brand: 'Viglacera', finish: 'Bóng', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Ý', tone: 'ivory-gold', collection: 'ONYCE' },
+    { code: '120278MADSOLP', brand: 'Viglacera', finish: 'Mờ', color: 'Trắng', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'alabaster-fine', collection: 'TELE DI MARMO LUMIA' },
+    { code: '612MXCAAPHA', brand: 'Viglacera', finish: 'Bóng', color: 'Hồng', size: '60x120cm', placement: ['Tường'], country: 'Trung Quốc', tone: 'rose-marble', collection: 'MARVEL GALA' },
+    { code: '120278MDBLTESK', brand: 'Viglacera', finish: 'Mờ', color: 'Đen', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'noir-strata', collection: 'MARVEL X' },
+    { code: '120278MDWHEVSK', brand: 'Viglacera', finish: 'Bóng', color: 'Trắng', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'white-veil', collection: 'TELE DI MARMO LUMIA' },
+    { code: '120MDWHEVVE', brand: 'Viglacera', finish: 'Bóng', color: 'Trắng', size: '120x120cm', placement: ['Sàn', 'Tường'], country: 'Thái Lan', tone: 'opal-mirror', collection: 'ONYCE' },
+    { code: '612MDBLTEVE', brand: 'Viglacera', finish: 'Bóng', color: 'Xám', size: '60x120cm', placement: ['Sàn'], country: 'Ý', tone: 'smoke-polish', collection: 'MARVEL GALA' },
+    { code: '120278MACABLLP', brand: 'Viglacera', finish: 'Mờ', color: 'Kem', size: '120x278cm', placement: ['Tường'], country: 'Ý', tone: 'calacatta-warm', collection: 'TELE DI MARMO LUMIA' },
+    { code: '612MACABLLP', brand: 'Viglacera', finish: 'Mờ', color: 'Kem', size: '60x120cm', placement: ['Sàn', 'Tường'], country: 'Tây Ban Nha', tone: 'calacatta-soft', collection: 'ONYCE' }
   ];
 
   var generatedProducts = window.LavatileGeneratedProducts || null;
