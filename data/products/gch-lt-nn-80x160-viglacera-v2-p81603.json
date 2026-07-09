@@ -46,5 +46,10 @@
     "https://www.hoathanhphat.com.vn/assets/images/zalo.png",
     "https://www.hoathanhphat.com.vn/assets/images/hl.png"
   ],
-  "view_count": 0
+  "view_count": 0,
+  "rooms": [
+    "phong_khach",
+    "mat_tien",
+    "showroom"
+  ]
 }

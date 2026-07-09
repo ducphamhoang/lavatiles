@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Gạch vân đá marble | Lavatile</title>
-  <meta name="description" content="Khám phá bộ sưu tập gạch vân đá marble cao cấp tại Lavatile với bộ lọc theo màu sắc, bề mặt, kích thước và vị trí ốp lát.">
+  <title>Tất cả gạch ốp lát | Lavatile</title>
+  <meta name="description" content="Khám phá tất cả gạch ốp lát và gạch trang trí tại Lavatile với bộ lọc theo phòng, kích thước, bề mặt và vị trí ốp lát.">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body class="template-product-detail">
@@ -17,15 +17,15 @@
       <nav class="pd-breadcrumb" aria-label="Breadcrumb">
         <a href="index.html">Trang chủ</a>
         <span>/</span>
-        <a href="#">Sản phẩm</a>
+        <a href="san-pham/gach-op-lat/index.html">Sản phẩm</a>
         <span>/</span>
-        <a href="#">Gạch ốp lát</a>
+        <a href="san-pham/gach-op-lat/index.html">Gạch ốp lát</a>
         <span>/</span>
-        <strong>Gạch vân đá marble</strong>
+        <strong>Tất cả gạch ốp lát</strong>
       </nav>
       <div class="pd-kicker">Bộ sưu tập vật liệu cao cấp</div>
-      <h1>GẠCH VÂN ĐÁ MARBLE</h1>
-      <p>Gạch vân đá marble mang vẻ đẹp xa hoa và tinh tế nhờ các đường vân cẩm thạch sắc nét. Tại Lavatile, mỗi bề mặt được tuyển chọn để tạo nên không gian sống đẳng cấp, bền vững và giàu chiều sâu thị giác.</p>
+      <h1>TẤT CẢ GẠCH ỐP LÁT</h1>
+      <p>Bộ sưu tập gạch ốp lát và gạch trang trí Lavatile — từ gạch vân đá marble, vân gỗ, gạch sân vườn đến gạch trang trí nội ngoại thất. Sử dụng bộ lọc để tìm sản phẩm phù hợp với không gian của bạn.</p>
       <div class="pd-hero-actions">
         <a href="#pd-grid" class="vc-hero-btn">Xem sản phẩm</a>
         <a href="#pd-filters" class="pd-link-btn">Lọc theo nhu cầu</a>
@@ -62,8 +62,8 @@
     <div class="container">
       <div class="pd-toolbar">
         <div class="section-title pd-section-title pd-section-title--left">
-          <h2>Tất cả sản phẩm Gạch vân đá marble</h2>
-          <p>Chọn nhanh theo bề mặt, màu sắc, kích thước hoặc vị trí ốp lát để tìm đúng sản phẩm cho dự án.</p>
+          <h2>Tất cả sản phẩm gạch ốp lát</h2>
+          <p>Dùng bộ lọc để tìm sản phẩm phù hợp với phòng, kích thước, bề mặt hoặc vị trí ốp lát.</p>
         </div>
         <div class="pd-search">
           <label class="sr-only" for="pdSearch">Tìm kiếm mã sản phẩm</label>
@@ -77,6 +77,23 @@
             <button type="button" class="pd-reset" id="pdReset">Cài đặt lại</button>
           </div>
           <div class="pd-filter-group">
+            <h4>Phù hợp phòng</h4>
+            <div class="pd-chip-list" id="pdRoomChips">
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_khach">Phòng khách</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_ngu">Phòng ngủ</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_bep">Phòng bếp</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_tam">Phòng tắm</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="ban_cong">Ban công / Sân vườn</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="hanh_lang">Cầu thang</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="mat_tien">Mặt tiền</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="showroom">Showroom</button>
+            </div>
+            <div class="pd-room-info" id="pdRoomInfo" hidden>
+              <p><strong id="pdRoomInfoLabel"></strong></p>
+              <p id="pdRoomInfoDesc"></p>
+            </div>
+          </div>
+          <div class="pd-filter-group">
             <h4>Bề mặt</h4>
             <div class="pd-filter-list">
               <label><input type="checkbox" data-filter-group="finish" value="Bóng"> Bóng</label>
@@ -84,24 +101,20 @@
             </div>
           </div>
           <div class="pd-filter-group">
-            <h4>Màu sắc</h4>
-            <div class="pd-swatch-list">
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Trắng"><span style="--swatch:#f3f1ec"></span>Trắng</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Kem"><span style="--swatch:#d7c6b0"></span>Kem</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Xám"><span style="--swatch:#a8adb2"></span>Xám</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Đen"><span style="--swatch:#2b2d31"></span>Đen</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Nâu"><span style="--swatch:#7d5f4a"></span>Nâu</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Xanh dương; xanh lá"><span style="--swatch:linear-gradient(135deg,#45618f,#799b7d)"></span>Xanh dương; xanh lá</label>
-            </div>
-          </div>
-          <div class="pd-filter-group">
             <h4>Kích thước</h4>
             <div class="pd-chip-list">
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="20x100cm">20x100cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x30cm">30x30cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="30x60cm">30x60cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="40x60cm">40x60cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="40x80cm">40x80cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="50x50cm">50x50cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="60x60cm">60x60cm</button>
               <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="60x120cm">60x120cm</button>
-              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="75x150cm">75x150cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="80x80cm">80x80cm</button>
               <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="80x160cm">80x160cm</button>
-              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="90x180cm">90x180cm</button>
-              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="120x278cm">120x278cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="100x100cm">100x100cm</button>
+              <button type="button" class="pd-chip" data-filter-group="size" data-filter-value="120x120cm">120x120cm</button>
             </div>
           </div>
           <div class="pd-filter-group">
@@ -152,6 +165,8 @@
 <script src="js/site-chrome.js"></script>
 <script src="js/main.js"></script>
 <script src="js/ui-feedback.js"></script>
+<script src="data/rooms.js"></script>
+<script src="data/catalog-tiles.js"></script>
 <script src="js/product-filter.js"></script>
 <script src="js/product-detail.js"></script>
 </body>

@@ -44,18 +44,7 @@
       return null;
     }
 
-    function syncControls() {
-      search.value = state.search;
-      document.querySelectorAll('input[data-filter-group]').forEach(function (input) {
-        var key = input.getAttribute('data-filter-group');
-        input.checked = Boolean(state[key] && state[key].indexOf(input.value) !== -1);
-      });
-      document.querySelectorAll('.pd-chip').forEach(function (chip) {
-        var key = chip.getAttribute('data-filter-group');
-        var value = chip.getAttribute('data-filter-value');
-        chip.classList.toggle('is-active', Boolean(state[key] && state[key].indexOf(value) !== -1));
-      });
-    }
+    var postRender = config.postRender || null;
 
     function hasMatch(product, key) {
       if (!state[key].length) return true;
@@ -99,6 +88,7 @@
       empty.hidden = matches.length !== 0;
       loadMore.hidden = visible.length >= matches.length;
       renderActiveFilters();
+      if (postRender) postRender(state);
     }
 
     document.querySelectorAll('input[data-filter-group]').forEach(function (input) {

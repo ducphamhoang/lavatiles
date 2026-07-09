@@ -1849,6 +1849,52 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
 .pd-tone-smoke-polish { background: linear-gradient(120deg, #878c91 0%, #d5d9dd 18%, #697078 32%, #eff1f3 46%, #4a5057 60%, #dfe3e6 76%, #949aa1 100%); }
 .pd-tone-calacatta-warm { background: linear-gradient(120deg, #ece1d4 0%, #fff9f2 18%, #d0b18f 32%, #f8eee4 48%, #a47e59 60%, #fff7ef 76%, #decab4 100%); }
 .pd-tone-calacatta-soft { background: linear-gradient(120deg, #e7dccf 0%, #fbf7f1 18%, #c7b9aa 32%, #f6efe7 48%, #b29e8e 60%, #fbf7f0 76%, #ddd1c4 100%); }
+
+/* --- product card images (replaces CSS art for real photos) --- */
+.pd-product-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform .4s;
+}
+.pd-product-card:hover .pd-product-media img {
+  transform: scale(1.04);
+}
+.pd-tile-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 14px;
+  color: #aaa;
+}
+.pd-product-brand {
+  display: block;
+  margin-bottom: 14px;
+  font-size: 12px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* --- room info panel --- */
+.pd-room-info {
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  background: rgba(180, 60, 40, 0.04);
+  font-size: 13px;
+  line-height: 1.5;
+}
+.pd-room-info strong {
+  color: var(--accent);
+  display: block;
+  margin-bottom: 4px;
+}
+.pd-room-info p {
+  color: var(--fg);
+}
 .pd-product-body { padding: 18px 18px 20px; }
 .pd-product-topline {
   margin-bottom: 10px;
