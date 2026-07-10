@@ -1,6 +1,47 @@
 (function () {
   'use strict';
   var products = window.LAVATILE_TILES || [];
+
+  // ---- category enrichment -----------------------------------------
+
+  function assignCategory(p) {
+    if (p.type === 'roof') {
+      var code = (p.code || '').toUpperCase();
+      var title = (p.title || '').toLowerCase();
+      if (code.indexOf('S0') === 0 || title.indexOf('sóng') !== -1) return 'Ngói sóng';
+      if (code.indexOf('PT') !== -1 || title.indexOf('phẳng') !== -1) return 'Ngói phẳng';
+      return 'Ngói phẳng';
+    }
+    if (p.type === 'garden') return 'Gạch sân vườn';
+    return 'Gạch lát nền';
+  }
+
+  // assign category to each product
+  products.forEach(function (p) { p.category = assignCategory(p); });
+
+  // ---- URL param parser --------------------------------------------
+
+  var CATEGORY_SLUG_MAP = {
+    'gach-lat-nen': 'Gạch lát nền',
+    'gach-san-vuon': 'Gạch sân vườn',
+    'ngoi-phng': 'Ngói phẳng',
+    'ngoi-song': 'Ngói sóng'
+  };
+
+  function readUrlInitialFilters() {
+    var params = new URLSearchParams(window.location.search);
+    var catSlug = params.get('category');
+    var roomSlug = params.get('rooms');
+    var filters = {};
+    if (catSlug && CATEGORY_SLUG_MAP[catSlug]) {
+      filters.category = [CATEGORY_SLUG_MAP[catSlug]];
+    }
+    if (roomSlug) {
+      filters.rooms = [roomSlug];
+    }
+    return filters;
+  }
+
   // ---- card renderer (image-based) --------------------------------
 
   function cardMarkup(product) {
@@ -59,8 +100,9 @@
 
   window.VCProductFilter.init({
     products: products,
-    filterKeys: ['finish', 'size', 'placement', 'rooms'],
-    searchFields: ['code', 'title', 'size', 'rooms', 'finish', 'brand'],
+    filterKeys: ['finish', 'size', 'placement', 'rooms', 'category'],
+    searchFields: ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'],
+    initialFilters: readUrlInitialFilters(),
     cardMarkup: cardMarkup,
     postRender: onRender,
     initialLimit: 12,

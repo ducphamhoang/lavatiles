@@ -148,6 +148,22 @@
       render();
     });
 
+    function syncControls() {
+      filterKeys.forEach(function (key) {
+        var values = state[key] || [];
+        if (!values.length) return;
+        document.querySelectorAll('.pd-chip[data-filter-group="' + key + '"]').forEach(function (chip) {
+          if (values.indexOf(chip.getAttribute('data-filter-value')) !== -1) {
+            chip.classList.add('is-active');
+          }
+        });
+        document.querySelectorAll('input[data-filter-group="' + key + '"]').forEach(function (input) {
+          if (values.indexOf(input.value) !== -1) {
+            input.checked = true;
+          }
+        });
+      });
+    }
     syncControls();
     render();
     return { render: render, state: state };
