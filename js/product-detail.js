@@ -2,6 +2,28 @@
   'use strict';
   var products = window.LAVATILE_TILES || [];
 
+  // ---- enrich with generated detail URLs -------------------------
+
+  function normaliseCode(code) {
+    return (code || '').replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
+  }
+
+  function lastWord(str) {
+    var parts = (str || '').trim().split(/\s+/);
+    return parts.length > 1 ? parts[parts.length - 1] : '';
+  }
+
+  var generatedMap = {};
+  var titleMap = {};
+  if (window.LavatileGeneratedProducts) {
+    window.LavatileGeneratedProducts.forEach(function (gp) {
+      generatedMap[normaliseCode(gp.code)] = gp.detailUrl;
+      // Also index by normalized title for fallback
+      var lw = normaliseCode(lastWord(gp.title));
+      if (lw) titleMap[lw] = gp.detailUrl;
+    });
+  }
+
   // ---- category enrichment -----------------------------------------
 
   function assignCategory(p) {
@@ -16,8 +38,13 @@
     return 'Gạch lát nền';
   }
 
-  // assign category to each product
-  products.forEach(function (p) { p.category = assignCategory(p); });
+  // assign category and detailUrl to each product
+  products.forEach(function (p) {
+    p.category = assignCategory(p);
+    p.detailUrl = generatedMap[normaliseCode(p.code)] ||
+                  titleMap[normaliseCode(lastWord(p.title))] ||
+                  '';
+  });
 
   // ---- URL param parser --------------------------------------------
 
@@ -56,14 +83,22 @@
     }
     specs += '<li><span>Vị trí</span><strong>' + ((product.placement || []).join(' / ') || '-') + '</strong></li>';
 
-    return [
-      '<article class="pd-product-card">',
+    var body = [
       '<div class="pd-product-media">' + media + '</div>',
       '<div class="pd-product-body">',
       '<h3>' + product.code + '</h3>',
       '<span class="pd-product-brand">' + product.brand + '</span>',
       '<ul class="pd-product-specs">' + specs + '</ul>',
       '</div>',
+    ].join('');
+
+    if (product.detailUrl) {
+      body = '<a class="pd-product-link" href="' + product.detailUrl + '">' + body + '</a>';
+    }
+
+    return [
+      '<article class="pd-product-card">',
+      body,
       '</article>'
     ].join('');
   }

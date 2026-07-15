@@ -2,6 +2,58 @@
   'use strict';
   window.LAVATILE_TILES = [
   {
+    "code": "",
+    "brand": "",
+    "finish": "",
+    "color": "",
+    "size": "",
+    "placement": [],
+    "body": "",
+    "rooms": [],
+    "image": "",
+    "title": "",
+    "type": "tile"
+  },
+  {
+    "code": "",
+    "brand": "",
+    "finish": "",
+    "color": "",
+    "size": "",
+    "placement": [],
+    "body": "",
+    "rooms": [],
+    "image": "",
+    "title": "",
+    "type": "tile"
+  },
+  {
+    "code": "",
+    "brand": "",
+    "finish": "",
+    "color": "",
+    "size": "",
+    "placement": [],
+    "body": "",
+    "rooms": [],
+    "image": "",
+    "title": "",
+    "type": "tile"
+  },
+  {
+    "code": "",
+    "brand": "",
+    "finish": "",
+    "color": "",
+    "size": "",
+    "placement": [],
+    "body": "",
+    "rooms": [],
+    "image": "",
+    "title": "",
+    "type": "tile"
+  },
+  {
     "code": "SH-CE3601",
     "brand": "Viglacera",
     "finish": "Bóng",
@@ -933,7 +985,7 @@
     "type": "tile"
   },
   {
-    "code": "lt-nn-60x120-viglacera-sh10gp61204",
+    "code": "SH10_GP61204",
     "brand": "Viglacera",
     "finish": "Bóng",
     "color": "",
@@ -1803,7 +1855,7 @@
     "type": "garden"
   },
   {
-    "code": "ngi-phng-piata-viglacera-pt01-03",
+    "code": "PT01-03",
     "brand": "",
     "finish": "Men",
     "color": "",
@@ -1818,7 +1870,7 @@
     "type": "roof"
   },
   {
-    "code": "ngi-phng-piata-viglacera-pt01-06",
+    "code": "PT01-06",
     "brand": "",
     "finish": "Men",
     "color": "",
@@ -1833,7 +1885,7 @@
     "type": "roof"
   },
   {
-    "code": "ngi-phng-piata-viglacera-pt01-12",
+    "code": "PT01-12",
     "brand": "",
     "finish": "Men",
     "color": "",
@@ -1848,7 +1900,7 @@
     "type": "roof"
   },
   {
-    "code": "ngi-phng-piata-viglacera-pt01-18",
+    "code": "PT01-18",
     "brand": "",
     "finish": "Men",
     "color": "",
@@ -1863,7 +1915,7 @@
     "type": "roof"
   },
   {
-    "code": "ngi-phng-piata-viglacera-pt01-19",
+    "code": "PT01-19",
     "brand": "",
     "finish": "Men",
     "color": "",

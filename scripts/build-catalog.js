@@ -120,8 +120,17 @@ function main() {
     const code = info['Mã sản phẩm'] || '';
     const isRoof = (p.title || '').toLowerCase().startsWith('ngói');
 
+    // Fallback: try to extract real code from title when Mã sản phẩm is unavailable
+    var resolvedCode = code === '0' ? path.basename(file, '.json').replace(/^gch-/, '') : code;
+    if (code === '0') {
+      // Extract last word from title — often the actual product code (e.g. 'SH10_GP61204')
+      var titleWords = (p.title || '').trim().split(/\s+/);
+      var lastWord = titleWords[titleWords.length - 1] || '';
+      if (lastWord && lastWord.length > 3 && lastWord !== resolvedCode) resolvedCode = lastWord;
+    }
+
     const entry = {
-      code: code === '0' ? path.basename(file, '.json').replace(/^gch-/, '') : code,
+      code: resolvedCode,
       brand: info['Thương hiệu'] || '',
       finish: normaliseFinish(info) || (isRoof ? 'Men' : ''),
       color: inferColor(info, p.title),
