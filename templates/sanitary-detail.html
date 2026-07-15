@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{PAGE_TITLE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <link rel="stylesheet" href="{{ROOT}}/css/style.css">
+  <link rel="stylesheet" href="{{ROOT}}/css/product-faucet.css">
+  <link rel="stylesheet" href="{{ROOT}}/css/product-faucet-detail.css">
+</head>
+<body class="template-product-detail" data-product-code="{{PRODUCT_CODE}}">
+<div data-site-header data-site-root="{{ROOT}}" data-active-nav="products"></div>
+
+<main class="pfd-page">
+  <section class="pfd-breadcrumb-bar">
+    <div class="container">
+      <nav class="pd-breadcrumb" aria-label="Breadcrumb">
+        <a href="{{ROOT}}/index.html">Trang chủ</a>
+        <span>/</span>
+        <a href="#">Sản phẩm</a>
+        <span>/</span>
+        <a href="{{LISTING_URL}}">Thiết bị vệ sinh</a>
+        <span>/</span>
+        <a href="{{LISTING_URL}}#pd-filters">{{CATEGORY_LABEL}}</a>
+        <span>/</span>
+        <strong>{{PRODUCT_CODE}}</strong>
+      </nav>
+    </div>
+  </section>
+
+  <section class="pfd-main" data-reveal="from-bottom">
+    <div class="container pfd-grid">
+      <div class="pfd-gallery">
+        <div class="pfd-gallery-pane is-active" id="pfdPaneProduct" data-pane="product" role="tabpanel">
+          {{GALLERY}}
+        </div>
+        <div class="pfd-description pfd-description--desktop">
+          <p>{{DESCRIPTION}}</p>
+        </div>
+      </div>
+
+      <div class="pfd-detail">
+        <h1>{{PRODUCT_TITLE}}</h1>
+        <div class="pfd-code">Mã sản phẩm: <strong>{{PRODUCT_CODE}}</strong></div>
+        <p class="pfd-lead">{{LEAD}}</p>
+
+        <div class="pfd-attribute-group">
+          {{ATTRIBUTES}}
+        </div>
+
+        <div class="pfd-actions">
+          <button type="button" class="vc-hero-btn vc-hero-btn--dark" id="wishlistButton" aria-pressed="false">Thêm vào yêu thích</button>
+          <a href="mailto:hello@lavatile.com" class="vc-hero-btn vc-hero-btn--light">Liên hệ</a>
+          <a href="tel:0797555299" class="pd-link-btn pd-link-btn--dark">Tìm showroom</a>
+        </div>
+        <div class="pfd-share">
+          <span class="pfd-share-label">Chia sẻ:</span>
+          <div class="pfd-share-actions">
+            <a class="pfd-share-link" href="https://facebook.com/sharer/sharer.php?u={{SHARE_URL}}" target="_blank" rel="noreferrer">Facebook</a>
+          </div>
+        </div>
+        <p class="pfd-feedback" id="pfdFeedback" hidden aria-live="polite" role="status">Đã cập nhật danh sách yêu thích.</p>
+
+        <div class="pfd-more pfd-more--mobile">
+          <button type="button" class="pfd-more-toggle" data-detail-toggle aria-expanded="false" aria-controls="detailPanelMobile">
+            Xem thêm thông tin chi tiết
+          </button>
+          <div class="pfd-more-panel" id="detailPanelMobile" hidden>
+            {{DETAIL_PANEL}}
+          </div>
+        </div>
+        <div class="pfd-description pfd-description--mobile">
+          <p>{{DESCRIPTION}}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pfd-more pfd-more--desktop">
+    <div class="container">
+      <button type="button" class="pfd-more-toggle is-active" data-detail-toggle aria-expanded="true" aria-controls="detailPanelDesktop">
+        Xem thêm thông tin chi tiết
+      </button>
+      <div class="pfd-more-panel" id="detailPanelDesktop">
+        {{DETAIL_PANEL}}
+      </div>
+    </div>
+  </section>
+</main>
+
+<div data-site-footer data-site-root="{{ROOT}}"></div>
+
+<button type="button" id="scrollTop" aria-label="Scroll to top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"></polyline></svg>
+</button>
+
+<script src="{{ROOT}}/js/site-chrome.js"></script>
+<script src="{{ROOT}}/js/main.js"></script>
+<script src="{{ROOT}}/js/ui-feedback.js"></script>
+<script src="{{ROOT}}/js/product-faucet-detail.js"></script>
+</body>
+</html>

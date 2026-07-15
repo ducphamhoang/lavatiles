@@ -83,45 +83,26 @@
             <button type="button" class="pd-reset" id="pdReset">Cài đặt lại</button>
           </div>
           <div class="pd-filter-group">
-            <h4>Bề mặt</h4>
-            <div class="pd-filter-list">
-              <label><input type="checkbox" data-filter-group="finish" value="Bóng"> Bóng</label>
-              <label><input type="checkbox" data-filter-group="finish" value="Mờ"> Mờ</label>
-            </div>
-          </div>
-          <div class="pd-filter-group">
-            <h4>Màu sắc</h4>
-            <div class="pd-swatch-list">
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Đen"><span style="--swatch:#222428"></span>Đen</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Đồng"><span style="--swatch:linear-gradient(135deg,#8e5e3b,#c49563)"></span>Đồng</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Màu khác"><span style="--swatch:linear-gradient(135deg,#8f9ba3,#d8d7d3)"></span>Màu khác</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Trắng"><span style="--swatch:#eceae5"></span>Trắng</label>
-              <label class="pd-swatch"><input type="checkbox" data-filter-group="color" value="Vàng"><span style="--swatch:linear-gradient(135deg,#c9a24e,#f0dca0)"></span>Vàng</label>
-            </div>
-          </div>
-          <div class="pd-filter-group">
-            <h4>Vị trí lắp đặt</h4>
+            <h4>Thương hiệu</h4>
             <div class="pd-chip-list">
-              <button type="button" class="pd-chip" data-filter-group="installation" data-filter-value="Gắn bàn">Gắn bàn</button>
-              <button type="button" class="pd-chip" data-filter-group="installation" data-filter-value="Gắn tường">Gắn tường</button>
-              <button type="button" class="pd-chip" data-filter-group="installation" data-filter-value="Đặt sàn">Đặt sàn</button>
+              <button type="button" class="pd-chip" data-filter-group="brand" data-filter-value="Caesar">Caesar</button>
+              <button type="button" class="pd-chip" data-filter-group="brand" data-filter-value="TOTO">TOTO</button>
+              <button type="button" class="pd-chip" data-filter-group="brand" data-filter-value="INAX">INAX</button>
+              <button type="button" class="pd-chip" data-filter-group="brand" data-filter-value="Viglacera">Viglacera</button>
             </div>
           </div>
           <div class="pd-filter-group">
-            <h4>Hình dáng</h4>
+            <h4>Loại sản phẩm</h4>
             <div class="pd-chip-list">
-              <button type="button" class="pd-chip" data-filter-group="shape" data-filter-value="Tròn">Tròn</button>
-              <button type="button" class="pd-chip" data-filter-group="shape" data-filter-value="Oval">Oval</button>
-              <button type="button" class="pd-chip" data-filter-group="shape" data-filter-value="Vuông">Vuông</button>
-              <button type="button" class="pd-chip" data-filter-group="shape" data-filter-value="Chữ nhật">Chữ nhật</button>
-            </div>
-          </div>
-          <div class="pd-filter-group">
-            <h4>Xuất xứ</h4>
-            <div class="pd-filter-list">
-              <label><input type="checkbox" data-filter-group="country" value="Ý"> Ý</label>
-              <label><input type="checkbox" data-filter-group="country" value="Trung Quốc"> Trung Quốc</label>
-              <label><input type="checkbox" data-filter-group="country" value="Thụy Sĩ"> Thụy Sĩ</label>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi bếp">Vòi bếp</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi lạnh">Vòi lạnh</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi chậu">Vòi chậu</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi chậu cao">Vòi chậu cao</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi chậu cảm ứng">Vòi chậu cảm ứng</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi rửa bát">Vòi rửa bát</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Vòi bồn tắm">Vòi bồn tắm</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Sen tắm">Sen tắm</button>
+              <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Bồn tắm">Bồn tắm</button>
             </div>
           </div>
         </aside>
@@ -168,7 +149,23 @@
 <script src="../../js/site-chrome.js"></script>
 <script src="../../js/main.js"></script>
 <script src="../../js/ui-feedback.js"></script>
+<script src="../../data/rooms.js"></script>
 <script src="../../js/product-filter.js"></script>
+<script src="../../data/catalog-sanitary.js"></script>
 <script src="../../js/product-faucet.js"></script>
+<script>
+(function () {
+  var params = new URLSearchParams(window.location.search);
+  params.forEach(function (value, key) {
+    if (key === 'category' || key === 'brand') {
+      document.querySelectorAll('.pd-chip[data-filter-group="' + key + '"]').forEach(function (chip) {
+        if (chip.getAttribute('data-filter-value') === value) {
+          chip.click();
+        }
+      });
+    }
+  });
+})();
+</script>
 </body>
 </html>

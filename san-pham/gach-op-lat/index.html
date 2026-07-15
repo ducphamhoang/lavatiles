@@ -90,6 +90,19 @@
             <h3>Filters</h3>
             <button type="button" class="pd-reset" id="pdReset">Cài đặt lại</button>
           </div>
+                                  <div class="pd-filter-group">
+            <h4>Phòng</h4>
+            <div class="pd-chip-list">
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_khach">Phòng khách</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_ngu">Phòng ngủ</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_bep">Phòng bếp</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="phong_tam">Phòng tắm</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="ban_cong">Ban công</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="hanh_lang">Hành lang</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="mat_tien">Mặt tiền</button>
+              <button type="button" class="pd-chip" data-filter-group="rooms" data-filter-value="showroom">Showroom</button>
+            </div>
+          </div>
           <div class="pd-filter-group">
             <h4>Bề mặt</h4>
             <div class="pd-filter-list" data-generated-filter-list="finish">
@@ -98,9 +111,9 @@
               <label><input type="checkbox" data-filter-group="finish" value="Đang cập nhật"> Đang cập nhật</label>
             </div>
           </div>
-          <div class="pd-filter-group">
+                  <div class="pd-filter-group">
             <h4>Danh mục</h4>
-            <div class="pd-chip-list" data-generated-filter-list="category">
+            <div class="pd-chip-list">
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch lát nền">Gạch lát nền</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch sân vườn">Gạch sân vườn</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Ngói phẳng">Ngói phẳng</button>
@@ -271,6 +284,8 @@
 <script src="../../js/main.js"></script>
 <script src="../../js/ui-feedback.js"></script>
 <script src="../../js/product-filter.js"></script>
+<script src="../../data/rooms.js"></script>
+<script src="../../data/catalog-tiles.js"></script>
 <script src="../../js/generated-products.js"></script>
 <script src="../../js/generated-collections.js"></script>
 <script src="../../js/product-detail.js"></script>

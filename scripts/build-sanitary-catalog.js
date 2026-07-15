@@ -82,6 +82,16 @@ function categoryLabel(key) {
     .join(' ');
 }
 
+// Match what generate-sanitary-pages.js's parseCategory does — longest prefix first
+const CATEGORY_PREFIXES = Object.keys(CATEGORY_LABELS).sort((a, b) => b.length - a.length);
+
+function categorySlug(catKey) {
+  for (const prefix of CATEGORY_PREFIXES) {
+    if (catKey.startsWith(prefix)) return prefix;
+  }
+  return catKey;
+}
+
 const allProducts = [];
 
 for (const { file, brand, imgRoot } of BRANDS) {
@@ -89,6 +99,7 @@ for (const { file, brand, imgRoot } of BRANDS) {
   
   for (const [catKey, products] of Object.entries(data)) {
     const category = categoryLabel(catKey);
+    const sluggedCat = categorySlug(catKey);
     
     for (const [slug, p] of Object.entries(products)) {
       const info = p.product_info || {};
@@ -106,6 +117,7 @@ for (const { file, brand, imgRoot } of BRANDS) {
         image: (p.images && p.images[0]) ? p.images[0] : (imgRoot + slug + '.jpg'),
         slug: slug,
         type: 'sanitary',
+        detailUrl: sluggedCat + '/' + slug + '.html',
       });
     }
   }

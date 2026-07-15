@@ -17,15 +17,16 @@
     if (product.price) specs += '<li><span>Giá</span><strong>' + product.price + '</strong></li>';
     if (product.technology) specs += '<li><span>Công nghệ</span><strong>' + product.technology + '</strong></li>';
 
+    var url = product.detailUrl || '#';
     return [
-      '<article class="pd-product-card">',
+      '<a class="pd-product-card" href="' + url + '">',
       '<div class="pd-product-media">' + media + '</div>',
       '<div class="pd-product-body">',
       '<h3>' + product.title + '</h3>',
       '<span class="pd-product-brand">' + product.brand + ' · ' + product.category + '</span>',
       '<ul class="pd-product-specs">' + specs + '</ul>',
       '</div>',
-      '</article>'
+      '</a>'
     ].join('');
   }
 
