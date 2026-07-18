@@ -264,6 +264,12 @@
   letter-spacing: -0.02em;
 }
 
+.catalogue-card-actions {
+  display: flex;
+  gap: 6px;
+  flex: 0 0 auto;
+}
+
 .catalogue-card-action {
   flex: 0 0 auto;
   display: inline-flex;
@@ -271,10 +277,10 @@
   gap: 10px;
   padding: 0 14px;
   height: 44px;
-  height: 44px;
   border: 1px solid rgba(152, 27, 30, 0.16);
   color: var(--accent);
   background: rgba(152, 27, 30, 0.03);
+  cursor: pointer;
   transition: background 0.25s ease, color 0.25s ease, border-color 0.25s ease;
 }
 
@@ -404,6 +410,10 @@
 
   .catalogue-card-body h3 {
     font-size: 15px;
+  }
+
+  .catalogue-card-actions {
+    gap: 4px;
   }
 
   .catalogue-card-action {

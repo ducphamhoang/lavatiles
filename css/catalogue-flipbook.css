@@ -1,0 +1,321 @@
+/* ───────────────────────────────────────────
+   FLIPBOOK OVERLAY
+   Full-screen page-flip viewer for catalogues
+   ─────────────────────────────────────────── */
+
+.flipbook-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  flex-direction: column;
+  background: rgba(16, 15, 13, 0.92);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.flipbook-overlay.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* ── Toolbar ── */
+.flipbook-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex: 0 0 auto;
+  padding: 12px 20px;
+  background: rgba(255, 255, 255, 0.04);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.flipbook-toolbar-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.flipbook-toolbar-brand {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+  white-space: nowrap;
+}
+
+.flipbook-toolbar-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.flipbook-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex: 0 0 auto;
+}
+
+.flipbook-page-indicator {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: rgba(255, 255, 255, 0.6);
+  white-space: nowrap;
+  padding: 0 8px;
+}
+
+.flipbook-download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 36px;
+  padding: 0 16px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.06);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.flipbook-download-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.flipbook-download-btn svg {
+  width: 16px;
+  height: 16px;
+}
+
+.flipbook-close-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.flipbook-close-btn:hover {
+  color: #fff;
+}
+
+.flipbook-close-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* ── Main viewer area ── */
+.flipbook-viewport {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Navigation arrows ── */
+.flipbook-nav {
+  position: absolute;
+  top: 50%;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  margin-top: -24px;
+  border: 0;
+  background: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.flipbook-nav:hover {
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
+}
+
+.flipbook-nav:disabled {
+  opacity: 0.2;
+  cursor: default;
+  background: transparent;
+}
+
+.flipbook-nav--prev {
+  left: 12px;
+}
+
+.flipbook-nav--next {
+  right: 12px;
+}
+
+.flipbook-nav svg {
+  width: 22px;
+  height: 22px;
+}
+
+/* ── Page image ── */
+.flipbook-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.flipbook-page-img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* ── Placeholder for missing pages ── */
+.flipbook-missing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  padding: 32px;
+}
+
+.flipbook-missing svg {
+  width: 40px;
+  height: 40px;
+  opacity: 0.3;
+}
+
+.flipbook-missing p {
+  font-size: 13px;
+  line-height: 1.6;
+  max-width: 32ch;
+}
+
+/* ── Thumbnail strip ── */
+.flipbook-thumbs {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 6px;
+  padding: 10px 20px;
+  overflow-x: auto;
+  background: rgba(0, 0, 0, 0.2);
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.15) transparent;
+}
+
+.flipbook-thumbs::-webkit-scrollbar {
+  height: 4px;
+}
+
+.flipbook-thumbs::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.flipbook-thumbs::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 0;
+}
+
+.flipbook-thumb {
+  flex: 0 0 auto;
+  width: 48px;
+  height: 64px;
+  border: 2px solid transparent;
+  opacity: 0.5;
+  cursor: pointer;
+  transition: opacity 0.2s ease, border-color 0.2s ease;
+  overflow: hidden;
+}
+
+.flipbook-thumb:hover {
+  opacity: 0.75;
+}
+
+.flipbook-thumb.is-active {
+  border-color: #fff;
+  opacity: 1;
+}
+
+.flipbook-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* ── Responsive ── */
+@media (max-width: 767px) {
+  .flipbook-toolbar {
+    padding: 10px 12px;
+    flex-wrap: wrap;
+  }
+
+  .flipbook-toolbar-title {
+    font-size: 13px;
+    max-width: 140px;
+  }
+
+  .flipbook-nav {
+    width: 36px;
+    height: 36px;
+    margin-top: -18px;
+  }
+
+  .flipbook-nav--prev { left: 4px; }
+  .flipbook-nav--next { right: 4px; }
+
+  .flipbook-nav svg {
+    width: 18px;
+    height: 18px;
+  }
+
+  .flipbook-thumbs {
+    padding: 8px 12px;
+  }
+
+  .flipbook-thumb {
+    width: 36px;
+    height: 48px;
+  }
+}
+
+@media (max-width: 480px) {
+  .flipbook-download-btn span {
+    display: none;
+  }
+
+  .flipbook-toolbar-brand {
+    display: none;
+  }
+}

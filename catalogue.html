@@ -6,6 +6,11 @@
   <meta name="description" content="Khám phá catalogue gạch ốp lát, thiết bị vệ sinh và các chương trình ưu đãi nổi bật từ Lavatile.">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/catalogue.css">
+  <link rel="stylesheet" href="css/catalogue-flipbook.css">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+  <link rel="preload" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" as="style">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 </head>
 <body class="static-listing-page">
 <div data-site-header data-site-root="." data-active-nav="catalogue"></div>
@@ -30,7 +35,7 @@
     <div class="container">
       <div class="catalogue-tabs" role="tablist" aria-label="Danh mục catalogue" data-reveal="from-bottom">
         <button class="catalogue-tab is-active" type="button" role="tab" aria-selected="true" tabindex="0" data-catalogue-tab="gach">Gạch <span>7</span></button>
-        <button class="catalogue-tab" type="button" role="tab" aria-selected="false" tabindex="-1" data-catalogue-tab="thiet-bi-ve-sinh">Thiết bị vệ sinh <span>6</span></button>
+        <button class="catalogue-tab" type="button" role="tab" aria-selected="false" tabindex="-1" data-catalogue-tab="thiet-bi-ve-sinh">Thiết bị vệ sinh <span>3</span></button>
         <button class="catalogue-tab" type="button" role="tab" aria-selected="false" tabindex="-1" data-catalogue-tab="san-pham-uu-dai">Sản phẩm ưu đãi <span>7</span></button>
       </div>
       <div class="catalogue-feedback" id="catalogueFeedback" aria-live="polite" hidden=""></div>
@@ -42,6 +47,22 @@
             <span>7 tài liệu</span>
           </div>
           <div class="catalogue-grid">
+            <article class="catalogue-card" data-reveal="from-bottom">
+              <div class="catalogue-card-media"><img src="assets/images/catalogue/viglacera-catalogue.png" alt="Viglacera"></div>
+              <div class="catalogue-card-body">
+                <h3>Viglacera T1-2026</h3>
+                <div class="catalogue-card-actions">
+                  <button class="catalogue-card-action" data-flipbook-trigger data-flipbook-id="viglacera" aria-label="Xem nhanh Viglacera">
+                    <span>Xem nhanh</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                  </button>
+                  <a class="catalogue-card-action" href="assets/pdf/Catalogue T1-2026.pdf" target="_blank" rel="noopener" aria-label="Tải PDF Viglacera">
+                    <span>PDF</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 19h14"/></svg>
+                  </a>
+                </div>
+              </div>
+            </article>
             <article class="catalogue-card" data-reveal="from-bottom">
               <div class="catalogue-card-media"><img src="assets/collection-big-slab-v1.png" alt="Gạch Khổ Lớn"></div>
               <div class="catalogue-card-body"><h3>Gạch Khổ Lớn</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Gạch Khổ Lớn"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
@@ -66,42 +87,62 @@
               <div class="catalogue-card-media"><img src="assets/collection-resonance-light-v1.png" alt="Boost Natural"></div>
               <div class="catalogue-card-body"><h3>Boost Natural</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Boost Natural"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
             </article>
-            <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/collection-earthy-neutrals-v1.png" alt="Mystic"></div>
-              <div class="catalogue-card-body"><h3>Mystic</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Mystic"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
-            </article>
           </div>
         </div>
 
         <div class="catalogue-panel" data-catalogue-panel="thiet-bi-ve-sinh" hidden="">
           <div class="catalogue-panel-head">
             <p>Các brochure dành cho giải pháp lavabo, vòi nước, bồn cầu và bộ sưu tập phòng tắm cao cấp.</p>
-            <span>6 tài liệu</span>
+            <span>3 tài liệu</span>
           </div>
           <div class="catalogue-grid">
             <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/category-bath-showroom-v1.png" alt="ViClean-IH+"></div>
-              <div class="catalogue-card-body"><h3>ViClean-IH+</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải ViClean-IH+"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
+              <div class="catalogue-card-media"><img src="assets/images/catalogue/toto-catalogue.png" alt="TOTO"></div>
+              <div class="catalogue-card-body">
+                <h3>TOTO Mini 1H26</h3>
+                <div class="catalogue-card-actions">
+                  <button class="catalogue-card-action" data-flipbook-trigger data-flipbook-id="toto" aria-label="Xem nhanh TOTO">
+                    <span>Xem nhanh</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                  </button>
+                  <a class="catalogue-card-action" href="assets/pdf/260323_TOTO Mini_1H26_rev6_view (1)-đã nén.pdf" target="_blank" rel="noopener" aria-label="Tải PDF TOTO">
+                    <span>PDF</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 19h14"/></svg>
+                  </a>
+                </div>
+              </div>
             </article>
             <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/featured-antao-v1.png" alt="Villeroy &amp; Boch"></div>
-              <div class="catalogue-card-body"><h3>Villeroy &amp; Boch</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Villeroy and Boch"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
+              <div class="catalogue-card-media"><img src="assets/images/catalogue/inax-catalogue.jpg" alt="INAX"></div>
+              <div class="catalogue-card-body">
+                <h3>INAX</h3>
+                <div class="catalogue-card-actions">
+                  <button class="catalogue-card-action" data-flipbook-trigger data-flipbook-id="inax" aria-label="Xem nhanh INAX">
+                    <span>Xem nhanh</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                  </button>
+                  <a class="catalogue-card-action" href="assets/pdf/INAX-CATALOGUE-01.04.2026.pdf" target="_blank" rel="noopener" aria-label="Tải PDF INAX">
+                    <span>PDF</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 19h14"/></svg>
+                  </a>
+                </div>
+              </div>
             </article>
             <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/featured-gessi-sogni-v1.png" alt="Gessi"></div>
-              <div class="catalogue-card-body"><h3>Gessi</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Gessi"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
-            </article>
-            <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/news-tran-thanh-bath-v1.png" alt="Anello"></div>
-              <div class="catalogue-card-body"><h3>Anello</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Anello"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
-            </article>
-            <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/project-office-v1.png" alt="Subway 3.0"></div>
-              <div class="catalogue-card-body"><h3>Subway 3.0</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Subway 3.0"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
-            </article>
-            <article class="catalogue-card" data-reveal="from-bottom">
-              <div class="catalogue-card-media"><img src="assets/project-public-v1.png" alt="Venti20"></div>
-              <div class="catalogue-card-body"><h3>Venti20</h3><a class="catalogue-card-action" href="#" data-download-placeholder="" aria-label="Tải Venti20"><span>Xem PDF</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"></path><path d="M7 10l5 5 5-5"></path><path d="M5 19h14"></path></svg></a></div>
+              <div class="catalogue-card-media"><img src="assets/images/catalogue/caesar-catalogue.png" alt="Caesar"></div>
+              <div class="catalogue-card-body">
+                <h3>Caesar</h3>
+                <div class="catalogue-card-actions">
+                  <button class="catalogue-card-action" data-flipbook-trigger data-flipbook-id="caesar" aria-label="Xem nhanh Caesar">
+                    <span>Xem nhanh</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                  </button>
+                  <a class="catalogue-card-action" href="assets/pdf/CATALO 06-2026.pdf" target="_blank" rel="noopener" aria-label="Tải PDF Caesar">
+                    <span>PDF</span>
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 4v11"/><path d="M7 10l5 5 5-5"/><path d="M5 19h14"/></svg>
+                  </a>
+                </div>
+              </div>
             </article>
           </div>
         </div>
@@ -170,6 +211,9 @@
 <script src="js/main.js"></script>
 <script src="js/ui-feedback.js"></script>
 <script src="js/catalogue.js"></script>
+<script src="data/catalogues.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="js/catalogue-flipbook.js"></script>
 
 
 </body></html>
