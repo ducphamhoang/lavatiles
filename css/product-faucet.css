@@ -88,15 +88,99 @@
   background: color-mix(in srgb, var(--surface) 94%, #d8d2c7 6%);
 }
 
-.pd-product-card--faucet .pd-product-media img {
-  width: 100%;
+.pf-art {
+  position: relative;
   height: 100%;
-  object-fit: contain;
-  transition: transform 0.3s ease;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 255, 255, 0.44), transparent 24%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.05));
 }
 
-.pd-product-card--faucet:hover .pd-product-media img {
-  transform: scale(1.04);
+.pf-art::before,
+.pf-art::after {
+  content: "";
+  position: absolute;
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.pf-art::before {
+  inset: auto 28% 12% auto;
+  width: 28%;
+  height: 56%;
+  border-radius: 0;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+}
+
+.pf-art::after {
+  right: 28%;
+  top: 26%;
+  width: 32%;
+  height: 11%;
+  border-radius: 0;
+  transform-origin: right center;
+  transform: translateX(10px);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.pf-spout,
+.pf-base {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.26);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+}
+
+.pf-spout {
+  right: 21%;
+  top: 26%;
+  width: 13%;
+  height: 30%;
+  border-radius: 0;
+}
+
+.pf-base {
+  right: 33%;
+  bottom: 12%;
+  width: 16%;
+  height: 7%;
+  border-radius: 0;
+}
+
+.pf-tone-brushed-chrome {
+  background:
+    radial-gradient(circle at 74% 16%, rgba(255, 255, 255, 0.74), transparent 24%),
+    linear-gradient(140deg, #f7f8fa 0%, #d5d9df 18%, #f0f2f5 34%, #adb4bc 52%, #edf0f4 70%, #949ca5 100%);
+}
+
+.pf-tone-warm-brass {
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 248, 224, 0.7), transparent 24%),
+    linear-gradient(140deg, #f7e5bc 0%, #b88739 18%, #f0d79e 34%, #8d5f28 54%, #eccb8a 72%, #6f4922 100%);
+}
+
+.pf-tone-matte-black {
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 255, 255, 0.16), transparent 22%),
+    linear-gradient(140deg, #34363a 0%, #17181b 24%, #4d5258 42%, #121316 60%, #2e3237 80%, #0f1012 100%);
+}
+
+.pf-tone-soft-white {
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 255, 255, 0.8), transparent 24%),
+    linear-gradient(140deg, #faf8f3 0%, #dfdbd2 22%, #fdfcf8 40%, #c8c3b7 58%, #f4f0e8 78%, #bfb9ad 100%);
+}
+
+.pf-tone-satin-copper {
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 245, 236, 0.72), transparent 24%),
+    linear-gradient(140deg, #e6c5a5 0%, #9b6745 22%, #f0dbc2 40%, #74452d 58%, #e2bd98 78%, #5e3827 100%);
+}
+
+.pf-tone-platinum-grey {
+  background:
+    radial-gradient(circle at 72% 16%, rgba(255, 255, 255, 0.76), transparent 24%),
+    linear-gradient(140deg, #e8ebef 0%, #adb5bf 20%, #f6f7f8 38%, #8e97a0 56%, #eceff3 74%, #6e757d 100%);
 }
 
 .pd-product-card--faucet h3 {
@@ -109,12 +193,19 @@
   padding: 14px 14px 16px;
 }
 
-.pd-product-card--faucet .pd-product-brand {
-  display: block;
-  margin-bottom: 10px;
-  font-size: 13px;
-  color: var(--muted);
+.pd-page--faucet .pd-product-topline {
+  margin-bottom: 8px;
 }
+
+.pd-product-card--faucet .pd-product-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.pd-product-card--faucet .pd-product-meta span {
+  padding: 6px 8px;
   border: 1px solid var(--border);
   font-size: 11px;
   letter-spacing: 0.06em;
