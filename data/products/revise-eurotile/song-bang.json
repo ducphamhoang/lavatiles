@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-song-bang",
+  "title": "Sông Băng",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG.SOB Q01",
+    "SIG.SOB E01"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG.SOB Q01, SIG.SOB E01",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q, KÍCH THƯỚC E",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "\"Hai mươi năm về sau bạn sẽ hối hận về những gì bạn không làm hơn là những gì bạn làm. Vậy nên hãy tháo dây, nhổ neo ra khỏi bến đỗ an toàn. Hãy để cánh buồm của bạn đón trọn lấy gió. Thám hiểm. Mơ mộng. Khám phá\". _Mark Twain_",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/pc-sob-website-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-website-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/map/60x120/SIG.SOB-Q01-face-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/thongso-sob-q.png",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/website-qr-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/map/80x80/SIG-SOB-E01-face1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/TSSOBE-05.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/song-bang.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/song-bang.html",
+    "title": "Sông Băng",
+    "rawSku": "SIG.SOB Q01, SIG.SOB E01",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

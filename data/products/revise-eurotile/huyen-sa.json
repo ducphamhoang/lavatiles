@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-huyen-sa",
+  "title": "Huyền Sa",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HUS G01 TF",
+    "HUS L01 TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HUS G01 TF, HUS L01 TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G, KÍCH THƯỚC L",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Màu sắc ngoài cái đẹp trời cho còn có một chiều sâu kín đáo. Giữa không gian màu đen huyền bí, sự lấp lánh và tỏa sáng của màu vàng khiến căn phòng bạn trở nên ấm áp và quyến rũ.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/huyensaedit.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-G01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-G-04.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-L01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-L-04.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/huyen-sa.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/huyen-sa.html",
+    "title": "Huyền Sa",
+    "rawSku": "HUS G01 TF, HUS L01 TF",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "THIRD-FIRING",
+  "eurotile_category_code": ""
+}

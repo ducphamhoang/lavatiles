@@ -1,6 +1,15 @@
 (function () {
   'use strict';
-  var products = window.LAVATILE_TILES || [];
+
+  var params = new URLSearchParams(window.location.search);
+  var brand = params.get('brand') || '';
+  var isEurotile = brand.toLowerCase() === 'eurotile';
+
+  // ---- pick product set -------------------------------------------
+
+  var products = isEurotile
+    ? (window.LAVATILE_EUROTILE_PRODUCTS || [])
+    : (window.LAVATILE_TILES || []);
 
   // ---- enrich with generated detail URLs -------------------------
 
@@ -15,10 +24,9 @@
 
   var generatedMap = {};
   var titleMap = {};
-  if (window.LavatileGeneratedProducts) {
+  if (window.LavatileGeneratedProducts && !isEurotile) {
     window.LavatileGeneratedProducts.forEach(function (gp) {
       generatedMap[normaliseCode(gp.code)] = gp.detailUrl;
-      // Also index by normalized title for fallback
       var lw = normaliseCode(lastWord(gp.title));
       if (lw) titleMap[lw] = gp.detailUrl;
     });
@@ -38,12 +46,16 @@
     return 'Gạch lát nền';
   }
 
-  // assign category and detailUrl to each product
   products.forEach(function (p) {
-    p.category = assignCategory(p);
-    p.detailUrl = generatedMap[normaliseCode(p.code)] ||
-                  titleMap[normaliseCode(lastWord(p.title))] ||
-                  '';
+    if (isEurotile) {
+      // Eurotile products already have eurotile_category; no Lavatile category needed
+      p.category = '';
+    } else {
+      p.category = assignCategory(p);
+      p.detailUrl = generatedMap[normaliseCode(p.code)] ||
+                    titleMap[normaliseCode(lastWord(p.title))] ||
+                    '';
+    }
   });
 
   // ---- URL param parser --------------------------------------------
@@ -56,9 +68,9 @@
   };
 
   function readUrlInitialFilters() {
-    var params = new URLSearchParams(window.location.search);
-    var catSlug = params.get('category');
-    var roomSlug = params.get('rooms');
+    var p = new URLSearchParams(window.location.search);
+    var catSlug = p.get('category');
+    var roomSlug = p.get('rooms');
     var filters = {};
     if (catSlug && CATEGORY_SLUG_MAP[catSlug]) {
       filters.category = [CATEGORY_SLUG_MAP[catSlug]];
@@ -66,10 +78,50 @@
     if (roomSlug) {
       filters.rooms = [roomSlug];
     }
+    // Eurotile category from URL
+    var euroCat = p.get('eurotile_category');
+    if (euroCat && isEurotile) {
+      filters.eurotile_category = [euroCat];
+    }
     return filters;
   }
 
-  // ---- card renderer (image-based) --------------------------------
+  // ---- UI: toggle category filter chips --------------------------
+
+  var lavatileCatGroup = document.getElementById('pdCatGroup');
+  var euroCatGroup = document.getElementById('pdEurotileCatGroup');
+
+  if (isEurotile) {
+    if (lavatileCatGroup) lavatileCatGroup.hidden = true;
+    if (euroCatGroup) euroCatGroup.hidden = false;
+  } else {
+    if (lavatileCatGroup) lavatileCatGroup.hidden = false;
+    if (euroCatGroup) euroCatGroup.hidden = true;
+  }
+
+  // ---- page title/breadcrumb branding ----------------------------
+
+  var pageTitle = document.querySelector('title');
+  var pageH1 = document.querySelector('.tiles-hero-content h1');
+  var breadcrumb = document.querySelector('.pd-breadcrumb');
+
+  if (isEurotile) {
+    var desc = document.querySelector('.tiles-desc p');
+    // Update hero
+    if (pageTitle) pageTitle.textContent = 'Eurotile | Gạch ốp lát | Lavatile';
+    if (pageH1) pageH1.textContent = 'EUROTILE';
+    if (breadcrumb) {
+      var lastCrumb = breadcrumb.querySelector('strong');
+      if (lastCrumb) lastCrumb.textContent = 'Eurotile';
+    }
+    // Update section title/description
+    var sectionTitle = document.querySelector('#pd-filters h2');
+    if (sectionTitle) sectionTitle.textContent = 'Sản phẩm Eurotile';
+    var sectionDesc = document.querySelector('#pd-filters p');
+    if (sectionDesc) sectionDesc.textContent = 'Khám phá bộ sưu tập gạch ốp lát Eurotile với đa dạng dòng sản phẩm và phong cách thiết kế.';
+  }
+
+  // ---- card renderer --------------------------------------------
 
   function cardMarkup(product) {
     var media = product.image
@@ -82,6 +134,11 @@
       specs += '<li><span>Xương gạch</span><strong>' + product.body + '</strong></li>';
     }
     specs += '<li><span>Vị trí</span><strong>' + ((product.placement || []).join(' / ') || '-') + '</strong></li>';
+
+    // Show collection name for Eurotile products
+    if (isEurotile && product.eurotile_collection) {
+      specs += '<li><span>Bộ sưu tập</span><strong>' + product.eurotile_collection + '</strong></li>';
+    }
 
     var body = [
       '<div class="pd-product-media">' + media + '</div>',
@@ -106,6 +163,7 @@
   // ---- room info panel -------------------------------------------
 
   function onRender(state) {
+    if (isEurotile) return; // no room info for brand pages
     var active = state.rooms || [];
     var info = document.getElementById('pdRoomInfo');
     var label = document.getElementById('pdRoomInfoLabel');
@@ -133,10 +191,18 @@
 
   if (!window.VCProductFilter) return;
 
+  var filterKeys = isEurotile
+    ? ['eurotile_category', 'finish', 'size', 'placement']
+    : ['finish', 'size', 'placement', 'rooms', 'category'];
+
+  var searchFields = isEurotile
+    ? ['code', 'title', 'size', 'finish', 'brand', 'eurotile_collection', 'eurotile_category']
+    : ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'];
+
   window.VCProductFilter.init({
     products: products,
-    filterKeys: ['finish', 'size', 'placement', 'rooms', 'category'],
-    searchFields: ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'],
+    filterKeys: filterKeys,
+    searchFields: searchFields,
     initialFilters: readUrlInitialFilters(),
     cardMarkup: cardMarkup,
     postRender: onRender,

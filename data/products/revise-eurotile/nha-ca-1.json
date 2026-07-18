@@ -1,0 +1,53 @@
+{
+  "collection_id": "eurotile-nha-ca-1",
+  "title": "Nhã Ca",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "NHC S01H",
+    "NHC S02M",
+    "NHC S03H",
+    "NHC S04M",
+    "NHC S05M"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "NHC S01H, NHC S02M, NHC S03H, NHC S04M, NHC S05M",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Âm nhạc an tĩnh và tao nhã có thể giúp tâm chúng ta an yên giữa thế giới hối hả. Ngồi uống trà thưởng nguyệt và lắng nghe khúc nhạc là cách tốt nhất để tu dưỡng tinh thần và tâm tính.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S01H-PC-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/GTL-NHC4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHCS02M.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S04M.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S05M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S03H-PC-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/NHC-S01H-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/NHC-S02M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/NHC-S03H-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/NHC-S04M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/NHC-S05M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/nha-ca-1.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/nha-ca-1.html",
+    "title": "Nhã Ca",
+    "rawSku": "NHC S01H, NHC S02M, NHC S03H, NHC S04M, NHC S05M",
+    "imageCount": 13
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

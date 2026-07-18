@@ -1,0 +1,37 @@
+{
+  "collection_id": "eurotile-dong-phong",
+  "title": "Đông Phong",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG. P8804"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG. P8804",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "Sig. P-04, SIG. P8804",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Có cánh cửa khép hờ cùng gió bão Đựng niềm vui, tiếng cười nói rộn vang… Khi xa nhà, khi đông lạnh đã sang Con nhớ nhà nhớ ổ rơm ngày ấy Nhớ vòng tay.. mẹ ơi… sao quen thuộc… Giữa mùa đông bỗng thấy ấm lạ lùng…",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/signature/sigp-8804/Sig.P-8804.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/dong-phong.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/dong-phong.html",
+    "title": "Đông Phong",
+    "rawSku": "SIG. P8804",
+    "imageCount": 1
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

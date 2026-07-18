@@ -1,0 +1,48 @@
+{
+  "collection_id": "eurotile-chau-sa",
+  "title": "Châu Sa",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "CHS G01 TF",
+    "CHS L01 TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "CHS G01 TF, CHS L01 TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G, KÍCH THƯỚC L",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Châu Sa, một viên ngọc quý vô cùng tuyệt đẹp, tỏa sáng giữa đại dương. Một giọt sương tinh khiết, long lanh trong ánh sáng sớm mai. Nó mang đến sự tươi mới và đầy hứng khởi, nơi mà bầu trời xanh ngát, biển cả mênh mông và cát trắng dịu mát.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/MH-chausa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-L01-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/Thit-k-cha-c-tn.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-001.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-008.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-009.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-003-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-G01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-G-04.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-L01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-L-04.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/chau-sa.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/chau-sa.html",
+    "title": "Châu Sa",
+    "rawSku": "CHS G01 TF, CHS L01 TF",
+    "imageCount": 11
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "THIRD-FIRING",
+  "eurotile_category_code": ""
+}

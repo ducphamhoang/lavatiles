@@ -1,0 +1,46 @@
+{
+  "collection_id": "eurotile-an-nien",
+  "title": "An Niên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "ANN G01",
+    "ANN G02",
+    "ANN G03",
+    "ANN G04"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "ANN G01, ANN G02, ANN G03, ANN G04",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Thời khắc đang đi nhịp thái bình Dịu dàng gió nhạt thổi mây xanh Hàng cây mở ngọn kêu chim đến Hạnh phúc xem như chuyện đã đành.",
+  "hero_image": "../../assets/hero-an-nien-v2.png",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/annien/MOTA-ANNIEN-G-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/an-nien.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/an-nien.html",
+    "title": "An Niên",
+    "rawSku": "ANN G01, ANN G02, ANN G03, ANN G04",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "XI MĂNG",
+  "eurotile_category_code": "Cement"
+}

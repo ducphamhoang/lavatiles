@@ -1,0 +1,61 @@
+{
+  "collection_id": "eurotile-moc-mien",
+  "title": "Mộc Miên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "MMI M01",
+    "MMI M02",
+    "MMI M03",
+    "MMI M04",
+    "MMI M05",
+    "MMI K01",
+    "MMI K02",
+    "MMI K03",
+    "MMI K05",
+    "MMI Z05 MR4"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "MMI M01, MMI M02, MMI M03, MMI M04, MMI M05, MMI K01, MMI K02, MMI K03, MMI K05, MMI Z05 MR4",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC M, KÍCH THƯỚC K, KÍCH THƯỚC Z",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Hít căng lồng ngực hương hoa đồng cỏ nội để nghe mình khoan khoái. Ngước xa xa để thấy con trâu già gặm cỏ trên đồng, ngẩng cao đầu nhìn cánh diều căng gió giữa trời xanh. Bước lang thang theo bờ ruộng đường quê để nghe sống lại một thời đầu trần chân đất. Chốn mộc mạc bình yên ấy luôn trải dài như hai chữ Mộc Miên.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-A14.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-A15.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-A17.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-9.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-7.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/kythuat-01.png",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/qrAsset-34.png",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/1MMI-Z05-MR4-1.png",
+    "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/THNG-S-PALLET-Moc-mien.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/moc-mien.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/moc-mien.html",
+    "title": "Mộc Miên",
+    "rawSku": "MMI M01, MMI M02, MMI M03, MMI M04, MMI M05, MMI K01, MMI K02, MMI K03, MMI K05, MMI Z05 MR4",
+    "imageCount": 16
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "VÂN GỖ",
+  "eurotile_category_code": "Wood"
+}

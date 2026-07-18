@@ -1,0 +1,46 @@
+{
+  "collection_id": "eurotile-ngoc-giao-1",
+  "title": "Ngọc Giao",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG.NGG Q04P",
+    "SIG.NGG E04P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG.NGG Q04P, SIG.NGG E04P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q, KÍCH THƯỚC E",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "\"Cuộc đời tựa như một viên đá, chính bạn là người quyết định để viên đá ấy bám rong rêu hay trở thành viên ngọc sáng\" - Cavett Robert",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG.NGG-Q04P-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG.NGG-Q04P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/PC-NGG-E04P-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/PC-NGG-E04P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG-NGG-Q04P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/NGG-Q-01.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/SIG-NGG-E04P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/NGG-E-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/ngoc-giao-1.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/ngoc-giao-1.html",
+    "title": "Ngọc Giao",
+    "rawSku": "SIG.NGG Q04P, SIG.NGG E04P",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

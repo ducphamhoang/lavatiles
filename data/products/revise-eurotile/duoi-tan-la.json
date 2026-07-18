@@ -1,0 +1,42 @@
+{
+  "collection_id": "eurotile-duoi-tan-la",
+  "title": "Dưới tán lá",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "DTL Q01TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "DTL Q01TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Khoảnh khắc ngước nhìn tia sáng lấp lánh len lỏi qua từng kẽ lá, ta chợt thấy niềm tin bừng sáng như hạt sương tinh khôi, hòa trong nhịp thở của cây và giai điệu của gió. Dưới Tán Lá chở che ấy, ta chậm ngắm hồi ức, gieo mầm cho một tương lai mới.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-phoicanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q-thongsokythuat-09.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/QRDuoi-tan-la.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/duoi-tan-la.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/duoi-tan-la.html",
+    "title": "Dưới tán lá",
+    "rawSku": "DTL Q01TF",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "THIRD-FIRING",
+  "eurotile_category_code": ""
+}

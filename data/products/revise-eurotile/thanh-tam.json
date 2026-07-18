@@ -1,0 +1,48 @@
+{
+  "collection_id": "eurotile-thanh-tam",
+  "title": "Thanh Tâm",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG.THT E01",
+    "SIG.THT Q01"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG.THT E01, SIG.THT Q01",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC E, KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "\"Nếu bạn không để ánh hào quang của mặt trời làm lóa mắt, bạn sẽ nhìn được biển rộng và chân trời.\"",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-07.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-05.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-04.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-06.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-08-08.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/size-e/THT-E01-1.png",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/size-e/THT-E01-02.png",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/website-qr-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/map/THANH-TMTHT-Q01f1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/thantam/THNG-S-PALLET-THT-04.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thanh-tam.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thanh-tam.html",
+    "title": "Thanh Tâm",
+    "rawSku": "SIG.THT E01, SIG.THT Q01",
+    "imageCount": 11
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

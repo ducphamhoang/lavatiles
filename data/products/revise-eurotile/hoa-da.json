@@ -1,0 +1,48 @@
+{
+  "collection_id": "eurotile-hoa-da",
+  "title": "Hoa Đá",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HOD D01",
+    "HOD D02",
+    "HOD D03",
+    "HOD D04",
+    "HOD G01",
+    "HOD G02",
+    "HOD G03",
+    "HOD G04"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HOD D01, HOD D02, HOD D03, HOD D04, HOD G01, HOD G02, HOD G03, HOD G04",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC D, KÍCH THƯỚC G",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Những dòng dung nham tuôn trào như ngày khai nhụy nở hoa, một bông hoa rực rỡ, mãnh liệt và vô cùng nóng bỏng. Là món quà tạo hóa dành tặng cho những ai chiêm ngưỡng vẻ đẹp của nó.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada1.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hoa-da.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hoa-da.html",
+    "title": "Hoa Đá",
+    "rawSku": "HOD D01, HOD D02, HOD D03, HOD D04, HOD G01, HOD G02, HOD G03, HOD G04",
+    "imageCount": 5
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "VÂN ĐÁ",
+  "eurotile_category_code": "Stone"
+}

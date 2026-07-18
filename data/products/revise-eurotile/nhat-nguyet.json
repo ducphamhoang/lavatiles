@@ -1,0 +1,49 @@
+{
+  "collection_id": "eurotile-nhat-nguyet",
+  "title": "Nhật Nguyệt",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "NHN G01 TF",
+    "NHN G02 TF",
+    "NHN L01 TF",
+    "NHN L02 TF"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "NHN G01 TF, NHN G02 TF, NHN L01 TF, NHN L02 TF",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC G, KÍCH THƯỚC L",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Trăng chỉ mọc khi mặt trời đã lặn. Bình mình lên khi hoàng hôn dần buông xuống. Không thể song hành nhưng tự bao đời, Nhật Nguyệt đã cùng nhau gắn bó, tương trợ trong sự vĩnh cửu và bất diệt của thế giới tự nhiên",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/PC-nhatnguyet-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/PC-nhatnguyet-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/pc-mix.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-G01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-G02-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-G-04.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-L01-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-L02-TF.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-L-04.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/nhat-nguyet.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/nhat-nguyet.html",
+    "title": "Nhật Nguyệt",
+    "rawSku": "NHN G01 TF, NHN G02 TF, NHN L01 TF, NHN L02 TF",
+    "imageCount": 10
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "THIRD-FIRING",
+  "eurotile_category_code": ""
+}

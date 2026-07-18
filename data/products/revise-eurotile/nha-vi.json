@@ -1,0 +1,50 @@
+{
+  "collection_id": "eurotile-nha-vi",
+  "title": "Nhã Vi",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG.NHV E01",
+    "SIG.NHV Q01"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG.NHV E01, SIG.NHV Q01",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC E, KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Rảo bước vào một sớm tinh mơ nơi đất trời thảnh thơi, ngắm từng chồi non chớm nở đang vươn mình giữa tiếng gió đầy lá xào xạc, tất cả như hòa nhịp theo từng bước chân của bạn, lắng đọng giữa thiên nhiên đôi khi như một lời nhắc nhở, cuộc sống quanh ta vẫn còn nhiều điều thú vị",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/THUMBWWE-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/phicanhmau-wedsite-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/phicanhmau-wedsite-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/NHAVI-BEMAT-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/map/signhv-e/SIG-NHV-E01face1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/thongso-nhv-E.png",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/website-qr-01.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/map/signhv-q/NHV-Q01face-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/thongso-nhv-Q.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/nha-vi.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/nha-vi.html",
+    "title": "Nhã Vi",
+    "rawSku": "SIG.NHV E01, SIG.NHV Q01",
+    "imageCount": 13
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

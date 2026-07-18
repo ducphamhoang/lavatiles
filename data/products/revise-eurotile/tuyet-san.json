@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-tuyet-san",
+  "title": "Tuyết San",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "SIG. TSA Q01"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "SIG. TSA Q01",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Ta xin được là tuyết Tĩnh tại nơi núi cao Nơi phù hoa xa vắng Ta lặng ngắm mây ngàn",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-02.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-05.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-03.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-04.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-07.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-06.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/map/60120/TSA-Q01-face-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/TSS-TSA-04.png",
+    "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/website-qr-01.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/tuyet-san.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/tuyet-san.html",
+    "title": "Tuyết San",
+    "rawSku": "SIG. TSA Q01",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "Xương trắng",
+  "eurotile_category_code": "Signature"
+}

@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-van-du",
+  "title": "Vân Du",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "VAD Z01 MH1"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "VAD Z01 MH1",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC Z",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Một đời tựa như áng mây trôi Phiêu lưu vui đùa cùng cơn gió Nhẹ nhàng, bình yên, không lo nghĩ Vui vẻ, tự do, ngày qua ngày Một buổi chiều, ta được ngồi bên hiên nhà rợp mát, dưới tán cây xanh, hớp ngụm chè và nhìn áng mây trôi. Đó là sự thi vị không dễ có được, nhẹ nhàng và bình dị lắm.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-7.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-8.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-2.png",
+    "https://www.eurotile.vn/pictures/catalog/product/vandu/THNG-S-PALLET-van-du.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/van-du.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/van-du.html",
+    "title": "Vân Du",
+    "rawSku": "VAD Z01 MH1",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "CẨM THẠCH",
+  "eurotile_category_code": "Marble"
+}

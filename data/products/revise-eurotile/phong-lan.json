@@ -1,0 +1,46 @@
+{
+  "collection_id": "eurotile-phong-lan",
+  "title": "Phong Lan",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "PLA S01P",
+    "PLA S01H"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "PLA S01P, PLA S01H",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mang sắc trắng của mây, hương thanh tao của gió - Phong Lan dịu dàng khoe sắc thắm giữa núi rừng tĩnh lặng. Mảnh mai mà kiêu hãnh, mong manh chẳng dễ phai tàn.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/SEO-500X400.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/MINHHOA-PHONGLAN.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phong-lan-minh-hoa-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/pla-s01p/PLA-S01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/pla-s01h/PLA-S01H-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/THONG-S-PLA-21-21.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/phong-lan.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/phong-lan.html",
+    "title": "Phong Lan",
+    "rawSku": "PLA S01P, PLA S01H",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

@@ -1,0 +1,961 @@
+{
+  "t_m_l_n": {
+    "name": "TẤM LỚN",
+    "code": "",
+    "collection_count": 30,
+    "collections": [
+      {
+        "slug": "cat-an",
+        "title": "Cát An",
+        "codes": [
+          "CAN X01M"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "cat-tuong",
+        "title": "Cát Tường",
+        "codes": [
+          "CAT S01G"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "chi-giao-2",
+        "title": "Chi Giao",
+        "codes": [
+          "CHG S01P",
+          "CHG S01H"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "chieu-nien",
+        "title": "Chiêu Niên",
+        "codes": [
+          "CHN X01C"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "dang-nguyen",
+        "title": "Đăng Nguyên",
+        "codes": [
+          "DAN N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "denim-2",
+        "title": "Denim",
+        "codes": [
+          "DNI S01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "dong-phuong",
+        "title": "Đông Phương",
+        "codes": [
+          "DOP S01G"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "giai-ky",
+        "title": "Giai Kỳ",
+        "codes": [
+          "GIK X01P",
+          "GIK S01G"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "hai-bang",
+        "title": "Hải Băng",
+        "codes": [
+          "HAB S01P",
+          "HAB S02P"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "hai-luu",
+        "title": "Hải Lưu",
+        "codes": [
+          "HAL X01M"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "hai-phong-1",
+        "title": "Hải Phong",
+        "codes": [
+          "HAP N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "khai-dang",
+        "title": "Khải Đăng",
+        "codes": [
+          "KHD S02H",
+          "KHD S02P"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "khoi-nguyen",
+        "title": "Khởi Nguyên",
+        "codes": [
+          "KHN X01M",
+          "KHN X02M",
+          "KHN X01P"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "lan-ha",
+        "title": "Lan Hạ",
+        "codes": [
+          "LHA X01M"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "nam-giao",
+        "title": "Nam Giao",
+        "codes": [
+          "NAG N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "ngoc-giao",
+        "title": "Ngọc Giao",
+        "codes": [
+          "NGG S04P",
+          "NGG S04H"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "ngoc-trai",
+        "title": "Ngọc Trai",
+        "codes": [
+          "NGT N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "nha-ca-1",
+        "title": "Nhã Ca",
+        "codes": [
+          "NHC S01H",
+          "NHC S02M",
+          "NHC S03H",
+          "NHC S04M",
+          "NHC S05M"
+        ],
+        "codesCount": 5
+      },
+      {
+        "slug": "phong-lan",
+        "title": "Phong Lan",
+        "codes": [
+          "PLA S01P",
+          "PLA S01H"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "phong-luu-1",
+        "title": "Phong Lưu",
+        "codes": [
+          "PHL S01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "son-du",
+        "title": "Sơn Du",
+        "codes": [
+          "SOD N01P",
+          "SOD N01H"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "thach-an",
+        "title": "Thạch An",
+        "codes": [
+          "THA X01C"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thach-nhien",
+        "title": "Thạch Nhiên",
+        "codes": [
+          "THN X01C"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thach-son",
+        "title": "Thạch Sơn",
+        "codes": [
+          "THS S01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thanh-mai",
+        "title": "Thanh Mai",
+        "codes": [
+          "THM N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thanh-tam-1",
+        "title": "Thanh Tâm",
+        "codes": [
+          "THT S04P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thiet-thach",
+        "title": "Thiết Thạch",
+        "codes": [
+          "TTH N01P"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "thu-phong",
+        "title": "Thu Phong",
+        "codes": [
+          "THP S01M"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "vu-khuc",
+        "title": "Vũ Khúc",
+        "codes": [
+          "VUK X01P",
+          "VUK S01G"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "yen-minh",
+        "title": "Yên Minh",
+        "codes": [
+          "YMI S02M",
+          "YMI S04M"
+        ],
+        "codesCount": 2
+      }
+    ]
+  },
+  "third_firing": {
+    "name": "THIRD-FIRING",
+    "code": "",
+    "collection_count": 16,
+    "collections": [
+      {
+        "slug": "chau-sa",
+        "title": "Châu Sa",
+        "codes": [
+          "CHS G01 TF",
+          "CHS L01 TF"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "chay-ve-mien-yen",
+        "title": "Chảy về miền yên",
+        "codes": [
+          "CVM Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "dan-chau",
+        "title": "Đan Châu",
+        "codes": [
+          "DAC Q01 TF",
+          "DAC Q02 TF",
+          "DAC Q03 TF"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "dien-vien",
+        "title": "Điền Viên",
+        "codes": [
+          "DVI CO1 TF",
+          "DVI CO2 TF"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "diep-vu",
+        "title": "Diệp Vũ",
+        "codes": [
+          "DIV G01 TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "duoi-tan-la",
+        "title": "Dưới tán lá",
+        "codes": [
+          "DTL Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "hanh-trinh-phu-sa",
+        "title": "Hành trình phù sa",
+        "codes": [
+          "HTP Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "hoa-trong-gio-lang",
+        "title": "Hoa trong gió lặng",
+        "codes": [
+          "HTG Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "hoa-vien",
+        "title": "Hoa Viên",
+        "codes": [
+          "HOV C02 TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "huyen-sa",
+        "title": "Huyền Sa",
+        "codes": [
+          "HUS G01 TF",
+          "HUS L01 TF"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "khuc-vang",
+        "title": "Khúc vàng",
+        "codes": [
+          "KHV Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "ky-uc-so",
+        "title": "Ký ức số",
+        "codes": [
+          "KUS Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "nhat-nguyet",
+        "title": "Nhật Nguyệt",
+        "codes": [
+          "NHN G01 TF",
+          "NHN G02 TF",
+          "NHN L01 TF",
+          "NHN L02 TF"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "phu-quy",
+        "title": "Phú Quý",
+        "codes": [
+          "PHQ G01 TF",
+          "PHQ G02 TF",
+          "PHQ G03 TF",
+          "PHQ L01 TF",
+          "PHQ L02 TF",
+          "PHQ L03 TF"
+        ],
+        "codesCount": 6
+      },
+      {
+        "slug": "thoang-tay-nguyen",
+        "title": "Thoáng tây nguyên",
+        "codes": [
+          "TTN Q01TF"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "vu-dieu-xanh",
+        "title": "Vũ điệu xanh",
+        "codes": [
+          "VDX Q01TF"
+        ],
+        "codesCount": 1
+      }
+    ]
+  },
+  "x_ng_tr_ng": {
+    "name": "Xương trắng",
+    "code": "Signature",
+    "collection_count": 16,
+    "collections": [
+      {
+        "slug": "chi-giao",
+        "title": "Chi Giao",
+        "codes": [
+          "SIG. CHG Q01",
+          "SIG.CHG E01"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "chieu-phong",
+        "title": "Chiêu Phong",
+        "codes": [
+          "SIG. P8806",
+          "SIG. P4806",
+          "SIG. P61206"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "denim",
+        "title": "Denim",
+        "codes": [
+          "SIG.DNI Q01",
+          "SIG. DNI E01"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "dong-phong",
+        "title": "Đông Phong",
+        "codes": [
+          "SIG. P8804"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "du-phong",
+        "title": "Du Phong",
+        "codes": [
+          "SIG. P8807",
+          "SIG. P4807",
+          "SIG. P61207"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "hai-phong",
+        "title": "Hải Phong",
+        "codes": [
+          "SIG. P4801",
+          "SIG. P8801",
+          "SIG. P61201"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "khai-ca",
+        "title": "Khải Ca",
+        "codes": [
+          "SIG.KHC Q01S",
+          "SIG.KHC Q02S",
+          "SIG.KHC E01S",
+          "SIG.KHC E02S"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "ngoc-giao-1",
+        "title": "Ngọc Giao",
+        "codes": [
+          "SIG.NGG Q04P",
+          "SIG.NGG E04P"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "nguyet-phong",
+        "title": "Nguyệt Phong",
+        "codes": [
+          "SIG. P8802"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "nha-ca",
+        "title": "Nhã Ca",
+        "codes": [
+          "SIG.NHC Q05S",
+          "SIG.NHC Q06S",
+          "SIG.NHC E05S",
+          "SIG.NHC E06S"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "nha-vi",
+        "title": "Nhã Vi",
+        "codes": [
+          "SIG.NHV E01",
+          "SIG.NHV Q01"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "phong-luu",
+        "title": "Phong Lưu",
+        "codes": [
+          "SIG. P8803"
+        ],
+        "codesCount": 1
+      },
+      {
+        "slug": "song-bang",
+        "title": "Sông Băng",
+        "codes": [
+          "SIG.SOB Q01",
+          "SIG.SOB E01"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "thanh-tam",
+        "title": "Thanh Tâm",
+        "codes": [
+          "SIG.THT E01",
+          "SIG.THT Q01"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "thuy-phong",
+        "title": "Thụy Phong",
+        "codes": [
+          "SIG. P8805",
+          "SIG. P4805",
+          "SIG. P61205"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "tuyet-san",
+        "title": "Tuyết San",
+        "codes": [
+          "SIG. TSA Q01"
+        ],
+        "codesCount": 1
+      }
+    ]
+  },
+  "v_n_": {
+    "name": "VÂN ĐÁ",
+    "code": "Stone",
+    "collection_count": 8,
+    "collections": [
+      {
+        "slug": "dang-son",
+        "title": "Đăng Sơn",
+        "codes": [
+          "DAS QO1",
+          "DAS QO2",
+          "DAS DO1",
+          "DAS DO2"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "hoa-da",
+        "title": "Hoa Đá",
+        "codes": [
+          "HOD D01",
+          "HOD D02",
+          "HOD D03",
+          "HOD D04",
+          "HOD G01",
+          "HOD G02",
+          "HOD G03",
+          "HOD G04"
+        ],
+        "codesCount": 8
+      },
+      {
+        "slug": "lam-hai",
+        "title": "Lam Hải",
+        "codes": [
+          "LAH I01",
+          "LAH I02",
+          "LAH I04",
+          "LAH I05"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "luu-sa",
+        "title": "Lưu Sa",
+        "codes": [
+          "LUS H01",
+          "LUS H02",
+          "LUS H03",
+          "LUS G01",
+          "LUS G02",
+          "LUS G03",
+          "LUS G04"
+        ],
+        "codesCount": 7
+      },
+      {
+        "slug": "nguyet-cat",
+        "title": "Nguyệt Cát",
+        "codes": [
+          "NGC H01",
+          "NGC H02",
+          "NGC H03",
+          "NGC H04",
+          "NGC D01",
+          "NGC D02",
+          "NGC D03",
+          "NGC D04",
+          "NGC I01",
+          "NGC I02",
+          "NGC I03",
+          "NGC I04"
+        ],
+        "codesCount": 12
+      },
+      {
+        "slug": "phu-sa",
+        "title": "Phù Sa",
+        "codes": [
+          "PHS I01",
+          "PHS I02",
+          "PHS I03",
+          "PHS G01",
+          "PHS G02",
+          "PHS G03",
+          "PHS Q01",
+          "PHS Q02"
+        ],
+        "codesCount": 8
+      },
+      {
+        "slug": "son-khue",
+        "title": "Sơn Khuê",
+        "codes": [
+          "SOK Q01",
+          "SOK Q02",
+          "SOK Q03",
+          "SOK Q04",
+          "SOK E01",
+          "SOK E02",
+          "SOK E03",
+          "SOK E04",
+          "SOK I01",
+          "SOK I03"
+        ],
+        "codesCount": 10
+      },
+      {
+        "slug": "thach-vu",
+        "title": "Thạch Vũ",
+        "codes": [
+          "THV Q01",
+          "THV Q02",
+          "THV Q03"
+        ],
+        "codesCount": 3
+      }
+    ]
+  },
+  "v_n_g_": {
+    "name": "VÂN GỖ",
+    "code": "Wood",
+    "collection_count": 7,
+    "collections": [
+      {
+        "slug": "moc-binh-1",
+        "title": "Mộc Bình",
+        "codes": [
+          "MOB M01",
+          "MOB M02",
+          "MOB M03"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "moc-chau",
+        "title": "Mộc Châu",
+        "codes": [
+          "MOC D01",
+          "MOC D02",
+          "MOC D03",
+          "MOC D04",
+          "MOC M01",
+          "MOC M02",
+          "MOC M03",
+          "MOC M04"
+        ],
+        "codesCount": 8
+      },
+      {
+        "slug": "moc-chi",
+        "title": "Mộc Chi",
+        "codes": [
+          "MCH M01",
+          "MCH M02",
+          "MCH M03"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "moc-lan",
+        "title": "Mộc Lan",
+        "codes": [
+          "MOL K01",
+          "MOL K02",
+          "MOL K03",
+          "MOL K04",
+          "MOL I01",
+          "MOL I02",
+          "MOL I03",
+          "MOL I04",
+          "MOL I05",
+          "MOL M01",
+          "MOL M02",
+          "MOL M03",
+          "MOL M04"
+        ],
+        "codesCount": 13
+      },
+      {
+        "slug": "moc-mien",
+        "title": "Mộc Miên",
+        "codes": [
+          "MMI M01",
+          "MMI M02",
+          "MMI M03",
+          "MMI M04",
+          "MMI M05",
+          "MMI K01",
+          "MMI K02",
+          "MMI K03",
+          "MMI K05",
+          "MMI Z05 MR4"
+        ],
+        "codesCount": 10
+      },
+      {
+        "slug": "moc-tra",
+        "title": "Mộc Trà",
+        "codes": [
+          "MTR A01C",
+          "MTR A02C",
+          "MTR A03C"
+        ],
+        "codesCount": 3
+      },
+      {
+        "slug": "moc-tung",
+        "title": "Mộc Tùng",
+        "codes": [
+          "MTU M01",
+          "MTU M02",
+          "MTU M03"
+        ],
+        "codesCount": 3
+      }
+    ]
+  },
+  "xi_m_ng": {
+    "name": "XI MĂNG",
+    "code": "Cement",
+    "collection_count": 6,
+    "collections": [
+      {
+        "slug": "an-nien",
+        "title": "An Niên",
+        "codes": [
+          "ANN G01",
+          "ANN G02",
+          "ANN G03",
+          "ANN G04"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "hoi-an",
+        "title": "Hội An",
+        "codes": [
+          "HOA Q01",
+          "HOA Q02",
+          "HOA E01",
+          "HOA E02"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "sa-thach",
+        "title": "Sa Thạch",
+        "codes": [
+          "SAT H01",
+          "SAT H02",
+          "SAT H03",
+          "SAT G01",
+          "SAT G02",
+          "SAT G03"
+        ],
+        "codesCount": 6
+      },
+      {
+        "slug": "thach-khue",
+        "title": "Thạch Khuê",
+        "codes": [
+          "THK H01",
+          "THK H02",
+          "THK G01",
+          "THK G02"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "thien-di",
+        "title": "Thiên Di",
+        "codes": [
+          "THD H02",
+          "THD H03",
+          "THD G02",
+          "THD G03",
+          "THD G04",
+          "THD G05"
+        ],
+        "codesCount": 6
+      },
+      {
+        "slug": "vong-cat",
+        "title": "Vọng Cát",
+        "codes": [
+          "VOC H01",
+          "VOC H02",
+          "VOC H03",
+          "VOC H04",
+          "VOC H05",
+          "VOC G01",
+          "VOC G02",
+          "VOC G03",
+          "VOC G04",
+          "VOC G05",
+          "VOC Z123 MG2"
+        ],
+        "codesCount": 11
+      }
+    ]
+  },
+  "c_m_th_ch": {
+    "name": "CẨM THẠCH",
+    "code": "Marble",
+    "collection_count": 4,
+    "collections": [
+      {
+        "slug": "hai-thuy",
+        "title": "Hải Thụy",
+        "codes": [
+          "HAT I01",
+          "HAT I02"
+        ],
+        "codesCount": 2
+      },
+      {
+        "slug": "luu-thuy",
+        "title": "Lưu Thủy",
+        "codes": [
+          "LTH D01",
+          "LTH D02",
+          "LTH D03",
+          "LTH D04",
+          "LTH D05",
+          "LTH G01",
+          "LTH G02"
+        ],
+        "codesCount": 7
+      },
+      {
+        "slug": "trang-an",
+        "title": "Tràng An",
+        "codes": [
+          "TRA Q02",
+          "TRA Q04",
+          "TRA E02",
+          "TRA E04",
+          "TRA E03",
+          "TRA E03P"
+        ],
+        "codesCount": 6
+      },
+      {
+        "slug": "van-du",
+        "title": "Vân Du",
+        "codes": [
+          "VAD Z01 MH1"
+        ],
+        "codesCount": 1
+      }
+    ]
+  },
+  "outdoor": {
+    "name": "OUTDOOR",
+    "code": "",
+    "collection_count": 3,
+    "collections": [
+      {
+        "slug": "gibellina",
+        "title": "Gibellina",
+        "codes": [
+          "GIB20 G02",
+          "GIB20 G03",
+          "GIB20 G04",
+          "GIB20 H03",
+          "GIB20 H04"
+        ],
+        "codesCount": 5
+      },
+      {
+        "slug": "liguria",
+        "title": "Liguria",
+        "codes": [
+          "LIG20 G01",
+          "LIG20 G02",
+          "LIG20 H01",
+          "LIG20 H02"
+        ],
+        "codesCount": 4
+      },
+      {
+        "slug": "pompeii",
+        "title": "Pompeii",
+        "codes": [
+          "POM20 G01",
+          "POM20 G02",
+          "POM20 H01",
+          "POM20 H02"
+        ],
+        "codesCount": 4
+      }
+    ]
+  }
+}

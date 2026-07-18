@@ -1,0 +1,48 @@
+{
+  "collection_id": "eurotile-hai-bang",
+  "title": "Hải Băng",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "HAB S01P",
+    "HAB S02P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "HAB S01P, HAB S02P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Mùa đông Châu Âu tựa như bức họa băng tuyết đầy sống động. Khi ấy biển cả khoác lên mình chiếc áo choàng tinh khôi giữa không gian cảnh quan phủ đầy tuyết trắng. Một vẻ đẹp huyền ảo và thi vị dành cho những ai yêu thích sự lãng mạn hay khám phá điều mới lạ.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-minh-hoa-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HABS02P-PC-222.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-5.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-Hinh-minh-hoa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/hab-s01p---120x120/HAB-S01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/hab-s02p--120x120/HAB-S02P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-THONG-SO-KY-THUAT-oki-03.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/hai-bang.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/hai-bang.html",
+    "title": "Hải Băng",
+    "rawSku": "HAB S01P, HAB S02P",
+    "imageCount": 11
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

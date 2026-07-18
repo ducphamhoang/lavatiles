@@ -1,0 +1,44 @@
+{
+  "collection_id": "eurotile-thach-nhien",
+  "title": "Thạch Nhiên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "THN X01C"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "THN X01C",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Những viên sỏi nhỏ nằm im lặng bên bờ biển, không tròn trịa, không hoàn hảo, mà chỉ đơn giản là sự hiện diện nguyên vẹn của tự nhiên. Nhưng có lẽ, chính những điều mộc mạc nhất lại chạm đến phần sâu lắng trong tâm hồn. Thạch Nhiên là như thế, nơi con người được tự do sống chậm, sống thật, và kết nối lại với chính mình.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-seo.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-phoicanh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-phoicanh-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-X01C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-X01C-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/map/THN-X01C-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thach-nhien.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thach-nhien.html",
+    "title": "Thạch Nhiên",
+    "rawSku": "THN X01C",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

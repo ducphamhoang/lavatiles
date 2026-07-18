@@ -1,0 +1,46 @@
+{
+  "collection_id": "eurotile-khoi-nguyen",
+  "title": "Khởi Nguyên",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "KHN X01M",
+    "KHN X02M",
+    "KHN X01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "KHN X01M, KHN X02M, KHN X01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC X",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Trong dòng chảy thời gian không ngừng, có những khoảnh khắc mới mang theo khát vọng lớn lao và niềm tin không lay chuyển. Nơi mỗi chặng đường vừa mở ra, mọi giấc mơ đều có thể trở thành hiện thực. Ở đó, ta không chỉ bước tiếp, mà còn chọn cho mình một lối đi riêng và trân trọng về hành trình đã từng đi qua.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-minhhoa-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-x02M-phoicanh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-minhhoa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/map-khn/KHN-X01M-3F-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/map-khn/KHN-X02M-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/map-khn/KHN-X01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-X-THONG-SO-KY-THUAT-07.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/khoi-nguyen.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/khoi-nguyen.html",
+    "title": "Khởi Nguyên",
+    "rawSku": "KHN X01M, KHN X02M, KHN X01P",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

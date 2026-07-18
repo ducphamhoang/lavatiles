@@ -1,0 +1,53 @@
+{
+  "collection_id": "eurotile-lam-hai",
+  "title": "Lam Hải",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "LAH I01",
+    "LAH I02",
+    "LAH I04",
+    "LAH I05"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "LAH I01, LAH I02, LAH I04, LAH I05",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC I",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Hãy sống như vách đá bên bờ biển không ngừng đón lấy những cơn sóng vỗ, nhưng vẫn luôn đứng vững và làm dịu cơn thịnh nộ của biển cả xung quanh. - Vượt qua giông bão -",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-9.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-7.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-6.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-8.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-10.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/LAH-I01-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/LAH-I02-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/LAH-I04-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/LAH-05-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/lamhai/LAH-I-01.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/lam-hai.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/lam-hai.html",
+    "title": "Lam Hải",
+    "rawSku": "LAH I01, LAH I02, LAH I04, LAH I05",
+    "imageCount": 14
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "VÂN ĐÁ",
+  "eurotile_category_code": "Stone"
+}

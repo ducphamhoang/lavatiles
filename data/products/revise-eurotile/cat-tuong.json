@@ -1,0 +1,45 @@
+{
+  "collection_id": "eurotile-cat-tuong",
+  "title": "Cát Tường",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "CAT S01G"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "CAT S01G",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Có những ngày, hạnh phúc không gõ cửa ồn ào, chỉ khe khẽ ghé qua như một làn gió mát đầu mùa. Và ta chợt hiểu, điều tốt lành đôi khi chỉ đơn giản là một khoảng lặng đủ khiến tâm trí nhẹ tênh. Mọi thứ thật bình thường, nhưng lòng lại thấy đủ đầy và tin rằng mình đang sống trong những ngày cát tường.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-timnhanh.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/Cat-tuong-minhhoa.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-minhhoa-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-Thongsokythuat-01.png",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/qrCat-Tuong.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/cat-tuong.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/cat-tuong.html",
+    "title": "Cát Tường",
+    "rawSku": "CAT S01G",
+    "imageCount": 9
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

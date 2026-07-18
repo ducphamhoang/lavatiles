@@ -1,0 +1,42 @@
+{
+  "collection_id": "eurotile-denim-2",
+  "title": "Denim",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "DNI S01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "DNI S01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC S",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Từ những năm 50, denim trở thành một biểu tượng thời trang, một đặc trưng cho sự khác biệt và nổi loạn của thế hệ trẻ. Dấu ấn ấy vẫn duy trì đến tận hôm nay với sự sáng tạo không giới hạn. \"Tôi không ưa vẻ đẹp tiêu chuẩn - Làm gì có vẻ đẹp nào mà không kỳ lạ đôi chút\" -Karl Lagerfeld",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/NEN3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/DNI-S01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/DNI-S-02.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/denim-2.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/denim-2.html",
+    "title": "Denim",
+    "rawSku": "DNI S01P",
+    "imageCount": 6
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

@@ -1,0 +1,41 @@
+{
+  "collection_id": "eurotile-thiet-thach",
+  "title": "Thiết Thạch",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "TTH N01P"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "TTH N01P",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC N",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Vũ môn vạn trượng hóa thinh không Lòng ta quyết chí tựa lông hồng Cưỡi lên ngọn sóng trùng trùng dữ Hóa rồng bay lượn cùng trời xanh.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/NEN-TTH.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/PC-TTH.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/TIMNHANH-TTH.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/TTH-N01P-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/TTH-N.png"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/thiet-thach.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/thiet-thach.html",
+    "title": "Thiết Thạch",
+    "rawSku": "TTH N01P",
+    "imageCount": 5
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "TẤM LỚN",
+  "eurotile_category_code": ""
+}

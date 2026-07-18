@@ -111,13 +111,27 @@
               <label><input type="checkbox" data-filter-group="finish" value="Đang cập nhật"> Đang cập nhật</label>
             </div>
           </div>
-                  <div class="pd-filter-group">
+                  <div class="pd-filter-group" id="pdCatGroup">
             <h4>Danh mục</h4>
-            <div class="pd-chip-list">
+            <div class="pd-chip-list" id="pdCatChips">
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch lát nền">Gạch lát nền</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Gạch sân vườn">Gạch sân vườn</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Ngói phẳng">Ngói phẳng</button>
               <button type="button" class="pd-chip" data-filter-group="category" data-filter-value="Ngói sóng">Ngói sóng</button>
+            </div>
+          </div>
+          <div class="pd-filter-group" id="pdEurotileCatGroup" hidden>
+            <h4>Dòng sản phẩm</h4>
+            <div class="pd-chip-list" id="pdEurotileCatChips">
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="TẤM LỚN">Tấm lớn</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="THIRD-FIRING">Third-Firing</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="OUTDOOR">Outdoor 20mm</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="VÂN ĐÁ">Vân đá</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="XI MĂNG">Xi măng</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="VÂN GỖ">Vân gỗ</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="VÂN VẢI">Vân vải</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="Xương trắng">Xương trắng</button>
+              <button type="button" class="pd-chip" data-filter-group="eurotile_category" data-filter-value="CẨM THẠCH">Cẩm thạch</button>
             </div>
           </div>
           <div class="pd-filter-group">
@@ -206,6 +220,9 @@
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 6l6 6-6 6"></path></svg>
         </button>
       </div>
+      <div class="tiles-collection-more" style="text-align:center;margin-top:24px;">
+        <button type="button" class="vc-hero-btn vc-hero-btn--dark" id="collectionLoadMore" hidden>Xem thêm bộ sưu tập</button>
+      </div>
     </div>
   </section>
 
@@ -288,6 +305,7 @@
 <script src="../../data/catalog-tiles.js"></script>
 <script src="../../js/generated-products.js"></script>
 <script src="../../js/generated-collections.js"></script>
+<script src="../../data/products/revise-eurotile/_products.js"></script>
 <script src="../../js/product-detail.js"></script>
 <script src="../../js/tiles-index.js"></script>
 </body>

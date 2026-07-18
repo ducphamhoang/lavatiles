@@ -1,0 +1,51 @@
+{
+  "collection_id": "eurotile-phu-sa",
+  "title": "Phù Sa",
+  "brand": "Eurotile",
+  "type": "tile_collection",
+  "product_codes": [
+    "PHS I01",
+    "PHS I02",
+    "PHS I03",
+    "PHS G01",
+    "PHS G02",
+    "PHS G03",
+    "PHS Q01",
+    "PHS Q02"
+  ],
+  "product_info": {
+    "Mã sản phẩm": "PHS I01, PHS I02, PHS I03, PHS G01, PHS G02, PHS G03, PHS Q01, PHS Q02",
+    "Loại sản phẩm": "Gạch ốp lát",
+    "Kích thước": "300 x 600, 600 x 600, 600 x 1200, 300 x 900, 800 x 800, 450 x 900, 150 x 900, 450 x 450",
+    "Bề mặt": "KÍCH THƯỚC I, KÍCH THƯỚC G, KÍCH THƯỚC Q",
+    "Hãng sản xuất": "Eurotile",
+    "Giá": "Liên hệ"
+  },
+  "description": "Dòng sông chảy bốn mùa xanh mát Có gì vui mà dạt dào sông ơi Chăm chỉ mải mê suốt cả cuộc đời Chắt lắng phù sa cho đời xanh mãi.",
+  "images": [
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa3.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa4.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/C.1-1.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/C.2-2.jpg",
+    "https://www.eurotile.vn/pictures/catalog/product/phusa/C.3-3.jpg"
+  ],
+  "source_ref": {
+    "source": "eurotile",
+    "sourceLabel": "Eurotile official",
+    "role": "primary",
+    "file": "data/products/eurotile/phu-sa.json",
+    "url": "https://www.eurotile.vn/vi/san-pham/phu-sa.html",
+    "title": "Phù Sa",
+    "rawSku": "PHS I01, PHS I02, PHS I03, PHS G01, PHS G02, PHS G03, PHS Q01, PHS Q02",
+    "imageCount": 8
+  },
+  "canonical": {
+    "status": "collection",
+    "source": "eurotile"
+  },
+  "eurotile_category": "VÂN ĐÁ",
+  "eurotile_category_code": "Stone"
+}
