@@ -2,58 +2,6 @@
   'use strict';
   window.LAVATILE_TILES = [
   {
-    "code": "",
-    "brand": "",
-    "finish": "",
-    "color": "",
-    "size": "",
-    "placement": [],
-    "body": "",
-    "rooms": [],
-    "image": "",
-    "title": "",
-    "type": "tile"
-  },
-  {
-    "code": "",
-    "brand": "",
-    "finish": "",
-    "color": "",
-    "size": "",
-    "placement": [],
-    "body": "",
-    "rooms": [],
-    "image": "",
-    "title": "",
-    "type": "tile"
-  },
-  {
-    "code": "",
-    "brand": "",
-    "finish": "",
-    "color": "",
-    "size": "",
-    "placement": [],
-    "body": "",
-    "rooms": [],
-    "image": "",
-    "title": "",
-    "type": "tile"
-  },
-  {
-    "code": "",
-    "brand": "",
-    "finish": "",
-    "color": "",
-    "size": "",
-    "placement": [],
-    "body": "",
-    "rooms": [],
-    "image": "",
-    "title": "",
-    "type": "tile"
-  },
-  {
     "code": "SH-CE3601",
     "brand": "Viglacera",
     "finish": "Bóng",
