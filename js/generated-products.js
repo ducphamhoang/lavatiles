@@ -136,6 +136,10 @@ window.LavatileProductFacets = {
       "value": "25x50cm"
     },
     {
+      "label": "300x600",
+      "value": "300x600"
+    },
+    {
       "label": "30x30",
       "value": "30x30"
     },
@@ -158,6 +162,10 @@ window.LavatileProductFacets = {
     {
       "label": "30x60cm",
       "value": "30x60cm"
+    },
+    {
+      "label": "400x800",
+      "value": "400x800"
     },
     {
       "label": "40x40cm",
@@ -202,6 +210,10 @@ window.LavatileProductFacets = {
     {
       "label": "60x60cm/80x80cm",
       "value": "60x60cm/80x80cm"
+    },
+    {
+      "label": "800x800",
+      "value": "800x800"
     },
     {
       "label": "80x160",
@@ -10668,6 +10680,448 @@ window.LavatileGeneratedProducts =
     "country": "Viglacera",
     "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs513/bs513-1.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs513.html"
+  },
+  {
+    "code": "AT-B48001P1",
+    "title": "Gạch 400x800 VietY Tile AT-B48001P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-b48001p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-b48001p1.html"
+  },
+  {
+    "code": "AT-G48001P1",
+    "title": "Gạch 400x800 VietY Tile AT-G48001P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g48001p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g48001p1.html"
+  },
+  {
+    "code": "AT-G48003M1",
+    "title": "Gạch 400x800 VietY Tile AT-G48003M1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g48003m1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g48003m1.html"
+  },
+  {
+    "code": "AT-G48003P1",
+    "title": "Gạch 400x800 VietY Tile AT-G48003P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g48003p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g48003p1.html"
+  },
+  {
+    "code": "AT-G88002P",
+    "title": "Gạch 800x800 VietY Tile AT-G88002P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88002p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88002p.html"
+  },
+  {
+    "code": "AT-G88003P",
+    "title": "Gạch 800x800 VietY Tile AT-G88003P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88003p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88003p.html"
+  },
+  {
+    "code": "AT-G88006P",
+    "title": "Gạch 800x800 VietY Tile AT-G88006P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88006p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88006p.html"
+  },
+  {
+    "code": "AT-G88011P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88011P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88011p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88011p1.html"
+  },
+  {
+    "code": "AT-G88013P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88013P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88013p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88013p1.html"
+  },
+  {
+    "code": "AT-G88015P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88015P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88015p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88015p1.html"
+  },
+  {
+    "code": "AT-G88021P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88021P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88021p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88021p1.html"
+  },
+  {
+    "code": "AT-G88023P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88023P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88023p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88023p1.html"
+  },
+  {
+    "code": "AT-G88026P1",
+    "title": "Gạch 800x800 VietY Tile AT-G88026P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-g88026p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-g88026p1.html"
+  },
+  {
+    "code": "AT-S48001P1",
+    "title": "Gạch 400x800 VietY Tile AT-S48001P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s48001p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s48001p1.html"
+  },
+  {
+    "code": "AT-S48003P1",
+    "title": "Gạch 400x800 VietY Tile AT-S48003P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s48003p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s48003p1.html"
+  },
+  {
+    "code": "AT-S48005P1",
+    "title": "Gạch 400x800 VietY Tile AT-S48005P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s48005p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s48005p1.html"
+  },
+  {
+    "code": "AT-S48007M1",
+    "title": "Gạch 400x800 VietY Tile AT-S48007M1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s48007m1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s48007m1.html"
+  },
+  {
+    "code": "AT-S48007P1",
+    "title": "Gạch 400x800 VietY Tile AT-S48007P1",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s48007p1.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s48007p1.html"
+  },
+  {
+    "code": "AT-S88003P",
+    "title": "Gạch 800x800 VietY Tile AT-S88003P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s88003p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s88003p.html"
+  },
+  {
+    "code": "AT-S88006P",
+    "title": "Gạch 800x800 VietY Tile AT-S88006P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-s88006p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-s88006p.html"
+  },
+  {
+    "code": "AT-T88002P",
+    "title": "Gạch 800x800 VietY Tile AT-T88002P",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Bóng",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/at-t88002p.jpg",
+    "detailUrl": "gach/gch-vietytile-at-t88002p.html"
+  },
+  {
+    "code": "GA-M36006",
+    "title": "Gạch 300x600 VietY Tile GA-M36006",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "300x600",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/ga-m36006.jpg",
+    "detailUrl": "gach/gch-vietytile-ga-m36006.html"
+  },
+  {
+    "code": "GA-M48008/07",
+    "title": "Gạch 400x800 VietY Tile GA-M48008/07",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "400x800",
+    "placement": [
+      "Tường"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/ga-m48008-07.jpg",
+    "detailUrl": "gach/gch-vietytile-ga-m48008-07.html"
+  },
+  {
+    "code": "GA-M88005",
+    "title": "Gạch 800x800 VietY Tile GA-M88005",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/ga-m88005.jpg",
+    "detailUrl": "gach/gch-vietytile-ga-m88005.html"
+  },
+  {
+    "code": "GA-P88050",
+    "title": "Gạch 800x800 VietY Tile GA-P88050",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/ga-p88050.jpg",
+    "detailUrl": "gach/gch-vietytile-ga-p88050.html"
+  },
+  {
+    "code": "GA-P88051",
+    "title": "Gạch 800x800 VietY Tile GA-P88051",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Mờ",
+    "finishLabel": "Mờ",
+    "color": "Đang cập nhật",
+    "size": "800x800",
+    "placement": [
+      "Sàn"
+    ],
+    "country": "VietY Tile",
+    "image": "../../assets/images/products/vietytile-ga-at/ga-p88051.jpg",
+    "detailUrl": "gach/gch-vietytile-ga-p88051.html"
   },
   {
     "code": "GF322",

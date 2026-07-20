@@ -27,6 +27,8 @@
     var href = collection.detailUrl || '#';
     var codeText = collection.productCodes && collection.productCodes.length
       ? collection.productCodes.slice(0, 2).join(', ')
+      : collection.products && collection.products.length
+      ? collection.products.length + ' sản phẩm'
       : collection.type === 'surface_collection' ? 'Đá nung kết / tấm lớn' : 'Gạch ốp lát';
 
     return [
@@ -40,7 +42,10 @@
   }
 
   function renderCollections() {
-    var collections = window.LavatileGeneratedCollections || [];
+    var isVietYTile = window.location.search.indexOf('brand=vietytile') !== -1;
+    var collections = isVietYTile
+      ? (window.LavatileVietYTileCollections || [])
+      : (window.LavatileGeneratedCollections || []);
     var track = document.querySelector('[data-slider-track="collection"]');
     var loadMore = document.getElementById('collectionLoadMore');
     if (!track || !collections.length) return;

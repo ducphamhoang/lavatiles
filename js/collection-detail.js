@@ -86,7 +86,7 @@
   function subtitle(collection) {
     var size = infoValue(collection, ['Kích thước']);
     var finish = infoValue(collection, ['Bề mặt men', 'Bề mặt']);
-    var parts = [collection.brand || 'Lavatile', collectionType(collection), size, finish].filter(Boolean);
+    var parts = [collection.brand || 'Lavatiles', collectionType(collection), size, finish].filter(Boolean);
     return parts.join(' / ');
   }
 
@@ -149,7 +149,7 @@
     if (!target) return;
     var images = visualImages(collection);
     var size = infoValue(collection, ['Kích thước']) || 'Đang cập nhật';
-    var brand = collection.brand || 'Lavatile';
+    var brand = collection.brand || 'Lavatiles';
     var codes = productCodes(collection);
 
     target.innerHTML = codes.map(function (code, index) {
@@ -264,14 +264,14 @@
 
   function renderCollection(collection, collections) {
     var title = collection.title || 'Bộ sưu tập';
-    var brand = collection.brand || 'Lavatile';
+    var brand = collection.brand || 'Lavatiles';
     var images = visualImages(collection);
     var heroImage = collection.image || images[0] || '';
     var featureImage = images[1] || heroImage;
-    var description = collection.description || 'Thông tin chi tiết của bộ sưu tập đang được Lavatile cập nhật.';
+    var description = collection.description || 'Thông tin chi tiết của bộ sưu tập đang được Lavatiles cập nhật.';
     var hero = document.querySelector('[data-collection-hero]');
 
-    document.title = title + ' | Bộ sưu tập gạch ốp lát | Lavatile';
+    document.title = title + ' | Bộ sưu tập gạch ốp lát | Lavatiles';
     if (hero && heroImage) {
       hero.style.backgroundImage = "url('" + heroImage.replace(/'/g, "\\'") + "')";
     }
@@ -317,6 +317,10 @@
 
   var collections = window.LavatileGeneratedCollections || [];
   var collection = collectionFromQuery(collections);
+  if (!collection) {
+    collections = window.LavatileVietYTileCollections || [];
+    collection = collectionFromQuery(collections);
+  }
   if (!collection) {
     showMissing();
     return;

@@ -3,6 +3,17 @@
 
   var CATALOGUES = [
     {
+      id: 'vietytile-ga-at',
+      title: 'GA + AT SQ',
+      brand: 'VietY Tile',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/GA+AT SQ.pdf',
+      coverImage: 'assets/images/catalogue/ga-at-catalogue.jpg',
+      basePath: 'assets/pdf/GA+AT SQ',
+      totalPages: 174,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
       id: 'toto',
       title: 'TOTO Mini 1H26',
       brand: 'TOTO',

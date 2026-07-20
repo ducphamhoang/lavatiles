@@ -4,11 +4,14 @@
   var params = new URLSearchParams(window.location.search);
   var brand = params.get('brand') || '';
   var isEurotile = brand.toLowerCase() === 'eurotile';
+  var isVietYTile = brand.toLowerCase() === 'vietytile';
 
   // ---- pick product set -------------------------------------------
 
   var products = isEurotile
     ? (window.LAVATILE_EUROTILE_PRODUCTS || [])
+    : isVietYTile
+    ? (window.LAVATILE_VIETYTILE_PRODUCTS || [])
     : (window.LAVATILE_TILES || []);
 
   // ---- enrich with generated detail URLs -------------------------
@@ -24,7 +27,7 @@
 
   var generatedMap = {};
   var titleMap = {};
-  if (window.LavatileGeneratedProducts && !isEurotile) {
+  if (window.LavatileGeneratedProducts) {
     window.LavatileGeneratedProducts.forEach(function (gp) {
       generatedMap[normaliseCode(gp.code)] = gp.detailUrl;
       var lw = normaliseCode(lastWord(gp.title));
@@ -48,8 +51,11 @@
 
   products.forEach(function (p) {
     if (isEurotile) {
-      // Eurotile products already have eurotile_category; no Lavatile category needed
+      // Eurotile products already have eurotile_category; no Lavatiles category needed
       p.category = '';
+    } else if (isVietYTile) {
+      p.category = 'Gạch lát nền';
+      p.detailUrl = generatedMap[normaliseCode(p.code)] || '';
     } else {
       p.category = assignCategory(p);
       p.detailUrl = generatedMap[normaliseCode(p.code)] ||
@@ -90,13 +96,20 @@
 
   var lavatileCatGroup = document.getElementById('pdCatGroup');
   var euroCatGroup = document.getElementById('pdEurotileCatGroup');
+  var vietYTileCatGroup = document.getElementById('pdVietYTileCatGroup');
 
   if (isEurotile) {
     if (lavatileCatGroup) lavatileCatGroup.hidden = true;
     if (euroCatGroup) euroCatGroup.hidden = false;
+    if (vietYTileCatGroup) vietYTileCatGroup.hidden = true;
+  } else if (isVietYTile) {
+    if (lavatileCatGroup) lavatileCatGroup.hidden = true;
+    if (euroCatGroup) euroCatGroup.hidden = true;
+    if (vietYTileCatGroup) vietYTileCatGroup.hidden = false;
   } else {
     if (lavatileCatGroup) lavatileCatGroup.hidden = false;
     if (euroCatGroup) euroCatGroup.hidden = true;
+    if (vietYTileCatGroup) vietYTileCatGroup.hidden = true;
   }
 
   // ---- page title/breadcrumb branding ----------------------------
@@ -108,7 +121,7 @@
   if (isEurotile) {
     var desc = document.querySelector('.tiles-desc p');
     // Update hero
-    if (pageTitle) pageTitle.textContent = 'Eurotile | Gạch ốp lát | Lavatile';
+    if (pageTitle) pageTitle.textContent = 'Eurotile | Gạch ốp lát | Lavatiles';
     if (pageH1) pageH1.textContent = 'EUROTILE';
     if (breadcrumb) {
       var lastCrumb = breadcrumb.querySelector('strong');
@@ -119,6 +132,22 @@
     if (sectionTitle) sectionTitle.textContent = 'Sản phẩm Eurotile';
     var sectionDesc = document.querySelector('#pd-filters p');
     if (sectionDesc) sectionDesc.textContent = 'Khám phá bộ sưu tập gạch ốp lát Eurotile với đa dạng dòng sản phẩm và phong cách thiết kế.';
+  }
+
+  // ---- VietY Tile branding ---------------------------------------
+
+  if (isVietYTile) {
+    var desc = document.querySelector('.tiles-desc p');
+    if (pageTitle) pageTitle.textContent = 'VietY Tile GA + AT | Gạch ốp lát | Lavatiles';
+    if (pageH1) pageH1.textContent = 'VIET Y TILE — GA + AT';
+    if (breadcrumb) {
+      var lastCrumb = breadcrumb.querySelector('strong');
+      if (lastCrumb) lastCrumb.textContent = 'VietY Tile';
+    }
+    var sectionTitle = document.querySelector('#pd-filters h2');
+    if (sectionTitle) sectionTitle.textContent = 'Sản phẩm VietY Tile';
+    var sectionDesc = document.querySelector('#pd-filters p');
+    if (sectionDesc) sectionDesc.textContent = 'Bộ sưu tập gạch granite GA và AT từ VietY Tile với đa dạng kích thước và bề mặt.';
   }
 
   // ---- card renderer --------------------------------------------
@@ -138,6 +167,11 @@
     // Show collection name for Eurotile products
     if (isEurotile && product.eurotile_collection) {
       specs += '<li><span>Bộ sưu tập</span><strong>' + product.eurotile_collection + '</strong></li>';
+    }
+
+    // Show collection for VietY Tile products
+    if (isVietYTile && product.collection) {
+      specs += '<li><span>Bộ sưu tập</span><strong>' + product.collection + '</strong></li>';
     }
 
     var body = [
@@ -163,7 +197,7 @@
   // ---- room info panel -------------------------------------------
 
   function onRender(state) {
-    if (isEurotile) return; // no room info for brand pages
+    if (isEurotile || isVietYTile) return; // no room info for brand pages
     var active = state.rooms || [];
     var info = document.getElementById('pdRoomInfo');
     var label = document.getElementById('pdRoomInfoLabel');
@@ -193,10 +227,14 @@
 
   var filterKeys = isEurotile
     ? ['eurotile_category', 'finish', 'size', 'placement']
+    : isVietYTile
+    ? ['collection', 'finish', 'size', 'placement']
     : ['finish', 'size', 'placement', 'rooms', 'category'];
 
   var searchFields = isEurotile
     ? ['code', 'title', 'size', 'finish', 'brand', 'eurotile_collection', 'eurotile_category']
+    : isVietYTile
+    ? ['code', 'title', 'size', 'finish', 'brand', 'collection']
     : ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'];
 
   window.VCProductFilter.init({
