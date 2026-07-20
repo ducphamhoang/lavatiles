@@ -285,7 +285,7 @@ function metaDescription(product, info, category) {
   const size = valueFromInfo(info, ['Kích thước']);
   const type = valueFromInfo(info, ['Loại sản phẩm']) || categoryLabel(category);
   const titleHasCode = code && product.title.toLowerCase().includes(code.toLowerCase());
-  return cleanText(`${product.title}${code && !titleHasCode ? ` ${code}` : ''} thuộc nhóm ${type}${size ? `, kích thước ${size}` : ''} tại Lavatile.`).slice(0, 155);
+  return cleanText(`${product.title}${code && !titleHasCode ? ` ${code}` : ''} thuộc nhóm ${type}${size ? `, kích thước ${size}` : ''} tại Lavatiles.`).slice(0, 155);
 }
 
 function leadText(product, info, category) {
@@ -384,14 +384,14 @@ function main() {
     const code = valueFromInfo(info, ['Mã sản phẩm']) || path.basename(file, '.json');
     const description = cleanText(product.description) || leadText(product, info, category);
     const detailUrl = `${categorySlug}/${outputName}`;
-    const brand = valueFromInfo(info, ['Hãng sản xuất']) || 'Lavatile';
+    const brand = valueFromInfo(info, ['Hãng sản xuất']) || 'Lavatiles';
 
     if (!images.length) missingImages += 1;
     if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
 
     fs.mkdirSync(outputDir, { recursive: true });
     fs.writeFileSync(outputPath, renderTemplate(template, {
-      PAGE_TITLE: `${escapeHtml(product.title)} | Lavatile`,
+      PAGE_TITLE: `${escapeHtml(product.title)} | Lavatiles`,
       META_DESCRIPTION: escapeHtml(metaDescription(product, info, category)),
       ROOT: ROOT_FROM_DETAIL,
       PRODUCT_CODE: escapeHtml(code),
