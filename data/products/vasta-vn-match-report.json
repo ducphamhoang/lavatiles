@@ -1,0 +1,496 @@
+{
+  "applied": [
+    {
+      "code": "PACISTA",
+      "collection": "Pacista",
+      "canonicalFile": "gch-vasta-pacista.json",
+      "matchedSlug": "pacista-sintered-stone-vasta-interior",
+      "matchedName": "Pacista Sinted Stone",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "COSMIC-ROSSO",
+      "collection": "Cosmic",
+      "canonicalFile": "gch-vasta-cosmic-rosso.json",
+      "matchedSlug": "da-nung-ket-cosmic-rosso-vasta-ben-bi",
+      "matchedName": "Đá nung kết Cosmic – Rosso",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "COSMIC-OTTANIO",
+      "collection": "Cosmic",
+      "canonicalFile": "gch-vasta-cosmic-ottanio.json",
+      "matchedSlug": "da-nung-ket-cosmic-ottanio-vasta-cao-cap",
+      "matchedName": "Đá nung kết Cosmic – Ottanio",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "COSMIC-TERRA-BRUCIATA",
+      "collection": "Cosmic",
+      "canonicalFile": "gch-vasta-cosmic-terra-bruciata.json",
+      "matchedSlug": "da-nung-ket-cosmic-bruciata",
+      "matchedName": "Đá nung kết Cosmic – Bruciata",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 3
+    },
+    {
+      "code": "COSMIC-CAFFE-LATTE",
+      "collection": "Cosmic",
+      "canonicalFile": "gch-vasta-cosmic-caffe-latte.json",
+      "matchedSlug": "da-nung-ket-cosmic-caffe-latte-vasta",
+      "matchedName": "Đá nung kết Cosmic – Caffe Latte",
+      "score": 0.75,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "GRANDE-MARBLE",
+      "collection": "Grande Marble",
+      "canonicalFile": "gch-vasta-grande-marble.json",
+      "matchedSlug": "da-nung-ket-grande-marble-vasta-cao-cap",
+      "matchedName": "Đá nung kết Grande Marble",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "GRIGIO-CARNICO",
+      "collection": "Grigio Carnico",
+      "canonicalFile": "gch-vasta-grigio-carnico.json",
+      "matchedSlug": "da-nung-ket-grigio-carnico-vasta-cao-cap",
+      "matchedName": "Đá nung kết Grigio Carnico",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "AMAZONITE",
+      "collection": "Amazonite",
+      "canonicalFile": "gch-vasta-amazonite.json",
+      "matchedSlug": "da-nung-ket-amazonite-vasta-cao-cap",
+      "matchedName": "Đá Nung Kết Amazonite",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "MACCHIA-VECCHIA",
+      "collection": "Macchia Vecchia",
+      "canonicalFile": "gch-vasta-macchia-vecchia.json",
+      "matchedSlug": "da-nung-ket-macchia-vecchia-vasta",
+      "matchedName": "Đá Nung Kết Macchia Vecchia",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "SAHARA-NOIR",
+      "collection": "Sahara Noir",
+      "canonicalFile": "gch-vasta-sahara-noir.json",
+      "matchedSlug": "da-nung-ket-sahara-noir-cao-cap-vasta",
+      "matchedName": "Đá Nung Kết Sahara Noir",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "MONTE-BIANCO",
+      "collection": "Monte Bianco",
+      "canonicalFile": "gch-vasta-monte-bianco.json",
+      "matchedSlug": "da-nung-ket-monte-bianco-cao-cap-vasta",
+      "matchedName": "Đá Nung Kết Monte Bianco",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "OROBICO",
+      "collection": "Orobico",
+      "canonicalFile": "gch-vasta-orobico.json",
+      "matchedSlug": "da-nung-ket-orobico-vasta-cao-cap",
+      "matchedName": "Đá Nung Kết Orobico",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 2
+    },
+    {
+      "code": "CALACATTA-GREEN",
+      "collection": "Calacatta Green",
+      "canonicalFile": "gch-vasta-calacatta-green.json",
+      "matchedSlug": "da-nung-ket-calacatta-green",
+      "matchedName": "Đá Nung Kết Calacatta Green",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "JUNGLE-GREEN-DEEP",
+      "collection": "Jungle Green Deep",
+      "canonicalFile": "gch-vasta-jungle-green-deep.json",
+      "matchedSlug": "da-nung-ket-jungle-green-deep-vasta",
+      "matchedName": "Đá Nung Kết Jungle Green Deep",
+      "score": 0.75,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "FANTASY-ROSA",
+      "collection": "Fantasy Rosa",
+      "canonicalFile": "gch-vasta-fantasy-rosa.json",
+      "matchedSlug": "da-nung-ket-fantasy-rosa-vasta-cao-cap",
+      "matchedName": "Đá Nung Kết Fantasy Rosa",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "FANTASY-AZZURRO",
+      "collection": "Fantasy Azzurro",
+      "canonicalFile": "gch-vasta-fantasy-azzurro.json",
+      "matchedSlug": "da-nung-ket-fantasy-azzurrvasta-cao-cap",
+      "matchedName": "Đá Nung Kết Fantasy Azzurro",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "AMANO-MARBLE",
+      "collection": "Amano Marble",
+      "canonicalFile": "gch-vasta-amano-marble.json",
+      "matchedSlug": "da-nung-ket-amano-marble-vasta-cao-cap",
+      "matchedName": "Đá nung kết Amano Marble",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 4
+    },
+    {
+      "code": "INVISIBLE-GOLD",
+      "collection": "Invisible Gold",
+      "canonicalFile": "gch-vasta-invisible-gold.json",
+      "matchedSlug": "da-nung-ket-amano-invisible-gold-vasta",
+      "matchedName": "Đá Nung Kết Invisible Gold",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 6
+    },
+    {
+      "code": "PORTORO-GOLD",
+      "collection": "Portoro Gold",
+      "canonicalFile": "gch-vasta-portoro-gold.json",
+      "matchedSlug": "da-nung-ket-portoro-gold-vasta-cao-cap",
+      "matchedName": "Đá nung kết Portoro Gold",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 3
+    },
+    {
+      "code": "PORTORO-SILVER",
+      "collection": "Portoro Silver",
+      "canonicalFile": "gch-vasta-portoro-silver.json",
+      "matchedSlug": "da-nung-ket-portoro-silver-vasta-cao-cap",
+      "matchedName": "Đá nung kết Portoro Silver",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "JUNGLE",
+      "collection": "Jungle",
+      "canonicalFile": "gch-vasta-jungle.json",
+      "matchedSlug": "da-nung-ket-jungle-nhiet-doi-vasta",
+      "matchedName": "Đá nung kết Jungle",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "ICELAND",
+      "collection": "Iceland",
+      "canonicalFile": "gch-vasta-iceland.json",
+      "matchedSlug": "da-nung-ket-iceland-mau-xanh-bang",
+      "matchedName": "Đá nung kết Iceland",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "SIMAR",
+      "collection": "Simar",
+      "canonicalFile": "gch-vasta-simar.json",
+      "matchedSlug": "da-nung-ket-simar-rung-nhiet-doi-vasta",
+      "matchedName": "Đá nung kết Simar",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 2
+    },
+    {
+      "code": "FUSION",
+      "collection": "Fusion",
+      "canonicalFile": "gch-vasta-fusion.json",
+      "matchedSlug": "da-nung-ket-fusion-vasta-cao-cap-nhiet-doi",
+      "matchedName": "Đá nung kết Fusion",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "TERRE-TERRACOTTA",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-terracotta.json",
+      "matchedSlug": "da-nung-ket-terre-terracotta-vasta-cao-cap",
+      "matchedName": "Đá nung kết Terre Terracotta",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "TERRE-ROSA",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-rosa.json",
+      "matchedSlug": "da-nung-ket-terre-rosa-vasta-cao-cap",
+      "matchedName": "Đá nung kết Terre Rose",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 4
+    },
+    {
+      "code": "TERRE-ANTRACITE",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-antracite.json",
+      "matchedSlug": "da-nung-ket-terre-antracite-vasta-cao-cap",
+      "matchedName": "Đá nung kết Terre Antracite",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "TERRE-GREY",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-grey.json",
+      "matchedSlug": "da-nung-ket-terra-gray-nen-xam-khong-van-mach",
+      "matchedName": "Đá nung kết Terra Grey",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 4
+    },
+    {
+      "code": "TERRE-OTTANIO",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-ottanio.json",
+      "matchedSlug": "da-nung-ket-terre-ottanio-vasta-cao-cap",
+      "matchedName": "Đá nung kết Terre Ottanio",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "TERRE-BEIGE",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-beige.json",
+      "matchedSlug": "da-nung-ket-terra-beige-vasta-tong-dat-am",
+      "matchedName": "Đá nung kết Terra Beige",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 1
+    },
+    {
+      "code": "TERRE-CAFFE-LATTE",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-caffe-latte.json",
+      "matchedSlug": "da-nung-ket-cosmic-caffe-latte-vasta",
+      "matchedName": "Đá nung kết Cosmic – Caffe Latte",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "CRISTALLO-BLACK",
+      "collection": "Cristallo Black",
+      "canonicalFile": "gch-vasta-cristallo-black.json",
+      "matchedSlug": "da-nung-ket-cristallo-black",
+      "matchedName": "Đá nung kết Cristallo Black",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "CRISTALLO-GREEN",
+      "collection": "Cristallo Green",
+      "canonicalFile": "gch-vasta-cristallo-green.json",
+      "matchedSlug": "da-nung-ket-cristallo-green-vasta-bong-mo",
+      "matchedName": "Đá nung kết Cristallo Green",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "SHADE-WHITE",
+      "collection": "Shade",
+      "canonicalFile": "gch-vasta-shade-white.json",
+      "matchedSlug": "da-nung-ket-shade-vasta-day-6-20-mm",
+      "matchedName": "Đá nung kết Shade",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "SHADE-BLACK",
+      "collection": "Shade",
+      "canonicalFile": "gch-vasta-shade-black.json",
+      "matchedSlug": "da-nung-ket-shade-vasta-day-6-20-mm",
+      "matchedName": "Đá nung kết Shade",
+      "score": 0.5,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "CLASSIC-CUT-A",
+      "collection": "Classic Cut",
+      "canonicalFile": "gch-vasta-classic-cut-a.json",
+      "matchedSlug": "da-nung-ket-classic-cut-vasta-cao-cap",
+      "matchedName": "Đá nung kết Classic Cut",
+      "score": 1,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "CLASSIC-CUT-B",
+      "collection": "Classic Cut",
+      "canonicalFile": "gch-vasta-classic-cut-b.json",
+      "matchedSlug": "da-nung-ket-classic-cut-vasta-cao-cap",
+      "matchedName": "Đá nung kết Classic Cut",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 5
+    },
+    {
+      "code": "LINEAR-HARMONY-WHITE",
+      "collection": "Linear Harmony",
+      "canonicalFile": "gch-vasta-linear-harmony-white.json",
+      "matchedSlug": "da-nung-ket-linear-harmony-vasta-cao-cap",
+      "matchedName": "Đá nung kết Linear Harmony",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "LINEAR-HARMONY-BLACK",
+      "collection": "Linear Harmony",
+      "canonicalFile": "gch-vasta-linear-harmony-black.json",
+      "matchedSlug": "da-nung-ket-linear-harmony-vasta-cao-cap",
+      "matchedName": "Đá nung kết Linear Harmony",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "APU09E",
+      "collection": "Apuan Luxe",
+      "canonicalFile": "gch-vasta-apuan-luxe.json",
+      "matchedSlug": "da-nung-ket-apuan-luxe-vasta-cao-cap",
+      "matchedName": "Đá nung kết Apuan Luxe",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    },
+    {
+      "code": "GAG09E",
+      "collection": "Garni Gorge",
+      "canonicalFile": "gch-vasta-garni-gorge.json",
+      "matchedSlug": "da-nung-ket-grani-gorge",
+      "matchedName": "Đá nung kết Grani Gorge",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 1
+    },
+    {
+      "code": "GRS09E",
+      "collection": "Garvel Stone",
+      "canonicalFile": "gch-vasta-garvel-stone.json",
+      "matchedSlug": "da-nung-ket-gravel-stone-vasta-xam-nau",
+      "matchedName": "Đá nung kết Gravel Stone",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 1
+    },
+    {
+      "code": "MARVEL-BERNINI",
+      "collection": "Marvel Bernini",
+      "canonicalFile": "gch-vasta-marvel-bernini.json",
+      "matchedSlug": "da-nung-ket-gravel-bernini-vasta-trang-van-may",
+      "matchedName": "Đá nung kết Gravel Bernini",
+      "score": 1,
+      "reason": "manual override",
+      "newImageCount": 1
+    },
+    {
+      "code": "STB09E",
+      "collection": "Statuary Bianco",
+      "canonicalFile": "gch-vasta-statuary-bianco.json",
+      "matchedSlug": "da-nung-ket-statuary-bianco-vasta-cao-cap",
+      "matchedName": "Đá nung kết Statuary Bianco",
+      "score": 0.67,
+      "reason": "word-overlap match",
+      "newImageCount": 1
+    }
+  ],
+  "skipped": [
+    {
+      "code": "TERRE-MOKA",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terre-moka.json",
+      "matchedSlug": "da-nung-ket-terre-rosa-vasta-cao-cap",
+      "matchedName": "Đá nung kết Terre Rose",
+      "score": 0.33,
+      "reason": "low confidence",
+      "newImageCount": 4
+    },
+    {
+      "code": "TERRA-SABBIA",
+      "collection": "Terre",
+      "canonicalFile": "gch-vasta-terra-sabbia.json",
+      "matchedSlug": "da-nung-ket-terra-gray-nen-xam-khong-van-mach",
+      "matchedName": "Đá nung kết Terra Grey",
+      "score": 0.33,
+      "reason": "low confidence",
+      "newImageCount": 4
+    },
+    {
+      "code": "ARB09E",
+      "collection": "Armani",
+      "canonicalFile": "gch-vasta-armani.json",
+      "matchedSlug": null,
+      "matchedName": null,
+      "score": 0,
+      "reason": "ambiguous — multiple variants on site, no reliable signal",
+      "newImageCount": 0
+    },
+    {
+      "code": "TEG09E",
+      "collection": "TERRA",
+      "canonicalFile": "gch-vasta-terra.json",
+      "matchedSlug": null,
+      "matchedName": null,
+      "score": 0,
+      "reason": "ambiguous — multiple variants on site, no reliable signal",
+      "newImageCount": 0
+    },
+    {
+      "code": "TRS09E",
+      "collection": "TRAVERTINO",
+      "canonicalFile": "gch-vasta-travertino.json",
+      "matchedSlug": null,
+      "matchedName": null,
+      "score": 0,
+      "reason": "ambiguous — multiple variants on site, no reliable signal",
+      "newImageCount": 0
+    }
+  ]
+}

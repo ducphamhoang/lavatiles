@@ -1,0 +1,13 @@
+# Workflow
+- Parallelize independent work phases by spawning sub-agents rather than executing sequentially to keep each agent's context clean and unpolluted. Confidence: 0.87
+- For static websites, serve locally with Python's built-in HTTP server (`python -m http.server <port>`) instead of complex project exploration. Confidence: 0.75
+- When debugging click/interaction issues in Swiper carousels with `loop: true`, use event delegation (on `document` or a parent container) rather than per-element `addEventListener`, because Swiper clones slides and clones don't carry direct event listeners. Confidence: 0.85
+- For small carousels with few (e.g. ≤5) slides, disable Swiper's `loop: false` to avoid off-screen cloned elements that intercept clicks and cause "button doesn't respond" bugs. Confidence: 0.75
+- For portrait-oriented images used as landscape slide backgrounds, use `background-size: contain` with a dark `background-color` rather than `background-size: cover`, so the image letterboxes cleanly without cropping. Confidence: 0.70
+- Debug visual/interaction bugs by using the browser tool (screenshot, snapshot, eval) to inspect the rendered page rather than relying solely on static code analysis. Confidence: 0.92
+- When debugging a hypothesis, test ALL relevant cases/variations (e.g., all brands, all URL formats) side by side before drawing a conclusion — not just one case — to avoid incomplete or misleading analysis. Confidence: 0.70
+- Verify and test implementation end-to-end before marking tasks complete; do not rely on passing initial superficial checks. Confidence: 0.80
+- When content/data is incomplete for a page (e.g., missing images, descriptions), create the page structure with placeholders and add the content later rather than blocking development. Confidence: 0.75
+- When integrating an interactive component across multiple pages, ensure BOTH its JavaScript AND CSS dependencies are linked on every page — missing the stylesheet can cause the element to exist in the DOM but be invisible (e.g., positioned statically off-screen). Confidence: 0.70
+- When debugging cached static assets during development, force a fresh load by appending a cache-busting query parameter (e.g., `?t=$(date +%s)`) to the URL rather than relying on browser reload. Confidence: 0.65
+- When debugging URL/routing behavior (query strings, redirects) on a static site, first identify which dev server the user is actually running (Python http.server, `serve`, nginx, etc.) since different servers handle query strings and `index.html` redirects differently — never assume one server's behavior applies to another. Confidence: 0.75

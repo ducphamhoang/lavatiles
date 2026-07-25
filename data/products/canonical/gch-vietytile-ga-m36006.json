@@ -2,9 +2,9 @@
   "title": "Gạch 300x600 VietY Tile GA-M36006",
   "description": "Gạch granite 300x600 VietY Tile mã GA-M36006, bề mặt mờ R9, phù hợp Sàn, Tường. Sản phẩm thuộc bộ sưu tập Gaia của thương hiệu VietY Tile.",
   "images": [
-    "../../assets/images/products/vietytile-ga-at/ga-m36006.jpg",
-    "../../assets/images/products/vietytile-ga-at/ga-m36006-2.jpg",
-    "../../assets/images/products/vietytile-ga-at/ga-m36006-3.jpg"
+    "../../../assets/images/products/vietytile-ga-at/ga-m36006.jpg",
+    "../../../assets/images/products/vietytile-ga-at/ga-m36006-2.jpg",
+    "../../../assets/images/products/vietytile-ga-at/ga-m36006-3.jpg"
   ],
   "product_info": {
     "Mã sản phẩm": "GA-M36006",

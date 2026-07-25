@@ -322,6 +322,10 @@
     collection = collectionFromQuery(collections);
   }
   if (!collection) {
+    collections = window.LavatileVastaStoneCollections || [];
+    collection = collectionFromQuery(collections);
+  }
+  if (!collection) {
     showMissing();
     return;
   }

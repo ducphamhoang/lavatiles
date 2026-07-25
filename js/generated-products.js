@@ -78,6 +78,10 @@ window.LavatileProductFacets = {
       "value": "Đang cập nhật"
     },
     {
+      "label": "LUX",
+      "value": "LUX"
+    },
+    {
       "label": "Mờ",
       "value": "Mờ"
     },
@@ -108,8 +112,16 @@ window.LavatileProductFacets = {
       "value": "120x20cm"
     },
     {
+      "label": "120x280",
+      "value": "120x280"
+    },
+    {
       "label": "15x90cm",
       "value": "15x90cm"
+    },
+    {
+      "label": "160x320",
+      "value": "160x320"
     },
     {
       "label": "20x100cm",
@@ -10682,6 +10694,839 @@ window.LavatileGeneratedProducts =
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs513.html"
   },
   {
+    "code": "AMANO-MARBLE",
+    "title": "Đá nung kết Vasta Stone Amano Marble 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/amano-marble.jpg",
+    "detailUrl": "gach/gch-vasta-amano-marble.html"
+  },
+  {
+    "code": "AMAZONITE",
+    "title": "Đá nung kết Vasta Stone Amazonite 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/amazonite.jpg",
+    "detailUrl": "gach/gch-vasta-amazonite.html"
+  },
+  {
+    "code": "APU09E",
+    "title": "Đá nung kết Vasta Stone Apuan Luxe 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/08/APUAN-LUXE-APU09E-DP-1.jpg",
+    "detailUrl": "gach/gch-vasta-apuan-luxe.html"
+  },
+  {
+    "code": "ARB09E",
+    "title": "Đá nung kết Vasta Stone Armani 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/ARMANI-BEIGE-ARB09E-DP-VASTA-ESSENTIALS.jpg",
+    "detailUrl": "gach/gch-vasta-armani.html"
+  },
+  {
+    "code": "CALACATTA-GREEN",
+    "title": "Đá nung kết Vasta Stone Calacatta Green 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/calacatta-green.jpg",
+    "detailUrl": "gach/gch-vasta-calacatta-green.html"
+  },
+  {
+    "code": "CLASSIC-CUT-A",
+    "title": "Đá nung kết Vasta Stone Classic Cut Classic Cut A 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/classic-cut-a.jpg",
+    "detailUrl": "gach/gch-vasta-classic-cut-a.html"
+  },
+  {
+    "code": "CLASSIC-CUT-B",
+    "title": "Đá nung kết Vasta Stone Classic Cut Classic Cut B 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/classic-cut-b.jpg",
+    "detailUrl": "gach/gch-vasta-classic-cut-b.html"
+  },
+  {
+    "code": "COSMIC-CAFFE-LATTE",
+    "title": "Đá nung kết Vasta Stone Cosmic Caffè Latte 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cosmic-caffe-latte.jpg",
+    "detailUrl": "gach/gch-vasta-cosmic-caffe-latte.html"
+  },
+  {
+    "code": "COSMIC-OTTANIO",
+    "title": "Đá nung kết Vasta Stone Cosmic Ottanio 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cosmic-ottanio.jpg",
+    "detailUrl": "gach/gch-vasta-cosmic-ottanio.html"
+  },
+  {
+    "code": "COSMIC-ROSSO",
+    "title": "Đá nung kết Vasta Stone Cosmic Rosso 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cosmic-rosso.jpg",
+    "detailUrl": "gach/gch-vasta-cosmic-rosso.html"
+  },
+  {
+    "code": "COSMIC-TERRA-BRUCIATA",
+    "title": "Đá nung kết Vasta Stone Cosmic Terra Bruciata 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cosmic-terra-bruciata.jpg",
+    "detailUrl": "gach/gch-vasta-cosmic-terra-bruciata.html"
+  },
+  {
+    "code": "CRISTALLO-BLACK",
+    "title": "Đá nung kết Vasta Stone Cristallo Black 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cristallo-black.jpg",
+    "detailUrl": "gach/gch-vasta-cristallo-black.html"
+  },
+  {
+    "code": "CRISTALLO-GREEN",
+    "title": "Đá nung kết Vasta Stone Cristallo Green 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/cristallo-green.jpg",
+    "detailUrl": "gach/gch-vasta-cristallo-green.html"
+  },
+  {
+    "code": "FANTASY-AZZURRO",
+    "title": "Đá nung kết Vasta Stone Fantasy Azzurro 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/fantasy-azzurro.jpg",
+    "detailUrl": "gach/gch-vasta-fantasy-azzurro.html"
+  },
+  {
+    "code": "FANTASY-ROSA",
+    "title": "Đá nung kết Vasta Stone Fantasy Rosa 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/fantasy-rosa.jpg",
+    "detailUrl": "gach/gch-vasta-fantasy-rosa.html"
+  },
+  {
+    "code": "FUSION",
+    "title": "Đá nung kết Vasta Stone Fusion 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/fusion.jpg",
+    "detailUrl": "gach/gch-vasta-fusion.html"
+  },
+  {
+    "code": "GAG09E",
+    "title": "Đá nung kết Vasta Stone Garni Gorge 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/GARNI-GORGE-GAG09E-DM-VASTA-ESSENTIALS.jpg",
+    "detailUrl": "gach/gch-vasta-garni-gorge.html"
+  },
+  {
+    "code": "GRS09E",
+    "title": "Đá nung kết Vasta Stone Garvel Stone 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/GRAVEL-STONE-GRS09E-DM-VASTA-ESSENTIALS.jpg",
+    "detailUrl": "gach/gch-vasta-garvel-stone.html"
+  },
+  {
+    "code": "GRANDE-MARBLE",
+    "title": "Đá nung kết Vasta Stone Grande Marble 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/grande-marble.jpg",
+    "detailUrl": "gach/gch-vasta-grande-marble.html"
+  },
+  {
+    "code": "GRIGIO-CARNICO",
+    "title": "Đá nung kết Vasta Stone Grigio Carnico 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/grigio-carnico.jpg",
+    "detailUrl": "gach/gch-vasta-grigio-carnico.html"
+  },
+  {
+    "code": "ICELAND",
+    "title": "Đá nung kết Vasta Stone Iceland 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/iceland.jpg",
+    "detailUrl": "gach/gch-vasta-iceland.html"
+  },
+  {
+    "code": "INVISIBLE-GOLD",
+    "title": "Đá nung kết Vasta Stone Invisible Gold 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/invisible-gold.jpg",
+    "detailUrl": "gach/gch-vasta-invisible-gold.html"
+  },
+  {
+    "code": "JUNGLE-GREEN-DEEP",
+    "title": "Đá nung kết Vasta Stone Jungle Green Deep 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "LUX",
+    "finishLabel": "LUX",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/jungle-green-deep.jpg",
+    "detailUrl": "gach/gch-vasta-jungle-green-deep.html"
+  },
+  {
+    "code": "JUNGLE",
+    "title": "Đá nung kết Vasta Stone Jungle 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/jungle.jpg",
+    "detailUrl": "gach/gch-vasta-jungle.html"
+  },
+  {
+    "code": "LINEAR-HARMONY-BLACK",
+    "title": "Đá nung kết Vasta Stone Linear Harmony Linear Harmony Black 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/linear-harmony-black.jpg",
+    "detailUrl": "gach/gch-vasta-linear-harmony-black.html"
+  },
+  {
+    "code": "LINEAR-HARMONY-WHITE",
+    "title": "Đá nung kết Vasta Stone Linear Harmony Linear Harmony White 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/linear-harmony-white.jpg",
+    "detailUrl": "gach/gch-vasta-linear-harmony-white.html"
+  },
+  {
+    "code": "MACCHIA-VECCHIA",
+    "title": "Đá nung kết Vasta Stone Macchia Vecchia 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/macchia-vecchia.jpg",
+    "detailUrl": "gach/gch-vasta-macchia-vecchia.html"
+  },
+  {
+    "code": "MARVEL-BERNINI",
+    "title": "Đá nung kết Vasta Stone Marvel Bernini 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/MARVEL-BERNINI_1.jpg",
+    "detailUrl": "gach/gch-vasta-marvel-bernini.html"
+  },
+  {
+    "code": "MONTE-BIANCO",
+    "title": "Đá nung kết Vasta Stone Monte Bianco 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/monte-bianco.jpg",
+    "detailUrl": "gach/gch-vasta-monte-bianco.html"
+  },
+  {
+    "code": "OROBICO",
+    "title": "Đá nung kết Vasta Stone Orobico 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/orobico.jpg",
+    "detailUrl": "gach/gch-vasta-orobico.html"
+  },
+  {
+    "code": "PACISTA",
+    "title": "Đá nung kết Vasta Stone Pacista 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/pacista.jpg",
+    "detailUrl": "gach/gch-vasta-pacista.html"
+  },
+  {
+    "code": "PORTORO-GOLD",
+    "title": "Đá nung kết Vasta Stone Portoro Gold 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/portoro-gold.jpg",
+    "detailUrl": "gach/gch-vasta-portoro-gold.html"
+  },
+  {
+    "code": "PORTORO-SILVER",
+    "title": "Đá nung kết Vasta Stone Portoro Silver 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/portoro-silver.jpg",
+    "detailUrl": "gach/gch-vasta-portoro-silver.html"
+  },
+  {
+    "code": "SAHARA-NOIR",
+    "title": "Đá nung kết Vasta Stone Sahara Noir 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/sahara-noir.jpg",
+    "detailUrl": "gach/gch-vasta-sahara-noir.html"
+  },
+  {
+    "code": "SHADE-BLACK",
+    "title": "Đá nung kết Vasta Stone Shade Black Shade 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/shade-black.jpg",
+    "detailUrl": "gach/gch-vasta-shade-black.html"
+  },
+  {
+    "code": "SHADE-WHITE",
+    "title": "Đá nung kết Vasta Stone Shade White Shade 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/shade-white.jpg",
+    "detailUrl": "gach/gch-vasta-shade-white.html"
+  },
+  {
+    "code": "SIMAR",
+    "title": "Đá nung kết Vasta Stone Simar 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/simar.jpg",
+    "detailUrl": "gach/gch-vasta-simar.html"
+  },
+  {
+    "code": "STB09E",
+    "title": "Đá nung kết Vasta Stone Statuary Bianco 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/STATUARY-BIANCO-STB09E-DP-VASTA-ESSENTIALS.jpg",
+    "detailUrl": "gach/gch-vasta-statuary-bianco.html"
+  },
+  {
+    "code": "TERRA-SABBIA",
+    "title": "Đá nung kết Vasta Stone Terre Sabbia 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terra-sabbia.jpg",
+    "detailUrl": "gach/gch-vasta-terra-sabbia.html"
+  },
+  {
+    "code": "TEG09E",
+    "title": "Đá nung kết Vasta Stone TERRA 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/TERRA-GREY-TEG09E-DM-VASTA-ESSENTIALS.jpg",
+    "detailUrl": "gach/gch-vasta-terra.html"
+  },
+  {
+    "code": "TERRE-ANTRACITE",
+    "title": "Đá nung kết Vasta Stone Terre Antracite 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-antracite.jpg",
+    "detailUrl": "gach/gch-vasta-terre-antracite.html"
+  },
+  {
+    "code": "TERRE-BEIGE",
+    "title": "Đá nung kết Vasta Stone Terre Beige 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-beige.jpg",
+    "detailUrl": "gach/gch-vasta-terre-beige.html"
+  },
+  {
+    "code": "TERRE-CAFFE-LATTE",
+    "title": "Đá nung kết Vasta Stone Terre Caffè Latte 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-caffe-latte.jpg",
+    "detailUrl": "gach/gch-vasta-terre-caffe-latte.html"
+  },
+  {
+    "code": "TERRE-GREY",
+    "title": "Đá nung kết Vasta Stone Terre Grey 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-grey.jpg",
+    "detailUrl": "gach/gch-vasta-terre-grey.html"
+  },
+  {
+    "code": "TERRE-MOKA",
+    "title": "Đá nung kết Vasta Stone Terre Moka 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-moka.jpg",
+    "detailUrl": "gach/gch-vasta-terre-moka.html"
+  },
+  {
+    "code": "TERRE-OTTANIO",
+    "title": "Đá nung kết Vasta Stone Terre Ottanio 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-ottanio.jpg",
+    "detailUrl": "gach/gch-vasta-terre-ottanio.html"
+  },
+  {
+    "code": "TERRE-ROSA",
+    "title": "Đá nung kết Vasta Stone Terre Rosa 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-rosa.jpg",
+    "detailUrl": "gach/gch-vasta-terre-rosa.html"
+  },
+  {
+    "code": "TERRE-TERRACOTTA",
+    "title": "Đá nung kết Vasta Stone Terre Terracotta 160x320",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "160x320",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "../../../assets/images/products/vasta-stone/terre-terracotta.jpg",
+    "detailUrl": "gach/gch-vasta-terre-terracotta.html"
+  },
+  {
+    "code": "TRS09E",
+    "title": "Đá nung kết Vasta Stone TRAVERTINO 120x280",
+    "collection": "Gạch",
+    "category": "Gạch",
+    "categorySlug": "gach",
+    "finish": "Bóng",
+    "finishLabel": "Polished Matt | Polished",
+    "color": "Đang cập nhật",
+    "size": "120x280",
+    "placement": [
+      "Tường"
+    ],
+    "country": "Vasta Stone",
+    "image": "https://vastastone.com/wp-content/uploads/2024/10/TRAVENTINO-GREY-TRS09E-DM.jpg",
+    "detailUrl": "gach/gch-vasta-traventino.html"
+  },
+  {
     "code": "AT-B48001P1",
     "title": "Gạch 400x800 VietY Tile AT-B48001P1",
     "collection": "Gạch",
@@ -10695,7 +11540,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-b48001p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-b48001p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-b48001p1.html"
   },
   {
@@ -10712,7 +11557,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g48001p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g48001p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g48001p1.html"
   },
   {
@@ -10729,7 +11574,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g48003m1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g48003m1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g48003m1.html"
   },
   {
@@ -10746,7 +11591,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g48003p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g48003p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g48003p1.html"
   },
   {
@@ -10763,7 +11608,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88002p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88002p.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88002p.html"
   },
   {
@@ -10780,7 +11625,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88003p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88003p.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88003p.html"
   },
   {
@@ -10797,7 +11642,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88006p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88006p.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88006p.html"
   },
   {
@@ -10814,7 +11659,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88011p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88011p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88011p1.html"
   },
   {
@@ -10831,7 +11676,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88013p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88013p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88013p1.html"
   },
   {
@@ -10848,7 +11693,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88015p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88015p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88015p1.html"
   },
   {
@@ -10865,7 +11710,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88021p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88021p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88021p1.html"
   },
   {
@@ -10882,7 +11727,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88023p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88023p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88023p1.html"
   },
   {
@@ -10899,7 +11744,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-g88026p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-g88026p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-g88026p1.html"
   },
   {
@@ -10916,7 +11761,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s48001p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s48001p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-s48001p1.html"
   },
   {
@@ -10933,7 +11778,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s48003p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s48003p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-s48003p1.html"
   },
   {
@@ -10950,7 +11795,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s48005p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s48005p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-s48005p1.html"
   },
   {
@@ -10967,7 +11812,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s48007m1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s48007m1.jpg",
     "detailUrl": "gach/gch-vietytile-at-s48007m1.html"
   },
   {
@@ -10984,7 +11829,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s48007p1.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s48007p1.jpg",
     "detailUrl": "gach/gch-vietytile-at-s48007p1.html"
   },
   {
@@ -11001,7 +11846,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s88003p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s88003p.jpg",
     "detailUrl": "gach/gch-vietytile-at-s88003p.html"
   },
   {
@@ -11018,7 +11863,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-s88006p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-s88006p.jpg",
     "detailUrl": "gach/gch-vietytile-at-s88006p.html"
   },
   {
@@ -11035,7 +11880,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/at-t88002p.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/at-t88002p.jpg",
     "detailUrl": "gach/gch-vietytile-at-t88002p.html"
   },
   {
@@ -11052,7 +11897,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/ga-m36006.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/ga-m36006.jpg",
     "detailUrl": "gach/gch-vietytile-ga-m36006.html"
   },
   {
@@ -11069,7 +11914,7 @@ window.LavatileGeneratedProducts =
       "Tường"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/ga-m48008-07.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/ga-m48008-07.jpg",
     "detailUrl": "gach/gch-vietytile-ga-m48008-07.html"
   },
   {
@@ -11086,7 +11931,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/ga-m88005.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/ga-m88005.jpg",
     "detailUrl": "gach/gch-vietytile-ga-m88005.html"
   },
   {
@@ -11103,7 +11948,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/ga-p88050.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/ga-p88050.jpg",
     "detailUrl": "gach/gch-vietytile-ga-p88050.html"
   },
   {
@@ -11120,7 +11965,7 @@ window.LavatileGeneratedProducts =
       "Sàn"
     ],
     "country": "VietY Tile",
-    "image": "../../assets/images/products/vietytile-ga-at/ga-p88051.jpg",
+    "image": "../../../assets/images/products/vietytile-ga-at/ga-p88051.jpg",
     "detailUrl": "gach/gch-vietytile-ga-p88051.html"
   },
   {

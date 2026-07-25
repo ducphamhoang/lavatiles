@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(python3 -m http.server 8000)",
+      "Shell(agent-browser:*)",
+      "Shell(npm:*)",
+      "Shell(curl -sI -o /dev/null -w %{http_code} http://localhost:8000/assets/images/catalogue/ga-at-catalogue.jpg 2 >& 1)",
+      "Shell(curl -sI -o /dev/null -w %{http_code} http://localhost:8000/assets/images/catalogue/viglacera-catalogue.png 2 >& 1)",
+      "Shell(curl -sI -o /dev/null -w %{http_code} http://localhost:8000/assets/images/catalogue/toto-catalogue.png 2 >& 1)",
+      "Shell(curl -sI -o /dev/null -w %{http_code} http://localhost:8000/assets/images/catalogue/inax-catalogue.jpg 2 >& 1)",
+      "Shell(curl -sI -o /dev/null -w %{http_code} http://localhost:8000/assets/images/catalogue/caesar-catalogue.png 2 >& 1)",
+      "Shell(sleep:*)",
+      "Shell(grep:*)",
+      "Shell(kill_shell:*)",
+      "Shell(curl -s http://localhost:8000/index.html)",
+      "Shell(npx serve . -p 8080 --no-clipboard)",
+      "Shell(curl -sI http://localhost:8080/san-pham/gach-op-lat/index.html?brand=vasta-stone)",
+      "Shell(curl -sI http://localhost:8080/san-pham/gach-op-lat/index.html?brand=vietytile)",
+      "Shell(curl -sI http://localhost:8080/san-pham/gach-op-lat/index.html?brand=eurotile)",
+      "Shell(curl -sI http://127.0.0.1:8000/san-pham/gach-op-lat/index.html?brand=vasta-stone)",
+      "Shell(cd /home/ducph/SideProjects/lavatiles && git add -A && git commit -F - <<'EOF' Build Vasta Stone brand page — product catalog, detail pages, flipbook, and product data Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}

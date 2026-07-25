@@ -213,7 +213,7 @@
     new Swiper('.slider-catalogue', {
       slidesPerView: 3,
       spaceBetween: 0,
-      loop: true,
+      loop: false,
       autoplay: {
         delay: 5000,
         disableOnInteraction: false,

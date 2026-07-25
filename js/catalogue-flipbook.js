@@ -221,19 +221,19 @@
     if (pageNum > 0) swiperInstance.slideTo(pageNum - 1);
   });
 
-  // ── Bind trigger buttons ──
-  document.querySelectorAll('[data-flipbook-trigger]').forEach(function (btn) {
-    btn.addEventListener('click', function (e) {
-      e.preventDefault();
-      var id = btn.getAttribute('data-flipbook-id');
-      if (!id) return;
+  // ── Bind trigger buttons (delegated to handle Swiper clones) ──
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest('[data-flipbook-trigger]');
+    if (!btn) return;
+    e.preventDefault();
+    var id = btn.getAttribute('data-flipbook-id');
+    if (!id) return;
 
-      for (var i = 0; i < CATALOGUES.length; i++) {
-        if (CATALOGUES[i].id === id) {
-          openFlipbook(CATALOGUES[i]);
-          break;
-        }
+    for (var i = 0; i < CATALOGUES.length; i++) {
+      if (CATALOGUES[i].id === id) {
+        openFlipbook(CATALOGUES[i]);
+        break;
       }
-    });
+    }
   });
 })();

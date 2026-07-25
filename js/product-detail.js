@@ -5,6 +5,7 @@
   var brand = params.get('brand') || '';
   var isEurotile = brand.toLowerCase() === 'eurotile';
   var isVietYTile = brand.toLowerCase() === 'vietytile';
+  var isVastaStone = brand.toLowerCase() === 'vasta-stone';
 
   // ---- pick product set -------------------------------------------
 
@@ -12,6 +13,8 @@
     ? (window.LAVATILE_EUROTILE_PRODUCTS || [])
     : isVietYTile
     ? (window.LAVATILE_VIETYTILE_PRODUCTS || [])
+    : isVastaStone
+    ? (window.LAVATILE_VASTA_STONE_PRODUCTS || [])
     : (window.LAVATILE_TILES || []);
 
   // ---- enrich with generated detail URLs -------------------------
@@ -55,6 +58,9 @@
       p.category = '';
     } else if (isVietYTile) {
       p.category = 'Gạch lát nền';
+      p.detailUrl = generatedMap[normaliseCode(p.code)] || '';
+    } else if (isVastaStone) {
+      p.category = '';
       p.detailUrl = generatedMap[normaliseCode(p.code)] || '';
     } else {
       p.category = assignCategory(p);
@@ -106,6 +112,10 @@
     if (lavatileCatGroup) lavatileCatGroup.hidden = true;
     if (euroCatGroup) euroCatGroup.hidden = true;
     if (vietYTileCatGroup) vietYTileCatGroup.hidden = false;
+  } else if (isVastaStone) {
+    if (lavatileCatGroup) lavatileCatGroup.hidden = true;
+    if (euroCatGroup) euroCatGroup.hidden = true;
+    if (vietYTileCatGroup) vietYTileCatGroup.hidden = true;
   } else {
     if (lavatileCatGroup) lavatileCatGroup.hidden = false;
     if (euroCatGroup) euroCatGroup.hidden = true;
@@ -150,6 +160,22 @@
     if (sectionDesc) sectionDesc.textContent = 'Bộ sưu tập gạch granite GA và AT từ VietY Tile với đa dạng kích thước và bề mặt.';
   }
 
+  // ---- Vasta Stone branding ---------------------------------------
+
+  if (isVastaStone) {
+    var desc = document.querySelector('.tiles-desc p');
+    if (pageTitle) pageTitle.textContent = 'Vasta Stone | Gạch ốp lát | Lavatiles';
+    if (pageH1) pageH1.textContent = 'VASTA STONE';
+    if (breadcrumb) {
+      var lastCrumb = breadcrumb.querySelector('strong');
+      if (lastCrumb) lastCrumb.textContent = 'Vasta Stone';
+    }
+    var sectionTitle = document.querySelector('#pd-filters h2');
+    if (sectionTitle) sectionTitle.textContent = 'Sản phẩm Vasta Stone';
+    var sectionDesc = document.querySelector('#pd-filters p');
+    if (sectionDesc) sectionDesc.textContent = 'Bộ sưu tập đá nung kết Vasta Stone với đa dạng vân đá và kích thước khổ lớn.';
+  }
+
   // ---- card renderer --------------------------------------------
 
   function cardMarkup(product) {
@@ -171,6 +197,11 @@
 
     // Show collection for VietY Tile products
     if (isVietYTile && product.collection) {
+      specs += '<li><span>Bộ sưu tập</span><strong>' + product.collection + '</strong></li>';
+    }
+
+    // Show collection for Vasta Stone products
+    if (isVastaStone && product.collection) {
       specs += '<li><span>Bộ sưu tập</span><strong>' + product.collection + '</strong></li>';
     }
 
@@ -197,7 +228,7 @@
   // ---- room info panel -------------------------------------------
 
   function onRender(state) {
-    if (isEurotile || isVietYTile) return; // no room info for brand pages
+    if (isEurotile || isVietYTile || isVastaStone) return; // no room info for brand pages
     var active = state.rooms || [];
     var info = document.getElementById('pdRoomInfo');
     var label = document.getElementById('pdRoomInfoLabel');
@@ -227,13 +258,13 @@
 
   var filterKeys = isEurotile
     ? ['eurotile_category', 'finish', 'size', 'placement']
-    : isVietYTile
+    : isVietYTile || isVastaStone
     ? ['collection', 'finish', 'size', 'placement']
     : ['finish', 'size', 'placement', 'rooms', 'category'];
 
   var searchFields = isEurotile
     ? ['code', 'title', 'size', 'finish', 'brand', 'eurotile_collection', 'eurotile_category']
-    : isVietYTile
+    : isVietYTile || isVastaStone
     ? ['code', 'title', 'size', 'finish', 'brand', 'collection']
     : ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'];
 

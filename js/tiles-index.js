@@ -43,8 +43,11 @@
 
   function renderCollections() {
     var isVietYTile = window.location.search.indexOf('brand=vietytile') !== -1;
+    var isVastaStone = window.location.search.indexOf('brand=vasta-stone') !== -1;
     var collections = isVietYTile
       ? (window.LavatileVietYTileCollections || [])
+      : isVastaStone
+      ? (window.LavatileVastaStoneCollections || [])
       : (window.LavatileGeneratedCollections || []);
     var track = document.querySelector('[data-slider-track="collection"]');
     var loadMore = document.getElementById('collectionLoadMore');

@@ -962,11 +962,14 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   display: inline-block;
   padding: 8px 28px;
   border: 1px solid #fff;
+  background: transparent;
   color: #fff;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 0.12em;
   text-decoration: none;
+  cursor: pointer;
+  font-family: inherit;
   transition: background .3s, color .3s;
   align-self: flex-start;
 }
@@ -977,13 +980,12 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   color: #fff;
 }
 
-/* Catalogue slide backgrounds */
-.cat-cover-2025 { background-image: url("../assets/catalogue-2025-v1.png"); }
-.cat-cover-bath { background-image: url("../assets/catalogue-bath-v1.png"); }
-.cat-cover-wood { background-image: url("../assets/catalogue-wood-v1.png"); }
-.cat-slide-antao { background-image: url("../assets/featured-antao-v1.png"); }
-.cat-slide-gessi { background-image: url("../assets/featured-gessi-sogni-v1.png"); }
-.cat-slide-papier { background-image: url("../assets/featured-papier-v1.png"); }
+/* Catalogue slide backgrounds: portrait covers need contain + bg color */
+.cat-cover-viety { background-image: url("../assets/images/catalogue/ga-at-catalogue.jpg"); background-color: #2a2a2a; background-size: contain; background-position: center center; }
+.cat-cover-viglacera { background-image: url("../assets/images/catalogue/viglacera-catalogue.png"); background-color: #1a1a1a; background-size: contain; background-position: center center; }
+.cat-cover-toto { background-image: url("../assets/images/catalogue/toto-catalogue.png"); background-color: #222; background-size: contain; background-position: center center; }
+.cat-cover-inax { background-image: url("../assets/images/catalogue/inax-catalogue.jpg"); background-color: #1a1a1a; background-size: contain; background-position: center center; }
+.cat-cover-caesar { background-image: url("../assets/images/catalogue/caesar-catalogue.png"); background-color: #2a2a2a; background-size: contain; background-position: center center; }
 
 /* Swiper navigation overrides */
 .slider-catalogue .swiper-button-next,
