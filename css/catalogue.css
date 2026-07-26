@@ -251,8 +251,8 @@
 
 .catalogue-card-body {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  align-items: stretch;
   gap: 16px;
   padding: 16px 16px 18px;
 }

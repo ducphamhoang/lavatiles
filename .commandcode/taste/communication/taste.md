@@ -1,0 +1,10 @@
+# Communication
+- Explain reasoning and considerations before jumping into execution when asked about a complex approach. Confidence: 0.80
+- When the user shares a reference/competitor URL in a content discussion, perform a side-by-side comparison of the reference page's content structure against the current page to identify gaps — don't just describe what the reference page has, surface what's missing in the current page. Confidence: 0.70
+- When deciding where links/buttons should navigate (content-to-page mapping), consult the user rather than assuming the existing href or most-obvious page is the right destination — the user has specific judgment about semantic suitability that may not match what's in the markup. Confidence: 0.70
+- When explaining desired visual behavior, provide concrete "right" and "wrong" reference screenshots (with file paths) to make the expected vs. undesired outcome unambiguous. Confidence: 0.70
+- When sharing screenshot feedback, provide the original image dimensions alongside the displayed dimensions and a scaling multiplier (e.g., "Multiply coordinates by 1.31 to map to original image") so the assistant can accurately map coordinates. Confidence: 0.80
+- Stay focused on exactly what the user asked for — do not make unrelated changes or fix other issues without asking first. Confidence: 0.75
+- When the user questions a prior decision or points out a potential error, re-examine the assumptions self-critically and acknowledge uncertainties rather than defensively justifying the original choice — the user expects honest self-review and wants to be consulted on ambiguous mappings/decisions, not told the original choice was correct. Confidence: 0.70
+- Report bugs by observable user-facing symptoms (what the user sees/experiences) rather than by code-level analysis. Confidence: 0.60
+- The user gives direct, blunt, no-hedging feedback (e.g., "those news page are actually ugly") — they expect the assistant to accept this feedback without defensiveness and act on it promptly rather than asking for elaboration. Confidence: 0.80

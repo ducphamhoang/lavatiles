@@ -1,0 +1,11 @@
+# Catalogue
+- Keep the catalogue section on index.html in sync with the actual catalogue page — only show items/cards that exist on catalogue.html. Confidence: 0.75
+- Remove catalogue items that have no real content (dead placeholder links, no flipbook source, no data entry) rather than keeping them as broken cards — and remove entire tabs/sections if all items within are dead. Confidence: 0.75
+- "Xem thêm" buttons on catalogue cards should directly open the flipbook viewer (via data-flipbook-trigger), not navigate to a separate catalogue listing page. Confidence: 0.80
+- For presenting PDF catalogues on the web, use a full-page flipbook viewer using extracted page images rather than attempting product-level image extraction. Confidence: 0.65
+- Pre-convert PDF catalogues to optimized images stored in `/assets/pdf/` with a proper lookup index, rather than rendering pages on-demand from PDF at runtime. Confidence: 0.70
+- When implementing a flipbook page viewer, pre-optimize/compress extracted page images to avoid slow per-page loading times on large documents. Confidence: 0.65
+- Catalogue thumbnail images should be square (1:1, 800×800) rather than landscape — square fills the banner height nicely on desktop without letterbox bars, keeps each thumbnail visually distinct, and avoids the "all look the same" problem of portrait thumbnails. Confidence: 0.75
+- Standardize catalogue product/room images by cropping to a square (focusing on the product or room content, not text areas) and generating two versions: 400×400 and 800×800 — never stretch/distort, always crop to focus. Confidence: 0.85
+- Wire catalogue thumbnail images responsively using `srcset` + `sizes` attributes: the 400×400 version as `src` (fallback), both resolutions in `srcset` (400w, 800w), and `sizes="(min-width: 768px) 800px, 400px"` so desktop loads the larger variant. Confidence: 0.75
+- Catalogue cover thumbnails follow a predictable naming convention: `{original-name}-800x800.{ext}` stored alongside the original images — swap references to the `-800x800` suffixed version when replacing thumbnails with square variants. Confidence: 0.70

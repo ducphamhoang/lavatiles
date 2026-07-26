@@ -56,6 +56,72 @@
       basePath: 'assets/pdf/Catalogue T1-2026',
       totalPages: 65,
       pageFormat: 'page-{02}.jpg'
+    },
+    {
+      id: 'vasta-stone-2024',
+      title: 'VASTA STONE 2024 full-body vein',
+      brand: 'VASTA',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/VASTA STONE 2024 full-body vein.pdf',
+      coverImage: 'assets/images/catalogue/vasta-stone-2024.jpg',
+      basePath: 'assets/pdf/VASTA STONE 2024 full-body vein',
+      totalPages: 16,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
+      id: 'vasta-collection',
+      title: 'Vasta Collection',
+      brand: 'VASTA',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/Vasta Collection.pdf',
+      coverImage: 'assets/images/catalogue/vasta-collection.jpg',
+      basePath: 'assets/pdf/Vasta Collection',
+      totalPages: 105,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
+      id: 'vasta-essential',
+      title: 'Vasta Essential',
+      brand: 'VASTA',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/Vasta Essential.pdf',
+      coverImage: 'assets/images/catalogue/vasta-essential.jpg',
+      basePath: 'assets/pdf/Vasta Essential',
+      totalPages: 6,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
+      id: 'vasta-essentials-production',
+      title: 'VASTA ESSENTIALS PRODUCTION - T8.24',
+      brand: 'VASTA',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/VASTA ESSENTIALS_PRODUCTION - THANG 8.24.pdf',
+      coverImage: 'assets/images/catalogue/vasta-essentials-production.jpg',
+      basePath: 'assets/pdf/VASTA ESSENTIALS_PRODUCTION - THANG 8.24',
+      totalPages: 34,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
+      id: 'eurotile-8',
+      title: 'NEW EUROTILE 8 - 120x240',
+      brand: 'Eurotile',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/NEW_EUROTILE 8_120x240_200725.pdf',
+      coverImage: 'assets/images/catalogue/eurotile-8.jpg',
+      basePath: 'assets/pdf/NEW_EUROTILE 8_120x240_200725',
+      totalPages: 44,
+      pageFormat: 'page-{03}.jpg'
+    },
+    {
+      id: 'viglacera-full',
+      title: 'Catalogue Viglacera Full',
+      brand: 'Viglacera',
+      category: 'gach',
+      pdfUrl: 'assets/pdf/_Catalogue Viglacera Full (100dpi).pdf',
+      coverImage: 'assets/images/catalogue/viglacera-full.jpg',
+      basePath: 'assets/pdf/Catalogue Viglacera Full',
+      totalPages: 138,
+      pageFormat: 'page-{03}.jpg'
     }
   ];
 

@@ -325,6 +325,7 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   flex: 0 0 100%;
   position: relative;
   overflow: hidden;
+  cursor: pointer;
 }
 
 /* Background layers */
@@ -617,7 +618,9 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   object-fit: cover;
   transition: transform .6s;
 }
-.featured-card:hover img { transform: scale(1.04); }
+@media (hover: hover) {
+  .featured-card:hover img { transform: scale(1.04); }
+}
 .featured-card .card-overlay {
   position: absolute;
   inset: 0;
@@ -631,7 +634,9 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   padding: 30px;
   transition: background .3s;
 }
-.featured-card:hover .card-overlay { background: rgba(0,0,0,0.45); }
+@media (hover: hover) {
+  .featured-card:hover .card-overlay { background: rgba(0,0,0,0.45); }
+}
 .featured-card .card-overlay h4 {
   font-size: clamp(16px, 2vw, 24px);
   text-transform: uppercase;
@@ -980,12 +985,18 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   color: #fff;
 }
 
-/* Catalogue slide backgrounds: portrait covers need contain + bg color */
-.cat-cover-viety { background-image: url("../assets/images/catalogue/ga-at-catalogue.jpg"); background-color: #2a2a2a; background-size: contain; background-position: center center; }
-.cat-cover-viglacera { background-image: url("../assets/images/catalogue/viglacera-catalogue.png"); background-color: #1a1a1a; background-size: contain; background-position: center center; }
-.cat-cover-toto { background-image: url("../assets/images/catalogue/toto-catalogue.png"); background-color: #222; background-size: contain; background-position: center center; }
-.cat-cover-inax { background-image: url("../assets/images/catalogue/inax-catalogue.jpg"); background-color: #1a1a1a; background-size: contain; background-position: center center; }
-.cat-cover-caesar { background-image: url("../assets/images/catalogue/caesar-catalogue.png"); background-color: #2a2a2a; background-size: contain; background-position: center center; }
+/* Catalogue slide backgrounds: square thumbnails fill the banner */
+.cat-cover-viety { background-image: url("../assets/images/catalogue/ga-at-catalogue-800x800.jpg"); background-color: #2a2a2a; background-size: cover; background-position: center center; }
+.cat-cover-viglacera { background-image: url("../assets/images/catalogue/viglacera-catalogue-800x800.png"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-viglacera-full { background-image: url("../assets/images/catalogue/viglacera-full-800x800.jpg"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-toto { background-image: url("../assets/images/catalogue/toto-catalogue-800x800.png"); background-color: #222; background-size: cover; background-position: center center; }
+.cat-cover-inax { background-image: url("../assets/images/catalogue/inax-catalogue-800x800.jpg"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-caesar { background-image: url("../assets/images/catalogue/caesar-catalogue-800x800.png"); background-color: #2a2a2a; background-size: cover; background-position: center center; }
+.cat-cover-vasta-stone { background-image: url("../assets/images/catalogue/vasta-stone-2024-800x800.jpg"); background-color: #2a2a2a; background-size: cover; background-position: center center; }
+.cat-cover-vasta-collection { background-image: url("../assets/images/catalogue/vasta-collection-800x800.jpg"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-vasta-essential { background-image: url("../assets/images/catalogue/vasta-essential.jpg"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-vasta-essentials-production { background-image: url("../assets/images/catalogue/vasta-essentials-production-800x800.jpg"); background-color: #1a1a1a; background-size: cover; background-position: center center; }
+.cat-cover-eurotile-8 { background-image: url("../assets/images/catalogue/eurotile-8-800x800.jpg"); background-color: #2a2a2a; background-size: cover; background-position: center center; }
 
 /* Swiper navigation overrides */
 .slider-catalogue .swiper-button-next,
@@ -1621,6 +1632,12 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   min-height: 460px;
   overflow: hidden;
   background: #17181c;
+}
+.pd-collection-card > a {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
 }
 .pd-collection-card img {
   width: 100%;

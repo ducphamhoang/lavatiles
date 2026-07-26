@@ -3,7 +3,6 @@
 
   var tabs = Array.prototype.slice.call(document.querySelectorAll('[data-news-tab]'));
   var panels = Array.prototype.slice.call(document.querySelectorAll('[data-news-panel]'));
-  var feedback = document.getElementById('newsFeedback');
   var activeCategory = document.getElementById('newsActiveCategory');
 
   if (!tabs.length || !panels.length) return;
@@ -20,12 +19,6 @@
     panel.setAttribute('role', 'tabpanel');
     panel.setAttribute('aria-labelledby', 'tab-' + id);
   });
-
-  function showFeedback(message) {
-    if (!feedback) return;
-    feedback.textContent = message;
-    feedback.hidden = false;
-  }
 
   function activateTab(id) {
     tabs.forEach(function (tab) {
@@ -71,13 +64,6 @@
       if (event.key === 'End') nextIndex = tabs.length - 1;
       tabs[nextIndex].focus();
       activateTab(tabs[nextIndex].getAttribute('data-news-tab'));
-    });
-  });
-
-  document.querySelectorAll('[data-news-placeholder]').forEach(function (link) {
-    link.addEventListener('click', function (event) {
-      event.preventDefault();
-      showFeedback('Trang chi tiết của bài viết này chưa được thêm vào bản clone. Khi các trang bài viết sẵn sàng, liên kết sẽ được nối trực tiếp tại đây.');
     });
   });
 

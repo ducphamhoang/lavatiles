@@ -120,6 +120,16 @@
       }
     }, { passive: true });
 
+    // ---- slide click navigation ----
+    track.addEventListener('click', function (e) {
+      if (isDragging) return;                            // was a swipe, not a click
+      if (e.target.closest('.vc-hero-btn')) return;      // button has its own link
+      var slide = e.target.closest('.vc-hero-slide');
+      if (slide && slide.dataset.href) {
+        window.location.href = slide.dataset.href;
+      }
+    });
+
     // ---- init ----
     goTo(0, true);
     startAuto();
