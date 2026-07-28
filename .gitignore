@@ -5,3 +5,4 @@ AGENTS.md
 .DS_Store
 node_modules/
 chromium/
+data/product/new-toto/.detail-cache.json

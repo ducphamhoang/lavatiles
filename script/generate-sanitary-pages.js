@@ -6,14 +6,19 @@
 
 const fs = require('fs');
 const path = require('path');
+const {
+  CATEGORY_LABELS,
+  categoryInfo,
+  categoryForProduct,
+  flattenTotoTree,
+} = require('../scripts/toto-category-map');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 const DATA_DIR = path.join(ROOT_DIR, 'data/products');
 const TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/sanitary-detail.html');
 const OUTPUT_ROOT = path.join(ROOT_DIR, 'san-pham/thiet-bi-ve-sinh');
 const ROOT_FROM_DETAIL = '../../..';
-const LISTING_FROM_DETAIL = '../index.html';
-const LISTING_FROM_TATCA = '../tat-ca.html';
+const TOTO_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-toto/products-tree.json');
 
 const BRANDS = [
   { file: 'catalogue-caesar-06-2026.json', brand: 'Caesar' },
@@ -22,46 +27,8 @@ const BRANDS = [
   { file: 'catalogue-t1-2026-sc.json', brand: 'Viglacera' },
 ];
 
-const CATEGORY_NAME_MAP = {
-  'ban-cau-thong-minh': 'Bàn cầu thông minh',
-  'ban-cau-dien-tu': 'Bàn cầu điện tử',
-  'nap-ban-cau-dien-tu': 'Nắp bàn cầu điện tử',
-  'nap-rua-dien-tu': 'Nắp rửa điện tử',
-  'nap-rua-co': 'Nắp rửa cơ',
-  'nap-ban-cau-co': 'Nắp bàn cầu cơ',
-  'ban-cau-mot-khoi': 'Bàn cầu một khối',
-  'ban-cau-hai-khoi': 'Bàn cầu hai khối',
-  'ban-cau-cong-cong': 'Bàn cầu công cộng',
-  'ban-cau-treo-tuong': 'Bàn cầu treo tường',
-  'ban-cau-xa-cam-ung': 'Bàn cầu xả cảm ứng',
-  'phu-kien-ban-cau': 'Phụ kiện bàn cầu',
-  'lavabo-tu': 'Lavabo tủ',
-  'chau-dat-ban': 'Chậu đặt bàn',
-  'chau-duong-ban': 'Chậu dương bàn',
-  'chau-am-ban': 'Chậu âm bàn',
-  'chau-ban-da': 'Chậu bàn đá',
-  'chau-cerafine': 'Chậu Cerafine',
-  'chau-treo-tuong': 'Chậu treo tường',
-  'chau-rua-chen': 'Chậu rửa chén',
-  'chau-rua-tich-hop': 'Chậu rửa tích hợp',
-  'chau-rua': 'Chậu rửa',
-  'bon-tieu': 'Bồn tiểu',
-  'voi-bep': 'Vòi bếp',
-  'voi-lanh': 'Vòi lạnh',
-  'voi-chau-cam-ung': 'Vòi chậu cảm ứng',
-  'voi-chau-cao': 'Vòi chậu cao',
-  'voi-chau': 'Vòi chậu',
-  'voi-rua-bat': 'Vòi rửa bát',
-  'voi-bon-tam': 'Vòi bồn tắm',
-  'sen-tam': 'Sen tắm',
-  'bon-tam': 'Bồn tắm',
-  'phu-kien': 'Phụ kiện',
-  'chan-chau': 'Chân chậu',
-  'ga-thoat-san': 'Ga thoát sàn',
-};
-
 // Sorted longest-first so we match the most specific prefix
-const CATEGORY_PREFIXES = Object.keys(CATEGORY_NAME_MAP).sort((a, b) => b.length - a.length);
+const CATEGORY_PREFIXES = Object.keys(CATEGORY_LABELS).sort((a, b) => b.length - a.length);
 
 const SUMMARY_FIELDS = [
   ['Danh mục', 'category'],
@@ -73,7 +40,7 @@ const SUMMARY_FIELDS = [
   ['Giá', 'Giá'],
 ];
 
-const EXCLUDED_INFO_KEYS = new Set(['Lượt xem', 'Số lượng']);
+const EXCLUDED_INFO_KEYS = new Set(['Lượt xem', 'Số lượng', 'URL']);
 
 function cleanText(value) {
   return String(value == null ? '' : value).replace(/\s+/g, ' ').trim();
@@ -95,10 +62,10 @@ function readJson(filePath) {
 function parseCategory(catKey) {
   for (const prefix of CATEGORY_PREFIXES) {
     if (catKey.startsWith(prefix)) {
-      return { slug: prefix, label: CATEGORY_NAME_MAP[prefix] };
+      return categoryInfo(prefix);
     }
   }
-  return { slug: catKey, label: catKey.replace(/-/g, ' ') };
+  return categoryInfo(catKey);
 }
 
 function valueFromInfo(info, keys) {
@@ -217,17 +184,25 @@ function detailPanel(info, category) {
     seen.add(key);
     const value = cleanText(info[key]);
     if (!value) return;
+    if (key === 'Kích cỡ' && value === valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)'])) return;
+    if (key === 'Giá bản lẻ đề xuất' && value === valueFromInfo(info, ['Giá'])) return;
     rows.push(`<p><b>${escapeHtml(key.toUpperCase())}</b>: ${escapeHtml(value)}</p>`);
   });
 
   return rows.join('\n            ');
 }
 
-function metaDescription(product, info, category, brand) {
+function productDisplayTitle(product, info) {
   const code = valueFromInfo(info, ['Mã sản phẩm']);
-  const titleHasCode = code && product.title.toLowerCase().includes(code.toLowerCase());
+  const title = cleanText(product.title);
+  const titleHasCode = code && title.toLowerCase().includes(code.toLowerCase());
+  return cleanText(`${title}${code && !titleHasCode ? ` ${code}` : ''}`);
+}
+
+function metaDescription(product, info, category, brand) {
+  const title = productDisplayTitle(product, info);
   const type = category.label;
-  return cleanText(`${product.title}${code && !titleHasCode ? ` ${code}` : ''} — ${type}${brand ? ` thương hiệu ${brand}` : ''} tại Lavatiles.`).slice(0, 155);
+  return cleanText(`${title} — ${type}${brand ? ` thương hiệu ${brand}` : ''} tại Lavatiles.`).slice(0, 155);
 }
 
 function leadText(product, info, category, brand) {
@@ -250,6 +225,7 @@ function main() {
   let missingCode = 0;
 
   for (const { file, brand } of BRANDS) {
+    if (brand === 'TOTO' && fs.existsSync(TOTO_TREE_PATH)) continue;
     const filePath = path.join(DATA_DIR, file);
     if (!fs.existsSync(filePath)) {
       console.log(`  Skipping ${file}: not found`);
@@ -268,7 +244,7 @@ function main() {
         const info = product.product_info || {};
         const code = valueFromInfo(info, ['Mã sản phẩm']) || slug;
         const images = productImages(product.images);
-        const description = cleanText(product.description) || leadText(product, info, category, brand);
+        const description = code;
 
         if (!images.length) missingImages += 1;
         if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
@@ -276,15 +252,15 @@ function main() {
         const outputName = `${slug}.html`;
         const outputPath = path.join(outputDir, outputName);
 
-        // Determine the listing URL based on depth — tat-ca.html is at same level as category dirs
-        const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'tat-ca.html'));
+        // Category detail pages sit one level below the sanitary index.
+        const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'index.html'));
 
         fs.writeFileSync(outputPath, renderTemplate(template, {
-          PAGE_TITLE: `${escapeHtml(product.title)} | Lavatiles`,
+          PAGE_TITLE: `${escapeHtml(productDisplayTitle(product, info))} | Lavatiles`,
           META_DESCRIPTION: escapeHtml(metaDescription(product, info, category, brand)),
           ROOT: ROOT_FROM_DETAIL,
           PRODUCT_CODE: escapeHtml(code),
-          PRODUCT_TITLE: escapeHtml(product.title),
+          PRODUCT_TITLE: escapeHtml(productDisplayTitle(product, info)),
           CATEGORY_LABEL: escapeHtml(category.label),
           LISTING_URL: listingUrl,
           GALLERY: galleryMarkup(product, images),
@@ -297,6 +273,61 @@ function main() {
 
         totalProducts += 1;
       }
+    }
+  }
+
+  if (fs.existsSync(TOTO_TREE_PATH)) {
+    console.log('\nProcessing TOTO (crawled product tree)');
+    const data = readJson(TOTO_TREE_PATH);
+    const totoProducts = flattenTotoTree(data);
+    const totoSlugs = new Set(totoProducts.map(({ slug }) => slug));
+    const expectedPaths = new Set(totoProducts.map(({ slug, category }) => `${category.slug}/${slug}.html`));
+
+    // Remove stale TOTO copies left behind when a SKU changes canonical category.
+    for (const categoryEntry of fs.readdirSync(OUTPUT_ROOT, { withFileTypes: true })) {
+      if (!categoryEntry.isDirectory()) continue;
+      const categoryDir = path.join(OUTPUT_ROOT, categoryEntry.name);
+      for (const fileEntry of fs.readdirSync(categoryDir, { withFileTypes: true })) {
+        if (!fileEntry.isFile() || !fileEntry.name.endsWith('.html')) continue;
+        const relativePath = `${categoryEntry.name}/${fileEntry.name}`;
+        const slug = fileEntry.name.slice(0, -5);
+        if (totoSlugs.has(slug) && !expectedPaths.has(relativePath)) {
+          fs.unlinkSync(path.join(categoryDir, fileEntry.name));
+        }
+      }
+    }
+
+    for (const { slug, product, sourceCategories, category } of totoProducts) {
+      const info = product.product_info || {};
+      const images = productImages(product.images);
+      const code = valueFromInfo(info, ['Mã sản phẩm']) || slug;
+      const description = code;
+      const outputDir = path.join(OUTPUT_ROOT, category.slug);
+      const outputPath = path.join(outputDir, `${slug}.html`);
+      fs.mkdirSync(outputDir, { recursive: true });
+
+      if (!images.length) missingImages += 1;
+      if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
+
+      const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'index.html'));
+      fs.writeFileSync(outputPath, renderTemplate(template, {
+        PAGE_TITLE: `${escapeHtml(productDisplayTitle(product, info))} | Lavatiles`,
+        META_DESCRIPTION: escapeHtml(metaDescription(product, info, category, 'TOTO')),
+        ROOT: ROOT_FROM_DETAIL,
+        PRODUCT_CODE: escapeHtml(code),
+        PRODUCT_TITLE: escapeHtml(productDisplayTitle(product, info)),
+        CATEGORY_LABEL: escapeHtml(category.label),
+        LISTING_URL: listingUrl,
+        GALLERY: galleryMarkup(product, images),
+        DESCRIPTION: escapeHtml(description),
+        LEAD: escapeHtml(leadText(product, info, category, 'TOTO')),
+        ATTRIBUTES: summaryAttributes(product, info, category, 'TOTO'),
+        DETAIL_PANEL: detailPanel(info, category),
+        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+      }), 'utf8');
+
+      totalProducts += 1;
+      if (sourceCategories.length === 0) console.warn(`  ${slug}: no source categories`);
     }
   }
 

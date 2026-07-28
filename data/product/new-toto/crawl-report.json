@@ -1,0 +1,691 @@
+{
+  "generated_at": "2026-07-28T16:22:42.136Z",
+  "source": "https://vn.toto.com",
+  "options": {
+    "category": "",
+    "limitProducts": 0,
+    "noDetails": false,
+    "skipSitemap": false
+  },
+  "output": "data/product/new-toto/products-tree.json",
+  "total_discovered_products": 754,
+  "total_unique_products": 746,
+  "total_category_assignments": 1766,
+  "category_stats": {
+    "san-pham-moi": {
+      "title": "Sản phẩm mới",
+      "url": "https://vn.toto.com/san-pham-moi/",
+      "parent": null,
+      "pages": 5,
+      "products": 67,
+      "first_page_category_tiles": []
+    },
+    "washlet": {
+      "title": "Washlet",
+      "url": "https://vn.toto.com/bon-cau-va-nap-rua-thong-minh-washlet/",
+      "parent": null,
+      "pages": 1,
+      "products": 40,
+      "first_page_category_tiles": [
+        {
+          "title": "Bàn cầu với Nắp rửa điện tử WASHLET+",
+          "url": "https://vn.toto.com/bon-cau-washlet-plus/",
+          "image": "https://vn.toto.com/wp-content/uploads/2026/02/NAP-RUA-DIEN-TU-WL-05.png"
+        },
+        {
+          "title": "Nắp rửa điện tử WASHLET",
+          "url": "https://vn.toto.com/nap-rua-dien-tu-thong-minh-washlet/",
+          "image": "https://vn.toto.com/wp-content/uploads/2026/02/NAP-RUA-DIEN-TU-WL-01.png"
+        },
+        {
+          "title": "Nắp rửa cơ Ecowasher",
+          "url": "https://vn.toto.com/nap-rua-co-ecowasher/",
+          "image": "https://vn.toto.com/wp-content/uploads/2026/02/NAP-RUA-DIEN-TU-WL-02.png"
+        },
+        {
+          "title": "Bàn cầu với Nắp rửa điện tử WASHLET",
+          "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-dien-tu-washlet/",
+          "image": "https://vn.toto.com/wp-content/uploads/2026/02/NAP-RUA-DIEN-TU-WL-03.png"
+        },
+        {
+          "title": "Bàn cầu với Nắp rửa cơ Ecowasher",
+          "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-co-ecowasher/",
+          "image": "https://vn.toto.com/wp-content/uploads/2026/02/NAP-RUA-DIEN-TU-WL-04.png"
+        }
+      ]
+    },
+    "nap-rua-dien-tu-thong-minh-washlet": {
+      "title": "Nắp rửa điện tử WASHLET",
+      "url": "https://vn.toto.com/nap-rua-dien-tu-thong-minh-washlet/",
+      "parent": "washlet",
+      "pages": 1,
+      "products": 12,
+      "first_page_category_tiles": []
+    },
+    "nap-rua-co-ecowasher": {
+      "title": "Nắp rửa cơ Ecowasher",
+      "url": "https://vn.toto.com/nap-rua-co-ecowasher/",
+      "parent": "washlet",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "tat-ca-san-pham-nap-rua-dien-tu-washlet": {
+      "title": "Bàn cầu với Nắp rửa điện tử WASHLET",
+      "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-dien-tu-washlet/",
+      "parent": "washlet",
+      "pages": 1,
+      "products": 10,
+      "first_page_category_tiles": []
+    },
+    "tat-ca-san-pham-nap-rua-co-ecowasher": {
+      "title": "Bàn cầu với Nắp rửa cơ Ecowasher",
+      "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-co-ecowasher/",
+      "parent": "washlet",
+      "pages": 1,
+      "products": 2,
+      "first_page_category_tiles": []
+    },
+    "neorest": {
+      "title": "NEOREST",
+      "url": "https://vn.toto.com/bo-suu-tap-neorest/",
+      "parent": null,
+      "pages": 2,
+      "products": 16,
+      "first_page_category_tiles": []
+    },
+    "ban-cau-ve-sinh": {
+      "title": "Bàn cầu",
+      "url": "https://vn.toto.com/ban-cau-ve-sinh/",
+      "parent": null,
+      "pages": 3,
+      "products": 115,
+      "first_page_category_tiles": [
+        {
+          "title": "Bàn cầu điện tử",
+          "url": "https://vn.toto.com/ban-cau-dien-tu/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/c971-tcf9433a.jpg"
+        },
+        {
+          "title": "Bàn cầu 1 khối",
+          "url": "https://vn.toto.com/bon-cau-mot-khoi/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xtoilet-one-piece.pagespeed.ic_.Q_UBGK8Sny.jpg"
+        },
+        {
+          "title": "Bàn cầu 2 khối",
+          "url": "https://vn.toto.com/bon-cau-hai-khoi/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xtoilet-close-coupled.pagespeed.ic_.cl6BSQtZYw.jpg"
+        },
+        {
+          "title": "Bàn cầu treo tường",
+          "url": "https://vn.toto.com/bon-cau-treo-tuong/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/x522tc.pagespeed.ic_.NFTc183-e8.png"
+        },
+        {
+          "title": "Bàn cầu đặt sàn",
+          "url": "https://vn.toto.com/bon-cau-dat-san/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/x681.pagespeed.ic_.IucK4uZ3Pv.png"
+        },
+        {
+          "title": "Két nước âm tường",
+          "url": "https://vn.toto.com/ket-nuoc-am-tuong/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xket-nuoc_1.jpg.pagespeed.ic_.jI_nTnzNUc.webp"
+        },
+        {
+          "title": "Mặt nạ xả nhấn",
+          "url": "https://vn.toto.com/mat-na-xa-nhan/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xmat-na-xa.jpg.pagespeed.ic_.CNBINqE1qt.webp"
+        },
+        {
+          "title": "Phụ kiện",
+          "url": "https://vn.toto.com/phu-kien-bon-cau/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xtoilet-phukien.jpg.pagespeed.ic_.8t4vSSJvOk.webp"
+        }
+      ]
+    },
+    "bon-cau-mot-khoi": {
+      "title": "Bàn cầu 1 khối",
+      "url": "https://vn.toto.com/bon-cau-mot-khoi/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 2,
+      "products": 25,
+      "first_page_category_tiles": []
+    },
+    "bon-cau-hai-khoi": {
+      "title": "Bàn cầu 2 khối",
+      "url": "https://vn.toto.com/bon-cau-hai-khoi/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 2,
+      "products": 29,
+      "first_page_category_tiles": []
+    },
+    "bon-cau-treo-tuong": {
+      "title": "Bàn cầu treo tường",
+      "url": "https://vn.toto.com/bon-cau-treo-tuong/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 2,
+      "products": 25,
+      "first_page_category_tiles": []
+    },
+    "bon-cau-dat-san": {
+      "title": "Bàn cầu đặt sàn",
+      "url": "https://vn.toto.com/bon-cau-dat-san/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 1,
+      "products": 1,
+      "first_page_category_tiles": []
+    },
+    "ban-cau-dien-tu": {
+      "title": "Bàn cầu điện tử",
+      "url": "https://vn.toto.com/ban-cau-dien-tu/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 1,
+      "products": 2,
+      "first_page_category_tiles": []
+    },
+    "ket-nuoc-am-tuong": {
+      "title": "Két nước âm tường",
+      "url": "https://vn.toto.com/ket-nuoc-am-tuong/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "mat-na-xa-nhan": {
+      "title": "Mặt nạ xả nhấn",
+      "url": "https://vn.toto.com/mat-na-xa-nhan/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 1,
+      "products": 7,
+      "first_page_category_tiles": []
+    },
+    "phu-kien-bon-cau": {
+      "title": "Phụ kiện bàn cầu",
+      "url": "https://vn.toto.com/phu-kien-bon-cau/",
+      "parent": "ban-cau-ve-sinh",
+      "pages": 1,
+      "products": 7,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat": {
+      "title": "Chậu rửa mặt",
+      "url": "https://vn.toto.com/chau-rua-mat/",
+      "parent": null,
+      "pages": 2,
+      "products": 87,
+      "first_page_category_tiles": [
+        {
+          "title": "Chậu GALALATO",
+          "url": "https://vn.toto.com/chau-rua-mat-galalato/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xlava_galalato.pagespeed.ic_.ncW6ZlmQ0F.jpg.webp"
+        },
+        {
+          "title": "Chậu đặt bàn",
+          "url": "https://vn.toto.com/chau-rua-mat-dat-tren-ban/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/chau-dat-ban.webp"
+        },
+        {
+          "title": "Chậu bán âm bàn",
+          "url": "https://vn.toto.com/chau-rua-mat-ban-am-ban/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xlava_ban-am.pagespeed.ic_.DTgZZ1QG8V.jpg.webp"
+        },
+        {
+          "title": "Chậu dương vành",
+          "url": "https://vn.toto.com/chau-rua-mat-duong-vanh/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xchauduongvanh.pagespeed.ic_.P_qaWw_HIx.jpg.webp"
+        },
+        {
+          "title": "Chậu âm bàn",
+          "url": "https://vn.toto.com/chau-rua-mat-am-ban/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xchauamban.pagespeed.ic_.Ju4l1PQUYv.jpg.webp"
+        },
+        {
+          "title": "Chậu rửa mặt treo tường",
+          "url": "https://vn.toto.com/chau-rua-mat-treo-tuong/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xchautreotuong.pagespeed.ic_.XS6UXUK0cQ.jpg.webp"
+        },
+        {
+          "title": "Phụ kiện",
+          "url": "https://vn.toto.com/phu-kien-chau-rua-mat/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xongcong.jpg.pagespeed.ic_.MA7ZEVPhyU.webp"
+        }
+      ]
+    },
+    "chau-rua-mat-galalato": {
+      "title": "Chậu GALALATO",
+      "url": "https://vn.toto.com/chau-rua-mat-galalato/",
+      "parent": "chau-rua-mat",
+      "pages": 5,
+      "products": 67,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat-dat-tren-ban": {
+      "title": "Chậu đặt bàn",
+      "url": "https://vn.toto.com/chau-rua-mat-dat-tren-ban/",
+      "parent": "chau-rua-mat",
+      "pages": 3,
+      "products": 32,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat-ban-am-ban": {
+      "title": "Chậu bán âm bàn",
+      "url": "https://vn.toto.com/chau-rua-mat-ban-am-ban/",
+      "parent": "chau-rua-mat",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat-duong-vanh": {
+      "title": "Chậu dương vành",
+      "url": "https://vn.toto.com/chau-rua-mat-duong-vanh/",
+      "parent": "chau-rua-mat",
+      "pages": 1,
+      "products": 2,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat-am-ban": {
+      "title": "Chậu âm bàn",
+      "url": "https://vn.toto.com/chau-rua-mat-am-ban/",
+      "parent": "chau-rua-mat",
+      "pages": 1,
+      "products": 10,
+      "first_page_category_tiles": []
+    },
+    "chau-rua-mat-treo-tuong": {
+      "title": "Chậu rửa mặt treo tường",
+      "url": "https://vn.toto.com/chau-rua-mat-treo-tuong/",
+      "parent": "chau-rua-mat",
+      "pages": 1,
+      "products": 8,
+      "first_page_category_tiles": []
+    },
+    "phu-kien-chau-rua-mat": {
+      "title": "Phụ kiện chậu rửa mặt",
+      "url": "https://vn.toto.com/phu-kien-chau-rua-mat/",
+      "parent": "chau-rua-mat",
+      "pages": 1,
+      "products": 9,
+      "first_page_category_tiles": []
+    },
+    "sen-voi": {
+      "title": "Sen vòi",
+      "url": "https://vn.toto.com/sen-voi/",
+      "parent": null,
+      "pages": 7,
+      "products": 330,
+      "first_page_category_tiles": []
+    },
+    "z-collections": {
+      "title": "Z Collections",
+      "url": "https://vn.toto.com/z-collections/",
+      "parent": "sen-voi",
+      "pages": 2,
+      "products": 16,
+      "first_page_category_tiles": []
+    },
+    "g-collections": {
+      "title": "G Collections",
+      "url": "https://vn.toto.com/g-collections/",
+      "parent": "sen-voi",
+      "pages": 6,
+      "products": 85,
+      "first_page_category_tiles": []
+    },
+    "sen-voi-bo-suu-tap-khac": {
+      "title": "Bộ sưu tập khác",
+      "url": "https://vn.toto.com/sen-voi-bo-suu-tap-khac/",
+      "parent": "sen-voi",
+      "pages": 1,
+      "products": 2,
+      "first_page_category_tiles": []
+    },
+    "voi-chau-rua": {
+      "title": "Vòi chậu rửa mặt",
+      "url": "https://vn.toto.com/voi-chau-rua/",
+      "parent": "sen-voi",
+      "pages": 7,
+      "products": 91,
+      "first_page_category_tiles": []
+    },
+    "bat-sen-tam": {
+      "title": "Bát sen tắm",
+      "url": "https://vn.toto.com/bat-sen-tam/",
+      "parent": "sen-voi",
+      "pages": 2,
+      "products": 27,
+      "first_page_category_tiles": []
+    },
+    "sen-tam": {
+      "title": "Sen tắm",
+      "url": "https://vn.toto.com/sen-tam/",
+      "parent": "sen-voi",
+      "pages": 8,
+      "products": 108,
+      "first_page_category_tiles": []
+    },
+    "voi-bon-tam": {
+      "title": "Vòi sen xả bồn tắm",
+      "url": "https://vn.toto.com/voi-bon-tam/",
+      "parent": "sen-voi",
+      "pages": 2,
+      "products": 29,
+      "first_page_category_tiles": []
+    },
+    "voi-bep-rua-bat": {
+      "title": "Vòi chậu rửa bát",
+      "url": "https://vn.toto.com/voi-bep-rua-bat/",
+      "parent": "sen-voi",
+      "pages": 1,
+      "products": 12,
+      "first_page_category_tiles": []
+    },
+    "sen-voi-phu-kien": {
+      "title": "Phụ kiện sen vòi",
+      "url": "https://vn.toto.com/sen-voi-phu-kien/",
+      "parent": "sen-voi",
+      "pages": 1,
+      "products": 5,
+      "first_page_category_tiles": []
+    },
+    "bon-tam": {
+      "title": "Bồn tắm",
+      "url": "https://vn.toto.com/bon-tam/",
+      "parent": null,
+      "pages": 11,
+      "products": 545,
+      "first_page_category_tiles": [
+        {
+          "title": "Bồn tắm không gian",
+          "url": "https://vn.toto.com/bon-tam-khong-gian-bon-tam/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xbontamnoi.pagespeed.ic_.sgRrL1WF_z.jpg"
+        },
+        {
+          "title": "Bồn tắm GALALATO",
+          "url": "https://vn.toto.com/bon-tam-galalato/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xbontamgalalato.pagespeed.ic_.znTwdRBg_d.jpg"
+        },
+        {
+          "title": "Bồn tắm đặt sàn",
+          "url": "https://vn.toto.com/bon-tam-dat-san/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xgangtrangmendatsan.pagespeed.ic_.AKMjDD3fVX.jpg"
+        },
+        {
+          "title": "Bồn tắm xây",
+          "url": "https://vn.toto.com/bon-tam-xay/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xgangtrangmenxay_1.pagespeed.ic_.BE__oekayE.jpg"
+        },
+        {
+          "title": "Bồn tắm Massage",
+          "url": "https://vn.toto.com/bon-tam-massage/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xngoctraimassagexay_2.pagespeed.ic_.EhGTCJwocj.jpg"
+        }
+      ]
+    },
+    "bon-tam-khong-gian-bon-tam": {
+      "title": "Bồn tắm không gian",
+      "url": "https://vn.toto.com/bon-tam-khong-gian-bon-tam/",
+      "parent": "bon-tam",
+      "pages": 1,
+      "products": 1,
+      "first_page_category_tiles": []
+    },
+    "bon-tam-galalato": {
+      "title": "Bồn tắm GALALATO",
+      "url": "https://vn.toto.com/bon-tam-galalato/",
+      "parent": "bon-tam",
+      "pages": 1,
+      "products": 15,
+      "first_page_category_tiles": []
+    },
+    "bon-tam-dat-san": {
+      "title": "Bồn tắm đặt sàn",
+      "url": "https://vn.toto.com/bon-tam-dat-san/",
+      "parent": "bon-tam",
+      "pages": 1,
+      "products": 8,
+      "first_page_category_tiles": []
+    },
+    "bon-tam-xay": {
+      "title": "Bồn tắm xây",
+      "url": "https://vn.toto.com/bon-tam-xay/",
+      "parent": "bon-tam",
+      "pages": 3,
+      "products": 39,
+      "first_page_category_tiles": []
+    },
+    "bon-tam-massage": {
+      "title": "Bồn tắm Massage",
+      "url": "https://vn.toto.com/bon-tam-massage/",
+      "parent": "bon-tam",
+      "pages": 1,
+      "products": 5,
+      "first_page_category_tiles": []
+    },
+    "phu-kien-phong-tam": {
+      "title": "Phụ kiện",
+      "url": "https://vn.toto.com/phu-kien-phong-tam/",
+      "parent": null,
+      "pages": 2,
+      "products": 60,
+      "first_page_category_tiles": [
+        {
+          "title": "Bộ phụ kiện",
+          "url": "https://vn.toto.com/phu-kien-ve-sinh-bo-phu-kien/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xbophukien.pagespeed.ic_.h6paFu0a_c.jpg"
+        },
+        {
+          "title": "Thanh vắt khăn",
+          "url": "https://vn.toto.com/thanh-vat-khan-phong-tam/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xthanhvatkhan.pagespeed.ic_.Ak99CdtiP.jpg"
+        },
+        {
+          "title": "Móc áo",
+          "url": "https://vn.toto.com/moc-ao/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xmocao.pagespeed.ic_.oY0wvyqx65.jpg"
+        },
+        {
+          "title": "Lô xà bông",
+          "url": "https://vn.toto.com/lo-xa-bong/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xloxaphong.pagespeed.ic_.EFRQz_8Gvq.jpg"
+        },
+        {
+          "title": "Lô bàn chải",
+          "url": "https://vn.toto.com/lo-ban-chai/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xlobanchai.pagespeed.ic_.rBR0ds3KSA.jpg"
+        },
+        {
+          "title": "Dây vòi xịt vệ sinh",
+          "url": "https://vn.toto.com/day-voi-xit-ve-sinh/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xdayxit.pagespeed.ic_.ffqUXiNcP4.jpg"
+        },
+        {
+          "title": "Kệ kính",
+          "url": "https://vn.toto.com/ke-kinh/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xkekinh.pagespeed.ic_.NKq_dKH6Vy.jpg"
+        },
+        {
+          "title": "Lô giấy",
+          "url": "https://vn.toto.com/lo-giay/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xlogiay.pagespeed.ic_.H_LAoDL2P1.jpg"
+        },
+        {
+          "title": "Gương",
+          "url": "https://vn.toto.com/guong/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xguong_1.pagespeed.ic_.aJnAIXOO98.jpg"
+        },
+        {
+          "title": "Ga thoát sàn",
+          "url": "https://vn.toto.com/ga-thoat-san/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xgathoatsan.pagespeed.ic_.BSRjpsh0JN.jpg"
+        },
+        {
+          "title": "Phụ kiện khác",
+          "url": "https://vn.toto.com/phu-kien-ve-sinh-khac/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xphukienkhac.pagespeed.ic_.2behPViSG.jpg"
+        },
+        {
+          "title": "Ống thải chữ P",
+          "url": "https://vn.toto.com/ong-cong/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xongcong_3.pagespeed.ic_.UWzB0Vt2p.jpg"
+        }
+      ]
+    },
+    "phu-kien-ve-sinh-bo-phu-kien": {
+      "title": "Bộ phụ kiện",
+      "url": "https://vn.toto.com/phu-kien-ve-sinh-bo-phu-kien/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 2,
+      "products": 22,
+      "first_page_category_tiles": []
+    },
+    "thanh-vat-khan-phong-tam": {
+      "title": "Thanh vắt khăn",
+      "url": "https://vn.toto.com/thanh-vat-khan-phong-tam/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 10,
+      "first_page_category_tiles": []
+    },
+    "moc-ao": {
+      "title": "Móc áo",
+      "url": "https://vn.toto.com/moc-ao/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "lo-xa-bong": {
+      "title": "Lô xà bông",
+      "url": "https://vn.toto.com/lo-xa-bong/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "lo-ban-chai": {
+      "title": "Lô bàn chải",
+      "url": "https://vn.toto.com/lo-ban-chai/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 0,
+      "first_page_category_tiles": []
+    },
+    "day-voi-xit-ve-sinh": {
+      "title": "Dây vòi xịt vệ sinh",
+      "url": "https://vn.toto.com/day-voi-xit-ve-sinh/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "ke-kinh": {
+      "title": "Kệ kính",
+      "url": "https://vn.toto.com/ke-kinh/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 1,
+      "first_page_category_tiles": []
+    },
+    "lo-giay": {
+      "title": "Lô giấy",
+      "url": "https://vn.toto.com/lo-giay/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 4,
+      "first_page_category_tiles": []
+    },
+    "guong": {
+      "title": "Gương",
+      "url": "https://vn.toto.com/guong/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 6,
+      "first_page_category_tiles": []
+    },
+    "ga-thoat-san": {
+      "title": "Ga thoát sàn",
+      "url": "https://vn.toto.com/ga-thoat-san/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "phu-kien-ve-sinh-khac": {
+      "title": "Phụ kiện khác",
+      "url": "https://vn.toto.com/phu-kien-ve-sinh-khac/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 3,
+      "first_page_category_tiles": []
+    },
+    "ong-cong": {
+      "title": "Ống thải chữ P",
+      "url": "https://vn.toto.com/ong-cong/",
+      "parent": "phu-kien-phong-tam",
+      "pages": 1,
+      "products": 5,
+      "first_page_category_tiles": []
+    },
+    "thiet-bi-ve-sinh-cong-cong": {
+      "title": "Khu công cộng",
+      "url": "https://vn.toto.com/thiet-bi-ve-sinh-cong-cong/",
+      "parent": null,
+      "pages": 2,
+      "products": 90,
+      "first_page_category_tiles": [
+        {
+          "title": "Bồn tiểu nam",
+          "url": "https://vn.toto.com/bon-tieu-nam/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xtieunam.pagespeed.ic_.esgyVCsjfN.jpg.webp"
+        },
+        {
+          "title": "Vòi cảm ứng",
+          "url": "https://vn.toto.com/voi-chau-cam-ung/",
+          "image": "https://vn.toto.com/wp-content/uploads/2024/02/xvoitudong_5.jpg.pagespeed.ic_.UnUVBUXqXa.webp"
+        },
+        {
+          "title": "Chậu dịch vụ",
+          "url": "https://vn.toto.com/thiet-bi-ve-sinh-cong-cong-chau/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xchaudichvu.pagespeed.ic_.Fi3y7GXBQg.jpg.webp"
+        },
+        {
+          "title": "Hộp đựng bình xịt xà phòng",
+          "url": "https://vn.toto.com/hop-xit-nuoc-rua-tay-xa-phong/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xhopxaphong.pagespeed.ic_.t6sU3n8xFX.jpg.webp"
+        },
+        {
+          "title": "Máy sấy tay",
+          "url": "https://vn.toto.com/may-say-tay/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xmaysaytay.pagespeed.ic_.poN1x40qQ8.jpg.webp"
+        },
+        {
+          "title": "Hộp đựng giấy nhà vệ sinh",
+          "url": "https://vn.toto.com/hop-dung-giay-cong-cong/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xhopgiay.pagespeed.ic_.hXdDWaL9Pf.jpg.webp"
+        },
+        {
+          "title": "Thanh tay vịn",
+          "url": "https://vn.toto.com/thanh-tay-vin/",
+          "image": "https://vn.toto.com/wp-content/webp-express/webp-images/uploads/2024/02/xT113BL9-T110D3R_X3_-600x400.pagespeed.ic_.2V23ZCcu9f.jpg.webp"
+        }
+      ]
+    }
+  },
+  "detail_stats": {
+    "requested": 754,
+    "completed": 754
+  },
+  "sitemap_stats": {
+    "raw_vietnamese_product_urls": 910,
+    "category_discovered_urls": 754,
+    "category_urls_missing_from_sitemap": 13,
+    "sitemap_urls_not_reached_from_categories": 169,
+    "sitemap_image_entries": 2783
+  },
+  "failures": [],
+  "notes": [
+    "Vietnamese category pages are the source of category-to-product relationships.",
+    "Product sitemap URLs are used as a coverage audit and may include stale or uncategorized products.",
+    "Images and documents are stored as source URLs; binaries are not downloaded."
+  ]
+}

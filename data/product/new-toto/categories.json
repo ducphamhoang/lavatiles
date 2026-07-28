@@ -1,0 +1,287 @@
+{
+  "san-pham-moi": {
+    "key": "san-pham-moi",
+    "title": "Sản phẩm mới",
+    "url": "https://vn.toto.com/san-pham-moi/",
+    "children": []
+  },
+  "washlet": {
+    "key": "washlet",
+    "title": "Washlet",
+    "url": "https://vn.toto.com/bon-cau-va-nap-rua-thong-minh-washlet/",
+    "children": [
+      {
+        "key": "nap-rua-dien-tu-thong-minh-washlet",
+        "title": "Nắp rửa điện tử WASHLET",
+        "url": "https://vn.toto.com/nap-rua-dien-tu-thong-minh-washlet/"
+      },
+      {
+        "key": "nap-rua-co-ecowasher",
+        "title": "Nắp rửa cơ Ecowasher",
+        "url": "https://vn.toto.com/nap-rua-co-ecowasher/"
+      },
+      {
+        "key": "tat-ca-san-pham-nap-rua-dien-tu-washlet",
+        "title": "Bàn cầu với Nắp rửa điện tử WASHLET",
+        "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-dien-tu-washlet/"
+      },
+      {
+        "key": "tat-ca-san-pham-nap-rua-co-ecowasher",
+        "title": "Bàn cầu với Nắp rửa cơ Ecowasher",
+        "url": "https://vn.toto.com/tat-ca-san-pham-nap-rua-co-ecowasher/"
+      }
+    ]
+  },
+  "neorest": {
+    "key": "neorest",
+    "title": "NEOREST",
+    "url": "https://vn.toto.com/bo-suu-tap-neorest/",
+    "children": []
+  },
+  "ban-cau-ve-sinh": {
+    "key": "ban-cau-ve-sinh",
+    "title": "Bàn cầu",
+    "url": "https://vn.toto.com/ban-cau-ve-sinh/",
+    "children": [
+      {
+        "key": "bon-cau-mot-khoi",
+        "title": "Bàn cầu 1 khối",
+        "url": "https://vn.toto.com/bon-cau-mot-khoi/"
+      },
+      {
+        "key": "bon-cau-hai-khoi",
+        "title": "Bàn cầu 2 khối",
+        "url": "https://vn.toto.com/bon-cau-hai-khoi/"
+      },
+      {
+        "key": "bon-cau-treo-tuong",
+        "title": "Bàn cầu treo tường",
+        "url": "https://vn.toto.com/bon-cau-treo-tuong/"
+      },
+      {
+        "key": "bon-cau-dat-san",
+        "title": "Bàn cầu đặt sàn",
+        "url": "https://vn.toto.com/bon-cau-dat-san/"
+      },
+      {
+        "key": "ban-cau-dien-tu",
+        "title": "Bàn cầu điện tử",
+        "url": "https://vn.toto.com/ban-cau-dien-tu/"
+      },
+      {
+        "key": "ket-nuoc-am-tuong",
+        "title": "Két nước âm tường",
+        "url": "https://vn.toto.com/ket-nuoc-am-tuong/"
+      },
+      {
+        "key": "mat-na-xa-nhan",
+        "title": "Mặt nạ xả nhấn",
+        "url": "https://vn.toto.com/mat-na-xa-nhan/"
+      },
+      {
+        "key": "phu-kien-bon-cau",
+        "title": "Phụ kiện bàn cầu",
+        "url": "https://vn.toto.com/phu-kien-bon-cau/"
+      }
+    ]
+  },
+  "chau-rua-mat": {
+    "key": "chau-rua-mat",
+    "title": "Chậu rửa mặt",
+    "url": "https://vn.toto.com/chau-rua-mat/",
+    "children": [
+      {
+        "key": "chau-rua-mat-galalato",
+        "title": "Chậu GALALATO",
+        "url": "https://vn.toto.com/chau-rua-mat-galalato/"
+      },
+      {
+        "key": "chau-rua-mat-dat-tren-ban",
+        "title": "Chậu đặt bàn",
+        "url": "https://vn.toto.com/chau-rua-mat-dat-tren-ban/"
+      },
+      {
+        "key": "chau-rua-mat-ban-am-ban",
+        "title": "Chậu bán âm bàn",
+        "url": "https://vn.toto.com/chau-rua-mat-ban-am-ban/"
+      },
+      {
+        "key": "chau-rua-mat-duong-vanh",
+        "title": "Chậu dương vành",
+        "url": "https://vn.toto.com/chau-rua-mat-duong-vanh/"
+      },
+      {
+        "key": "chau-rua-mat-am-ban",
+        "title": "Chậu âm bàn",
+        "url": "https://vn.toto.com/chau-rua-mat-am-ban/"
+      },
+      {
+        "key": "chau-rua-mat-treo-tuong",
+        "title": "Chậu rửa mặt treo tường",
+        "url": "https://vn.toto.com/chau-rua-mat-treo-tuong/"
+      },
+      {
+        "key": "phu-kien-chau-rua-mat",
+        "title": "Phụ kiện chậu rửa mặt",
+        "url": "https://vn.toto.com/phu-kien-chau-rua-mat/"
+      }
+    ]
+  },
+  "sen-voi": {
+    "key": "sen-voi",
+    "title": "Sen vòi",
+    "url": "https://vn.toto.com/sen-voi/",
+    "children": [
+      {
+        "key": "z-collections",
+        "title": "Z Collections",
+        "url": "https://vn.toto.com/z-collections/"
+      },
+      {
+        "key": "g-collections",
+        "title": "G Collections",
+        "url": "https://vn.toto.com/g-collections/"
+      },
+      {
+        "key": "sen-voi-bo-suu-tap-khac",
+        "title": "Bộ sưu tập khác",
+        "url": "https://vn.toto.com/sen-voi-bo-suu-tap-khac/"
+      },
+      {
+        "key": "voi-chau-rua",
+        "title": "Vòi chậu rửa mặt",
+        "url": "https://vn.toto.com/voi-chau-rua/"
+      },
+      {
+        "key": "bat-sen-tam",
+        "title": "Bát sen tắm",
+        "url": "https://vn.toto.com/bat-sen-tam/"
+      },
+      {
+        "key": "sen-tam",
+        "title": "Sen tắm",
+        "url": "https://vn.toto.com/sen-tam/"
+      },
+      {
+        "key": "voi-bon-tam",
+        "title": "Vòi sen xả bồn tắm",
+        "url": "https://vn.toto.com/voi-bon-tam/"
+      },
+      {
+        "key": "voi-bep-rua-bat",
+        "title": "Vòi chậu rửa bát",
+        "url": "https://vn.toto.com/voi-bep-rua-bat/"
+      },
+      {
+        "key": "sen-voi-phu-kien",
+        "title": "Phụ kiện sen vòi",
+        "url": "https://vn.toto.com/sen-voi-phu-kien/"
+      }
+    ]
+  },
+  "bon-tam": {
+    "key": "bon-tam",
+    "title": "Bồn tắm",
+    "url": "https://vn.toto.com/bon-tam/",
+    "children": [
+      {
+        "key": "bon-tam-khong-gian-bon-tam",
+        "title": "Bồn tắm không gian",
+        "url": "https://vn.toto.com/bon-tam-khong-gian-bon-tam/"
+      },
+      {
+        "key": "bon-tam-galalato",
+        "title": "Bồn tắm GALALATO",
+        "url": "https://vn.toto.com/bon-tam-galalato/"
+      },
+      {
+        "key": "bon-tam-dat-san",
+        "title": "Bồn tắm đặt sàn",
+        "url": "https://vn.toto.com/bon-tam-dat-san/"
+      },
+      {
+        "key": "bon-tam-xay",
+        "title": "Bồn tắm xây",
+        "url": "https://vn.toto.com/bon-tam-xay/"
+      },
+      {
+        "key": "bon-tam-massage",
+        "title": "Bồn tắm Massage",
+        "url": "https://vn.toto.com/bon-tam-massage/"
+      }
+    ]
+  },
+  "phu-kien-phong-tam": {
+    "key": "phu-kien-phong-tam",
+    "title": "Phụ kiện",
+    "url": "https://vn.toto.com/phu-kien-phong-tam/",
+    "children": [
+      {
+        "key": "phu-kien-ve-sinh-bo-phu-kien",
+        "title": "Bộ phụ kiện",
+        "url": "https://vn.toto.com/phu-kien-ve-sinh-bo-phu-kien/"
+      },
+      {
+        "key": "thanh-vat-khan-phong-tam",
+        "title": "Thanh vắt khăn",
+        "url": "https://vn.toto.com/thanh-vat-khan-phong-tam/"
+      },
+      {
+        "key": "moc-ao",
+        "title": "Móc áo",
+        "url": "https://vn.toto.com/moc-ao/"
+      },
+      {
+        "key": "lo-xa-bong",
+        "title": "Lô xà bông",
+        "url": "https://vn.toto.com/lo-xa-bong/"
+      },
+      {
+        "key": "lo-ban-chai",
+        "title": "Lô bàn chải",
+        "url": "https://vn.toto.com/lo-ban-chai/"
+      },
+      {
+        "key": "day-voi-xit-ve-sinh",
+        "title": "Dây vòi xịt vệ sinh",
+        "url": "https://vn.toto.com/day-voi-xit-ve-sinh/"
+      },
+      {
+        "key": "ke-kinh",
+        "title": "Kệ kính",
+        "url": "https://vn.toto.com/ke-kinh/"
+      },
+      {
+        "key": "lo-giay",
+        "title": "Lô giấy",
+        "url": "https://vn.toto.com/lo-giay/"
+      },
+      {
+        "key": "guong",
+        "title": "Gương",
+        "url": "https://vn.toto.com/guong/"
+      },
+      {
+        "key": "ga-thoat-san",
+        "title": "Ga thoát sàn",
+        "url": "https://vn.toto.com/ga-thoat-san/"
+      },
+      {
+        "key": "phu-kien-ve-sinh-khac",
+        "title": "Phụ kiện khác",
+        "url": "https://vn.toto.com/phu-kien-ve-sinh-khac/"
+      },
+      {
+        "key": "ong-cong",
+        "title": "Ống thải chữ P",
+        "url": "https://vn.toto.com/ong-cong/"
+      }
+    ]
+  },
+  "thiet-bi-ve-sinh-cong-cong": {
+    "key": "thiet-bi-ve-sinh-cong-cong",
+    "title": "Khu công cộng",
+    "url": "https://vn.toto.com/thiet-bi-ve-sinh-cong-cong/",
+    "children": []
+  }
+}

@@ -6,6 +6,7 @@
   var isEurotile = brand.toLowerCase() === 'eurotile';
   var isVietYTile = brand.toLowerCase() === 'vietytile';
   var isVastaStone = brand.toLowerCase() === 'vasta-stone';
+  var isSanitary = document.body.classList.contains('sanitary-index-page');
 
   // ---- pick product set -------------------------------------------
 
@@ -15,6 +16,8 @@
     ? (window.LAVATILE_VIETYTILE_PRODUCTS || [])
     : isVastaStone
     ? (window.LAVATILE_VASTA_STONE_PRODUCTS || [])
+    : isSanitary
+    ? (window.LAVATILE_SANITARY || [])
     : (window.LAVATILE_TILES || []);
 
   // ---- enrich with generated detail URLs -------------------------
@@ -53,7 +56,9 @@
   }
 
   products.forEach(function (p) {
-    if (isEurotile) {
+    if (isSanitary) {
+      p.detailUrl = p.detailUrl || '';
+    } else if (isEurotile) {
       // Eurotile products already have eurotile_category; no Lavatiles category needed
       p.category = '';
     } else if (isVietYTile) {
@@ -84,6 +89,10 @@
     var catSlug = p.get('category');
     var roomSlug = p.get('rooms');
     var filters = {};
+    if (catSlug && isSanitary) {
+      var sanitaryGroups = ['Bàn cầu', 'Chậu rửa', 'Sen vòi', 'Bồn tắm', 'Phụ kiện', 'Thiết bị công cộng'];
+      filters[sanitaryGroups.indexOf(catSlug) !== -1 ? 'categoryGroup' : 'category'] = [catSlug];
+    }
     if (catSlug && CATEGORY_SLUG_MAP[catSlug]) {
       filters.category = [CATEGORY_SLUG_MAP[catSlug]];
     }
@@ -96,6 +105,20 @@
       filters.eurotile_category = [euroCat];
     }
     return filters;
+  }
+
+  if (isSanitary) {
+    var sanitaryCatChips = document.getElementById('pdCatChips');
+    if (sanitaryCatChips) {
+      var sanitaryCategories = [];
+      products.forEach(function (product) {
+        if (sanitaryCategories.indexOf(product.category) === -1) sanitaryCategories.push(product.category);
+      });
+      sanitaryCategories.sort(function (a, b) { return a.localeCompare(b, 'vi'); });
+      sanitaryCatChips.innerHTML = sanitaryCategories.map(function (category) {
+        return '<button type="button" class="pd-chip" data-filter-group="category" data-filter-value="' + category + '">' + category + '</button>';
+      }).join('');
+    }
   }
 
   // ---- UI: toggle category filter chips --------------------------
@@ -183,12 +206,18 @@
       ? '<img src="' + product.image + '" alt="' + product.code + '" loading="lazy">'
       : '<div class="pd-tile-placeholder">' + product.code + '</div>';
     var specs = '';
-    specs += '<li><span>Kích thước</span><strong>' + (product.size || '-') + '</strong></li>';
+    if (isSanitary) {
+      specs += '<li><span>Danh mục</span><strong>' + (product.category || '-') + '</strong></li>';
+      specs += '<li><span>Kích thước</span><strong>' + (product.dimensions || '-') + '</strong></li>';
+      specs += '<li><span>Giá</span><strong>' + (product.price || 'Liên hệ') + '</strong></li>';
+    } else {
+      specs += '<li><span>Kích thước</span><strong>' + (product.size || '-') + '</strong></li>';
+    }
     specs += '<li><span>Bề mặt</span><strong>' + (product.finish || '-') + '</strong></li>';
     if (product.body) {
       specs += '<li><span>Xương gạch</span><strong>' + product.body + '</strong></li>';
     }
-    specs += '<li><span>Vị trí</span><strong>' + ((product.placement || []).join(' / ') || '-') + '</strong></li>';
+    if (!isSanitary) specs += '<li><span>Vị trí</span><strong>' + ((product.placement || []).join(' / ') || '-') + '</strong></li>';
 
     // Show collection name for Eurotile products
     if (isEurotile && product.eurotile_collection) {
@@ -208,7 +237,8 @@
     var body = [
       '<div class="pd-product-media">' + media + '</div>',
       '<div class="pd-product-body">',
-      '<h3>' + product.code + '</h3>',
+      '<h3>' + (isSanitary ? product.title : product.code) + '</h3>',
+      isSanitary ? '<span class="pd-product-code">' + product.code + '</span>' : '',
       '<span class="pd-product-brand">' + product.brand + '</span>',
       '<ul class="pd-product-specs">' + specs + '</ul>',
       '</div>',
@@ -260,12 +290,16 @@
     ? ['eurotile_category', 'finish', 'size', 'placement']
     : isVietYTile || isVastaStone
     ? ['collection', 'finish', 'size', 'placement']
+    : isSanitary
+    ? ['categoryGroup', 'category', 'brand']
     : ['finish', 'size', 'placement', 'rooms', 'category'];
 
   var searchFields = isEurotile
     ? ['code', 'title', 'size', 'finish', 'brand', 'eurotile_collection', 'eurotile_category']
     : isVietYTile || isVastaStone
     ? ['code', 'title', 'size', 'finish', 'brand', 'collection']
+    : isSanitary
+    ? ['code', 'title', 'category', 'brand', 'dimensions']
     : ['code', 'title', 'size', 'rooms', 'finish', 'brand', 'category'];
 
   window.VCProductFilter.init({
