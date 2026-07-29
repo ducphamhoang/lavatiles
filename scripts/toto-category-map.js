@@ -99,6 +99,60 @@ const SOURCE_CATEGORY_MAP = {
   'thiet-bi-ve-sinh-cong-cong': 'thiet-bi-cong-cong',
 };
 
+const CAESAR_CATEGORY_MAP = {
+  'ban-cau': 'ban-cau',
+  'ban-cau-1-khoi': 'ban-cau-mot-khoi',
+  'ban-cau-2-khoi': 'ban-cau-hai-khoi',
+  'ban-cau-thong-minh': 'ban-cau-thong-minh',
+  'ban-cau-dien-tu': 'ban-cau-dien-tu',
+  'ban-cau-cong-cong': 'ban-cau-cong-cong',
+  'ban-cau-thung-nuoc-am-tuong': 'ban-cau',
+  lavabo: 'chau-rua',
+  'lavabo-tren-ban': 'chau-dat-ban',
+  'lavabo-am-ban': 'chau-am-ban',
+  'lavabo-duong-ban': 'chau-duong-ban',
+  'lavabo-treo-tuong': 'chau-treo-tuong',
+  'lavabo-tu-treo': 'lavabo-tu',
+  'be-tieu': 'bon-tieu',
+  'be-tieu-treo': 'bon-tieu',
+  'be-tieu-dung': 'bon-tieu',
+  'cam-ung-be-tieu': 'bon-tieu',
+  'bo-xa-an-tay': 'bon-tieu',
+  'chau-xa': 'bon-tieu',
+  'vach-ngan-be-tieu': 'thiet-bi-cong-cong',
+  'bon-tam': 'bon-tam',
+  'bon-tam-massage': 'bon-tam',
+  'bon-tam-goc': 'bon-tam',
+  'bon-tam-goc-massage': 'bon-tam',
+  'bon-tam-dac-biet': 'bon-tam',
+  'cua-tam-dung': 'bon-tam',
+  voi: 'voi-chau',
+  'voi-cam-ung': 'voi-chau-cam-ung',
+  'voi-nong-lanh': 'voi-chau',
+  'voi-lanh': 'voi-lanh',
+  'voi-bep': 'voi-bep',
+  'voi-gan-tuong': 'voi-chau',
+  'voi-xit': 'phu-kien',
+  sen: 'sen-tam',
+  'phu-kien': 'phu-kien',
+  'phu-kien-phong-tam-khac': 'phu-kien',
+  'gia-de-hop-xa-phong': 'phu-kien',
+  'gia-treo-vong-treo-khan': 'phu-kien',
+  'thanh-vin': 'thanh-tay-vin',
+  'hop-giay-ve-sinh': 'phu-kien',
+  'ke-inox': 'phu-kien',
+  'phieu-thoat-san': 'ga-thoat-san',
+  'moc-ao': 'phu-kien',
+  'ke-guong': 'phu-kien',
+  'may-say-tay': 'may-say-tay',
+  'nap-ban-cau': 'nap-ban-cau-co',
+  'nap-ban-cau-em': 'nap-ban-cau-co',
+  'nap-ban-cau-thong-minh': 'nap-ban-cau-dien-tu',
+  'nap-thuong': 'nap-ban-cau-co',
+  'nap-ban-cau-tre-em': 'nap-ban-cau-co',
+  guong: 'phu-kien',
+};
+
 const PARENT_CATEGORIES = new Set([
   'san-pham-moi',
   'washlet',
@@ -201,10 +255,35 @@ function flattenTotoTree(data) {
   });
 }
 
+function flattenCaesarTree(data) {
+  const products = new Map();
+  for (const [sourceCategory, entries] of Object.entries(data)) {
+    for (const [slug, product] of Object.entries(entries || {})) {
+      const existing = products.get(slug);
+      const sourceCategories = new Set(existing ? existing.sourceCategories : []);
+      sourceCategories.add(sourceCategory);
+      for (const category of product.categories || []) sourceCategories.add(category);
+      if (existing) existing.sourceCategories = [...sourceCategories];
+      else products.set(slug, { slug, product, sourceCategories: [...sourceCategories] });
+    }
+  }
+  return [...products.values()].map(({ slug, product, sourceCategories }) => {
+    const categorySlug = [...sourceCategories].reverse().map((key) => CAESAR_CATEGORY_MAP[key]).find(Boolean) || 'phu-kien';
+    return {
+      slug,
+      product,
+      sourceCategories,
+      category: categoryInfo(categorySlug),
+      categoryGroup: categoryGroup(categorySlug),
+    };
+  });
+}
+
 module.exports = {
   CATEGORY_LABELS,
   categoryForProduct,
   categoryInfo,
   categoryGroup,
   flattenTotoTree,
+  flattenCaesarTree,
 };

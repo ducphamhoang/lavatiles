@@ -1,0 +1,93 @@
+{
+  "shower-toilet": {
+    "key": "shower-toilet",
+    "title": "SHOWER TOILETS",
+    "url": "https://www.inax.com.vn/vi/products/shower-toilet/",
+    "parent": "",
+    "children": []
+  },
+  "toilet": {
+    "key": "toilet",
+    "title": "BÀN CẦU",
+    "url": "https://www.inax.com.vn/vi/products/toilet/",
+    "parent": "",
+    "children": []
+  },
+  "basin": {
+    "key": "basin",
+    "title": "CHẬU RỬA",
+    "url": "https://www.inax.com.vn/vi/products/basin/",
+    "parent": "",
+    "children": []
+  },
+  "shower": {
+    "key": "shower",
+    "title": "VÒI CHẬU",
+    "url": "https://www.inax.com.vn/vi/products/shower/",
+    "parent": "",
+    "children": []
+  },
+  "bathtub": {
+    "key": "bathtub",
+    "title": "BỒN TẮM",
+    "url": "https://www.inax.com.vn/vi/products/bathtub/",
+    "parent": "",
+    "children": []
+  },
+  "urinal": {
+    "key": "urinal",
+    "title": "BỒN TIỂU",
+    "url": "https://www.inax.com.vn/vi/products/urinal/",
+    "parent": "",
+    "children": []
+  },
+  "accessories": {
+    "key": "accessories",
+    "title": "PHỤ KIỆN",
+    "url": "https://www.inax.com.vn/vi/products/accessories/",
+    "parent": "",
+    "children": []
+  },
+  "bathroom-faucet": {
+    "key": "bathroom-faucet",
+    "title": "Vòi chậu",
+    "url": "https://www.inax.com.vn/vi/products/bathroom-faucet/",
+    "parent": "",
+    "children": []
+  },
+  "kitchent-faucet": {
+    "key": "kitchent-faucet",
+    "title": "Vòi bếp",
+    "url": "https://www.inax.com.vn/vi/products/kitchent-faucet/",
+    "parent": "",
+    "children": []
+  },
+  "bidet-sanitary-ware": {
+    "key": "bidet-sanitary-ware",
+    "title": "Nắp rửa",
+    "url": "https://www.inax.com.vn/vi/products/bidet-sanitary-ware/",
+    "parent": "",
+    "children": []
+  },
+  "s600-line": {
+    "key": "s600-line",
+    "title": "Dòng S600",
+    "url": "https://www.inax.com.vn/vi/products/s600-line/",
+    "parent": "",
+    "children": []
+  },
+  "s400-line": {
+    "key": "s400-line",
+    "title": "Dòng S400",
+    "url": "https://www.inax.com.vn/vi/products/s400-line/",
+    "parent": "",
+    "children": []
+  },
+  "s200-line": {
+    "key": "s200-line",
+    "title": "Dòng S200",
+    "url": "https://www.inax.com.vn/vi/products/s200-line/",
+    "parent": "",
+    "children": []
+  }
+}

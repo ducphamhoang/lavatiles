@@ -11,6 +11,7 @@ const {
   categoryInfo,
   categoryForProduct,
   flattenTotoTree,
+  flattenCaesarTree,
 } = require('../scripts/toto-category-map');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
@@ -19,9 +20,22 @@ const TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/sanitary-detail.html');
 const OUTPUT_ROOT = path.join(ROOT_DIR, 'san-pham/thiet-bi-ve-sinh');
 const ROOT_FROM_DETAIL = '../../..';
 const TOTO_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-toto/products-tree.json');
+const INAX_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-inax/products-tree.json');
+const CAESAR_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-caesar/products-tree.json');
+const INAX_CATEGORY_MAP = {
+  'shower-toilet': 'ban-cau-thong-minh',
+  toilet: 'ban-cau',
+  basin: 'chau-rua',
+  shower: 'voi-chau',
+  bathtub: 'bon-tam',
+  urinal: 'bon-tieu',
+  accessories: 'phu-kien',
+  'bathroom-faucet': 'voi-chau',
+  'kitchent-faucet': 'voi-bep',
+  'bidet-sanitary-ware': 'nap-rua-dien-tu',
+};
 
 const BRANDS = [
-  { file: 'catalogue-caesar-06-2026.json', brand: 'Caesar' },
   { file: 'catalogue-toto-2026.json', brand: 'TOTO' },
   { file: 'catalogue-inax-2026.json', brand: 'INAX' },
   { file: 'catalogue-t1-2026-sc.json', brand: 'Viglacera' },
@@ -86,6 +100,14 @@ function productImages(images) {
     if (/logo|favicon|apple-touch-icon|zalo|icon|captcha|qrcode|qr-code|\/qr[-_0-9]/i.test(src)) return false;
     return true;
   }).slice(0, 6);
+}
+
+function productImagesForPage(images, dataRoot, outputDir) {
+  return productImages(images).map((image) => {
+    if (/^(https?:|\/)/i.test(image)) return image;
+    const absolute = path.resolve(dataRoot, image);
+    return path.relative(outputDir, absolute).replace(/\\/g, '/');
+  });
 }
 
 function galleryMarkup(product, images) {
@@ -322,6 +344,89 @@ function main() {
         DESCRIPTION: escapeHtml(description),
         LEAD: escapeHtml(leadText(product, info, category, 'TOTO')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'TOTO'),
+        DETAIL_PANEL: detailPanel(info, category),
+        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+      }), 'utf8');
+
+      totalProducts += 1;
+      if (sourceCategories.length === 0) console.warn(`  ${slug}: no source categories`);
+    }
+  }
+
+  if (fs.existsSync(INAX_TREE_PATH)) {
+    console.log('\nProcessing INAX (crawled product tree)');
+    const data = readJson(INAX_TREE_PATH);
+    const products = new Map();
+    for (const [sourceCategory, entries] of Object.entries(data)) {
+      for (const [slug, product] of Object.entries(entries || {})) {
+        if (!products.has(slug)) products.set(slug, { slug, product, sourceCategory });
+      }
+    }
+
+    for (const { slug, product, sourceCategory } of products.values()) {
+      const categorySlug = INAX_CATEGORY_MAP[sourceCategory] || 'phu-kien';
+      const category = categoryInfo(categorySlug);
+      const info = product.product_info || {};
+      const code = valueFromInfo(info, ['Mã sản phẩm']) || slug;
+      const outputDir = path.join(OUTPUT_ROOT, category.slug);
+      const outputPath = path.join(outputDir, `${slug}.html`);
+      const images = productImagesForPage(product.images, path.dirname(INAX_TREE_PATH), outputDir);
+      const description = cleanText(product.description) || code;
+      fs.mkdirSync(outputDir, { recursive: true });
+
+      if (!images.length) missingImages += 1;
+      if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
+
+      const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'index.html'));
+      fs.writeFileSync(outputPath, renderTemplate(template, {
+        PAGE_TITLE: `${escapeHtml(productDisplayTitle(product, info))} | Lavatiles`,
+        META_DESCRIPTION: escapeHtml(metaDescription(product, info, category, 'INAX')),
+        ROOT: ROOT_FROM_DETAIL,
+        PRODUCT_CODE: escapeHtml(code),
+        PRODUCT_TITLE: escapeHtml(productDisplayTitle(product, info)),
+        CATEGORY_LABEL: escapeHtml(category.label),
+        LISTING_URL: listingUrl,
+        GALLERY: galleryMarkup(product, images),
+        DESCRIPTION: escapeHtml(description),
+        LEAD: escapeHtml(leadText(product, info, category, 'INAX')),
+        ATTRIBUTES: summaryAttributes(product, info, category, 'INAX'),
+        DETAIL_PANEL: detailPanel(info, category),
+        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+      }), 'utf8');
+      totalProducts += 1;
+    }
+  }
+
+  if (fs.existsSync(CAESAR_TREE_PATH)) {
+    console.log('\nProcessing Caesar (crawled product tree)');
+    const data = readJson(CAESAR_TREE_PATH);
+    const products = flattenCaesarTree(data);
+
+    for (const { slug, product, sourceCategories, category } of products) {
+      const info = product.product_info || {};
+      const code = valueFromInfo(info, ['Mã sản phẩm']) || slug;
+      const outputDir = path.join(OUTPUT_ROOT, category.slug);
+      const outputPath = path.join(outputDir, `${slug}.html`);
+      const images = productImagesForPage(product.images, path.dirname(CAESAR_TREE_PATH), outputDir);
+      const description = cleanText(product.description) || code;
+      fs.mkdirSync(outputDir, { recursive: true });
+
+      if (!images.length) missingImages += 1;
+      if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
+
+      const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'index.html'));
+      fs.writeFileSync(outputPath, renderTemplate(template, {
+        PAGE_TITLE: `${escapeHtml(productDisplayTitle(product, info))} | Lavatiles`,
+        META_DESCRIPTION: escapeHtml(metaDescription(product, info, category, 'Caesar')),
+        ROOT: ROOT_FROM_DETAIL,
+        PRODUCT_CODE: escapeHtml(code),
+        PRODUCT_TITLE: escapeHtml(productDisplayTitle(product, info)),
+        CATEGORY_LABEL: escapeHtml(category.label),
+        LISTING_URL: listingUrl,
+        GALLERY: galleryMarkup(product, images),
+        DESCRIPTION: escapeHtml(description),
+        LEAD: escapeHtml(leadText(product, info, category, 'Caesar')),
+        ATTRIBUTES: summaryAttributes(product, info, category, 'Caesar'),
         DETAIL_PANEL: detailPanel(info, category),
         SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
       }), 'utf8');

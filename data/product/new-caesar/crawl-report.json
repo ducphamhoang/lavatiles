@@ -1,0 +1,2833 @@
+{
+  "source": "https://caesar.com.vn/vi/san-pham",
+  "categories": 53,
+  "discovered_products": 777,
+  "crawled_products": 777,
+  "failures": [
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5380%20-%20EH051V-2018821322.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5032-EH675V-20206294229.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5026%20-%20EH680-2019743344.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5380%20-%20EH051V-2018821322.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5380%20-%20EH051V-2018821322.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5255%20-%20EH%20154V-20188215242.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5253%20-%20EH152V-2018821525.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5255%20-%20EH%20154V-20188215242.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5017%20-EH153V%20new-201810255419.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/LF5239S-EH250V-2019814318.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_b4def96bb5f74f6c9ea54d9213735400.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_63925583e35749e79173dd6225cec16c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_f28442a2412a4f1785a8c8ff1951735e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_f0f8ca5c7b5b4595a693767a52132d4f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_82bcd0552c294ff4af8c7562a3f22ffb.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_2eac2d61374f475f89128fe4b3500b54.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_690f1024dfd64ab9ae838a1397a5635e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-01_2aba9b517f1c46eebe3ae657dbe24d98.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-03_02c4e7b6cda74fd7884033fd52dad1ae.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-04_23d149afc7604121a5bc5026cdeb4443.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-05_8b9d4404ef134bd79046beb9e7b9006d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-06_829a14559b914978967713838546d724.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-07_6369f8b7996b4f8abf7487fe2dd9b1e0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_1fe844d28e7c439eaa933cbab350c2f1.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_d448648170064cfebfa453fec01b3386.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_8f594036946b4c68adcf3df36bd38f10.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_d1357e0b7ecc420fa9f121e1ab9cb456.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/sen_t_m_n_ng_l_nh-s393cg.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_c97b02188010488ebd412a039b5ab54d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_9fd4f62de0154db681e1ce77c56cf42e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_3cb861bd03674d84808877c84f03f112.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_f3adea1114ea42b59dcd03e38eea539a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_879c8c03eeb44e7783bd70f761957029.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b390cru.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b380cu-01_6b73aeb118b246eebe38cb6a6a8e98d4_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b380cu-07_42ecc7b765b9406698383e438cd850dd_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b380cu-08_b217bcf61f9c41b1a24d703647d84a1b_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b380cu_chi_tiet.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_12e330167d7949e3a678f4c5e8f5a2fe.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_97062ded3f7540ccbfda7261e3bfbb53.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b390cgu.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b382cu_chi_tiet.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_34ce2c6d5a284eb6a1010ee228208ea4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_f8df5d2ecf5f4467885a8bb8b9a59e32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_6178c8394e9449e996fe3f6aafbc663d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/B432C-2020852157.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_50713cfff6644ce59ec1b7e7edaa9544.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_071494e92f5643faa28b0debce16d58e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_14ae6280357b4156a25a44e3e239cb50.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b060c-02_02f235708a1f4973a2ad36b9f6efaf32_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b060c-05_39b4f907e57142a8b42e91158682be28_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_1cc5caa9d2b14ffcb15546fbc0e9b4f5.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_43a6f77d3ff648b599f27b159f5e0dd4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_c76854cf2c724b969054c124a2a02546.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_ff70420cb51b4ac289517a3256bd89a8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_8482584aa65d43feba6b8b3a8e1d7ddc.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_4cc5621d084c4fabafe8bf2e81a4d382.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_28c2e9a591384ba082a9d44adcfb6d83.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_91b5d45e08e54144ac0f007a6c17562f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_7a6f116b593b477ca0350ac3f4c72906.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_780374a7bdd247bf99f0af822bdd23e4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_1b12ac01fd74442d86714322886f92cf.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_076b539146384da896b7696b5edf8ebb.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b330cu-03_bb144fc14bce4b96a1b9f7c4715b73d7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b330cu-04_06cbc0418a634af99b8445979cb0ae69.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/b330cu_e798e7085fcf4e3da5033ada9a30eec5.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/S330C-2020854323.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/20230313/B111C_1/B111C_01.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_a6b01779796c490e8fe4a9ff10b42944.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_bcde946857574cc08352aa920eb65360.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_ce0c18ee9f7a404aa5196b6ae799092f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_3ccac8b1cfae4cb1b58765cc578ccb10.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_34b2a12fa2a8451db2db98fcecce760d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_5ce0f588d19b4421aefe8fb24e42f771.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/5_0a955c06c4994b2e97bf5acd6665862a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/6_5e28a097550342ba88f7d7d24ae0a778.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/9_980def2378c941478158aa9c865f0b06.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/11_84878d3b5cb146c29ac6f485e1dd33f8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_aede9686bd2c46faa7e2189e01cb6e75.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_7ed6e3e974874e0281293f7b32aa9fb0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_c1e3f571343e478ca1a6333b39524bfb.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/2_41a0d5a5eb2249569d84fc82e7d80753.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/voi_xit_30264157606a4b579369a7ff4cfde3e0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/bs310cw__7__db648a60afc54bdebb55f3cd69e469fd_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_5f15cc558bed4961ab2c40a36bf3416d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_e2f10bbff830428abc1a2510400a7ae3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_65ef21a5226e44519ebad9c01d3a36be.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/B570CP-20188255858.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_2d5e86b51e6147e0bf2df621d6958b17.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_91ee4c95bf634ec695ab02b735b2436f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_1221173890e54a04a57cbb803dba004a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_64b26ba4df454565b7acfcc5bb50f15b.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_afb53da0eca04d59bd616365f4b5b1f6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_40e960f7ff1548468192995bac9263be.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_92cb2f884d304227b76775764f83efe2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_f5913ad766a74663afb1b94ec7bbe355.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_bd606b6a5f43443d99dca19da5dafe81.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b060c-06_fc18df92378c4f49ac2da7d6b10cb8c1_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_2ad2911598734e1dbf7316b2cd521b99.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_5198c6d2803247e2887802f2a5879b29.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s063c-07_b7e0f43c9b8b4c7c8223c61f739d574d_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s063c-09_a342f3acef89470d9dbed998d9104729_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s063c-12_dc38dbb1a687471ebf8da82b449c0115_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_60486f02f7664be78e5893348abc9dee.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s063c-11_2e766afeda204d12933b3941d6791cdc_master.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/1_894feee39dfb462da2b7af28e2a93c78.png",
+      "error": "terminated"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/k915c-8_35b524393713407cb481c368f568332c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_4d1af338e05d414ba8da6c08a14f4975.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_728d64e62e734ae1bb83528224e65472.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_46d2959866e84a8c8ef8211d785562b0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_b96d2deed45748789380917915b3bb2d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_da1a55324eff45049b1153293adffbd8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_8da8ebbfa8354c69948b4cc2583f8462.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_1be01ddfc5fc447bad7c01082a4ecd6f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/k915c-3_4653d15147fc4e249a281b050da0fff1.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210901/K815C/K815C%20%287%29.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210901/K415C/11.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210901/K815C/K815C%20%289%29.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_76ddfc5bf57c4c7fa6f85774f1c3f171.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/voi_xit_30264157606a4b579369a7ff4cfde3e0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_ec28abaf0b0345dcad8800697ca5af72.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_b571cu-05_8b9d4404ef134bd79046beb9e7b9006d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_723b4e4df7c84343b77887e4fd66ca20.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_4649253fb1e94a738526e9f3f0796728.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_677ef6967c7f464ebf634e2c947bd826.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_85746c1273aa41829ac41edc678d7561.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b770cu_chi_tiet.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b810cu_chi_tiet.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_f79dc856394e443fbe261faf562b5eec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_2cd3085aebe94d0a97059cc609fa626c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_a66cda7aaed74dffb75a54239f5c9676.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_6739ccf1994b4cc3b00d4e9d133458ec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_cd07b8e187be4f8ba81f37152f8faf4a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/sen_t_m_n_ng_l_nh-s563c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_03d01ada00634afb86271e6947e16b5c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_69b060de9fdb4fd58f5d067399a09512.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/bs306a__2__640c873390dc4dabbdb93f86a43083ad_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/bs306a__5__e8d63b3c0f1e4a9f8c6f4b4b140ceb3d_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/bs306a__6__d3b014382a1e460e961dcda37f350d8b_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_ba1b67a194fe43018a449b57473c2d41.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_0990b616d49945c79b438bb81da025fa.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/b560cu_chi_tiet.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_e8950854d066446d820a6b913e5ee6f3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_b75dec9445ef44549b1c327c13a677fc.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_22bd125a7985410c8b8e771333f08f7d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_75a47ae869be4764b2884ed1ce8821f4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_53427caf5add4da399355439635748ad.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_5911bbe3aeee4047926d8a5751e466de.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/3_eee55c26fa3f4ef4952436bd5ff8b035.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/1_f3dc0e7d8fa84036952b23ac9ae06077.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/7_876cd87c9cff4ec29182c495f6a3e464.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/13_4d7485846c8c4189a56fdfa15899bb11.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/6_baf3bb249ce0460086fc9632d262c6cf.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/10_fe45aac05b0849caa663af6ddea3e12f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/11_d6b38c21c5674d3c914dc643ff16c4d8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/3_6b00ff6f237a4000846bfc303e359a03.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/6_7863911f1f8e40688a2ada818126c4f2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/9_ae9ae34530fd4b5daba373f00d5a3df7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/11_dd95bdf048fc4d9a8f4b353c8c7acc5c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/13_9ff0ba8ccbd347668674c903afbebec4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_3df5bc5447444aa489f054620c2a5b36.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_33b80e9be30041fdaf74435f2c3ef260.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_8c419adaf1104fd5b2df22a82f706cc2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/AS143C-2020813552.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/3_32fae6b86a5145c98e56bbc0805cd888.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/voilanhgantuong/W034-W035/W034%2BW035%20%281%29.png",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_4f48e967c66c4b5c8f76d662ed424c21.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/2_e869b5dce5624e4088c5454e35584f39.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/3_820698c187804e5a957ae5c62d4724c2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/4_04b2c9a6f0a94071aaff713b17b2be6b.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/8_0a51d2620c994ea8a76e20fc0bca5616.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/3_ccc74ba054cc44f9a778f53bdc6dfdc4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/9_2508398862644756a004de7808208036.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/12_515a4ebb869740bbb8792eac2f4d596f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/voilanhgantuong/W034-W035/W034%2BW035%20%281%29.png",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieua910__2__9e73669b413d422f95dcda8a432116ee_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_8685eb69614745ea91d7141163f11a44.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_60eff95a1da24d628b80c44dbbafd43d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_623151925f034348a1ba3e9131010d14.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/S463C-2020854653.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_18af2e090d334a4dac2464e7620bd568.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-01.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_a32fc4d20e0d4a719ccf764a7bed60e7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_ce82538b66e447c784145ab92ffd7fe0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-09.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-06.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-04.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-03.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-07.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/B260CP.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-02.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230324/B260CUweb/GioithieuB260CU-05.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_4af185753be04351b0d44e92375a0ecf.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_373a1c2d24684e14bc0e3409b30c435d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_2a27b1ea42a54a5b9ba67dc828c0cb8c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s658c_4.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s658c_1.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/19_1378e6f7a23b4dbd97ea1d715557f808.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/20_5838654119b049aa851755bce04e0c55.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/6_1fbe4e2b9a294f80a56e5ded364508f8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/8_39514f1c6a7149519e2ca4f2e1d24803.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/10_15098c62309049b7a83ab2290c974843.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/17_12cb416876524532be4891011a8d07de.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_f832dee55c5f42f4b852b5b5307612d4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_f8c08723a2e1458689e81d9dcdc36f6a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_b239f3547705402f8f59a646da8a8834.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_a9d55ab371074b318ecffb0622636e68.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_763717a661724a2fbc13aa08037f5f5d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_30263a4a1d3845df86c641d5f8b8df83.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_30782396bcb4411f9175e1c565be26a3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_7c6e016dd2ab4305a130d4ea73b1c77f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_d26e0aea440c4721bcc3104faf0d0a3c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/sen_t_m_n_ng_l_nh-s493c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/S493C-2020854821.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_d9552ea226934fc49f4ece20ba682abf.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/21_ea764bf9108548d1b546705fdaaa018d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/23_2dd8fbaf33f94db3af4e9a16ccb449a5.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/16_70fe81a8a974465b8a664882969f8274.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/1_75f92cfb458f432e933d0ca6c2908cf4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/23_c04f6e5f612e49e88caf868def57d2fb.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_adc70926bfba432e90ecc1d935b17e70.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_6f0127288b7e45979b62654e28ae72cc.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_fe182c57076a4b02923ff04de6ef2d37.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_6b80f73ee230431f9db1c7c50422859e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_4fc0874c93614e55bf55a93451859231.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/s658c.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_91b75df778154cb0afd7beb0e523c890.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_fadbe0bf3ca647fdb396f2cf97b49648.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_8792870439d34800a20af72ae8928ede.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_c231fafda9e445089a50a6ea960f01ac.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_1911e48ddb414c87b01d9e3be05e7664.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_a3ca6820d4d048608227d3bb48464422.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/22.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_e09dbb4180f34bcabcc85aba5c75efec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_1497fe74336845578c7a1553e5230779.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_4049c9a00f924c0985ffcafe79853b8a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_9c4d091593d34ba29b56911e9dc9c151.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_00bb17520a8d4917aa05edbad5624e59.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_15d8cccb2f324f4b8a8309fa7f1ab77f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/16_82a945a827eb4a9c80f4d48759baaa42.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_8e55faa120e2441eabfd5e80e5bf18bc.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_56933a05fcf54d6186d8afa7e62cedf8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/21_6012e2d943f74f2b9a20e70137f12c99.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/20_9852ae3d6d3c4636ae7184a2a50b350f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_378e81a294be4b43ac957e2e1dc2a3ef.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_97dea594435a4145a6a431a38d2163f2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_daecb0471086450eba9552e443e81266.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/15_b47f4b055c5f40d68a7d7c58f13c1d30.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_08329e3bd83a4d849eb6554565276520.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/15_ceb2925ef5aa4774b6730196d0f90e31.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_477d463cbd4640159cb9cb0c874132da.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_f576772077e84611a81df156b01ea72c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/21_cba0c4ef0db34683903a29b270798ff4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_ebf75332329e463e9c582a34af50d9a3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/15_97987120f8b148e4bee87be1e7c2a0ed.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/sh237v__8__07e6256d390243c1804da924a56e1d9c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_e16d7eab38144465812d5f5b75d03147.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_f576772077e84611a81df156b01ea72c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_e09dbb4180f34bcabcc85aba5c75efec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_08329e3bd83a4d849eb6554565276520.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_21750252755a492cadef0f88d6b31fe6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/19_b6fe1f8359ef4cc0bb45301c762cda3d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__2__3868bda4894c43f187fa63255d25d9ff.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__3__205000f2c0b4428a967a65c509844fc6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__6__0b5d4614eec24852bd022485ae3eb8b8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__8__2fd5b254afc24d26a5371f1e99633db1.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__13__015392ef054f4be3963ba8791561a050.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_f5627d592df34215ba81e2d80582c692.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_7f5fcfa6947d4569a97775d2a8698077.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s123c-02_96818d62f2c248b190e914cb72642ef7.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s123c-06_dc9657ad5e424b3a867bbe92f2d8cd92.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/gioithieu_sen_s123c-09_a200f980205c4c76bba7d76f5920edde.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_1d896fed58e941ab8880293c57394f92.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_4049c9a00f924c0985ffcafe79853b8a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_20c7b4290ad840bf9f3e03425c86d67f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/_2__ba4ab16dc23847f8adb3e05ca5be3d32.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__4__84697781c72a48d08181d313ec6e48a3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/ts617__10__a73cd6308b494f60b33199dafc6407ca.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/sh237v__2__f28259b030cc4dc883c5cf4ddc295af2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/sh237v__7__250413b68f414f11a1de064bfe7e0b7f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/sh133__3__9c9f0a4cf42948edaf322124d6dcab6e_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/2_1c0a58e457e24c0d96488c1925e2fc2a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_2c1b355d4d9848c0a0d19e5de4b61e37.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s578c__5__6be546387fc0400c9d55d5fc1602f1b9_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s578c__13__dcf51024678a41838a95a0d755ca15ef_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s350c__6__81c83b08698248a681aeba7ba408a764.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__6__c4fcc0f8e7684190bdcd12dd3ebe587d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__11__4e8a29b70ad946549047bbf25038e64d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__12__d8bd0bae5425462286ba7a0a0ed26ad0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__16__018b19cb61b34311902e166eaedee9fd.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__17__d202608cb86f4baaa2685dafb3565a77.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_9b301c0b9c7246a3ab018e6f662ca77d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/11_a61e7f6835a644c7a5103bab192448c0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_76dc61ffbe0749a89afbcbba626680a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_ac062e269b3d4a20a9dfd2dc7d4e1051.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_ccc1dce040c6466dba8cdd24048be26f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s578c__8__edbf08dbe41d4e44be5857e379fb0f1d_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s578c__7__6d3daf5b4fd04259977b4597201a0d34_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/16_e7c300f44b1b4135adb97a7f0d682cf5.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/sh335__5__06f6bc9261474efc85b93f5b4676fb5c_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/1_66a980c7692c4260b5d6ca3f525d2597_master.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/s1028s__1__c2a7c0c4dc4344c2b609db255df4512e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_e75d036ff5ba4d38af29d26dc153161e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_76a1c4f3d38143e895386a00bd467a9a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_e09dbb4180f34bcabcc85aba5c75efec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_08329e3bd83a4d849eb6554565276520.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/b125__16__thuong_a7192b60d6384b2888ac40a2fb6b0cf8.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_62670a97003b41c5a71634b4b9846fab.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/19_971d2c78b8a9497ba8412ae74544ad16.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/15_676dd7648a3d40c483684cf6d999eb1d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_21750252755a492cadef0f88d6b31fe6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/BS644/BS644-4.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/BS641/BS641-8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/S378C/S378C-9.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/S668C/S668C-13.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/S668C/S668C-14.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/S378C/S378C-13.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/S378C/S378C-1.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210908/BS644/BS644-3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/2_4f2dd2a73dcc44c49aa97e7624c23550.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_15d4aee34a10420ba5cd2610df77a07a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_4d46840da1df480dba479be76bca4686.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/2_4f2dd2a73dcc44c49aa97e7624c23550.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_dee0995715f7480898c2176540776206.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_c748fb3abe3a4f26912fb8a78bf4e528.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/1_da2773c1c0e346da83e3330a3f01efe9.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_50ff8f6746ae40318833ab93f6be2a3a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_83d83fd41dc24ac181d360bb34adb828.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_36b38f7f7f4549e3ba1a7a377065af91.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_a05e5ad395174b8a9d4c7dd5468f2816.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/phukien1/ST127/ST127%20%286%29.png",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_ff6246dea8a94899bc7646ea118e2398.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_fff70ce1bcf44a0b8ae4da46e6e8eba3.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.caesar.com.vn/Content/ImagesUpload/U0263-A637-2016105546.png",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/5_49d0c55728484fabb5b379dac6018f35.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/q924v__3__fc04b8ac36474685a3e48d4d683e4767.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/13_b57082f46877401ab55c9f8123959f2d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_aa428cffc66544968a52312969d08b07.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/15_9858ee29cf4c4d5094fc976abe2e12e6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_b2b83cb0ca44469190516a795eef946f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/2_75cd9be7fea4471bbef1f85573e1de4e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/3_4faa3783cce1410989e2d85356ace180.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/4_e9ea15b63ab04329a3a9eec2a0eb3a91.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_fe310aca5ad64fd58450fa184b09c132.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/16_9e2526ed8cc948a79995987b12fccaf1.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/1_9486f7ddd6c64ede86d1a6d94d3b8d49.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_1ae274dee91d4fa093da8c88a4bf365c.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_031a87d9efc94365830560ad74f479f0.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/23_14a89278f6904dc6a7c6bf8adf42652e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/24_1108ceaceb024bc5a653ca3125503c64.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/26.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/a803__1__f068442f3240434598beedd1f04a9254.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/a803__5__f9478edbf633492aa97989aa9a794254.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/a803__10__1e85f02a845b493f9a491ebd65e0f855.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/29_48d0de6f10c149d6b01ba83fb8bfd167.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20210813/A801/A801%20%282%29.webp",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/16_010be4d24f55437b97e0aee8dcd479ee.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/17_1f10767357874e77873bfc741def62b5.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/7_170ee35aed7c4cacad7f3a60b42f3acb.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/28.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_5231cdbb1a1745568ece28fccb7ad672.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_4894f92095e6425980cf60b352a298a7.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://caesar-cdn.b-cdn.net/Content/ImagesUpload/mota/20230317/waning7.webp",
+      "error": "HTTP 404"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/13_05db7901a12a47c58732c9b4c33c3eec.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/6_281355ff72e74df4b8e2f48265c5792a.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/9_3e44554ded404177baf3f0afb8eed97d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/14_bebef294ac684e3c84e3ad2f49845002.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_857941d9c81849e29f477b6fbbb8525f.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/6_c0ea5e1fe91742058498891bd307c1b2.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_401e5accd1544d3391e450d8a1c9dd8d.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/9_56237975f2174fc7b96dbd4c856bad45.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.hstatic.net/files/200000263571/file/13_c972a5987d28481ca0a275a17049a39b.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/16_516bfad1b0054d44b91630059f27f777.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/18_38756965783a49ab940fb67151c2dd0b.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/8_12c6ddfaec5f45ac8855e3f2c4cebaac.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/10_43de377df17143c3904966fc4503ea1e.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/m831-02_865f2fc62041461cade97212a05b24dd.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/9_d23c3dc1bbdb47d4b9699524c099a3a8.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/14_4ad67bdea7b141a28da888521412507b.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/12_22a3ae03fcc840e4b0b9af3db200d6a6.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/tr7_e92c83f0905b4a6380b4de85060f4994.png",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/guong01_935dd3a1422849a0a2521904638678b5.jpg",
+      "error": "fetch failed"
+    },
+    {
+      "type": "image",
+      "url": "https://file.hstatic.net/200000263571/file/m804-05_c57c71503c3b4640b42edd425b428719_master.jpg",
+      "error": "fetch failed"
+    }
+  ]
+}

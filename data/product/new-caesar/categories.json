@@ -1,0 +1,337 @@
+{
+  "ban-cau": {
+    "key": "ban-cau",
+    "title": "Bàn cầu",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/1/ban-cau",
+    "parent": null,
+    "children": [
+      {
+        "key": "ban-cau-1-khoi",
+        "title": "Bàn cầu một khối",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/10/ban-cau-1-khoi",
+        "parent": "ban-cau"
+      },
+      {
+        "key": "ban-cau-2-khoi",
+        "title": "Bàn cầu hai khối",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/11/ban-cau-2-khoi",
+        "parent": "ban-cau"
+      },
+      {
+        "key": "ban-cau-thong-minh",
+        "title": "Bàn cầu thông minh",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/119/ban-cau-thong-minh",
+        "parent": "ban-cau"
+      },
+      {
+        "key": "ban-cau-dien-tu",
+        "title": "Bàn cầu điện tử",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/120/ban-cau-dien-tu",
+        "parent": "ban-cau"
+      },
+      {
+        "key": "ban-cau-cong-cong",
+        "title": "Bàn cầu công cộng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/121/ban-cau-cong-cong",
+        "parent": "ban-cau"
+      },
+      {
+        "key": "ban-cau-thung-nuoc-am-tuong",
+        "title": "Bàn cầu thùng nước âm tường",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/122/ban-cau-thung-nuoc-am-tuong",
+        "parent": "ban-cau"
+      }
+    ]
+  },
+  "lavabo": {
+    "key": "lavabo",
+    "title": "Lavabo",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/2/lavabo",
+    "parent": null,
+    "children": [
+      {
+        "key": "lavabo-tren-ban",
+        "title": "Lavabo trên bàn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/28/lavabo-tren-ban",
+        "parent": "lavabo"
+      },
+      {
+        "key": "lavabo-am-ban",
+        "title": "Lababo âm bàn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/27/lavabo-am-ban",
+        "parent": "lavabo"
+      },
+      {
+        "key": "lavabo-duong-ban",
+        "title": "Lababo dương bàn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/85/lavabo-duong-ban",
+        "parent": "lavabo"
+      },
+      {
+        "key": "lavabo-treo-tuong",
+        "title": "Lavabo treo tường",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/25/lavabo-treo-tuong",
+        "parent": "lavabo"
+      },
+      {
+        "key": "lavabo-tu-treo",
+        "title": "Lavabo kết hợp tủ treo",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/26/lavabo-tu-treo",
+        "parent": "lavabo"
+      }
+    ]
+  },
+  "be-tieu": {
+    "key": "be-tieu",
+    "title": "Bệ tiểu",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/3/be-tieu",
+    "parent": null,
+    "children": [
+      {
+        "key": "be-tieu-treo",
+        "title": "Bệ tiểu treo",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/113/be-tieu-treo",
+        "parent": "be-tieu"
+      },
+      {
+        "key": "be-tieu-dung",
+        "title": "Bệ tiểu đứng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/114/be-tieu-dung",
+        "parent": "be-tieu"
+      },
+      {
+        "key": "cam-ung-be-tieu",
+        "title": "Cảm ứng bệ tiểu",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/115/cam-ung-be-tieu",
+        "parent": "be-tieu"
+      },
+      {
+        "key": "bo-xa-an-tay",
+        "title": "Bộ xả ấn tay",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/116/bo-xa-an-tay",
+        "parent": "be-tieu"
+      },
+      {
+        "key": "vach-ngan-be-tieu",
+        "title": "Vách ngăn bệ tiểu",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/117/vach-ngan-be-tieu",
+        "parent": "be-tieu"
+      },
+      {
+        "key": "chau-xa",
+        "title": "Chậu xả",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/118/chau-xa",
+        "parent": "be-tieu"
+      }
+    ]
+  },
+  "bon-tam": {
+    "key": "bon-tam",
+    "title": "Bồn tắm",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/4/bon-tam",
+    "parent": null,
+    "children": [
+      {
+        "key": "bon-tam-massage",
+        "title": "Bồn tắm massage",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/21/bon-tam-massage",
+        "parent": "bon-tam"
+      },
+      {
+        "key": "bon-tam-goc",
+        "title": "Bồn tắm góc",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/22/bon-tam-goc",
+        "parent": "bon-tam"
+      },
+      {
+        "key": "bon-tam-goc-massage",
+        "title": "Bồn tắm góc massage",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/23/bon-tam-goc-massage",
+        "parent": "bon-tam"
+      },
+      {
+        "key": "bon-tam-dac-biet",
+        "title": "Bồn tắm đặc biệt",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/24/bon-tam-dac-biet",
+        "parent": "bon-tam"
+      },
+      {
+        "key": "cua-tam-dung",
+        "title": "Cửa tắm đứng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/7/cua-tam-dung",
+        "parent": "bon-tam"
+      },
+      {
+        "key": "khay-tam-dung",
+        "title": "Khay tắm đứng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/127/khay-tam-dung",
+        "parent": "bon-tam"
+      }
+    ]
+  },
+  "voi": {
+    "key": "voi",
+    "title": "Vòi nước",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/12/voi",
+    "parent": null,
+    "children": [
+      {
+        "key": "voi-cam-ung",
+        "title": "Vòi cảm ứng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/18/voi-cam-ung",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-nong-lanh",
+        "title": "Vòi nóng lạnh",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/15/voi-nong-lanh",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-lanh",
+        "title": "Vòi lạnh",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/16/voi-lanh",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-bep",
+        "title": "Vòi bếp",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/19/voi-bep",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-gan-tuong",
+        "title": "Vòi gắn tường",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/20/voi-gan-tuong",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-nong-lanh-bt",
+        "title": "Vòi nóng lạnh BT",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/29/voi-nong-lanh-bt",
+        "parent": "voi"
+      },
+      {
+        "key": "voi-xit",
+        "title": "Vòi xịt",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/111/voi-xit",
+        "parent": "voi"
+      }
+    ]
+  },
+  "sen": {
+    "key": "sen",
+    "title": "Sen tắm",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/17/sen",
+    "parent": null,
+    "children": []
+  },
+  "phu-kien": {
+    "key": "phu-kien",
+    "title": "Phụ kiện phòng tắm",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/13/phu-kien",
+    "parent": null,
+    "children": [
+      {
+        "key": "hop-giay-ve-sinh",
+        "title": "Hộp giấy vệ sinh",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/99/hop-giay-ve-sinh",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "ke-guong",
+        "title": "Kệ gương",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/100/ke-guong",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "ke-inox",
+        "title": "Kệ Inox",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/101/ke-inox",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "phieu-thoat-san",
+        "title": "Phiễu thoát sàn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/102/phieu-thoat-san",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "moc-ao",
+        "title": "Móc áo",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/103/moc-ao",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "thanh-vin",
+        "title": "Thanh vịn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/107/thanh-vin",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "gia-treo-vong-treo-khan",
+        "title": "Giá treo - Vòng treo khăn",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/104/gia-treo-vong-treo-khan",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "gia-de-hop-xa-phong",
+        "title": "Giá để - Hộp xà phòng",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/106/gia-de-hop-xa-phong",
+        "parent": "phu-kien"
+      },
+      {
+        "key": "phu-kien-phong-tam-khac",
+        "title": "Phụ kiện phòng tắm khác",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/108/phu-kien-phong-tam-khac",
+        "parent": "phu-kien"
+      }
+    ]
+  },
+  "may-say-tay": {
+    "key": "may-say-tay",
+    "title": "Máy sấy tay",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/5/may-say-tay",
+    "parent": null,
+    "children": []
+  },
+  "nap-ban-cau": {
+    "key": "nap-ban-cau",
+    "title": "Nắp bàn cầu",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/6/nap-ban-cau",
+    "parent": null,
+    "children": [
+      {
+        "key": "nap-ban-cau-thong-minh",
+        "title": "Nắp bàn cầu thông minh",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/94/nap-ban-cau-thong-minh",
+        "parent": "nap-ban-cau"
+      },
+      {
+        "key": "nap-ban-cau-em",
+        "title": "Nắp bàn cầu êm",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/95/nap-ban-cau-em",
+        "parent": "nap-ban-cau"
+      },
+      {
+        "key": "nap-ban-cau-tre-em",
+        "title": "Nắp bàn cầu trẻ em",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/96/nap-ban-cau-tre-em",
+        "parent": "nap-ban-cau"
+      },
+      {
+        "key": "nap-thuong",
+        "title": "Nắp thường",
+        "url": "https://caesar.com.vn/vi/san-pham/loai/97/nap-thuong",
+        "parent": "nap-ban-cau"
+      }
+    ]
+  },
+  "guong": {
+    "key": "guong",
+    "title": "Gương - tủ gương",
+    "url": "https://caesar.com.vn/vi/san-pham/loai/14/guong",
+    "parent": null,
+    "children": []
+  }
+}
