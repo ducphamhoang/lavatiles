@@ -371,7 +371,8 @@ function main() {
       const outputDir = path.join(OUTPUT_ROOT, category.slug);
       const outputPath = path.join(outputDir, `${slug}.html`);
       const images = productImagesForPage(product.images, path.dirname(INAX_TREE_PATH), outputDir);
-      const description = cleanText(product.description) || code;
+      // Keep the gallery description concise, matching the Caesar product-page pattern.
+      const description = code;
       fs.mkdirSync(outputDir, { recursive: true });
 
       if (!images.length) missingImages += 1;
@@ -390,7 +391,7 @@ function main() {
         DESCRIPTION: escapeHtml(description),
         LEAD: escapeHtml(leadText(product, info, category, 'INAX')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'INAX'),
-        DETAIL_PANEL: detailPanel(info, category),
+        DETAIL_PANEL: '',
         SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
       }), 'utf8');
       totalProducts += 1;
