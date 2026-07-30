@@ -20,6 +20,7 @@ const DATA_DIR = path.join(ROOT_DIR, 'data/products');
 const TEMPLATE_PATH = path.join(ROOT_DIR, 'templates/sanitary-detail.html');
 const OUTPUT_ROOT = path.join(ROOT_DIR, 'san-pham/thiet-bi-ve-sinh');
 const ROOT_FROM_DETAIL = '../../..';
+const ONLY_BRAND = process.env.ONLY_BRAND || '';
 const TOTO_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-toto/products-tree.json');
 const INAX_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-inax/products-tree.json');
 const CAESAR_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-caesar/products-tree.json');
@@ -81,6 +82,10 @@ function escapeHtml(value) {
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+}
+
+function shouldProcess(brand) {
+  return !ONLY_BRAND || ONLY_BRAND.toLowerCase() === brand.toLowerCase();
 }
 
 function parseCategory(catKey) {
@@ -181,6 +186,61 @@ function summaryAttributes(product, info, category, brand) {
       '</div>',
     ].join('\n            ');
   }).filter(Boolean).join('\n          ');
+}
+
+function featurePairs(product) {
+  const features = (product.features || []).map(cleanText).filter(Boolean);
+  const pairs = [];
+  for (let index = features[0] === 'Tính năng nổi bật' ? 1 : 0; index < features.length; index += 2) {
+    const label = features[index];
+    const description = features[index + 1];
+    if (label && description && !/^tính năng nổi bật$/i.test(label)) {
+      pairs.push([label, description]);
+    }
+  }
+  return pairs;
+}
+
+function highlightsMarkup(product) {
+  const pairs = featurePairs(product).slice(0, 3);
+  if (!pairs.length) return '';
+  const items = pairs.map(([label, description]) => [
+    '<li class="pfd-highlight">',
+    `<strong>${escapeHtml(label)}</strong>`,
+    `<span>${escapeHtml(description)}</span>`,
+    '</li>',
+  ].join('')).join('\n            ');
+  return `<ul class="pfd-highlights" aria-label="Tính năng nổi bật">${items}</ul>`;
+}
+
+function viglaceraShortDescription(product, info, category) {
+  const custom = cleanText(product.short_description);
+  if (custom) return custom;
+
+  const title = productDisplayTitle(product, info);
+  const pairs = featurePairs(product).slice(0, 2);
+  const featureLabels = pairs.map(([label]) => label).join(' và ');
+  const type = valueFromInfo(info, ['Loại sản phẩm']) || category.label;
+  const opening = `${title} có thiết kế phù hợp với nhiều không gian phòng tắm.`;
+  if (featureLabels) return `${opening} Nổi bật với ${featureLabels}.`;
+  return `${title} là ${type.toLowerCase()} Viglacera với thiết kế tiện dụng và dễ bố trí.`;
+}
+
+function descriptionSection(product) {
+  const description = cleanText(product.description);
+  if (!description) return '';
+  return [
+    '<section class="pfd-more pfd-description-more">',
+    '  <div class="container">',
+    '    <button type="button" class="pfd-more-toggle" data-detail-toggle data-expanded-label="Thu gọn mô tả sản phẩm" data-collapsed-label="Xem mô tả sản phẩm" aria-expanded="false" aria-controls="descriptionPanel">',
+    '      Xem mô tả sản phẩm',
+    '    </button>',
+    '    <div class="pfd-more-panel" id="descriptionPanel" hidden>',
+    `      <p>${escapeHtml(description)}</p>`,
+    '    </div>',
+    '  </div>',
+    '</section>',
+  ].join('\n');
 }
 
 function detailPanel(info, category) {
@@ -320,6 +380,7 @@ function main() {
   let missingCode = 0;
 
   for (const { file, brand } of BRANDS) {
+    if (!shouldProcess(brand)) continue;
     if (brand === 'TOTO' && fs.existsSync(TOTO_TREE_PATH)) continue;
     const filePath = path.join(DATA_DIR, file);
     if (!fs.existsSync(filePath)) {
@@ -360,6 +421,8 @@ function main() {
           LISTING_URL: listingUrl,
           GALLERY: galleryMarkup(product, images),
           DESCRIPTION: escapeHtml(description),
+          HIGHLIGHTS: '',
+          DESCRIPTION_SECTION: '',
           LEAD: escapeHtml(leadText(product, info, category, brand)),
           ATTRIBUTES: summaryAttributes(product, info, category, brand),
           DETAIL_PANEL: detailPanel(info, category),
@@ -371,7 +434,7 @@ function main() {
     }
   }
 
-  if (fs.existsSync(TOTO_TREE_PATH)) {
+  if (shouldProcess('TOTO') && fs.existsSync(TOTO_TREE_PATH)) {
     console.log('\nProcessing TOTO (crawled product tree)');
     const data = readJson(TOTO_TREE_PATH);
     const totoProducts = flattenTotoTree(data);
@@ -415,6 +478,8 @@ function main() {
         LISTING_URL: listingUrl,
         GALLERY: galleryMarkup(product, images),
         DESCRIPTION: escapeHtml(description),
+        HIGHLIGHTS: '',
+        DESCRIPTION_SECTION: '',
         LEAD: escapeHtml(leadText(product, info, category, 'TOTO')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'TOTO'),
         DETAIL_PANEL: detailPanel(info, category),
@@ -426,7 +491,7 @@ function main() {
     }
   }
 
-  if (fs.existsSync(INAX_TREE_PATH)) {
+  if (shouldProcess('INAX') && fs.existsSync(INAX_TREE_PATH)) {
     console.log('\nProcessing INAX (crawled product tree)');
     const data = readJson(INAX_TREE_PATH);
     const products = new Map();
@@ -461,6 +526,8 @@ function main() {
         LISTING_URL: listingUrl,
         GALLERY: galleryMarkup(product, images),
         DESCRIPTION: escapeHtml(description),
+        HIGHLIGHTS: '',
+        DESCRIPTION_SECTION: '',
           LEAD: escapeHtml(description),
         ATTRIBUTES: summaryAttributes(product, info, category, 'INAX'),
         DETAIL_PANEL: inaxDetailPanel(product),
@@ -470,7 +537,7 @@ function main() {
     }
   }
 
-  if (fs.existsSync(CAESAR_TREE_PATH)) {
+  if (shouldProcess('Caesar') && fs.existsSync(CAESAR_TREE_PATH)) {
     console.log('\nProcessing Caesar (crawled product tree)');
     const data = readJson(CAESAR_TREE_PATH);
     const products = flattenCaesarTree(data);
@@ -498,6 +565,8 @@ function main() {
         LISTING_URL: listingUrl,
         GALLERY: galleryMarkup(product, images),
         DESCRIPTION: escapeHtml(description),
+        HIGHLIGHTS: '',
+        DESCRIPTION_SECTION: '',
         LEAD: escapeHtml(leadText(product, info, category, 'Caesar')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'Caesar'),
         DETAIL_PANEL: detailPanel(info, category),
@@ -509,7 +578,7 @@ function main() {
     }
   }
 
-  if (fs.existsSync(VIGLACERA_TREE_PATH)) {
+  if (shouldProcess('Viglacera') && fs.existsSync(VIGLACERA_TREE_PATH)) {
     console.log('\nProcessing Viglacera (crawled product tree)');
     const data = readJson(VIGLACERA_TREE_PATH);
     const categories = fs.existsSync(VIGLACERA_CATEGORIES_PATH) ? readJson(VIGLACERA_CATEGORIES_PATH) : {};
@@ -521,7 +590,7 @@ function main() {
       const outputDir = path.join(OUTPUT_ROOT, category.slug);
       const outputPath = path.join(outputDir, `${slug}.html`);
       const images = productImagesForPage(product.images, path.dirname(VIGLACERA_TREE_PATH), outputDir);
-      const description = cleanText(product.description) || code;
+      const description = viglaceraShortDescription(product, info, category);
       fs.mkdirSync(outputDir, { recursive: true });
 
       if (!images.length) missingImages += 1;
@@ -538,6 +607,8 @@ function main() {
         LISTING_URL: listingUrl,
         GALLERY: galleryMarkup(product, images),
         DESCRIPTION: escapeHtml(description),
+        HIGHLIGHTS: highlightsMarkup(product),
+        DESCRIPTION_SECTION: descriptionSection(product),
         LEAD: escapeHtml(leadText(product, info, category, 'Viglacera')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'Viglacera'),
         DETAIL_PANEL: detailPanel(info, category),

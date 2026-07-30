@@ -192,9 +192,36 @@
   margin: 0;
   max-width: 60ch;
   color: #4e4e4f;
-  font-size: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+.pfd-highlights {
+  display: grid;
+  gap: 12px;
+  margin: 28px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pfd-highlight {
+  display: grid;
+  gap: 3px;
+  padding-left: 16px;
+  border-left: 2px solid #981b1e;
+}
+
+.pfd-highlight strong {
+  color: #3f3d39;
+  font-size: 14px;
   font-weight: 700;
-  line-height: 1.6;
+}
+
+.pfd-highlight span {
+  color: #4e4e4f;
+  font-size: 14px;
+  line-height: 1.5;
 }
 
 .pfd-detail h1 {
@@ -412,6 +439,12 @@
   color: #4e4e4f;
   font-size: 20px;
   line-height: 1.6;
+}
+
+.pfd-description-more .pfd-more-panel p {
+  max-width: 80ch;
+  font-size: 16px;
+  line-height: 1.65;
 }
 
 @media (max-width: 1023px) {

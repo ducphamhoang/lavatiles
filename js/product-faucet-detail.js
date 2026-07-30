@@ -36,7 +36,9 @@
     if (!toggle) {
       return;
     }
-    toggle.textContent = expanded ? 'Thu gọn thông tin chi tiết' : 'Xem thêm thông tin chi tiết';
+    var expandedLabel = toggle.getAttribute('data-expanded-label') || 'Thu gọn thông tin chi tiết';
+    var collapsedLabel = toggle.getAttribute('data-collapsed-label') || 'Xem thêm thông tin chi tiết';
+    toggle.textContent = expanded ? expandedLabel : collapsedLabel;
   }
 
   function activatePane(target) {
