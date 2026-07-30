@@ -60,6 +60,13 @@ function cleanText(value) {
   return String(value == null ? '' : value).replace(/\s+/g, ' ').trim();
 }
 
+function removeInaxHotline(value) {
+  return String(value == null ? '' : value)
+    .replace(/\s*-?\s*Hotline(?: tư vấn(?: và bảo hành(?: chính hãng)?|))?:?\s*1800\s*6633/gi, '')
+    .replace(/\s{2,}/g, ' ')
+    .trim();
+}
+
 function escapeHtml(value) {
   return cleanText(value)
     .replace(/&/g, '&amp;')
@@ -211,7 +218,57 @@ function detailPanel(info, category) {
     rows.push(`<p><b>${escapeHtml(key.toUpperCase())}</b>: ${escapeHtml(value)}</p>`);
   });
 
-  return rows.join('\n            ');
+  return removeInaxHotline(rows.join('\n            '));
+}
+
+function inaxDetailPanel(product) {
+  const html = product.description_html || '';
+  const match = html.match(/<h2[^>]*>\s*Thông số kỹ thuật.*?<\/h2>[\s\S]*?<table[^>]*>([\s\S]*?)<\/table>/i);
+  if (match) {
+    const trRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/g;
+    const tdRegex = /<td[^>]*>([\s\S]*?)<\/td>/g;
+    const rows = [];
+    let tr;
+    while ((tr = trRegex.exec(match[1])) !== null) {
+      const cells = [];
+      let td;
+      const trInner = tr[1];
+      while ((td = tdRegex.exec(trInner)) !== null) {
+        cells.push(cleanText(td[1].replace(/<[^>]+>/g, '')));
+      }
+      if (cells.length >= 2 && !(cells[0].toLowerCase() === 'tiêu chí' && cells[1].toLowerCase() === 'thông tin')) {
+        rows.push(`<p><b>${escapeHtml(cells[0].toUpperCase())}</b>: ${cells[1]}</p>`);
+      }
+    }
+    if (rows.length) return removeInaxHotline(rows.join('\n            '));
+  }
+  const info = product.product_info || {};
+  const rows = [];
+  const seen = new Set();
+  const categoryLabel = cleanText(info['Loại sản phẩm'] || '');
+  if (categoryLabel) {
+    rows.push(`<p><b>DANH MỤC</b>: ${escapeHtml(categoryLabel)}</p>`);
+  }
+  ['Mã sản phẩm', 'Depth', 'Height', 'Width'].forEach((key) => {
+    if (seen.has(key)) return;
+    seen.add(key);
+    const value = cleanText(info[key]);
+    if (!value || key === 'URL') return;
+    const label = key === 'Mã sản phẩm' ? 'Mã sản phẩm' : key === 'Depth' ? 'Kích thước (Sâu)' : key === 'Height' ? 'Kích thước (Cao)' : key === 'Width' ? 'Kích thước (Rộng)' : key;
+    rows.push(`<p><b>${escapeHtml(label.toUpperCase())}</b>: ${escapeHtml(value)}</p>`);
+  });
+  const simpleParagraph = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((paragraph) => paragraph[1])
+    .find((content) => /\S/.test(content) && !/<(?:a|img|iframe)\b/i.test(content));
+  if (simpleParagraph) {
+    const pContent = simpleParagraph;
+    const brParts = pContent.split(/<br\s*\/?>/i);
+    brParts.forEach((part) => {
+      const text = cleanText(part);
+      if (text && text.length > 5) rows.push(`<p>${escapeHtml(text)}</p>`);
+    });
+  }
+  return removeInaxHotline(rows.join('\n            '));
 }
 
 function productDisplayTitle(product, info) {
@@ -232,6 +289,19 @@ function leadText(product, info, category, brand) {
   const size = valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)']);
   const parts = [brand && `thương hiệu ${brand}`, size && `kích thước ${size}`].filter(Boolean);
   return parts.length ? `${type} ${parts.join(', ')}.` : `Sản phẩm ${type.toLowerCase()} tại Lavatiles.`;
+}
+
+function inaxDescription(product) {
+  const html = cleanText(product.description_html || '');
+  const paragraphs = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((match) => cleanText(match[1].replace(/<[^>]+>/g, '')))
+    .filter((text) => text.length > 20);
+  const source = paragraphs[0] || cleanText(product.description || '');
+  if (!source) return '';
+
+  const sentence = source.match(/^.*?[.!?](?:\s|$)/)?.[0]?.trim();
+  if (sentence && sentence.length >= 60 && sentence.length <= 280) return sentence;
+  return source.length > 280 ? `${source.slice(0, 277).replace(/\s+\S*$/, '')}...` : source;
 }
 
 function renderTemplate(template, replacements) {
@@ -290,7 +360,7 @@ function main() {
           LEAD: escapeHtml(leadText(product, info, category, brand)),
           ATTRIBUTES: summaryAttributes(product, info, category, brand),
           DETAIL_PANEL: detailPanel(info, category),
-          SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+          SHARE_URL: '#',
         }), 'utf8');
 
         totalProducts += 1;
@@ -345,7 +415,7 @@ function main() {
         LEAD: escapeHtml(leadText(product, info, category, 'TOTO')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'TOTO'),
         DETAIL_PANEL: detailPanel(info, category),
-        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+        SHARE_URL: '#',
       }), 'utf8');
 
       totalProducts += 1;
@@ -371,8 +441,7 @@ function main() {
       const outputDir = path.join(OUTPUT_ROOT, category.slug);
       const outputPath = path.join(outputDir, `${slug}.html`);
       const images = productImagesForPage(product.images, path.dirname(INAX_TREE_PATH), outputDir);
-      // Keep the gallery description concise, matching the Caesar product-page pattern.
-      const description = code;
+      const description = inaxDescription(product) || code;
       fs.mkdirSync(outputDir, { recursive: true });
 
       if (!images.length) missingImages += 1;
@@ -389,10 +458,10 @@ function main() {
         LISTING_URL: listingUrl,
         GALLERY: galleryMarkup(product, images),
         DESCRIPTION: escapeHtml(description),
-        LEAD: escapeHtml(leadText(product, info, category, 'INAX')),
+          LEAD: escapeHtml(description),
         ATTRIBUTES: summaryAttributes(product, info, category, 'INAX'),
-        DETAIL_PANEL: '',
-        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+        DETAIL_PANEL: inaxDetailPanel(product),
+        SHARE_URL: '#',
       }), 'utf8');
       totalProducts += 1;
     }
@@ -429,7 +498,7 @@ function main() {
         LEAD: escapeHtml(leadText(product, info, category, 'Caesar')),
         ATTRIBUTES: summaryAttributes(product, info, category, 'Caesar'),
         DETAIL_PANEL: detailPanel(info, category),
-        SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/thiet-bi-ve-sinh/${category.slug}/${slug}/`),
+        SHARE_URL: '#',
       }), 'utf8');
 
       totalProducts += 1;
