@@ -6,7 +6,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { categoryInfo, categoryGroup, flattenTotoTree, flattenCaesarTree } = require('./toto-category-map');
+const { categoryInfo, categoryGroup, flattenTotoTree, flattenCaesarTree, flattenViglaceraTree } = require('./toto-category-map');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
 
@@ -36,6 +36,8 @@ const INAX_CATEGORY_MAP = {
 };
 
 const CAESAR_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-caesar/products-tree.json');
+const VIGLACERA_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-viglacera/products-tree.json');
+const VIGLACERA_CATEGORIES_PATH = path.join(ROOT_DIR, 'data/product/new-viglacera/categories.json');
 
 const allProducts = [];
 
@@ -140,6 +142,23 @@ if (fs.existsSync(CAESAR_TREE_PATH)) {
       slug,
       type: 'sanitary',
       detailUrl: `${category.slug}/${slug}.html`,
+    });
+  }
+}
+
+if (fs.existsSync(VIGLACERA_TREE_PATH)) {
+  const tree = JSON.parse(fs.readFileSync(VIGLACERA_TREE_PATH, 'utf-8'));
+  const categories = fs.existsSync(VIGLACERA_CATEGORIES_PATH)
+    ? JSON.parse(fs.readFileSync(VIGLACERA_CATEGORIES_PATH, 'utf-8')) : {};
+  for (const { slug, product, sourceCategories, category, categoryGroup: group } of flattenViglaceraTree(tree, categories)) {
+    const info = product.product_info || {};
+    allProducts.push({
+      code: info['Mã sản phẩm'] || slug, title: product.title || slug, brand: 'Viglacera',
+      category: category.label, categorySlug: category.slug, categoryGroup: group, sourceCategories,
+      price: info['Giá'] || '', dimensions: info['Kích thước'] || info['Kích thước (DxRxC)'] || '',
+      technology: info['Công nghệ'] || '', finish: info['Màu sắc'] || '', rooms: product.rooms || ['phong_tam'],
+      image: product.images && product.images[0] ? `/data/product/new-viglacera/${product.images[0]}` : '',
+      slug, type: 'sanitary', detailUrl: `${category.slug}/${slug}.html`,
     });
   }
 }

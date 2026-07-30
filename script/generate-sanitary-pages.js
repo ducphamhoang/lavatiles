@@ -12,6 +12,7 @@ const {
   categoryForProduct,
   flattenTotoTree,
   flattenCaesarTree,
+  flattenViglaceraTree,
 } = require('../scripts/toto-category-map');
 
 const ROOT_DIR = path.resolve(__dirname, '..');
@@ -22,6 +23,8 @@ const ROOT_FROM_DETAIL = '../../..';
 const TOTO_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-toto/products-tree.json');
 const INAX_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-inax/products-tree.json');
 const CAESAR_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-caesar/products-tree.json');
+const VIGLACERA_TREE_PATH = path.join(ROOT_DIR, 'data/product/new-viglacera/products-tree.json');
+const VIGLACERA_CATEGORIES_PATH = path.join(ROOT_DIR, 'data/product/new-viglacera/categories.json');
 const INAX_CATEGORY_MAP = {
   'shower-toilet': 'ban-cau-thong-minh',
   toilet: 'ban-cau',
@@ -48,7 +51,7 @@ const SUMMARY_FIELDS = [
   ['Danh mục', 'category'],
   ['Loại sản phẩm', 'Loại sản phẩm'],
   ['Thương hiệu', 'Thương hiệu'],
-  ['Kích thước', 'Kích thước', 'Kích thước (D x R x C)'],
+  ['Kích thước', 'Kích thước', 'Kích thước (D x R x C)', 'Kích thước (DxRxC)'],
   ['Công nghệ', 'Công nghệ', 'Tính năng'],
   ['Kiểu xả', 'Kiểu xả', 'Hệ thống xả'],
   ['Giá', 'Giá'],
@@ -213,7 +216,7 @@ function detailPanel(info, category) {
     seen.add(key);
     const value = cleanText(info[key]);
     if (!value) return;
-    if (key === 'Kích cỡ' && value === valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)'])) return;
+    if (key === 'Kích cỡ' && value === valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)', 'Kích thước (DxRxC)'])) return;
     if (key === 'Giá bản lẻ đề xuất' && value === valueFromInfo(info, ['Giá'])) return;
     rows.push(`<p><b>${escapeHtml(key.toUpperCase())}</b>: ${escapeHtml(value)}</p>`);
   });
@@ -286,7 +289,7 @@ function metaDescription(product, info, category, brand) {
 
 function leadText(product, info, category, brand) {
   const type = valueFromInfo(info, ['Loại sản phẩm']) || category.label;
-  const size = valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)']);
+  const size = valueFromInfo(info, ['Kích thước', 'Kích thước (D x R x C)', 'Kích thước (DxRxC)']);
   const parts = [brand && `thương hiệu ${brand}`, size && `kích thước ${size}`].filter(Boolean);
   return parts.length ? `${type} ${parts.join(', ')}.` : `Sản phẩm ${type.toLowerCase()} tại Lavatiles.`;
 }
@@ -503,6 +506,44 @@ function main() {
 
       totalProducts += 1;
       if (sourceCategories.length === 0) console.warn(`  ${slug}: no source categories`);
+    }
+  }
+
+  if (fs.existsSync(VIGLACERA_TREE_PATH)) {
+    console.log('\nProcessing Viglacera (crawled product tree)');
+    const data = readJson(VIGLACERA_TREE_PATH);
+    const categories = fs.existsSync(VIGLACERA_CATEGORIES_PATH) ? readJson(VIGLACERA_CATEGORIES_PATH) : {};
+    const products = flattenViglaceraTree(data, categories);
+
+    for (const { slug, product, category } of products) {
+      const info = product.product_info || {};
+      const code = valueFromInfo(info, ['Mã sản phẩm']) || slug;
+      const outputDir = path.join(OUTPUT_ROOT, category.slug);
+      const outputPath = path.join(outputDir, `${slug}.html`);
+      const images = productImagesForPage(product.images, path.dirname(VIGLACERA_TREE_PATH), outputDir);
+      const description = cleanText(product.description) || code;
+      fs.mkdirSync(outputDir, { recursive: true });
+
+      if (!images.length) missingImages += 1;
+      if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
+
+      const listingUrl = path.relative(outputDir, path.join(OUTPUT_ROOT, 'index.html'));
+      fs.writeFileSync(outputPath, renderTemplate(template, {
+        PAGE_TITLE: `${escapeHtml(productDisplayTitle(product, info))} | Lavatiles`,
+        META_DESCRIPTION: escapeHtml(metaDescription(product, info, category, 'Viglacera')),
+        ROOT: ROOT_FROM_DETAIL,
+        PRODUCT_CODE: escapeHtml(code),
+        PRODUCT_TITLE: escapeHtml(productDisplayTitle(product, info)),
+        CATEGORY_LABEL: escapeHtml(category.label),
+        LISTING_URL: listingUrl,
+        GALLERY: galleryMarkup(product, images),
+        DESCRIPTION: escapeHtml(description),
+        LEAD: escapeHtml(leadText(product, info, category, 'Viglacera')),
+        ATTRIBUTES: summaryAttributes(product, info, category, 'Viglacera'),
+        DETAIL_PANEL: detailPanel(info, category),
+        SHARE_URL: '#',
+      }), 'utf8');
+      totalProducts += 1;
     }
   }
 

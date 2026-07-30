@@ -1,0 +1,393 @@
+{
+  "ban-cau": {
+    "key": "ban-cau",
+    "title": "Bàn cầu",
+    "url": "https://viglacera.vn/ban-cau-1",
+    "parent": "",
+    "children": [
+      {
+        "key": "ban-cau-hai-khoi",
+        "title": "Bàn cầu hai khối",
+        "url": "https://viglacera.vn/ban-cau"
+      },
+      {
+        "key": "ban-cau-thong-minh",
+        "title": "Bàn cầu thông minh",
+        "url": "https://viglacera.vn/ban-cau"
+      },
+      {
+        "key": "ban-cau-treo-tuong",
+        "title": "Bàn cầu treo tường",
+        "url": "https://viglacera.vn/ban-cau"
+      },
+      {
+        "key": "ban-cau-mot-khoi",
+        "title": "Bàn cầu một khối",
+        "url": "https://viglacera.vn/ban-cau"
+      }
+    ]
+  },
+  "chau-rua": {
+    "key": "chau-rua",
+    "title": "Chậu rửa",
+    "url": "https://viglacera.vn/chau-rua-1",
+    "parent": "",
+    "children": [
+      {
+        "key": "chau-ban-da",
+        "title": "Chậu bàn đá",
+        "url": "https://viglacera.vn/chau-rua"
+      },
+      {
+        "key": "chan-chau",
+        "title": "Chân chậu",
+        "url": "https://viglacera.vn/chau-rua"
+      },
+      {
+        "key": "chau-duong-ban",
+        "title": "Chậu dương bàn",
+        "url": "https://viglacera.vn/chau-rua"
+      },
+      {
+        "key": "chau-treo-tuong",
+        "title": "Chậu treo tường",
+        "url": "https://viglacera.vn/chau-rua"
+      },
+      {
+        "key": "chau-ban-duong-ban",
+        "title": "Chậu bán dương bàn",
+        "url": "https://viglacera.vn/chau-rua"
+      },
+      {
+        "key": "chau-am-ban",
+        "title": "Chậu âm bàn",
+        "url": "https://viglacera.vn/chau-rua"
+      }
+    ]
+  },
+  "voi-chau": {
+    "key": "voi-chau",
+    "title": "Vòi chậu",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "",
+    "children": [
+      {
+        "key": "voi-chau-cao",
+        "title": "Vòi chậu cao",
+        "url": "https://viglacera.vn/voi-chau"
+      },
+      {
+        "key": "voi-chau-thap-mot-lo",
+        "title": "Vòi chậu thập một lỗ",
+        "url": "https://viglacera.vn/voi-chau"
+      },
+      {
+        "key": "voi-chau-cam-ung",
+        "title": "Vòi chậu cảm ứng",
+        "url": "https://viglacera.vn/voi-chau"
+      },
+      {
+        "key": "voi-rua-bat",
+        "title": "Vòi rửa bát",
+        "url": "https://viglacera.vn/voi-chau"
+      },
+      {
+        "key": "voi-chau-thap-ba-lo",
+        "title": "Vòi chậu thấp ba lỗ",
+        "url": "https://viglacera.vn/voi-chau"
+      }
+    ]
+  },
+  "sen-tam": {
+    "key": "sen-tam",
+    "title": "Sen tắm",
+    "url": "https://viglacera.vn/sen-tam",
+    "parent": "",
+    "children": [
+      {
+        "key": "sen-tay",
+        "title": "Sen tay",
+        "url": "https://viglacera.vn/sen-tam"
+      },
+      {
+        "key": "sen-cay",
+        "title": "Sen cây",
+        "url": "https://viglacera.vn/sen-tam"
+      },
+      {
+        "key": "sen-ghep",
+        "title": "Sen ghép",
+        "url": "https://viglacera.vn/sen-tam"
+      }
+    ]
+  },
+  "bon-tieu": {
+    "key": "bon-tieu",
+    "title": "Bồn tiểu",
+    "url": "https://viglacera.vn/bon-tieu",
+    "parent": "",
+    "children": [
+      {
+        "key": "bon-tieu-nam-dat-san",
+        "title": "Bồn tiểu nam đặt sàn",
+        "url": "https://viglacera.vn/bon-tieu"
+      },
+      {
+        "key": "bon-tieu-nam-treo-tuong",
+        "title": "Bồn tiểu nam treo tường",
+        "url": "https://viglacera.vn/bon-tieu"
+      },
+      {
+        "key": "bon-tieu-nam-cam-ung",
+        "title": "Bồn tiểu nam cảm ứng",
+        "url": "https://viglacera.vn/bon-tieu"
+      },
+      {
+        "key": "bon-tieu-nu",
+        "title": "Bồn tiểu nữ",
+        "url": "https://viglacera.vn/bon-tieu"
+      }
+    ]
+  },
+  "phu-kien": {
+    "key": "phu-kien",
+    "title": "Phụ kiện",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "",
+    "children": [
+      {
+        "key": "phu-kien-phong-tam",
+        "title": "Phụ kiện phòng tắm",
+        "url": "https://viglacera.vn/phu-kien"
+      },
+      {
+        "key": "thoat-san",
+        "title": "Thoát sàn",
+        "url": "https://viglacera.vn/phu-kien"
+      },
+      {
+        "key": "phu-kien-tieu",
+        "title": "Phụ kiện tiểu",
+        "url": "https://viglacera.vn/phu-kien"
+      },
+      {
+        "key": "phu-kien-ban-cau",
+        "title": "Phụ kiện bàn cầu",
+        "url": "https://viglacera.vn/phu-kien"
+      },
+      {
+        "key": "phu-kien-chau",
+        "title": "Phụ kiện chậu",
+        "url": "https://viglacera.vn/phu-kien"
+      },
+      {
+        "key": "guong",
+        "title": "Gương",
+        "url": "https://viglacera.vn/phu-kien"
+      }
+    ]
+  },
+  "combo-phong-tam": {
+    "key": "combo-phong-tam",
+    "title": "Combo phòng tắm",
+    "url": "https://viglacera.vn/combo-phong-tam",
+    "parent": "",
+    "children": []
+  },
+  "ban-cau-hai-khoi": {
+    "key": "ban-cau-hai-khoi",
+    "title": "Bàn cầu hai khối",
+    "url": "https://viglacera.vn/ban-cau",
+    "parent": "ban-cau",
+    "children": []
+  },
+  "ban-cau-thong-minh": {
+    "key": "ban-cau-thong-minh",
+    "title": "Bàn cầu thông minh",
+    "url": "https://viglacera.vn/ban-cau",
+    "parent": "ban-cau",
+    "children": []
+  },
+  "ban-cau-treo-tuong": {
+    "key": "ban-cau-treo-tuong",
+    "title": "Bàn cầu treo tường",
+    "url": "https://viglacera.vn/ban-cau",
+    "parent": "ban-cau",
+    "children": []
+  },
+  "ban-cau-mot-khoi": {
+    "key": "ban-cau-mot-khoi",
+    "title": "Bàn cầu một khối",
+    "url": "https://viglacera.vn/ban-cau",
+    "parent": "ban-cau",
+    "children": []
+  },
+  "chau-ban-da": {
+    "key": "chau-ban-da",
+    "title": "Chậu bàn đá",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "chan-chau": {
+    "key": "chan-chau",
+    "title": "Chân chậu",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "chau-duong-ban": {
+    "key": "chau-duong-ban",
+    "title": "Chậu dương bàn",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "chau-treo-tuong": {
+    "key": "chau-treo-tuong",
+    "title": "Chậu treo tường",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "chau-ban-duong-ban": {
+    "key": "chau-ban-duong-ban",
+    "title": "Chậu bán dương bàn",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "chau-am-ban": {
+    "key": "chau-am-ban",
+    "title": "Chậu âm bàn",
+    "url": "https://viglacera.vn/chau-rua",
+    "parent": "chau-rua",
+    "children": []
+  },
+  "voi-chau-cao": {
+    "key": "voi-chau-cao",
+    "title": "Vòi chậu cao",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "voi-chau",
+    "children": []
+  },
+  "voi-chau-thap-mot-lo": {
+    "key": "voi-chau-thap-mot-lo",
+    "title": "Vòi chậu thập một lỗ",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "voi-chau",
+    "children": []
+  },
+  "voi-chau-cam-ung": {
+    "key": "voi-chau-cam-ung",
+    "title": "Vòi chậu cảm ứng",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "voi-chau",
+    "children": []
+  },
+  "voi-rua-bat": {
+    "key": "voi-rua-bat",
+    "title": "Vòi rửa bát",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "voi-chau",
+    "children": []
+  },
+  "voi-chau-thap-ba-lo": {
+    "key": "voi-chau-thap-ba-lo",
+    "title": "Vòi chậu thấp ba lỗ",
+    "url": "https://viglacera.vn/voi-chau",
+    "parent": "voi-chau",
+    "children": []
+  },
+  "sen-tay": {
+    "key": "sen-tay",
+    "title": "Sen tay",
+    "url": "https://viglacera.vn/sen-tam",
+    "parent": "sen-tam",
+    "children": []
+  },
+  "sen-cay": {
+    "key": "sen-cay",
+    "title": "Sen cây",
+    "url": "https://viglacera.vn/sen-tam",
+    "parent": "sen-tam",
+    "children": []
+  },
+  "sen-ghep": {
+    "key": "sen-ghep",
+    "title": "Sen ghép",
+    "url": "https://viglacera.vn/sen-tam",
+    "parent": "sen-tam",
+    "children": []
+  },
+  "bon-tieu-nam-dat-san": {
+    "key": "bon-tieu-nam-dat-san",
+    "title": "Bồn tiểu nam đặt sàn",
+    "url": "https://viglacera.vn/bon-tieu",
+    "parent": "bon-tieu",
+    "children": []
+  },
+  "bon-tieu-nam-treo-tuong": {
+    "key": "bon-tieu-nam-treo-tuong",
+    "title": "Bồn tiểu nam treo tường",
+    "url": "https://viglacera.vn/bon-tieu",
+    "parent": "bon-tieu",
+    "children": []
+  },
+  "bon-tieu-nam-cam-ung": {
+    "key": "bon-tieu-nam-cam-ung",
+    "title": "Bồn tiểu nam cảm ứng",
+    "url": "https://viglacera.vn/bon-tieu",
+    "parent": "bon-tieu",
+    "children": []
+  },
+  "bon-tieu-nu": {
+    "key": "bon-tieu-nu",
+    "title": "Bồn tiểu nữ",
+    "url": "https://viglacera.vn/bon-tieu",
+    "parent": "bon-tieu",
+    "children": []
+  },
+  "phu-kien-phong-tam": {
+    "key": "phu-kien-phong-tam",
+    "title": "Phụ kiện phòng tắm",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  },
+  "thoat-san": {
+    "key": "thoat-san",
+    "title": "Thoát sàn",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  },
+  "phu-kien-tieu": {
+    "key": "phu-kien-tieu",
+    "title": "Phụ kiện tiểu",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  },
+  "phu-kien-ban-cau": {
+    "key": "phu-kien-ban-cau",
+    "title": "Phụ kiện bàn cầu",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  },
+  "phu-kien-chau": {
+    "key": "phu-kien-chau",
+    "title": "Phụ kiện chậu",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  },
+  "guong": {
+    "key": "guong",
+    "title": "Gương",
+    "url": "https://viglacera.vn/phu-kien",
+    "parent": "phu-kien",
+    "children": []
+  }
+}

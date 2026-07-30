@@ -279,6 +279,31 @@ function flattenCaesarTree(data) {
   });
 }
 
+function flattenViglaceraTree(data, categories = {}) {
+  const products = new Map();
+  for (const [sourceCategory, entries] of Object.entries(data || {})) {
+    for (const [slug, product] of Object.entries(entries || {})) {
+      if (products.has(slug)) continue;
+      const categoryKeys = product.categories || [sourceCategory];
+      const child = categoryKeys.find((key) => categories[key] && categories[key].parent);
+      const categoryKey = child || sourceCategory;
+      const parent = categories[categoryKey]?.parent || categoryKey;
+      const group = parent === 'ban-cau' ? 'Bàn cầu'
+        : parent === 'chau-rua' ? 'Chậu rửa'
+          : parent === 'voi-chau' || parent === 'sen-tam' ? 'Sen vòi'
+            : parent === 'bon-tieu' ? 'Bồn tiểu' : 'Phụ kiện';
+      products.set(slug, {
+        slug,
+        product,
+        sourceCategories: categoryKeys,
+        category: { slug: categoryKey, label: categories[categoryKey]?.title || CATEGORY_LABELS[categoryKey] || categoryKey.replace(/-/g, ' ') },
+        categoryGroup: group,
+      });
+    }
+  }
+  return [...products.values()];
+}
+
 module.exports = {
   CATEGORY_LABELS,
   categoryForProduct,
@@ -286,4 +311,5 @@ module.exports = {
   categoryGroup,
   flattenTotoTree,
   flattenCaesarTree,
+  flattenViglaceraTree,
 };
