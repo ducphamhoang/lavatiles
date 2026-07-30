@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="204px" height="63px" viewBox="0 0 204 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 61.779 203.882 61.779 203.882 0 0 0"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inax-New-Logo">
+            <g id="Group-9" transform="translate(0.000000, 0.500000)">
+                <path d="M68.54,48.9518 C63.995,39.1488 44.65,3.0598 43.003,0.0048 L27.546,0.0048 L27.546,61.7778 L38.102,61.7778 C38.116,57.3918 38.091,15.6818 38.091,12.8268 C42.636,22.6328 61.981,58.7238 63.627,61.7778 L79.083,61.7778 L79.083,0.0048 L68.526,0.0048 C68.513,4.3888 68.54,46.0938 68.54,48.9518" id="Fill-1" fill="#54585A"></path>
+                <path d="M107.1919,35.7316 L116.4339,10.1906 L125.6779,35.7316 L107.1919,35.7316 Z M109.3999,0.0056 L85.7019,61.7776 L97.7659,61.7776 L103.7059,45.3576 L129.1609,45.3576 L135.1019,61.7776 L147.1659,61.7776 L123.5009,0.0056 L109.3999,0.0056 Z" id="Fill-3" fill="#54585A"></path>
+                <polygon id="Fill-5" fill="#54585A" points="181.8716 29.1589 201.1106 0.0039 188.0746 0.0039 175.2576 20.0879 162.1946 0.0039 149.1606 0.0039 168.7656 29.1589 147.1656 61.7789 160.3436 61.7789 175.3796 38.1199 190.6996 61.7789 203.8816 61.7789"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-8"></g>
+                <polygon id="Fill-7" fill="#54585A" mask="url(#mask-2)" points="0 61.778 11.397 61.778 11.397 7.10542736e-15 0 7.10542736e-15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

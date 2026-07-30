@@ -787,7 +787,17 @@ h6, .h6 { font-weight: 800; font-size: 1rem; line-height: 25px; text-transform: 
   transition: opacity .3s;
 }
 .partners-grid .partner-logo:hover { opacity: 1; }
-.partners-grid .partner-logo img { max-height: 50px; width: auto; }
+.partners-grid .partner-logo img {
+  display: block;
+  max-width: 100%;
+  max-height: 50px;
+  width: auto;
+  object-fit: contain;
+  filter: grayscale(1);
+}
+.partners-grid .partner-logo img[src*="logo-toto"],
+.partners-grid .partner-logo img[src*="vb-logo"],
+.partners-grid .partner-logo img[src*="gessi-logo"] { filter: brightness(0); }
 .partners-grid .partner-logo svg { height: 40px; width: 100%; display: block; }
 
 /* ============================================================
