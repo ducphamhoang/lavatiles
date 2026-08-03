@@ -1,6 +1,15 @@
 (function () {
   'use strict';
 
+  function escapeHtml(value) {
+    return String(value == null ? '' : value)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
   var params = new URLSearchParams(window.location.search);
   var brand = params.get('brand') || '';
   var isEurotile = brand.toLowerCase() === 'eurotile';
@@ -18,7 +27,19 @@
     ? (window.LAVATILE_VASTA_STONE_PRODUCTS || [])
     : isSanitary
     ? (window.LAVATILE_SANITARY || [])
-    : (window.LAVATILE_TILES || []);
+    : (window.LavatileGeneratedProducts || window.LAVATILE_TILES || []);
+
+  // Keep the hand-curated room assignments for products that already have them.
+  if (!isEurotile && !isVietYTile && !isVastaStone && !isSanitary && window.LAVATILE_TILES) {
+    var legacyByCode = {};
+    window.LAVATILE_TILES.forEach(function (product) {
+      legacyByCode[normaliseCode(product.code)] = product;
+    });
+    products = products.map(function (product) {
+      var legacy = legacyByCode[normaliseCode(product.code)];
+      return legacy && legacy.rooms ? Object.assign({}, product, { rooms: legacy.rooms }) : product;
+    });
+  }
 
   // ---- enrich with generated detail URLs -------------------------
 
@@ -119,6 +140,23 @@
         return '<button type="button" class="pd-chip" data-filter-group="category" data-filter-value="' + category + '">' + category + '</button>';
       }).join('');
     }
+  }
+
+  var brandGroup = document.getElementById('pdBrandGroup');
+  var brandChips = document.getElementById('pdBrandChips');
+  if (brandGroup && brandChips && !isEurotile && !isVietYTile && !isVastaStone && !isSanitary) {
+    var brands = [];
+    products.forEach(function (product) {
+      var productBrand = product.brand || product.country || '';
+      if (productBrand && brands.indexOf(productBrand) === -1) brands.push(productBrand);
+    });
+    brands.sort(function (a, b) { return a.localeCompare(b, 'vi'); });
+    brandChips.innerHTML = brands.map(function (productBrand) {
+      return '<button type="button" class="pd-chip" data-filter-group="brand" data-filter-value="' + escapeHtml(productBrand) + '">' + escapeHtml(productBrand) + '</button>';
+    }).join('');
+    brandGroup.hidden = brands.length < 2;
+  } else if (brandGroup) {
+    brandGroup.hidden = true;
   }
 
   // ---- UI: toggle category filter chips --------------------------
@@ -292,7 +330,7 @@
     ? ['collection', 'finish', 'size', 'placement']
     : isSanitary
     ? ['categoryGroup', 'category', 'brand']
-    : ['finish', 'size', 'placement', 'rooms', 'category'];
+     : ['finish', 'size', 'placement', 'rooms', 'category', 'brand'];
 
   var searchFields = isEurotile
     ? ['code', 'title', 'size', 'finish', 'brand', 'eurotile_collection', 'eurotile_category']

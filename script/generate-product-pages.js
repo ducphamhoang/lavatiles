@@ -384,7 +384,7 @@ function main() {
     const code = valueFromInfo(info, ['Mã sản phẩm']) || path.basename(file, '.json');
     const description = cleanText(product.description) || leadText(product, info, category);
     const detailUrl = `${categorySlug}/${outputName}`;
-    const brand = valueFromInfo(info, ['Hãng sản xuất']) || 'Lavatiles';
+    const brand = valueFromInfo(info, ['Hãng sản xuất', 'Thương hiệu']) || 'Lavatiles';
 
     if (!images.length) missingImages += 1;
     if (!valueFromInfo(info, ['Mã sản phẩm'])) missingCode += 1;
@@ -403,7 +403,7 @@ function main() {
       LEAD: escapeHtml(leadText(product, info, category)),
       ATTRIBUTES: summaryAttributes(product, info, category),
       DETAIL_PANEL: detailPanel(info, category),
-      SHARE_URL: encodeURIComponent(`https://vietceramics.com/san-pham/gach-op-lat/${detailUrl.replace(/\.html$/, '/')}`),
+      SHARE_URL: '#',
     }), 'utf8');
 
     manifest.push({
@@ -417,10 +417,18 @@ function main() {
       color: valueFromInfo(info, ['Họa tiết']) || 'Đang cập nhật',
       size: normalizedSize(info),
       placement: placementFromInfo(info, category),
+      brand,
       country: brand,
       image: images[0] || '',
       detailUrl,
     });
+  });
+
+  // Surface the manually curated OCR products before the large legacy catalog.
+  manifest.sort((a, b) => {
+    const aIsRecent = a.image.includes('assets/images/products/viglacera/');
+    const bIsRecent = b.image.includes('assets/images/products/viglacera/');
+    return Number(bIsRecent) - Number(aIsRecent);
   });
 
   const manifestJs = [

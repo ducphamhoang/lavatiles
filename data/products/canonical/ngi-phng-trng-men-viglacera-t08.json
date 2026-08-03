@@ -2,11 +2,16 @@
   "canonical_id": "viglacera-0",
   "title": "Ngói phẳng tráng men Viglacera T08",
   "product_info": {
-    "Mã sản phẩm": "0",
+    "Mã sản phẩm": "T08",
+    "Loại sản phẩm": "Ngói phẳng tráng men",
+    "Kích thước": "340 x 355 mm",
+    "Bề mặt": "Polished",
+    "Đóng gói": "9 viên/hộp",
+    "Định mức": "12 viên = 1 m2",
     "Giá": "Liên hệ",
     "Hãng sản xuất": "Viglacera"
   },
-  "description": "",
+  "description": "Ngói phẳng tráng men Viglacera T08, kích thước 340 x 355 mm, bề mặt Polished, đóng gói 9 viên/hộp.",
   "images": [
     "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59790921217174a579e9f27c8da5fc250d347226767d8-4903.jpg",
     "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5979009403609546b20946534efbeec9afe1983755fcd-1868.jpg",
@@ -18,8 +23,8 @@
   "view_count": 0,
   "canonical": {
     "status": "survived",
-    "sku": "0",
-    "sku_key": "NGOIPHANGTRANGMENVIGLACERAT08",
+    "sku": "T08",
+    "sku_key": "T08",
     "brand": "Viglacera",
     "category_slug": "ngoi-phng-t",
     "category_label": "Ngói phẳng",
@@ -31,7 +36,7 @@
         "role": "primary",
         "file": "data/products/ngi-phng-trng-men-viglacera-t08.json",
         "title": "Ngói phẳng tráng men Viglacera T08",
-        "rawSku": "0",
+        "rawSku": "T08",
         "imageCount": 19
       }
     ]

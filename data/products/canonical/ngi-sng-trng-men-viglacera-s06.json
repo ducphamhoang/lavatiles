@@ -2,11 +2,17 @@
   "canonical_id": "viglacera-ngoi-viglacera-s06",
   "title": "Ngói sóng tráng men Viglacera S06",
   "product_info": {
-    "Mã sản phẩm": "NGÓI VIGLACERA S06",
+    "Mã sản phẩm": "S06",
+    "Loại sản phẩm": "Ngói sóng tráng men",
+    "Kích thước": "300 x 400 mm",
+    "Bề mặt": "Tráng men",
+    "Trọng lượng": "3 - 3,2 kg/viên",
+    "Đóng gói": "9 viên/hộp",
+    "Định mức": "10,5 viên/m2",
     "Giá": "Liên hệ",
     "Hãng sản xuất": "Viglacera"
   },
-  "description": "",
+  "description": "Ngói sóng tráng men Viglacera S06, kích thước 300 x 400 mm, trọng lượng 3 - 3,2 kg/viên, đóng gói 9 viên/hộp.",
   "images": [
     "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55559180247220c9051eb23f8f1b62c8b2519cc3872b8-7744-min-6866.jpg",
     "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59789869549960289fe2516ef02ce52853720f1b70485-9582.jpg",
@@ -19,8 +25,8 @@
   "view_count": 0,
   "canonical": {
     "status": "survived",
-    "sku": "NGÓI VIGLACERA S06",
-    "sku_key": "NGOIVIGLACERAS06",
+    "sku": "S06",
+    "sku_key": "S06",
     "brand": "Viglacera",
     "category_slug": "ngoi-song",
     "category_label": "Ngói sóng",
@@ -32,7 +38,7 @@
         "role": "primary",
         "file": "data/products/ngi-sng-trng-men-viglacera-s06.json",
         "title": "Ngói sóng tráng men Viglacera S06",
-        "rawSku": "NGÓI VIGLACERA S06",
+        "rawSku": "S06",
         "imageCount": 20
       }
     ]
