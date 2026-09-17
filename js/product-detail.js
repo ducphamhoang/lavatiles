@@ -64,7 +64,13 @@
 
   // ---- category enrichment -----------------------------------------
 
+  var LISTING_CATEGORIES = ['Gạch lát nền', 'Gạch sân vườn', 'Ngói phẳng', 'Ngói sóng'];
+
   function assignCategory(p) {
+    // The generated product data already carries a correct `category`, so keep it
+    // when it matches one of the listing's filter values. The inference below only
+    // fits the legacy hand-curated tile list, whose entries carry a `type`.
+    if (LISTING_CATEGORIES.indexOf(p.category) !== -1) return p.category;
     if (p.type === 'roof') {
       var code = (p.code || '').toUpperCase();
       var title = (p.title || '').toLowerCase();
