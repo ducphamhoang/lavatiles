@@ -97,7 +97,7 @@
       '      <!--   </div> -->',
       '      <!-- </li> -->',
       '      <!-- <li class="nav-item"><a class="nav-link" href="#">Showroom 3D</a></li> -->',
-      '      <li class="nav-item"><a class="nav-link" href="lien-he.html">Liên hệ</a></li>',
+      '      <li class="nav-item"><a class="nav-link' + activeClass(active, 'contact') + '" href="' + link(root, 'lien-he.html') + '">Liên hệ</a></li>',
       '      <!-- <li class="nav-item"><a class="nav-link" href="#">Tuyển dụng</a></li> -->',
       '    </ul>',
       '    <div class="navbar-actions">',
@@ -120,7 +120,7 @@
       '    <li class="nav-item"><a class="nav-link' + activeClass(active, 'catalogue') + '" href="' + link(root, 'catalogue.html') + '">Catalogue</a></li>',
       '    <!-- <li class="nav-item dropdown"><a class="nav-link' + activeClass(active, 'news') + '" href="' + link(root, 'tin-tuc/cam-hung-thiet-ke.html') + '">Tin Tức</a><div class="dropdown-menu"><ul><li><a href="' + link(root, 'tin-tuc/cam-hung-thiet-ke.html') + '">Cảm hứng thiết kế</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=tin-san-pham') + '">Tin sản phẩm</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=cong-ty') + '">Tin công ty</a></li><li><a href="' + link(root, 'tin-tuc.html?category_id=tin-khuyen-mai') + '">Tin khuyến mãi</a></li></ul></div></li> -->',
       '    <!-- <li class="nav-item"><a class="nav-link" href="#">Showroom 3D</a></li> -->',
-      '    <li class="nav-item"><a class="nav-link" href="lien-he.html">Liên hệ</a></li>',
+      '    <li class="nav-item"><a class="nav-link' + activeClass(active, 'contact') + '" href="' + link(root, 'lien-he.html') + '">Liên hệ</a></li>',
       '    <!-- <li class="nav-item"><a class="nav-link" href="#">Tuyển dụng</a></li> -->',
       '  </ul>',
       '</div>'
