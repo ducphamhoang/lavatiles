@@ -12,7 +12,9 @@
     "Hãng sản xuất": "Viglacera"
   },
   "description": "Ngói phẳng tráng men Viglacera T09, kích thước 340 x 355 mm, bề mặt Polished, đóng gói 9 viên/hộp.",
-  "images": [],
+  "images": [
+    "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-trng-men-viglacera-t09/00-51b3528496-t09.jpg"
+  ],
   "view_count": 0,
   "canonical": {
     "status": "survived",

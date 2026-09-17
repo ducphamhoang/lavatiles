@@ -18442,7 +18442,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-06/00-e402dbe737-pt01-06.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-06.html"
   },
   {
@@ -18514,7 +18514,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-trng-men-viglacera-t03/00-dec519f933-t03.png",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t03.html"
   },
   {
@@ -18532,7 +18532,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-trng-men-viglacera-t06/00-1f16a9aacc-t06.png",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t06.html"
   },
   {
@@ -18550,7 +18550,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-trng-men-viglacera-t08/00-9f32f20e83-t08.png",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t08.html"
   },
   {
@@ -18568,7 +18568,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-trng-men-viglacera-t09/00-51b3528496-t09.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t09.html"
   },
   {
@@ -18604,7 +18604,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-sng-trng-men-viglacera-s03/00-0572054238-s03.jpg",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s03.html"
   },
   {
@@ -18622,7 +18622,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-sng-trng-men-viglacera-s06/00-147c8c0331-s06.jpg",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s06.html"
   },
   {
@@ -18640,7 +18640,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-sng-trng-men-viglacera-s08/00-96247ca040-s08.jpg",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s08.html"
   },
   {
@@ -18676,7 +18676,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-sng-trng-men-viglacera-s12/00-938a4e6eb7-s12.jpg",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s12.html"
   },
   {

@@ -11,7 +11,9 @@
     "Hãng sản xuất": "Viglacera"
   },
   "description": "Ngói phẳng Piata Viglacera PT01-06, kích thước 305 x 340 mm, bề mặt Polished, đóng gói 7 viên/hộp.",
-  "images": [],
+  "images": [
+    "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-06/00-e402dbe737-pt01-06.jpg"
+  ],
   "view_count": 0,
   "canonical": {
     "status": "survived",

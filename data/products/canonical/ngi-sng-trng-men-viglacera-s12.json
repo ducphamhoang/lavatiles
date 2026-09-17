@@ -13,7 +13,9 @@
     "Hãng sản xuất": "Viglacera"
   },
   "description": "Ngói sóng tráng men Viglacera S12, kích thước 300 x 400 mm, trọng lượng 3 - 3,2 kg/viên, đóng gói 9 viên/hộp.",
-  "images": [],
+  "images": [
+    "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-sng-trng-men-viglacera-s12/00-938a4e6eb7-s12.jpg"
+  ],
   "view_count": 0,
   "canonical": {
     "status": "survived",
