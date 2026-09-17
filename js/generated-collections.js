@@ -9,12 +9,12 @@ window.LavatileGeneratedCollections =
     "slug": "an-nien",
     "image": "../../assets/hero-an-nien-v2.png",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/annien/pc-An-nien3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/annien/MOTA-ANNIEN-G-01.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79779b79ee-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2861bed26a-pc-An-nien1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2dfdd9a661-pc-An-nien2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3a83473575-pc-An-nien4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f50cf2a624-pc-An-nien3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d699b1050-MOTA-ANNIEN-G-01.png"
     ],
     "description": "Thời khắc đang đi nhịp thái bình Dịu dàng gió nhạt thổi mây xanh Hàng cây mở ngọn kêu chim đến Hạnh phúc xem như chuyện đã đành.",
     "productInfo": {
@@ -40,14 +40,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "cat-an",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fdc12cf388-CAN-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-minhhoa-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-phoicanh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-phoicanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/minhhoa-catan.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/map/CAN-X01M-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fdc12cf388-CAN-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79b7d270b3-CAN-minhhoa-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d67a7ef905-CAN-phoicanh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/96baceadd7-CAN-phoicanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f8c94e3875-minhhoa-catan.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cea300a764-CAN-X01M-1.jpg"
     ],
     "description": "Cát An tựa bãi bờ rộng lớn ôm trọn dòng nước phiêu du, như đón chào sự trở về với nơi bình an, giúp ta tìm thấy được sự cân bằng trong tâm trí, nhận ra giá trị của những gì mình đang có, và niềm tin vào một tương lai không cần phải quá lo lắng. Ở một không gian an nhiên tự tại, những áp lực dường như tan biến và ta có thể hít thở thật sâu.",
     "productInfo": {
@@ -70,14 +70,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "cat-tuong",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7b3197fb20-CAT-S01G-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/Cat-tuong-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-phoicanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-minhhoa-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7b3197fb20-CAT-S01G-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/df89987dc3-Cat-tuong-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ec98b191bd-CAT-S01G-phoicanh-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/486713bdac-CAT-S01G-phoicanh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9875befc58-CAT-S01G-phoicanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b456ffe4d2-CAT-S01G-minhhoa-1.jpg"
     ],
     "description": "Có những ngày, hạnh phúc không gõ cửa ồn ào, chỉ khe khẽ ghé qua như một làn gió mát đầu mùa. Và ta chợt hiểu, điều tốt lành đôi khi chỉ đơn giản là một khoảng lặng đủ khiến tâm trí nhẹ tênh. Mọi thứ thật bình thường, nhưng lòng lại thấy đủ đầy và tin rằng mình đang sống trong những ngày cát tường.",
     "productInfo": {
@@ -100,14 +100,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "chay-ve-mien-yen",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fcd9574cf6-CVM-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q-thongsokythuat-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/QRchay-ve-mien-yen.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fcd9574cf6-CVM-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/581a1fc1cb-CVM-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9f4f538f96-CVM-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf604a54af-CVM-Q01TF-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c6bc20e7dd-CVM-Q-thongsokythuat-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e983ebc891-QRchay-ve-mien-yen.png"
     ],
     "description": "Dòng sông không tên lặng lẽ trôi, uốn lượn qua bao miền. Nắng chiều nhuộm đỏ mái ngói cũ, ánh kim vương nhẹ soi làn nước trong xanh. Giữa khung cảnh ấy, ta ngồi xuống, lặng nghe sông hát, ngắm gió du dương, để mặc thời gian “Chảy Về Miền Yên\"",
     "productInfo": {
@@ -130,14 +130,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "chau-sa",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/MH-chausa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb305284a6-MH-chausa.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/MH-chausa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-L01-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/Thit-k-cha-c-tn.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-001.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-008.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/CHS-009.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb305284a6-MH-chausa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/66b7b90633-CHS-L01-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6690b4ba46-Thit-k-cha-c-tn.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9ca0c7bf20-CHS-001.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2ca6f0caf6-CHS-008.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/254ba40688-CHS-009.jpg"
     ],
     "description": "Châu Sa, một viên ngọc quý vô cùng tuyệt đẹp, tỏa sáng giữa đại dương. Một giọt sương tinh khiết, long lanh trong ánh sáng sớm mai. Nó mang đến sự tươi mới và đầy hứng khởi, nơi mà bầu trời xanh ngát, biển cả mênh mông và cát trắng dịu mát.",
     "productInfo": {
@@ -161,14 +161,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "chi-giao-2",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/NEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/210a778cd4-NEN.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/NEN.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/GTL-CHG.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/GTL-CHG2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/GTL-CHG4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/GTL-CHG5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/GTL-CHG7.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/210a778cd4-NEN.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3ae6c5888a-GTL-CHG.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/42ed2f5765-GTL-CHG2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b8fb6bfaa5-GTL-CHG4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9842bf41bb-GTL-CHG5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6fe6c22d15-GTL-CHG7.jpg"
     ],
     "description": "\"Chúng ta thường vội vàng chia mọi thứ là trắng, là đen và cất riêng chúng ở nơi riêng biệt. Nhưng những thứ tưởng chừng đối lập vốn không tách rời - đó chính là thế giới này - là sự pha trộn của những thứ khác nhau\" -Matisyahu-",
     "productInfo": {
@@ -192,14 +192,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "chi-giao",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGBM.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b2edb4b956-CHGBM.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGBM.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGLAYOUT-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGLAYOUT-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGLAYOUT-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGCC.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/map/60120/1-CHG-Q01-face-5.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b2edb4b956-CHGBM.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6bc6915d6-CHGLAYOUT-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/83eebcb28c-CHGLAYOUT-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0fff1e42d-CHGLAYOUT-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5a7d4e97cc-CHGCC.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/32346cf78a-1-CHG-Q01-face-5.jpg"
     ],
     "description": "\"Chúng ta thường vội vàng chia mọi thứ là trắng, là đen và cất riêng chúng ở nơi riêng biệt. Nhưng những thứ tưởng chừng đối lập vốn không tách rời - đó chính là thế giới này - là sự pha trộn của những thứ khác nhau\" -Matisyahu-",
     "productInfo": {
@@ -223,14 +223,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "chieu-nien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-thum-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a3ebdde98-CHN-X01C-thum-2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-thum-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/MINHHOA-CHN.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/Thit-k-cha-c-tn-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/map/CHN-X01C-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a3ebdde98-CHN-X01C-thum-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2cd2893e20-MINHHOA-CHN.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/87f9d23d3b-Thit-k-cha-c-tn-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f86a3d2f88-CHN-X01C-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/92532d1fec-CHN-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e0fde7ae80-CHN-X01C-1.jpg"
     ],
     "description": "Mỗi chúng ta đều lớn lên từ những ước mơ bé bỏng, từ nụ cười trong veo của tuổi thơ hồn nhiên. Mỗi khoảnh khắc là món quà dịu dàng của thời gian, mỗi trải nghiệm là bước nhỏ nuôi dưỡng giấc mơ tương lai, dù ngọt ngào hay chông gai, đều là điều quý giá.",
     "productInfo": {
@@ -278,14 +278,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "denim-2",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/NEN3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4eba28b01c-NEN3.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/NEN3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/GTL-DNI3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/DNI-S01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/DNI-S-02.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4eba28b01c-NEN3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/22d851fddc-GTL-DNI.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e83c9837f9-GTL-DNI2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7305cdcc71-GTL-DNI3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8648a0701d-DNI-S01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b85dc21b03-DNI-S-02.png"
     ],
     "description": "Từ những năm 50, denim trở thành một biểu tượng thời trang, một đặc trưng cho sự khác biệt và nổi loạn của thế hệ trẻ. Dấu ấn ấy vẫn duy trì đến tận hôm nay với sự sáng tạo không giới hạn. \"Tôi không ưa vẻ đẹp tiêu chuẩn - Làm gì có vẻ đẹp nào mà không kỳ lạ đôi chút\" -Karl Lagerfeld",
     "productInfo": {
@@ -308,14 +308,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "denim",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/hinhnen-sok-01-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28703beaf7-hinhnen-sok-01-01.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/hinhnen-sok-01-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/DNI-PC-WEBSITE-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/DNI-Q01pc.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/DNI-anhnen-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/map/600x1200/SIG.DNI-Q01-face-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/thongso-dni.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28703beaf7-hinhnen-sok-01-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6155f35c90-DNI-PC-WEBSITE-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8a5fac018f-DNI-Q01pc.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1379fc2d7c-DNI-anhnen-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ae0bea95ac-SIG.DNI-Q01-face-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/efa348a834-thongso-dni.png"
     ],
     "description": "Từ những năm 50, denim trở thành một biểu tượng thời trang, một đặc trưng cho sự khác biệt và nổi loạn của thế hệ trẻ. Dấu ấn ấy vẫn duy trì đến tận hôm nay với sự sáng tạo không giới hạn. \"Tôi không ưa vẻ đẹp tiêu chuẩn - Làm gì có vẻ đẹp nào mà không kỳ lạ đôi chút\" -Karl Lagerfeld",
     "productInfo": {
@@ -339,13 +339,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "diep-vu",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/MH-diepvu.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/05c106fc2f-MH-diepvu.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/MH-diepvu.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/pc-diepvu-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/pc-diepvu-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/DIV-G01-TF.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/DIV-G-04.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/05c106fc2f-MH-diepvu.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5b7731de84-pc-diepvu-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d15d1c0f03-pc-diepvu-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/531a2cece3-DIV-G01-TF.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d7f8e8df10-DIV-G-04.png"
     ],
     "description": "Ngồi dưới bóng cây, tôi mê mẩn xem những chiếc lá đang khiêu vũ trước khi chạm xuống mặt đất. Chiếc lá đầu tiên khẽ rơi như trút bỏ được tảng đá nặng. Chiếc thứ 2, rồi thứ 3 xoay tròn hình xoắn ốc một cách nhẹ nhàng, thảnh thơi.",
     "productInfo": {
@@ -393,14 +393,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "duoi-tan-la",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa2cd01bcb-DTL-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q-thongsokythuat-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/QRDuoi-tan-la.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa2cd01bcb-DTL-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/faa0efde72-DTL-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/098d02a1f2-DTL-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c0a8d18e74-DTL-Q01TF-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f61a7a168c-DTL-Q-thongsokythuat-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/27812ab8d2-QRDuoi-tan-la.png"
     ],
     "description": "Khoảnh khắc ngước nhìn tia sáng lấp lánh len lỏi qua từng kẽ lá, ta chợt thấy niềm tin bừng sáng như hạt sương tinh khôi, hòa trong nhịp thở của cây và giai điệu của gió. Dưới Tán Lá chở che ấy, ta chậm ngắm hồi ức, gieo mầm cho một tương lai mới.",
     "productInfo": {
@@ -423,14 +423,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "dan-chau",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/MH-danchau.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/974a1ca13b-MH-danchau.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/MH-danchau.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/DACQ02TF01.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/DACQ02TF03.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/PC-danchau-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/DAC-Q01-TF-.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/DAC-Q03-TF.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/974a1ca13b-MH-danchau.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/93444f7c26-DACQ02TF01.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bb96c607e5-DACQ02TF03.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1c3727e3a5-PC-danchau-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76594b9898-DAC-Q01-TF-.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3121f44b8e-DAC-Q03-TF.jpg"
     ],
     "description": "Ai cũng đã từng ở trong một thế giới thu nhỏ, nơi có sợi tơ mềm mại gắn kết sức mạnh tình yêu và sự chở che. Ở đó, ta thỏa sức bơi lội khám phá mê cung như một nhà thám hiểm, tìm kiếm sự thấu hiểu và gắn kết yêu thương.",
     "productInfo": {
@@ -455,14 +455,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "dang-nguyen",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/NEN-DAN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ca442274ef-NEN-DAN.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/NEN-DAN.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/PC-DAN-6.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ca442274ef-NEN-DAN.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/38c8b9efc6-PC-DAN-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb97f7027d-PC-DAN-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1f8a9a91f3-PC-DAN-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d4e3dc32cc-PC-DAN-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e4c113e376-PC-DAN-6.jpg"
     ],
     "description": "Trên con thuyền ký ức, ta thả hồn trôi theo dòng thời gian. Những ước mơ, khát vọng, hoài niệm đẹp đẽ, tất cả như cánh chim bay về cội nguồn. Thấy đôi mắt trẻ thơ là ánh sáng thuần khiết, trong sáng và hồn nhiên.",
     "productInfo": {
@@ -511,13 +511,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "dien-vien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/mh-DIENVIEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cd1986dd47-mh-DIENVIEN.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/mh-DIENVIEN.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/PC-dienvien.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/DVI-C01-TF.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/DVI-C02-TF.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/DVI-C-02.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cd1986dd47-mh-DIENVIEN.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a582acb164-PC-dienvien.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fa1d3e50c3-DVI-C01-TF.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/942b58bad9-DVI-C02-TF.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa946e1728-DVI-C-02.png"
     ],
     "description": "Trở về bên mái nhà xưa, ta như trút hẳn mọi gánh nặng tâm hồn. Tự tay trồng rau, chăm hoa và nuôi cá mới thấy cuộc đời vốn dĩ đâu chỉ toàn những điều gay gắt",
     "productInfo": {
@@ -541,9 +541,9 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "dong-phong",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/sigp-8804/Sig.P-8804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/27070e9a50-Sig.P-8804.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/sigp-8804/Sig.P-8804.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/27070e9a50-Sig.P-8804.jpg"
     ],
     "description": "Có cánh cửa khép hờ cùng gió bão Đựng niềm vui, tiếng cười nói rộn vang… Khi xa nhà, khi đông lạnh đã sang Con nhớ nhà nhớ ổ rơm ngày ấy Nhớ vòng tay.. mẹ ơi… sao quen thuộc… Giữa mùa đông bỗng thấy ấm lạ lùng…",
     "productInfo": {
@@ -566,14 +566,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "dong-phuong",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-TIMNHANH.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/84c101c47d-DOP-S01G-TIMNHANH.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-TIMNHANH.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/dong-phuong-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-PHOICANH-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-PHOICANH-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-THONGSOKYTHUAT-01.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/84c101c47d-DOP-S01G-TIMNHANH.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/034144fa05-dong-phuong-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/67bbef267f-DOP-S01G-PHOICANH-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7fb0f35447-DOP-S01G-PHOICANH-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8a997869ee-DOP-S01G-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bdc1c53088-DOP-S01G-THONGSOKYTHUAT-01.png"
     ],
     "description": "Mây vắt qua mái đền xưa, cuộn mình trên gấm vóc, uốn theo nét vẽ sơn mài. Dẫu trôi qua bao thời đại, mây vẫn lặng lẽ hiện diện giữa những nếp sống văn hóa phương Đông, nhẹ nhàng mà gắn kết muôn đời.",
     "productInfo": {
@@ -596,14 +596,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "giai-ky",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/GIK-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/31640afda9-GIK-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/GIK-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/MINHHOA-GIAIKY.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/PC-GIK-S01G-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/PC-GIK-S01G-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/PC-GIK-S01G-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/GIK-X01P-phoicanh.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/31640afda9-GIK-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/27c9ea47c1-MINHHOA-GIAIKY.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9adfad1c7a-PC-GIK-S01G-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f38ed1393-PC-GIK-S01G-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/12a4d4b4ce-PC-GIK-S01G-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9f74882119-GIK-X01P-phoicanh.jpg"
     ],
     "description": "Giai Kỳ là khoảnh khắc ta cùng ngồi lại, chậm rãi chuyện trò bên tách Phổ Nhĩ đa tầng hương vị. Khói trà nóng lặng lẽ lan nhẹ, đan xen giữa mùi hương thoảng của gỗ trầm, dường như vị chát nơi đầu lưỡi cũng tan dần để lại sắc ngọt dịu của trái cây vừa chín tới, rồi lắng đọng như dư vị của cuộc sống trong từng khoảnh khắc sẻ chia.",
     "productInfo": {
@@ -627,14 +627,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "gibellina",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G7.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/GIB20-G6.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/81a7ac6106-GIB20-G.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76c83b9f0f-GIB20-G2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/413b04bba1-GIB20-G3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3ce1710f89-GIB20-G7.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/efcb6abb39-GIB20-G6.jpg"
     ],
     "description": "Lấy cảm hứng từ nghệ thuật Burri, bộ sưu tập Gibellina gợi nhắc về nghệ thuật đầy biến hoá của nghệ sĩ người Ý Alberto Burri trong việc chuyển đổi những vết nứt thời gian và không gian bằng 3 tông màu thiết kế mang tính ứng dụng cao.",
     "productInfo": {
@@ -661,14 +661,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hai-bang",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b80d129847-HAB-S01P-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-minh-hoa-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HABS02P-PC-222.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-Phoi-canh-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b80d129847-HAB-S01P-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aea27cd901-HAB-minh-hoa-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e28c822893-HAB-S01P-Phoi-canh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6ec4df595b-HABS02P-PC-222.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d7f6fdfb6e-HAB-S01P-Phoi-canh-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9e2c9f198b-HAB-S01P-Phoi-canh-1.jpg"
     ],
     "description": "Mùa đông Châu Âu tựa như bức họa băng tuyết đầy sống động. Khi ấy biển cả khoác lên mình chiếc áo choàng tinh khôi giữa không gian cảnh quan phủ đầy tuyết trắng. Một vẻ đẹp huyền ảo và thi vị dành cho những ai yêu thích sự lãng mạn hay khám phá điều mới lạ.",
     "productInfo": {
@@ -692,14 +692,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hai-luu",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/445f3a7315-HAL-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/minhhoa-Hailuu.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-X01M-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-X01M-PC.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-minhhoa-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/map/HAL-X01M-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/445f3a7315-HAL-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fdfee60449-minhhoa-Hailuu.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/299b29d39f-HAL-X01M-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9c86418515-HAL-X01M-PC.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/29b550d3ab-HAL-minhhoa-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/99e6ff1096-HAL-X01M-1.jpg"
     ],
     "description": "Mặt biển có thể phẳng lặng, nhưng dưới lớp sóng êm những dòng hải lưu vẫn âm thầm chuyển động. Hải Lưu không chỉ là dòng chảy của đại dương, mà còn là biểu tượng cho sức mạnh nội lực để tạo nên những biến đổi sâu sắc trong lòng biển cả.",
     "productInfo": {
@@ -722,13 +722,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hai-phong-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/NEN-HAP.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c780d18888-NEN-HAP.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/NEN-HAP.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/GTL-Hai-Phong-web.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/GTL-Hai-Phong-web6.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/HAP-N01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/HAP-N.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c780d18888-NEN-HAP.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e267e8fd74-GTL-Hai-Phong-web.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d9a54d07a0-GTL-Hai-Phong-web6.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e0ad5877c2-HAP-N01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/379dea370e-HAP-N.png"
     ],
     "description": "Gió vi vu gọi gió cuốn xa Biển trào dâng gọi biển bao la Gió bay bay mãi vào vô tận Biển gọi biển gào biển thiết tha Biển hòa gió quyện mãi âm vang Gió thổi thênh thang sóng nhẹ nhàng",
     "productInfo": {
@@ -800,14 +800,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hanh-trinh-phu-sa",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b381735d1a-HTP-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q-thongsokythuat-oki123.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/QRHanh-trinh-phu-sa.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b381735d1a-HTP-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/43c0744eb2-HTP-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6145bbdb6d-HTP-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8958da57b5-HTP-Q01TF-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3983f82ab8-HTP-Q-thongsokythuat-oki123.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/16410d003a-QRHanh-trinh-phu-sa.png"
     ],
     "description": "“Hành Trình Phù Sa” là dòng chảy của đất Mẹ, chậm rãi bồi đắp từng lớp ký ức màu đỏ gạch, xanh rêu, trắng ngà. Mỗi vệt màu là một mùa nước, một hơi thở thời gian, lặng lẽ viết nên câu chuyện về sự đủ đầy, ấm no trong văn hóa phương Đông.",
     "productInfo": {
@@ -830,13 +830,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hoa-da",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoada/pc-hoada1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/20a180dc8e-pc-hoada3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d3fd510778-pc-hoada2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/64be5e0f93-pc-hoada4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e050eb120e-pc-hoada1.jpg"
     ],
     "description": "Những dòng dung nham tuôn trào như ngày khai nhụy nở hoa, một bông hoa rực rỡ, mãnh liệt và vô cùng nóng bỏng. Là món quà tạo hóa dành tặng cho những ai chiêm ngưỡng vẻ đẹp của nó.",
     "productInfo": {
@@ -866,14 +866,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hoa-trong-gio-lang",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d49ad8f94-HTG-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/minhhoa-HTG.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q-thongsokythuat-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/QRHoa-trong-gio-lang.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d49ad8f94-HTG-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bce343e696-minhhoa-HTG.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/eed4b69e65-HTG-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/60dd7fe52e-HTG-Q01TF-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/864c39ab14-HTG-Q-thongsokythuat-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ad64f05945-QRHoa-trong-gio-lang.png"
     ],
     "description": "\"Hoa Trong Gió Lặng\" không nghiêng mình theo gió, mà đứng yên lắng nghe lời thì thầm của đất. Mỗi cánh hoa là một miền hồi ức, có đóa vàng nhuốm màu nắng xưa, đóa xanh ươm niềm hy vọng, và cả khoảng lặng của riêng mình.",
     "productInfo": {
@@ -896,13 +896,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hoa-vien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-05.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4b7760e772-HOAVIEN-05.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-05.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-04.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-06.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/THONGSO-HOV-07.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-03.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4b7760e772-HOAVIEN-05.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7c3cb89083-HOAVIEN-04.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/54427c0527-HOAVIEN-06.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b9288590cf-THONGSO-HOV-07.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2bead23188-HOAVIEN-03.jpg"
     ],
     "description": "Khi bạn ngồi bên chiếc bàn thưởng thức một tách trà, nghe tiếng chim lảnh lót, ngắm nhìn vườn hoa nhỏ và hòn non bộ với những chú cá nhỏ tung tăng bơi lội, sẽ là lúc tâm hồn bạn thư thái và trút bỏ hết muộn phiền.",
     "productInfo": {
@@ -925,14 +925,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "hoi-an",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOABMPC-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7a4dcd9a1b-HOABMPC-4.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOABMPC-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOAPC-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOAPC-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/1HOABMPC-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ01-f-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ02-f-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7a4dcd9a1b-HOABMPC-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2434bea245-HOAPC-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d4cf2dd16c-HOAPC-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6695a08ecb-1HOABMPC-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/df643bfaef-HOAQ01-f-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/05b0d5261b-HOAQ02-f-2.jpg"
     ],
     "description": "Ngược dòng lạc bước phố đèn Xa rời cám dỗ, bon chen thị thành Dưới cầu thắp chiếc hoa đăng Đẩy theo dòng nước lo toan muộn phiền Đêm về phố hội lên đèn Bài chòi, giã gạo, hò khoan, thi cờ Rộn ràng tiếng trống đang chờ Chào người lữ khách cập bờ đêm thu Dẫu cho khắp chốn chu du Sắc màu non nước vẫn lưu phố đèn",
     "productInfo": {
@@ -958,14 +958,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "huyen-sa",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/83b24e6a13-pc-huyensa-4.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/huyensaedit.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-G01-TF.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/HUS-G-04.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/83b24e6a13-pc-huyensa-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/211198a4ee-huyensaedit.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/98e5e9ebea-pc-huyensa-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/57f23e811d-pc-huyensa-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/16040df8ba-HUS-G01-TF.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d0addf214c-HUS-G-04.png"
     ],
     "description": "Màu sắc ngoài cái đẹp trời cho còn có một chiều sâu kín đáo. Giữa không gian màu đen huyền bí, sự lấp lánh và tỏa sáng của màu vàng khiến căn phòng bạn trở nên ấm áp và quyến rũ.",
     "productInfo": {
@@ -989,14 +989,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "khai-ca",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q02S-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/SIG-KHC-Q01S-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/920f1d2a7e-SIG-KHC-Q02S-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9c233ecae0-SIG-KHC-Q02S-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7f6b0b4a19-SIG-KHC-Q01S-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/955d863ff0-SIG-KHC-Q01S-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/542b3e360c-SIG-KHC-Q01S-2.jpg"
     ],
     "description": "Chẳng có ai là hoàn hảo trên cuộc đời này, ngay cả một chiếc bát lâu ngày cũng có thể nứt mẻ theo thời gian. Nhưng nếu can đảm đối mặt với những \"vết nứt cuộc đời\", chúng ta sẽ tỏa sáng như chiếc bát được hàn gắn lại từ bột vàng.",
     "productInfo": {
@@ -1022,14 +1022,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "khai-dang",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/274b1bb839-PC-KHD-S02H-2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/KHS02P-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/KHS02P-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/KHS01H-4.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/274b1bb839-PC-KHD-S02H-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7631bd432e-PC-KHD-S02H-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7659ce6637-PC-KHD-S02H-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/06712f7f7d-KHS02P-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d05b187502-KHS02P-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ceae6001d7-KHS01H-4.jpg"
     ],
     "description": "Trong không gian vô hạn, kiến thức trải dài như đại dương bao la. Mỗi hạt cát là một hạt tri thức, một mảnh ghép nhỏ trong bức tranh toàn diện. Mỗi viên ngọc sáng đều ẩn chứa một giá trị vô hạn, của sự cống hiến và tích lũy không ngừng.",
     "productInfo": {
@@ -1053,14 +1053,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "khoi-nguyen",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/976e71b459-Thit-k-cha-c-tn-3.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-minhhoa-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-x02M-phoicanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/KHN-minhhoa-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/map-khn/KHN-X01M-3F-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/map-khn/KHN-X02M-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/976e71b459-Thit-k-cha-c-tn-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2896ada1ac-KHN-minhhoa-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2b6ea3b4e1-KHN-x02M-phoicanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8f3434512b-KHN-minhhoa-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6d05fc2917-KHN-X01M-3F-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/17b301a3ca-KHN-X02M-1.jpg"
     ],
     "description": "Trong dòng chảy thời gian không ngừng, có những khoảnh khắc mới mang theo khát vọng lớn lao và niềm tin không lay chuyển. Nơi mỗi chặng đường vừa mở ra, mọi giấc mơ đều có thể trở thành hiện thực. Ở đó, ta không chỉ bước tiếp, mà còn chọn cho mình một lối đi riêng và trân trọng về hành trình đã từng đi qua.",
     "productInfo": {
@@ -1085,14 +1085,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "khuc-vang",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de9e7671da-KHV-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-minhhoa-oki-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-minhhoa1-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q-thongsokythuat-09.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de9e7671da-KHV-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9ba7f9517b-KHV-Q01TF-minhhoa-oki-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6f76a5ac06-KHV-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf70914f7e-KHV-Q01TF-minhhoa1-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a86cd7020b-KHV-Q01TF-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/02c67cab42-KHV-Q-thongsokythuat-09.png"
     ],
     "description": "Dòng sông uốn lượn mềm mại, mang theo ánh vàng phù sa lấp lánh sau mỗi mùa nước nổi. Sự giao thoa giữa sắc màu và vẻ đẹp miền sông nước hòa thành bản hoài âm “Khúc Vàng”, nơi con nước vun bồi vùng đất sanh dưỡng qua bao thế hệ.",
     "productInfo": {
@@ -1115,14 +1115,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "ky-uc-so",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e53c63e7c5-KUS-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-SO-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q-thongsokythuat-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/QRKy-uc-so.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e53c63e7c5-KUS-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/33fd5a791e-KUS-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c7ff05aa9d-KUS-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf88513b87-KUS-Q01TF-SO-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f36b82a4f6-KUS-Q-thongsokythuat-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4810961b28-QRKy-uc-so.png"
     ],
     "description": "Khi thời đại không còn ranh giới giữa thật và ảo, con người sống giữa những mảng dữ liệu đan xen như tấm thảm lập trình màu xanh thẳm. Mỗi ô vuông trong “Ký Ức Số” lưu giữ niềm vui, thử thách và thành công, hòa thành bức tranh số hóa của cảm xúc và ước mơ.",
     "productInfo": {
@@ -1145,14 +1145,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "lam-hai",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-9.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-7.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/PC-LAH-I-6.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8e3dff73d7-PC-LAH-I-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b79b7bcfb1-PC-LAH-I-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5ef85910af-PC-LAH-I-9.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b2ebd28103-PC-LAH-I-7.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0fb796fa91-PC-LAH-I-6.jpg"
     ],
     "description": "Hãy sống như vách đá bên bờ biển không ngừng đón lấy những cơn sóng vỗ, nhưng vẫn luôn đứng vững và làm dịu cơn thịnh nộ của biển cả xung quanh. - Vượt qua giông bão -",
     "productInfo": {
@@ -1178,14 +1178,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "lan-ha",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8975bf1dc5-LHA-avatar-2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-mimh-hoa-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-mimh-hoa-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-X01M-.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-X-THONG-SO-KY-THUAT-07.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8975bf1dc5-LHA-avatar-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7f37ed5c1b-LHA-mimh-hoa-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cec29ea618-LHA-avatar-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ee83c9a18d-LHA-mimh-hoa-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/214f53e33d-LHA-X01M-.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b60270839a-LHA-X-THONG-SO-KY-THUAT-07.png"
     ],
     "description": "Giữa vịnh nhỏ trong xanh, hàng trăm hòn đảo đá vôi nối tiếp nhau, xếp đặt khéo léo thành bức phù điêu thiên nhiên tráng lệ, vừa thơ mộng, vừa hữu tình. Cảnh sắc dành cho những ai yêu thích vẻ đẹp nguyên sơ, mong muốn một lần đặt chân tới trải nghiệm.",
     "productInfo": {
@@ -1208,14 +1208,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "liguria",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/PC-lig20.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LI20-G01-PC1.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LI20-G01-PC2.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LI20-G01-PC3.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/lig20-g/LIG20-G01-13.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e3302555f2-PC-lig20.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7aead13b78-LI20-G01-PC1.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c66812b28a-LI20-G01-PC2.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bcdeb073b2-LI20-G01-PC3.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d746e974c4-LIG20-G01-13.jpg"
     ],
     "description": "Bộ sưu tập Liguria như một phiên bản công nghệ cao của những phiến đá trên con đường Viadell’ Ardesia, nổi bật với kiểu dáng, màu sắc đẹp và tính kỹ thuật cao.",
     "productInfo": {
@@ -1241,14 +1241,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "luu-sa",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/pc-luu-sa3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H01-1.png",
-      "https://www.eurotile.vn/pictures/catalog/product/luusa/lus-h/LUS-H02-1.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4c1bb8196a-pc-luu-sa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4bead6607b-pc-luu-sa2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9ef434a279-pc-luu-sa3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a810f11c6f-LUS-H01-1.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/68fd759031-LUS-H02-1.png"
     ],
     "description": "Hạt cát nhỏ nhoi trong vũ trụ bao la, nước có thể cuốn trôi, gió có thể xô bạt. Dù có phiêu bạt về nơi đâu, cát vẫn trơ lại với màu thời gian, trường tồn trước những biến động. Cuộc sống quan trọng là \"lòng nhân\", tâm bất biến giữa dòng đời vạn biến.",
     "productInfo": {
@@ -1277,14 +1277,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "luu-thuy",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/pc-luuthuy.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/pc-luuthuy2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/pc-luuthuy3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/pc-luuthuy4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/luuthuy/c.LUT-D05.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3792560cbe-pc-luuthuy.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/88fc3529a4-pc-luuthuy2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/716d696734-pc-luuthuy3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d7bb536d5b-pc-luuthuy4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/583788e69f-c.LUT-D05.jpg"
     ],
     "description": "Seine ngày và đêm như hai bức tranh khác nhau về Paris được khắc họa bởi sắc màu ánh sáng của không gian và thời gian. Du khách đến rồi đi như dòng nước sông Seine luôn đong đầy cảm xúc cho những ai yêu nghệ thuật và sự lãng mạn...",
     "productInfo": {
@@ -1313,14 +1313,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-binh-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6754a95fd5-MOB-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-hinh-minh-hoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-phoi-canh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-phoi-canh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-MINH-HOA-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/mob-m01/MOB-M01-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6754a95fd5-MOB-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76070b5fec-MOB-hinh-minh-hoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5e717bbd17-MOB-phoi-canh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d1f329f669-MOB-phoi-canh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de3a4d44f8-MOB-MINH-HOA-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/29def4ba67-MOB-M01-1.jpg"
     ],
     "description": "Giữa bề bộn cuộc sống, có đôi lần ta loay hoay và tự hỏi liệu sự bình yên mình vốn có giờ đây đã đi đâu mất rồi? Để giữ lại trong lòng chút bình yên, ta chẳng cần phải chật vật kiếm tìm. Bình yên, vốn hiện diện ở những điều giản đơn trong cuộc sống này mà ta đã vô tình quên đi.",
     "productInfo": {
@@ -1345,14 +1345,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-chau",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-1-Copy-copy.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-2-copy.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/MOC04-3-copy.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-do3/MOC-D03-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocchau/moc-do4/MOC-D04-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c47cf1810b-MOC04-1-Copy-copy.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/19fde85074-MOC04-2-copy.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/deacdb3813-MOC04-3-copy.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b57eb26a4e-MOC-D03-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8cb4063ac5-MOC-D04-1.jpg"
     ],
     "description": "Không quá gần, cũng không quá xa. Không quá chập chùng để thấy choáng ngợp, không quá thưa thớt để thấy nhạt nhoà. Nhưng đủ để có cảm tưởng như mình đang đứng trong đất trời mênh mông.",
     "productInfo": {
@@ -1382,14 +1382,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-chi",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-timnhanh-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/db9fdf6006-MCH-M-timnhanh-1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-timnhanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-phoicanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-phoicanh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/mchi-m01/MCH-M01-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/mch-m02/MCH-M02-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/db9fdf6006-MCH-M-timnhanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1b27135907-MCH-M-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7aa05b83f9-MCH-M-phoicanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9a3abf7584-MCH-M-phoicanh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bab1ddfcce-MCH-M01-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/89e05b7813-MCH-M02-1.jpg"
     ],
     "description": "Cây cối nói chuyện với nhau như thế nào? Bạn biết không, bên dưới đất ngầm là cả một thế giới kết nối, nơi của những “nhà trí tuệ” thầm lặng, đã đứng đó đối thoại với nhau trong suốt hàng trăm năm.",
     "productInfo": {
@@ -1414,14 +1414,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-lan",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/20x120/MOL-K01-1.png",
-      "https://www.eurotile.vn/pictures/catalog/product/moclan/20x120/MOL-K02-2.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0f2d3a1862-pc-moclan1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b3005cc63e-pc-moclan3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a8ed7a155f-pc-moclan4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/42707f30eb-MOL-K01-1.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fcf9d2f2ec-MOL-K02-2.png"
     ],
     "description": "Mộc Lan, một loài hoa mang vẻ đẹp thuần khiết, mộc mạc tinh khôi, lãng mạn, quyến rũ nhưng vô cùng mạnh mẽ. Trước bao biến đổi khắc nghiệt của thiên nhiên, Mộc Lan luôn tìm cách tuyệt vời nhất để tồn tại. Như người phụ nữ trước những khó khăn và sóng gió của cuộc đời, vẫn luôn đẹp dịu dàng, thanh cao nhưng vô cùng kiên định, mạnh mẽ và bao dung.",
     "productInfo": {
@@ -1456,14 +1456,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-mien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/layout-moc-mien-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/mocmien/mmi-mosaic/MMI-Z05-MR4-3.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f32f2b9324-layout-moc-mien-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d950691b40-layout-moc-mien-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bc0c0d26bf-layout-moc-mien-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1108c87c1d-layout-moc-mien-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6cff560225-MMI-Z05-MR4-3.jpg"
     ],
     "description": "Hít căng lồng ngực hương hoa đồng cỏ nội để nghe mình khoan khoái. Ngước xa xa để thấy con trâu già gặm cỏ trên đồng, ngẩng cao đầu nhìn cánh diều căng gió giữa trời xanh. Bước lang thang theo bờ ruộng đường quê để nghe sống lại một thời đầu trần chân đất. Chốn mộc mạc bình yên ấy luôn trải dài như hai chữ Mộc Miên.",
     "productInfo": {
@@ -1495,14 +1495,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-tra",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3673f6e6c9-MTR-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A01C.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A02C.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-A03C.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/mtr-a01c/CB.MTR-A01C-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3673f6e6c9-MTR-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7297cc5c48-MTR-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1ec3f17198-MTR-A01C.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/af55ce0a1a-MTR-A02C.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e3759c21c6-MTR-A03C.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/16a3ac6e0b-CB.MTR-A01C-1.jpg"
     ],
     "description": "Mộc Trà đưa ta về nơi buổi chiều yên tĩnh, ánh nắng chiếu rọi qua mái hiên gỗ, thoảng mùi hương dịu nhẹ. Khoảnh khắc ấy mọi thứ như chậm lại, lòng người bỗng lặng yên, để lại một khoảng lặng nhỏ nhưng đủ làm dịu cả ngày dài.",
     "productInfo": {
@@ -1527,14 +1527,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "moc-tung",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/689c41499f-MTU-M-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/mtu-m01/MTU-M01-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/mtu-m02/MTU-M02-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/mtu-m03/MTU-M03-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/689c41499f-MTU-M-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/022a083105-MTU-M-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/94dfa4e5df-MTU-M-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/69b233fedd-MTU-M01-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8fec0bd988-MTU-M02-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2c5508fd30-MTU-M03-1.jpg"
     ],
     "description": "Cây Tùng là một loài cây có sức sống mãnh liệt, dù mọc lên từ nguồn đất khô cằn, thiếu dinh dưỡng hay môi trường đầy sương gió. Vì lẽ đó, nó còn được tượng trưng cho khí chất người quân tử, luôn kiên cường vượt qua mọi khó khăn thử thách.",
     "productInfo": {
@@ -1559,14 +1559,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nam-giao",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/NEN-NAG2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/924e6bbfba-NEN-NAG2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/NEN-NAG2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-10.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/PC-NAG-9.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/924e6bbfba-NEN-NAG2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b5672974c4-PC-NAG-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9729ee053c-PC-NAG-10.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/37dc53fdc1-PC-NAG-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6ccbbf71a5-PC-NAG-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00070c6e51-PC-NAG-9.jpg"
     ],
     "description": "Hàng cây xanh mướt rợp bóng mát, những bước chân đi thật nhẹ nhàng. Bao nguyện ước gửi gắm cùng trời cao, mong sao cuộc sống thật an bình.",
     "productInfo": {
@@ -1589,14 +1589,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "ngoc-giao-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG.NGG-Q04P-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG.NGG-Q04P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/PC-NGG-E04P-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-e/PC-NGG-E04P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/ngg-q/SIG-NGG-Q04P-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/54a8b7e287-SIG.NGG-Q04P-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6a4c48034e-SIG.NGG-Q04P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b6ff55d0af-PC-NGG-E04P-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d9632a9b65-PC-NGG-E04P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/01ad968dfb-SIG-NGG-Q04P-1.jpg"
     ],
     "description": "\"Cuộc đời tựa như một viên đá, chính bạn là người quyết định để viên đá ấy bám rong rêu hay trở thành viên ngọc sáng\" - Cavett Robert",
     "productInfo": {
@@ -1620,14 +1620,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "ngoc-giao",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/PCNGG-S04P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/PCNGG-S04P-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/EDITPCNGG-S04H.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/NGG-S04-P-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/NGG-S04P-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/739b3f83fc-PCNGG-S04P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c6c4fe2fea-PCNGG-S04P-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1d64e8a570-EDITPCNGG-S04H.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a03740a94b-NGG-S04-P-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8b85a3c994-NGG-S04P-1.jpg"
     ],
     "description": "\"Cuộc đời tựa như một viên đá, chính bạn là người quyết định để viên đá ấy bám rong rêu hay trở thành viên ngọc sáng\" - Cavett Robert",
     "productInfo": {
@@ -1651,14 +1651,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "ngoc-trai",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/NEN-NGT2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/283c124f43-NEN-NGT2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/NEN-NGT2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/PC-NGT-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/PC-NGT-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/PC-NGT-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/PC-NGT-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/NGT-N01P-moi-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/283c124f43-NEN-NGT2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/68f7ec9821-PC-NGT-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3000fdf651-PC-NGT-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/90e0625c10-PC-NGT-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ab7ab2ab66-PC-NGT-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/421e7351bb-NGT-N01P-moi-2.jpg"
     ],
     "description": "Vẻ đẹp của Ngọc Trai không chỉ nằm ở bề ngoài lộng lẫy, mà còn bởi sự tinh tế, sâu sắc bên trong. Đó là vẻ đẹp của sự kiên trì, của sự thanh cao giữa lòng đại dương mênh mông.",
     "productInfo": {
@@ -1681,14 +1681,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nguyet-cat",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/pc-nguyet-cat1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/pic/NGC-I03-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/pic/NGC-I03-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/pic/NGC-I03-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/pic/NGC-H03.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b468161af1-pc-nguyet-cat1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/32862c52b8-NGC-I03-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0f6a4e624a-NGC-I03-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/70ea580904-NGC-I03-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9787f71e0b-NGC-H03.jpg"
     ],
     "description": "Những khoảnh khắc giao hòa giữa ánh sáng của hoàng hôn hay bình minh trong từng con sóng; những khoảnh khắc sóng là mình trước khi tan vỡ bên bờ cát lúc dữ dội, lúc vui vẻ nhảy múa, lúc vuốt ve, vỗ về yêu thương…",
     "productInfo": {
@@ -1745,14 +1745,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nha-ca-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S01H-PC-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/GTL-NHC4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHCS02M.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S04M.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-S05M-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6e5476b63f-NHC-S01H-PC-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4249871959-GTL-NHC4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0fdb0cbe01-NHCS02M.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a544b330ed-NHC-S04M.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c097857633-NHC-S05M-1.jpg"
     ],
     "description": "Âm nhạc an tĩnh và tao nhã có thể giúp tâm chúng ta an yên giữa thế giới hối hả. Ngồi uống trà thưởng nguyệt và lắng nghe khúc nhạc là cách tốt nhất để tu dưỡng tinh thần và tâm tính.",
     "productInfo": {
@@ -1779,14 +1779,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nha-ca",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-Q05S-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-Q05S-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-Q06S-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHC-Q06S-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/nhc-q/SIG-NHC-Q05S-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7419cda59d-NHC-Q05S-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8b10ec36f9-NHC-Q05S-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/debef5a319-NHC-Q06S-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b49003ec51-NHC-Q06S-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f54748a3e8-SIG-NHC-Q05S-1.jpg"
     ],
     "description": "Âm nhạc an tĩnh và tao nhã có thể giúp tâm chúng ta an yên giữa thế giới hối hả. Ngồi uống trà thưởng nguyệt và lắng nghe khúc nhạc là cách tốt nhất để tu dưỡng tinh thần và tâm tính.",
     "productInfo": {
@@ -1812,14 +1812,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nha-vi",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/THUMBWWE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a70b63f7a5-THUMBWWE-01.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/THUMBWWE-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/phicanhmau-wedsite-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/phicanhmau-wedsite-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/Nha-Vi-60x120cm-3.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a70b63f7a5-THUMBWWE-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6cf6eeb079-phicanhmau-wedsite-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/67efc574d5-phicanhmau-wedsite-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7cd113ade5-Nha-Vi-60x120cm-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/189a64770f-Nha-Vi-60x120cm-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2734c57aef-Nha-Vi-60x120cm-3.jpg"
     ],
     "description": "Rảo bước vào một sớm tinh mơ nơi đất trời thảnh thơi, ngắm từng chồi non chớm nở đang vươn mình giữa tiếng gió đầy lá xào xạc, tất cả như hòa nhịp theo từng bước chân của bạn, lắng đọng giữa thiên nhiên đôi khi như một lời nhắc nhở, cuộc sống quanh ta vẫn còn nhiều điều thú vị",
     "productInfo": {
@@ -1843,14 +1843,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "nhat-nguyet",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/PC-nhatnguyet-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/PC-nhatnguyet-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/pc-mix.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-G01-TF.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/NHN-G02-TF.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4679a72657-PC-nhatnguyet-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d3927e8af-PC-nhatnguyet-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ea6a56c11-pc-mix.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/345c35ee1f-NHN-G01-TF.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0f44deb0dc-NHN-G02-TF.jpg"
     ],
     "description": "Trăng chỉ mọc khi mặt trời đã lặn. Bình mình lên khi hoàng hôn dần buông xuống. Không thể song hành nhưng tự bao đời, Nhật Nguyệt đã cùng nhau gắn bó, tương trợ trong sự vĩnh cửu và bất diệt của thế giới tự nhiên",
     "productInfo": {
@@ -1876,14 +1876,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "phong-lan",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/SEO.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00c68706a1-SEO.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/SEO.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/MINHHOA-PHONGLAN.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phoi-canh-Phong-Lan-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/Phong-lan-minh-hoa-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00c68706a1-SEO.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/81b5f11a2a-MINHHOA-PHONGLAN.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7d4df9696d-Phoi-canh-Phong-Lan-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/638dc38e86-Phoi-canh-Phong-Lan-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6b39a60b41-Phoi-canh-Phong-Lan-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/634d541031-Phong-lan-minh-hoa-2.jpg"
     ],
     "description": "Mang sắc trắng của mây, hương thanh tao của gió - Phong Lan dịu dàng khoe sắc thắm giữa núi rừng tĩnh lặng. Mảnh mai mà kiêu hãnh, mong manh chẳng dễ phai tàn.",
     "productInfo": {
@@ -1907,14 +1907,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "phong-luu-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/NEN5.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/24b2a1664e-NEN5.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/NEN5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/GTL-PHL.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/GTL-PHL3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/GTL-PHL2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/PHL-S01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/PHL-S.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/24b2a1664e-NEN5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ff75e729e7-GTL-PHL.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1e01a5cdbd-GTL-PHL3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/889345d10f-GTL-PHL2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7f6a804ffc-PHL-S01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6acb8a984c-PHL-S.png"
     ],
     "description": "Gió thổi, mây trôi, nước chảy, ấy là Phong Lưu",
     "productInfo": {
@@ -1960,14 +1960,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "phu-quy",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-007-glare.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-004.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-002.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-PC2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHQ-L02-TF-006.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9bf6a32cca-PHQ-L02-TF-007-glare.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/29bdc28c18-PHQ-L02-TF-004.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/acea6e02af-PHQ-L02-TF-002.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3a88d206a1-PHUQUY-PC2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a8f4c20a68-PHQ-L02-TF-006.jpg"
     ],
     "description": "Hải Thượng Lãn Ông Lê Hữu Trác có nói: “Chỉ có tiếng thơm đời để mãi/ Giàu sang giả dối vốn phù vân”. Vì thế, hãy làm giàu nhân nghĩa, giàu tấm lòng, giàu trí tuệ, giàu hạnh phúc, niềm vui. Hãy sống có ích cho cuộc đời để con người mình trở nên cao quý.",
     "productInfo": {
@@ -1995,14 +1995,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "phu-sa",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/pc-phu-sa4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/phusa/C.1-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8e49579787-pc-phu-sa1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/45a872b18a-pc-phu-sa2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ac1a641ad9-pc-phu-sa3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/289eb4248d-pc-phu-sa4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d8eddde206-C.1-1.jpg"
     ],
     "description": "Dòng sông chảy bốn mùa xanh mát Có gì vui mà dạt dào sông ơi Chăm chỉ mải mê suốt cả cuộc đời Chắt lắng phù sa cho đời xanh mãi.",
     "productInfo": {
@@ -2032,14 +2032,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "pompeii",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/Pompei-web-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/minhhoa-pompei2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pom20-g/POM20-G011.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pom20-g/POM20-G02-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pom20-g/POM20-G-01.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a080e77176-Pompei-web-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/386d0288cf-minhhoa-pompei2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a65a3fa434-POM20-G011.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2b50ece52f-POM20-G02-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3b4e4a22f8-POM20-G-01.png"
     ],
     "description": "Khi dung nham núi lửa giữ cho thành phố Pompeii nguyên vẹn trong hàng nghìn năm, Eurotile lấy cảm hứng từ câu chuyện đó để sáng tạo ra những sản phẩm trông giống như đá với màu sắc trung tính, đường vân tinh sảo và tính thẩm mỹ hoàn hảo.",
     "productInfo": {
@@ -2065,13 +2065,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "sa-thach",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sathach/pc-sa-thach2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sathach/pc-sa-thach1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sathach/pc-sa-thach3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sathach/pc-sa-thach4.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa1f7455bb-pc-sa-thach2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/50f451dc8d-pc-sa-thach1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d59b7f4bd-pc-sa-thach3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf2ff0d549-pc-sa-thach4.jpg"
     ],
     "description": "Đã từng là một trung tâm văn hóa và thương mại phồn thịnh của châu Âu, nước Bỉ càng nổi bật hơn sau hai cuộc chiến với những tàn dư hoàng kim còn sót lại “Khi ta đi qua ta nhìn thấy Một mảng tường bong tróc sần sùi Cũng như Brussel ta ngày ấy Hoàng kim vùng lên biển thương đau” Nét cổ kính lâu đời ghi dấu qua từng con đường. Kiến trúc Bỉ là sự cầu kỳ, mang một phong vị châu Âu rất riêng.",
     "productInfo": {
@@ -2099,14 +2099,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "song-bang",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dbfedcd17a-nen-sob-01.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/pc-sob-website-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-website-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/map/60x120/SIG.SOB-Q01-face-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/thongso-sob-q.png",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/website-qr-01.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dbfedcd17a-nen-sob-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/24d5098df1-pc-sob-website-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/503566b688-nen-sob-website-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f345469b2f-SIG.SOB-Q01-face-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0bf702e1cc-thongso-sob-q.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/955cf96c96-website-qr-01.jpg"
     ],
     "description": "\"Hai mươi năm về sau bạn sẽ hối hận về những gì bạn không làm hơn là những gì bạn làm. Vậy nên hãy tháo dây, nhổ neo ra khỏi bến đỗ an toàn. Hãy để cánh buồm của bạn đón trọn lấy gió. Thám hiểm. Mơ mộng. Khám phá\". _Mark Twain_",
     "productInfo": {
@@ -2130,14 +2130,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "son-du",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/NEN-SOD.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de6ed8b2a9-NEN-SOD.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/NEN-SOD.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01P-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/PC-SOD-N01H-4.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de6ed8b2a9-NEN-SOD.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b1a9e2af3f-PC-SOD-N01P-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e8125b49e5-PC-SOD-N01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1b1d482624-PC-SOD-N01H-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3c460b0ef9-PC-SOD-N01H-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4203e6cca0-PC-SOD-N01H-4.jpg"
     ],
     "description": "Mải mê ta bước lên cao Cỏ cây lẫn đá cheo leo chập chùng Ta thầm hỏi: đâu đỉnh non Cho ta lên mãi thoát vòng nhân gian Cho tiêu tan hết sầu buồn Gởi theo gió núi mây ngàn trắng trong.",
     "productInfo": {
@@ -2161,14 +2161,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "son-khue",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/bemat-wed-2000x1125-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/phoicanh/WEB-SOK-Q03-1-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/phoicanh/WEB-SOK-Q03.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/phoicanh/WEB-SOK-E03.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/phoicanh/sok-I03.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3ed602038a-bemat-wed-2000x1125-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e93ad0ebce-WEB-SOK-Q03-1-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b835a3a0ba-WEB-SOK-Q03.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9faee55ca1-WEB-SOK-E03.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c5113671ff-sok-I03.jpg"
     ],
     "description": "Núi vươn cao chạm trời Gửi lời chào tinh tú Hương đêm trong gió thoảng Gửi lời chúc an hoà.",
     "productInfo": {
@@ -2200,14 +2200,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thach-an",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a73bef5aff-THA-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/mINHHOA-THA.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-X01C-PHOICANH.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-minh-hoa-2-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/map/THA-X01C-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a73bef5aff-THA-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7fdd0006b3-mINHHOA-THA.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7bc413bd40-THA-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce7bbc5f23-THA-X01C-PHOICANH.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d6c32bcbb0-THA-minh-hoa-2-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7eb2dd83ec-THA-X01C-1.jpg"
     ],
     "description": "Là biểu tượng của sự yên ổn và vững chắc. Thạch An tựa như những ngọn núi sừng sững đã chứng kiến bao đổi thay, thăng trầm của thiên nhiên vẫn hiên ngang đứng giữa đất trời bao la.",
     "productInfo": {
@@ -2230,13 +2230,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thach-khue",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachkhue/pc-thach-khue4.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/694a1d8c12-pc-thach-khue1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cc4eb3ac56-pc-thach-khue2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a903a22372-pc-thach-khue3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00b756967e-pc-thach-khue4.jpg"
     ],
     "description": "Sao Khuê một vì sao tinh tú, chiếu sáng những núi đá mộc mạc thô kệch, nhưng vô cùng vững chãi. Thạch Khuê mang nét đẹp trân quý đó. Là dấu ấn của một sự khởi đầu.",
     "productInfo": {
@@ -2262,14 +2262,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thach-nhien",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/15b138272e-THN-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-phoicanh-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-phoicanh-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-X01C-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-X01C-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/15b138272e-THN-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/493faaef67-THN-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b243ea6c0a-THN-phoicanh-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc733c4897-THN-phoicanh-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/332569b5ba-THN-X01C-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0477d47e61-THN-X01C-2.jpg"
     ],
     "description": "Những viên sỏi nhỏ nằm im lặng bên bờ biển, không tròn trịa, không hoàn hảo, mà chỉ đơn giản là sự hiện diện nguyên vẹn của tự nhiên. Nhưng có lẽ, chính những điều mộc mạc nhất lại chạm đến phần sâu lắng trong tâm hồn. Thạch Nhiên là như thế, nơi con người được tự do sống chậm, sống thật, và kết nối lại với chính mình.",
     "productInfo": {
@@ -2292,14 +2292,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thach-son",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-minh-hoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dacfb8959f-THS-minh-hoa.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-minh-hoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-S01P-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-S01P-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-S01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-S01P-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-S01P-oki-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dacfb8959f-THS-minh-hoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/17dda2fa37-THS-S01P-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4da470cb0e-THS-S01P-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0d96b797f4-THS-S01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bdfec095aa-THS-S01P-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb6a6d7906-THS-S01P-oki-1.jpg"
     ],
     "description": "Dãy núi trùng điệp to lớn như vô tận, vách cao như chạm trời, vực thẳm không thấy đáy. Đứng trước thiên nhiên hùng vĩ con người thật nhỏ bé. Người ta luôn có nỗi sợ với những thứ mình không nhìn thấy được, đó là vùng không gian huyền bí đối với họ. Tương lai chưa biết trước, những thử thách phải đương đầu, bạn có dám vượt qua?",
     "productInfo": {
@@ -2322,14 +2322,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thach-vu",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-CC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76ee2b387d-THV-CC.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-CC.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THVlayout-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THVlayout-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THVlayout-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THVlayout-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-BM.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76ee2b387d-THV-CC.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3a9b8be896-THVlayout-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/488ab8dd4b-THVlayout-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/62de348285-THVlayout-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c8b78bb866-THVlayout-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ac6344ccd8-THV-BM.jpg"
     ],
     "description": "Bậc thầy điêu khắc không phải mũi sắt hay đẽo đồng, mà là bàn tay dịu dàng của gió và nước thư thái chạm trổ theo thời gian. -Henry David Thoreau-",
     "productInfo": {
@@ -2354,14 +2354,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thanh-mai",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7190dfa841-PC-THM-1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/NEN-THM.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/THM-N01P-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7190dfa841-PC-THM-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0ccd38a9fe-NEN-THM.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc760b5f87-PC-THM-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc7d2d18b9-PC-THM-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3ac03ab9f0-PC-THM-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5018bbd665-THM-N01P-1.jpg"
     ],
     "description": "Thanh Mai, một đóa hoa tinh khôi e ấp trong nắng xuân với nét đẹp dịu dàng và thuần khiết tựa nàng thiếu nữ tuổi đôi mươi.",
     "productInfo": {
@@ -2384,14 +2384,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thanh-tam-1",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/NEN2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc013dc00d-NEN2.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/NEN2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/GTL-THT.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/GTL-THT2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/GTL-THT3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/GTL-THT4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/THT-S04P-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc013dc00d-NEN2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/9c77f9d5a9-GTL-THT.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6ab43df8f5-GTL-THT2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0f41f2dc9e-GTL-THT3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/efd8ffa9d8-GTL-THT4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a6dfb3de84-THT-S04P-1.jpg"
     ],
     "description": "Nếu bạn không để ánh hào quang của mặt trời làm lóa mắt, bạn sẽ nhìn được biển rộng và chân trời.",
     "productInfo": {
@@ -2414,14 +2414,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thanh-tam",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/22397bb38d-SIGTHT-02.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-07.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-05.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-04.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-06.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-08-08.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/22397bb38d-SIGTHT-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e3fadd54b8-SIGTHT-07.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/17f7a94601-SIGTHT-05.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1d93086e58-SIGTHT-04.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8862fc23cb-SIGTHT-06.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3d732572c0-SIGTHT-08-08.jpg"
     ],
     "description": "\"Nếu bạn không để ánh hào quang của mặt trời làm lóa mắt, bạn sẽ nhìn được biển rộng và chân trời.\"",
     "productInfo": {
@@ -2445,14 +2445,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thien-di",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/pic-moi/THD-G05-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/pic-moi/THD-G05-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/pic-moi/THD-G03-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/pic-moi/THD-G03-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/thiendi/pc-thien-di2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2db2d234b9-THD-G05-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/604c9f82b6-THD-G05-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6cc6c374fe-THD-G03-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e84183b058-THD-G03-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/eca575f109-pc-thien-di2.jpg"
     ],
     "description": "Cuộc sống như vòng quay của bánh xe lãng tử mang tên thời gian. Bánh xe ấy lăn tròn trên những con đường của cảm xúc, của ký ức, của những trải nghiệm.",
     "productInfo": {
@@ -2480,13 +2480,13 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thiet-thach",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/NEN-TTH.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6b2fe92741-NEN-TTH.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/NEN-TTH.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/PC-TTH.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/TIMNHANH-TTH.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/TTH-N01P-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/TTH-N.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6b2fe92741-NEN-TTH.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d3d4799923-PC-TTH.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a35ef35523-TIMNHANH-TTH.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/abb23bcf28-TTH-N01P-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/65bb19280f-TTH-N.png"
     ],
     "description": "Vũ môn vạn trượng hóa thinh không Lòng ta quyết chí tựa lông hồng Cưỡi lên ngọn sóng trùng trùng dữ Hóa rồng bay lượn cùng trời xanh.",
     "productInfo": {
@@ -2509,14 +2509,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thoang-tay-nguyen",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/242a7d443c-TTN-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q-thongsokythuat-xong-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/QRThoang-tay-nguyen.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/242a7d443c-TTN-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f2df3b5342-TTN-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dc34b149cd-TTN-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e0ff9bd9dc-TTN-Q01TF-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ac9c05867b-TTN-Q-thongsokythuat-xong-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7670a3aff8-QRThoang-tay-nguyen.png"
     ],
     "description": "Giữa dấu ấn M’nông cổ xưa, vang vọng tiếng đại ngàn thuở đất trời còn nguyên sơ. Hoa văn vòng tròn, gân sóng, dải thổ cẩm như tái hiện cội nguồn Tây Nguyên bằng ngôn ngữ thiết kế đương đại. Nơi lịch sử và tương lai cùng in sâu trong từng hoa văn chạm khắc.",
     "productInfo": {
@@ -2539,14 +2539,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "thu-phong",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPS01M2-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/817766eb72-THPS01M2-1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPS01M2-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPV01P.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPS01M2-1.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPS01M2-2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/Thit-k-cha-c-tn-7.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/THP-S01M-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/817766eb72-THPS01M2-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1a74f94786-THPV01P.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1e09cc85ca-THPS01M2-1.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c69b9f9ebc-THPS01M2-2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7e7f610ceb-Thit-k-cha-c-tn-7.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/97967edad5-THP-S01M-1.jpg"
     ],
     "description": "Bỗng nhận ra hương ổi Phả vào trong gió se Sương chùng chình qua ngõ Hình như thu đã về. - Hữu Thỉnh -",
     "productInfo": {
@@ -2594,14 +2594,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "trang-an",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/PCSOK-01.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/sonkhue/PCSOK-04.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/trangan/phoi-canh/BST-Trang-An-Eurotile-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/trangan/phoi-canh/BST-Trang-An-Eurotile-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/trangan/phoi-canh/BST-Trang-An-Eurotile-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/df0ab3c0cb-PCSOK-01.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4cef3d037f-PCSOK-04.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f7f54dd134-BST-Trang-An-Eurotile-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/32a97faf4b-BST-Trang-An-Eurotile-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/914452db9f-BST-Trang-An-Eurotile-2.jpg"
     ],
     "description": "Chẳng thơm cũng thể hoa nhài Dẫu không thanh lịch cũng người Tràng An Tràng An thanh lịch điệu đà Như nàng thiếu nữ trong tà áo hoa",
     "productInfo": {
@@ -2629,14 +2629,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "tuyet-san",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/444d97e6eb-Untitled-1-02.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-05.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-03.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-04.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-07.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-06.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/444d97e6eb-Untitled-1-02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e43589c33b-Untitled-1-05.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e1f653dfe0-Untitled-1-03.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cd8afbe7b5-Untitled-1-04.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0f62ad708b-Untitled-1-07.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/acfbb75780-Untitled-1-06.jpg"
     ],
     "description": "Ta xin được là tuyết Tĩnh tại nơi núi cao Nơi phù hoa xa vắng Ta lặng ngắm mây ngàn",
     "productInfo": {
@@ -2659,14 +2659,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "van-du",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/vandu/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28f12809a9-cau-chuyen.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/cau-chuyen.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-5.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-6.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vandu/VAD-Z01-MH1-7.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28f12809a9-cau-chuyen.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a36f1d004-VAD-Z01-MH1-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6db8aa0235-VAD-Z01-MH1-4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/1979a80783-VAD-Z01-MH1-5.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dd25239f77-VAD-Z01-MH1-6.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b34ac6182e-VAD-Z01-MH1-7.jpg"
     ],
     "description": "Một đời tựa như áng mây trôi Phiêu lưu vui đùa cùng cơn gió Nhẹ nhàng, bình yên, không lo nghĩ Vui vẻ, tự do, ngày qua ngày Một buổi chiều, ta được ngồi bên hiên nhà rợp mát, dưới tán cây xanh, hớp ngụm chè và nhìn áng mây trôi. Đó là sự thi vị không dễ có được, nhẹ nhàng và bình dị lắm.",
     "productInfo": {
@@ -2689,14 +2689,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "vong-cat",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vongcat/pc-vong-cat1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vongcat/pc-vong-cat2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vongcat/pc-vong-cat3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vongcat/pc-vong-cat4.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/vongcat/voc-mosaic/VOC-Z123-MG2-5-1.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6b05d87815-pc-vong-cat1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0bf0f086e8-pc-vong-cat2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/09ceed8bcc-pc-vong-cat3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/df0d0ab13a-pc-vong-cat4.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/497a6e01af-VOC-Z123-MG2-5-1.jpg"
     ],
     "description": "Hạnh phúc là một hành trình chứ không phải điểm đến. Hãy sống thật tốt đẹp theo cách bạn muốn dù người khác có thể cho rằng nó viễn vông.",
     "productInfo": {
@@ -2729,14 +2729,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "vu-dieu-xanh",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/02650bf1ef-VDX-Q01TF-timnhanh.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-timnhanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-minhhoa.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q-thongsokythuat-09.png",
-      "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/QRVu-dieu-xanh.png"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/02650bf1ef-VDX-Q01TF-timnhanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc7ab4828d-VDX-Q01TF-minhhoa.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5e25916185-VDX-Q01TF-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/296d1e821b-VDX-Q01TF-3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ff62075903-VDX-Q-thongsokythuat-09.png",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d727abba91-QRVu-dieu-xanh.png"
     ],
     "description": "Trên bầu trời sớm tinh khôi, khi nắng còn e ấp sau làn mây mỏng, những cánh chim thong dong uốn lượn như dải lụa mềm giữa núi trời. Đó là “Vũ Điệu Xanh” được dệt bằng sự tự do và khát vọng, mở cánh cửa cho đôi cánh tự tin vươn xa sau bao thăng trầm.",
     "productInfo": {
@@ -2759,14 +2759,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "vu-khuc",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-S01G-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf63346dee-VUK-S01G-seo.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-S01G-seo.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/Minhhoa-VUK.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G3.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-X01p-phoicanh.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-minhhoa-2.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf63346dee-VUK-S01G-seo.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa48ca31fc-Minhhoa-VUK.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a67b6b34b-VUKS01G.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0cb17b9438-VUKS01G3.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5bf5e7db69-VUK-X01p-phoicanh.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e8b912d78b-VUK-minhhoa-2.jpg"
     ],
     "description": "Tựa khúc hoan ca dịu dàng, nơi ánh nắng mỏng manh hòa cùng vũ điệu nhẹ nhàng của mưa, không gian bỗng ngân lên những giai điệu trầm bổng trong khoảnh khắc giao mùa giữa trời đất. Cảm xúc ấy không gọi tên, chỉ có thể cảm nhận bằng ánh nhìn, lắng nghe qua những nhịp chuyển không lời. Nhưng chính điều đó lại khiến lòng người rung động, để rồi đọng lại mãi trong tâm trí.",
     "productInfo": {
@@ -2790,14 +2790,14 @@ window.LavatileGeneratedCollections =
     "type": "tile_collection",
     "source": "eurotile",
     "slug": "yen-minh",
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/minh-hoa-bst-yen-minh-eurotile.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/81b6e529e4-minh-hoa-bst-yen-minh-eurotile.jpg",
     "images": [
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/minh-hoa-bst-yen-minh-eurotile.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/YMIS02M-1.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/YMIS02M02.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/YMI-S04M-pc2.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/YMI-S04M-pc.jpg",
-      "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/ymi-S02M-pc.jpg"
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/81b6e529e4-minh-hoa-bst-yen-minh-eurotile.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2560c16dfb-YMIS02M-1.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0836edd41b-YMIS02M02.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce2cb08f9d-YMI-S04M-pc2.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ba37c34808-YMI-S04M-pc.jpg",
+      "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f5cb3817c1-ymi-S02M-pc.jpg"
     ],
     "description": "Ẩn mình trong thung lũng thơ mộng ở vùng cao nguyên đá, Yên Minh nổi bật bởi vẻ đẹp của những dãy núi đá tai mèo hùng vĩ như những bức tường thành kiên cố, ôm trọn lấy miền sơn cước bình yên.",
     "productInfo": {

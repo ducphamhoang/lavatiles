@@ -522,7 +522,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-gk15901-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/15901/00-cl-gk15901-f1.jpg",
     "detailUrl": "bst-cuu-long/15901.html"
   },
   {
@@ -540,7 +540,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5501/5501.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/5501/00-5501.jpg",
     "detailUrl": "san-pham-khac/5501.html"
   },
   {
@@ -558,7 +558,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5521/5521-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/5521/00-5521-1.jpg",
     "detailUrl": "san-pham-khac/5521.html"
   },
   {
@@ -576,7 +576,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5522/5522.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/5522/00-5522.jpg",
     "detailUrl": "san-pham-khac/5522.html"
   },
   {
@@ -594,7 +594,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5525/5525-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/5525/00-5525-1.jpg",
     "detailUrl": "san-pham-khac/5525.html"
   },
   {
@@ -612,7 +612,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/5526/5526.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/5526/00-5526.jpg",
     "detailUrl": "san-pham-khac/5526.html"
   },
   {
@@ -630,7 +630,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61251gp/asd-61251gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61251gp/00-asd-61251gp-a.webp",
     "detailUrl": "san-pham-khac/asd-61251gp.html"
   },
   {
@@ -648,7 +648,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61252gp/asd-61252gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61252gp/00-asd-61252gp-a.webp",
     "detailUrl": "san-pham-khac/asd-61252gp.html"
   },
   {
@@ -666,7 +666,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61253gp/asd-61253gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61253gp/00-asd-61253gp-a.webp",
     "detailUrl": "san-pham-khac/asd-61253gp.html"
   },
   {
@@ -684,7 +684,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61254gp/asd-61254gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61254gp/00-asd-61254gp-a.webp",
     "detailUrl": "san-pham-khac/asd-61254gp.html"
   },
   {
@@ -702,7 +702,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61255gp/asd-61255gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61255gp/00-asd-61255gp-a.webp",
     "detailUrl": "san-pham-khac/asd-61255gp.html"
   },
   {
@@ -720,7 +720,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61256gm/asd-61256gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61256gm/00-asd-61256gm-a.webp",
     "detailUrl": "san-pham-khac/asd-61256gm.html"
   },
   {
@@ -738,7 +738,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61257gm/asd-61257gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61257gm/00-asd-61257gm-a.webp",
     "detailUrl": "san-pham-khac/asd-61257gm.html"
   },
   {
@@ -756,7 +756,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61258gm/asd-61258gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61258gm/00-asd-61258gm-a.webp",
     "detailUrl": "san-pham-khac/asd-61258gm.html"
   },
   {
@@ -774,7 +774,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-61259gm/asd-61259gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-61259gm/00-asd-61259gm-a.webp",
     "detailUrl": "san-pham-khac/asd-61259gm.html"
   },
   {
@@ -792,7 +792,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6602gp/asd-6602gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6602gp/00-asd-6602gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-6602gp.html"
   },
   {
@@ -810,7 +810,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6603gp/asd-6603gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6603gp/00-asd-6603gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-6603gp.html"
   },
   {
@@ -828,7 +828,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6604gp/asd-6604gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6604gp/00-asd-6604gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-6604gp.html"
   },
   {
@@ -846,7 +846,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6605gp/asd-6605gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6605gp/00-asd-6605gp-a.webp",
     "detailUrl": "san-pham-khac/asd-6605gp.html"
   },
   {
@@ -864,7 +864,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6608gp/asd-6608gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6608gp/00-asd-6608gp-a.webp",
     "detailUrl": "san-pham-khac/asd-6608gp.html"
   },
   {
@@ -882,7 +882,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6614gm/asd-6614gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6614gm/00-asd-6614gm-a.webp",
     "detailUrl": "san-pham-khac/asd-6614gm.html"
   },
   {
@@ -900,7 +900,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6619gm/asd-6619gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6619gm/00-asd-6619gm-a.webp",
     "detailUrl": "san-pham-khac/asd-6619gm.html"
   },
   {
@@ -918,7 +918,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6620gm/asd-6620gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6620gm/00-asd-6620gm-a.webp",
     "detailUrl": "san-pham-khac/asd-6620gm.html"
   },
   {
@@ -936,7 +936,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6621gm/asd-6621gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6621gm/00-asd-6621gm-a.webp",
     "detailUrl": "san-pham-khac/asd-6621gm.html"
   },
   {
@@ -954,7 +954,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-6627gm/asd-6627gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-6627gm/00-asd-6627gm-a.webp",
     "detailUrl": "san-pham-khac/asd-6627gm.html"
   },
   {
@@ -972,7 +972,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8801gp/asd-8801gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8801gp/00-asd-8801gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8801gp.html"
   },
   {
@@ -990,7 +990,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8802gp/asd-8802gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8802gp/00-asd-8802gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8802gp.html"
   },
   {
@@ -1008,7 +1008,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8803gp/asd-8803gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8803gp/00-asd-8803gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8803gp.html"
   },
   {
@@ -1026,7 +1026,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8804gp/asd-8804gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8804gp/00-asd-8804gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8804gp.html"
   },
   {
@@ -1044,7 +1044,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8805gp/asd-8805gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8805gp/00-asd-8805gp-a.webp",
     "detailUrl": "san-pham-khac/asd-8805gp.html"
   },
   {
@@ -1062,7 +1062,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8806gp/asd-8806gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8806gp/00-asd-8806gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8806gp.html"
   },
   {
@@ -1080,7 +1080,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8807gp/asd-8807gp-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8807gp/00-asd-8807gp-f1.webp",
     "detailUrl": "san-pham-khac/asd-8807gp.html"
   },
   {
@@ -1098,7 +1098,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8808gp/asd-8808gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8808gp/00-asd-8808gp-a.webp",
     "detailUrl": "san-pham-khac/asd-8808gp.html"
   },
   {
@@ -1116,7 +1116,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8810gm/asd-8810gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8810gm/00-asd-8810gm-a.webp",
     "detailUrl": "san-pham-khac/asd-8810gm.html"
   },
   {
@@ -1134,7 +1134,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8814gm/asd-8814gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8814gm/00-asd-8814gm-a.webp",
     "detailUrl": "san-pham-khac/asd-8814gm.html"
   },
   {
@@ -1152,7 +1152,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8819gm/asd-8819gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8819gm/00-asd-8819gm-a.webp",
     "detailUrl": "san-pham-khac/asd-8819gm.html"
   },
   {
@@ -1170,7 +1170,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8820gm/asd-8820gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8820gm/00-asd-8820gm-a.webp",
     "detailUrl": "san-pham-khac/asd-8820gm.html"
   },
   {
@@ -1188,7 +1188,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd-8821gm/asd-8821gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd-8821gm/00-asd-8821gm-a.webp",
     "detailUrl": "san-pham-khac/asd-8821gm.html"
   },
   {
@@ -1206,7 +1206,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3619gm/asd-3619gm-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3619gm/00-asd-3619gm-a.jpg",
     "detailUrl": "san-pham-khac/asd3619gm.html"
   },
   {
@@ -1224,7 +1224,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3620gm/asd-3620gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3620gm/00-asd-3620gm-a.webp",
     "detailUrl": "san-pham-khac/asd3620gm.html"
   },
   {
@@ -1242,7 +1242,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3621gm/asd-3621gm-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3621gm/00-asd-3621gm-a.jpg",
     "detailUrl": "san-pham-khac/asd3621gm.html"
   },
   {
@@ -1260,7 +1260,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3622gm/asd-3622gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3622gm/00-asd-3622gm-a.webp",
     "detailUrl": "san-pham-khac/asd3622gm.html"
   },
   {
@@ -1278,7 +1278,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3623gm/asd-3623gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3623gm/00-asd-3623gm-a.webp",
     "detailUrl": "san-pham-khac/asd3623gm.html"
   },
   {
@@ -1296,7 +1296,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3624gm/asd-3624gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3624gm/00-asd-3624gm-a.webp",
     "detailUrl": "san-pham-khac/asd3624gm.html"
   },
   {
@@ -1314,7 +1314,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3625gm/asd-3625gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3625gm/00-asd-3625gm-a.webp",
     "detailUrl": "san-pham-khac/asd3625gm.html"
   },
   {
@@ -1332,7 +1332,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3626gm/asd-3626gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3626gm/00-asd-3626gm-a.webp",
     "detailUrl": "san-pham-khac/asd3626gm.html"
   },
   {
@@ -1350,7 +1350,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3627gm/asd-3627gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3627gm/00-asd-3627gm-a.webp",
     "detailUrl": "san-pham-khac/asd3627gm.html"
   },
   {
@@ -1368,7 +1368,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3628gm/asd-3628gm-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3628gm/00-asd-3628gm-a.webp",
     "detailUrl": "san-pham-khac/asd3628gm.html"
   },
   {
@@ -1386,7 +1386,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3629gp/asd-3629gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3629gp/00-asd-3629gp-a.webp",
     "detailUrl": "san-pham-khac/asd3629gp.html"
   },
   {
@@ -1404,7 +1404,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3630gp/asd-3630gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3630gp/00-asd-3630gp-a.webp",
     "detailUrl": "san-pham-khac/asd3630gp.html"
   },
   {
@@ -1422,7 +1422,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3631gp/asd-3631gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3631gp/00-asd-3631gp-a.webp",
     "detailUrl": "san-pham-khac/asd3631gp.html"
   },
   {
@@ -1440,7 +1440,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3632gp/asd-3632gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3632gp/00-asd-3632gp-a.webp",
     "detailUrl": "san-pham-khac/asd3632gp.html"
   },
   {
@@ -1458,7 +1458,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3633gp/asd-3633gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3633gp/00-asd-3633gp-a.webp",
     "detailUrl": "san-pham-khac/asd3633gp.html"
   },
   {
@@ -1476,7 +1476,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/asd3634gp/asd-3634gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd3634gp/00-asd-3634gp-a.webp",
     "detailUrl": "san-pham-khac/asd3634gp.html"
   },
   {
@@ -1494,7 +1494,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4851gp/asd4851gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4851gp/00-asd4851gp-a.webp",
     "detailUrl": "san-pham-khac/asd4851gp.html"
   },
   {
@@ -1512,7 +1512,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4861gp/asd4861gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4861gp/00-asd4861gp-a.webp",
     "detailUrl": "san-pham-khac/asd4861gp.html"
   },
   {
@@ -1530,7 +1530,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4863gp/asd4863gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4863gp/00-asd4863gp-a.webp",
     "detailUrl": "san-pham-khac/asd4863gp.html"
   },
   {
@@ -1548,7 +1548,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4864gp/asd4864gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4864gp/00-asd4864gp-a.webp",
     "detailUrl": "san-pham-khac/asd4864gp.html"
   },
   {
@@ -1566,7 +1566,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4865gp/asd4865gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4865gp/00-asd4865gp-a.webp",
     "detailUrl": "san-pham-khac/asd4865gp.html"
   },
   {
@@ -1584,7 +1584,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/asd4866gp/asd4866gp-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/asd4866gp/00-asd4866gp-a.webp",
     "detailUrl": "san-pham-khac/asd4866gp.html"
   },
   {
@@ -1602,7 +1602,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-361/atp1-361b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-361/00-atp1-361b.jpg",
     "detailUrl": "san-pham-khac/atp1-361.html"
   },
   {
@@ -1620,7 +1620,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-362/atp1-362-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-362/00-atp1-362-2.jpg",
     "detailUrl": "san-pham-khac/atp1-362.html"
   },
   {
@@ -1638,7 +1638,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-362a/atp1-362a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-362a/00-atp1-362a2.jpg",
     "detailUrl": "san-pham-khac/atp1-362a.html"
   },
   {
@@ -1656,7 +1656,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-363/atp1-363-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-363/00-atp1-363-2.jpg",
     "detailUrl": "san-pham-khac/atp1-363.html"
   },
   {
@@ -1674,7 +1674,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-364/atp1-364-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-364/00-atp1-364-1.jpg",
     "detailUrl": "san-pham-khac/atp1-364.html"
   },
   {
@@ -1692,7 +1692,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-364a/atp1-364a1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-364a/00-atp1-364a1.jpg",
     "detailUrl": "san-pham-khac/atp1-364a.html"
   },
   {
@@ -1710,7 +1710,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-601/atp1-601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-601/00-atp1-601-1.jpg",
     "detailUrl": "san-pham-khac/atp1-601.html"
   },
   {
@@ -1728,7 +1728,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-602/atp1-602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-602/00-atp1-602-1.jpg",
     "detailUrl": "san-pham-khac/atp1-602.html"
   },
   {
@@ -1746,7 +1746,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-603/atp1-603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-603/00-atp1-603-1.jpg",
     "detailUrl": "san-pham-khac/atp1-603.html"
   },
   {
@@ -1764,7 +1764,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-605/atp1-605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-605/00-atp1-605-1.jpg",
     "detailUrl": "san-pham-khac/atp1-605.html"
   },
   {
@@ -1782,7 +1782,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/atp1-606/atp1-606-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/atp1-606/00-atp1-606-1.jpg",
     "detailUrl": "san-pham-khac/atp1-606.html"
   },
   {
@@ -1800,7 +1800,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm3601/00-az1-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm3601.html"
   },
   {
@@ -1818,7 +1818,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm3602/00-az1-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm3602.html"
   },
   {
@@ -1836,7 +1836,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm3603/00-az1-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm3603.html"
   },
   {
@@ -1854,7 +1854,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm61201/00-az1-gm61201-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm61201.html"
   },
   {
@@ -1872,7 +1872,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm61202-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm61202/00-az1-gm61202-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm61202.html"
   },
   {
@@ -1926,7 +1926,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az1/az1-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-gm6603/00-az1-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/az1-gm6603.html"
   },
   {
@@ -1944,7 +1944,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az1-p121201/az1-p121201-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az1-p121201/00-az1-p121201-f1-min.jpg",
     "detailUrl": "united-tiles-1/az1-p121201.html"
   },
   {
@@ -1962,7 +1962,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az12/az12-gk15901-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az12-gk15901/00-az12-gk15901-1.jpg",
     "detailUrl": "united-tiles-1/az12-gk15901.html"
   },
   {
@@ -1980,7 +1980,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az12/az12-gk15902-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az12-gk15902/00-az12-gk15902-1.jpg",
     "detailUrl": "united-tiles-1/az12-gk15902.html"
   },
   {
@@ -1998,7 +1998,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az12/az12-gk15903-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az12-gk15903/00-az12-gk15903-1.jpg",
     "detailUrl": "united-tiles-1/az12-gk15903.html"
   },
   {
@@ -2016,7 +2016,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az12/az12-gk15904-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az12-gk15904/00-az12-gk15904-1.jpg",
     "detailUrl": "united-tiles-1/az12-gk15904.html"
   },
   {
@@ -2052,7 +2052,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15901-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15901/00-az14-gc15901-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15901.html"
   },
   {
@@ -2070,7 +2070,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15902-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15902/00-az14-gc15902-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15902.html"
   },
   {
@@ -2088,7 +2088,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15903-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15903/00-az14-gc15903-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15903.html"
   },
   {
@@ -2106,7 +2106,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15904-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15904/00-az14-gc15904-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15904.html"
   },
   {
@@ -2124,7 +2124,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15905-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15905/00-az14-gc15905-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15905.html"
   },
   {
@@ -2142,7 +2142,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az14/az14-gc15906-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az14-gc15906/00-az14-gc15906-1.jpg",
     "detailUrl": "united-tiles-1/az14-gc15906.html"
   },
   {
@@ -2160,7 +2160,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8801/az15-gp8801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az15-gp8801/00-az15-gp8801-a.jpg",
     "detailUrl": "united-tiles-1/az15-gp8801.html"
   },
   {
@@ -2178,7 +2178,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az15-gp8802/az15-gp8802-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az15-gp8802/00-az15-gp8802-a-min.jpg",
     "detailUrl": "united-tiles-1/az15-gp8802.html"
   },
   {
@@ -2196,7 +2196,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az16-gp8801/az16-gp8801-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az16-gp8801/00-az16-gp8801-a-min.jpg",
     "detailUrl": "united-tiles-1/az16-gp8801.html"
   },
   {
@@ -2214,7 +2214,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az16-gp8802/az16-gp8802-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az16-gp8802/00-az16-gp8802-a-min.jpg",
     "detailUrl": "united-tiles-1/az16-gp8802.html"
   },
   {
@@ -2232,7 +2232,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az16-gp8803/az16-gp8803-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az16-gp8803/00-az16-gp8803-a-min.jpg",
     "detailUrl": "united-tiles-1/az16-gp8803.html"
   },
   {
@@ -2250,7 +2250,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/az16-gp8804/az16-gp8804-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az16-gp8804/00-az16-gp8804-a-min.jpg",
     "detailUrl": "united-tiles-1/az16-gp8804.html"
   },
   {
@@ -2268,7 +2268,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az2-m121204/az2-m121204-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az2-m121204/00-az2-m121204-a-min.jpg",
     "detailUrl": "united-tiles-1/az2-m121204.html"
   },
   {
@@ -2286,7 +2286,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az2-p121201/az2-p121201-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az2-p121201/00-az2-p121201-f1-min.jpg",
     "detailUrl": "united-tiles-1/az2-p121201.html"
   },
   {
@@ -2304,7 +2304,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az2-p121202/az2-p121202-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az2-p121202/00-az2-p121202-f1-min.jpg",
     "detailUrl": "united-tiles-1/az2-p121202.html"
   },
   {
@@ -2322,7 +2322,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az2-p121204/az2-p121204-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az2-p121204/00-az2-p121204-f1-min.jpg",
     "detailUrl": "united-tiles-1/az2-p121204.html"
   },
   {
@@ -2340,7 +2340,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az22-gp8801/00-az22-gp88011.jpg",
     "detailUrl": "united-tiles-1/az22-gp8801.html"
   },
   {
@@ -2358,7 +2358,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az22/az22-gp88021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az22-gp8802/00-az22-gp88021.jpg",
     "detailUrl": "united-tiles-1/az22-gp8802.html"
   },
   {
@@ -2376,7 +2376,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm3601/00-az3-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm3601.html"
   },
   {
@@ -2394,7 +2394,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm3602/00-az3-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm3602.html"
   },
   {
@@ -2412,7 +2412,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm3603/00-az3-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm3603.html"
   },
   {
@@ -2430,7 +2430,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm3604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm3604/00-az3-gm3604-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm3604.html"
   },
   {
@@ -2448,7 +2448,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm3605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm3605/00-az3-gm3605-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm3605.html"
   },
   {
@@ -2466,7 +2466,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6601-8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm6601/00-az3-gm6601-8801-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm6601.html"
   },
   {
@@ -2502,7 +2502,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm6603/00-az3-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm6603.html"
   },
   {
@@ -2520,7 +2520,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az3/az3-gm6604-8804-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az3-gm6604/00-az3-gm6604-8804-1.jpg",
     "detailUrl": "united-tiles-1/az3-gm6604.html"
   },
   {
@@ -2538,7 +2538,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm3601/00-az5-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm3601.html"
   },
   {
@@ -2556,7 +2556,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm3602/00-az5-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm3602.html"
   },
   {
@@ -2574,7 +2574,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm3603/00-az5-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm3603.html"
   },
   {
@@ -2592,7 +2592,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm3604-10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm3604/00-az5-gm3604-10.jpg",
     "detailUrl": "united-tiles-1/az5-gm3604.html"
   },
   {
@@ -2610,7 +2610,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm6601-8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm6601/00-az5-gm6601-8801-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm6601.html"
   },
   {
@@ -2628,7 +2628,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm6602-8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm6602/00-az5-gm6602-8802-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm6602.html"
   },
   {
@@ -2646,7 +2646,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm6603-8803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm6603/00-az5-gm6603-8803-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm6603.html"
   },
   {
@@ -2664,7 +2664,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az5/az5-gm6604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az5-gm6604/00-az5-gm6604-1.jpg",
     "detailUrl": "united-tiles-1/az5-gm6604.html"
   },
   {
@@ -2682,7 +2682,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/az51-9gp101001/az51-9gp101001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az51-9gp101001/00-az51-9gp101001.jpg",
     "detailUrl": "united-tiles-1/az51-9gp101001.html"
   },
   {
@@ -2700,7 +2700,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/az52-9gp101002/az52-9gp101002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az52-9gp101002/00-az52-9gp101002.jpg",
     "detailUrl": "united-tiles-1/az52-9gp101002.html"
   },
   {
@@ -2718,7 +2718,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/az53-9gp101003/az53-9gp101003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az53-9gp101003/00-az53-9gp101003.jpg",
     "detailUrl": "united-tiles-1/az53-9gp101003.html"
   },
   {
@@ -2736,7 +2736,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/az54-9gp101002/az54-9gp101002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az54-9gp101002/00-az54-9gp101002.jpg",
     "detailUrl": "united-tiles-1/az54-9gp101002.html"
   },
   {
@@ -2754,7 +2754,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/az54-9gp101003/az54-9gp101003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az54-9gp101003/00-az54-9gp101003.jpg",
     "detailUrl": "united-tiles-1/az54-9gp101003.html"
   },
   {
@@ -2790,7 +2790,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az6/az6-gp66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az6-gp6601/00-az6-gp66011.jpg",
     "detailUrl": "united-tiles-1/az6-gp6601.html"
   },
   {
@@ -2970,7 +2970,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az8-gm8801/00-az8-gm8801-1.jpg",
     "detailUrl": "united-tiles-1/az8-gm8801.html"
   },
   {
@@ -2988,7 +2988,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az8/az8-gm8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az8-gm8802/00-az8-gm8802-1.jpg",
     "detailUrl": "united-tiles-1/az8-gm8802.html"
   },
   {
@@ -3024,7 +3024,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/az8-gp6601/screen-shot-2021-10-25-at-83733-am.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az8-gp6601/00-screen-shot-2021-10-25-at-83733-am.png",
     "detailUrl": "united-tiles-1/az8-gp6601.html"
   },
   {
@@ -3042,7 +3042,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/arizona/az9/az9-gp8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/az9-gp8801/00-az9-gp8801-1.jpg",
     "detailUrl": "united-tiles-1/az9-gp8801.html"
   },
   {
@@ -3060,7 +3060,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4500/b4500b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b4500/00-b4500b.jpg",
     "detailUrl": "san-pham-khac/b4500.html"
   },
   {
@@ -3078,7 +3078,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/b4501/b4501b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b4501/00-b4501b.jpg",
     "detailUrl": "san-pham-khac/b4501.html"
   },
   {
@@ -3096,7 +3096,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6003/00-b6003.jpg",
     "detailUrl": "san-pham-khac/b6003.html"
   },
   {
@@ -3114,7 +3114,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6004.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6004/00-b6004.jpg",
     "detailUrl": "san-pham-khac/b6004.html"
   },
   {
@@ -3132,7 +3132,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6005.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6005/00-b6005.jpg",
     "detailUrl": "san-pham-khac/b6005.html"
   },
   {
@@ -3150,7 +3150,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6006.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6006/00-b6006.jpg",
     "detailUrl": "san-pham-khac/b6006.html"
   },
   {
@@ -3168,7 +3168,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6007.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6007/00-b6007.jpg",
     "detailUrl": "san-pham-khac/b6007.html"
   },
   {
@@ -3186,7 +3186,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6010.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6010/00-b6010.jpg",
     "detailUrl": "san-pham-khac/b6010.html"
   },
   {
@@ -3204,7 +3204,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/b6099.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/b6099/00-b6099.jpg",
     "detailUrl": "san-pham-khac/b6099.html"
   },
   {
@@ -3222,7 +3222,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bq6005.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bq6005/00-bq6005.jpg",
     "detailUrl": "san-pham-khac/bq6005.html"
   },
   {
@@ -3240,7 +3240,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bq6006.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bq6006/00-bq6006.jpg",
     "detailUrl": "san-pham-khac/bq6006.html"
   },
   {
@@ -3258,7 +3258,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bq6007.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bq6007/00-bq6007.jpg",
     "detailUrl": "san-pham-khac/bq6007.html"
   },
   {
@@ -3276,7 +3276,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3603/bs-3603.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3603/00-bs-3603.jpg",
     "detailUrl": "san-pham-khac/bs3603.html"
   },
   {
@@ -3294,7 +3294,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3604/bs-3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3604/00-bs-3604a.jpg",
     "detailUrl": "san-pham-khac/bs3604.html"
   },
   {
@@ -3312,7 +3312,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3627/bs-3627a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3627/00-bs-3627a.jpg",
     "detailUrl": "san-pham-khac/bs3627.html"
   },
   {
@@ -3330,7 +3330,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3628/bs-3628a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3628/00-bs-3628a.jpg",
     "detailUrl": "san-pham-khac/bs3628.html"
   },
   {
@@ -3348,7 +3348,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3629/bs-3629a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3629/00-bs-3629a.jpg",
     "detailUrl": "san-pham-khac/bs3629.html"
   },
   {
@@ -3366,7 +3366,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3630/bs-3630a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3630/00-bs-3630a.jpg",
     "detailUrl": "san-pham-khac/bs3630.html"
   },
   {
@@ -3384,7 +3384,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3631/bs3631b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3631/00-bs3631b.jpg",
     "detailUrl": "san-pham-khac/bs3631.html"
   },
   {
@@ -3402,7 +3402,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3632/bs3632b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3632/00-bs3632b.jpg",
     "detailUrl": "san-pham-khac/bs3632.html"
   },
   {
@@ -3420,7 +3420,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3641/bs3641-v1b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3641/00-bs3641-v1b.jpg",
     "detailUrl": "san-pham-khac/bs3641.html"
   },
   {
@@ -3438,7 +3438,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3642/bs3642-v1b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3642/00-bs3642-v1b.jpg",
     "detailUrl": "san-pham-khac/bs3642.html"
   },
   {
@@ -3456,7 +3456,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs3642a/bs3642a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs3642a/00-bs3642a2.jpg",
     "detailUrl": "san-pham-khac/bs3642a.html"
   },
   {
@@ -3474,7 +3474,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs511/bs511-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs511/00-bs511-1.jpg",
     "detailUrl": "san-pham-khac/bs511.html"
   },
   {
@@ -3492,7 +3492,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs512/bs512.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs512/00-bs512.jpg",
     "detailUrl": "san-pham-khac/bs512.html"
   },
   {
@@ -3510,7 +3510,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs517/bs517.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs517/00-bs517.jpg",
     "detailUrl": "san-pham-khac/bs517.html"
   },
   {
@@ -3528,7 +3528,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs601jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs601/00-bs601jpg.jpg",
     "detailUrl": "san-pham-khac/bs601.html"
   },
   {
@@ -3546,7 +3546,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs602jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs602/00-bs602jpg.jpg",
     "detailUrl": "san-pham-khac/bs602.html"
   },
   {
@@ -3564,7 +3564,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs603jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs603/00-bs603jpg.jpg",
     "detailUrl": "san-pham-khac/bs603.html"
   },
   {
@@ -3582,7 +3582,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs604jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs604/00-bs604jpg.jpg",
     "detailUrl": "san-pham-khac/bs604.html"
   },
   {
@@ -3600,7 +3600,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs606jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs606/00-bs606jpg.jpg",
     "detailUrl": "san-pham-khac/bs606.html"
   },
   {
@@ -3618,7 +3618,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs601-604/bs607jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs607/00-bs607jpg.jpg",
     "detailUrl": "san-pham-khac/bs607.html"
   },
   {
@@ -3636,7 +3636,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bs6601.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs6601/00-bs6601.jpg",
     "detailUrl": "san-pham-khac/bs6601.html"
   },
   {
@@ -3654,7 +3654,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bs6602.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs6602/00-bs6602.jpg",
     "detailUrl": "san-pham-khac/bs6602.html"
   },
   {
@@ -3672,7 +3672,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bs6603jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs6603/00-bs6603jpg.jpg",
     "detailUrl": "san-pham-khac/bs6603.html"
   },
   {
@@ -3690,7 +3690,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/bs6606.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/bs6606/00-bs6606.jpg",
     "detailUrl": "san-pham-khac/bs6606.html"
   },
   {
@@ -3708,7 +3708,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca1/ca1-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca1-gm6601/00-ca1-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca1-gm6601.html"
   },
   {
@@ -3726,7 +3726,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca1/ca1-gm66021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca1-gm6602/00-ca1-gm66021.jpg",
     "detailUrl": "united-tiles-1/ca1-gm6602.html"
   },
   {
@@ -3744,7 +3744,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15901/00-ca10-gk159011.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15901.html"
   },
   {
@@ -3762,7 +3762,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15902/00-ca10-gk159021.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15902.html"
   },
   {
@@ -3780,7 +3780,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159031.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15903/00-ca10-gk159031.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15903.html"
   },
   {
@@ -3798,7 +3798,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159041.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15904/00-ca10-gk159041.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15904.html"
   },
   {
@@ -3816,7 +3816,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159051.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15905/00-ca10-gk159051.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15905.html"
   },
   {
@@ -3834,7 +3834,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca10/ca10-gk159061.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca10-gk15906/00-ca10-gk159061.jpg",
     "detailUrl": "united-tiles-1/ca10-gk15906.html"
   },
   {
@@ -3852,7 +3852,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ca16-gp8801/ca16-gp8801-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca16-gp8801/00-ca16-gp8801-a-min.jpg",
     "detailUrl": "united-tiles-1/ca16-gp8801.html"
   },
   {
@@ -3870,7 +3870,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ca16-gp8802/ca16-gp8802-b-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca16-gp8802/00-ca16-gp8802-b-min.jpg",
     "detailUrl": "united-tiles-1/ca16-gp8802.html"
   },
   {
@@ -3888,7 +3888,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ca16-gp8803/ca16-gp8803-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca16-gp8803/00-ca16-gp8803-a-min.jpg",
     "detailUrl": "united-tiles-1/ca16-gp8803.html"
   },
   {
@@ -3906,7 +3906,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8801/ca18-gp8801-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca18-gp8801/00-ca18-gp8801-a-min.jpg",
     "detailUrl": "united-tiles-1/ca18-gp8801.html"
   },
   {
@@ -3924,7 +3924,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8802/ca18-gp8802-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca18-gp8802/00-ca18-gp8802-a-min.jpg",
     "detailUrl": "united-tiles-1/ca18-gp8802.html"
   },
   {
@@ -3942,7 +3942,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8803/ca18-gp8803-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca18-gp8803/00-ca18-gp8803-a-min.jpg",
     "detailUrl": "united-tiles-1/ca18-gp8803.html"
   },
   {
@@ -3960,7 +3960,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca18-gp8804/ca18-gp8804-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca18-gp8804/00-ca18-gp8804-a-min.jpg",
     "detailUrl": "united-tiles-1/ca18-gp8804.html"
   },
   {
@@ -3978,7 +3978,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca2/ca2-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca2-gm6601/00-ca2-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca2-gm6601.html"
   },
   {
@@ -4032,7 +4032,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3601a/ca26-gp3601-01a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca2-gp3601a/00-ca26-gp3601-01a.jpg",
     "detailUrl": "united-tiles-1/ca2-gp3601a.html"
   },
   {
@@ -4050,7 +4050,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3601/ca26-gp3601-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3601/00-ca26-gp3601-1.webp",
     "detailUrl": "united-tiles-1/ca26-gp3601.html"
   },
   {
@@ -4068,7 +4068,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3603/ca26-gp3603-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3603/00-ca26-gp3603-1.webp",
     "detailUrl": "united-tiles-1/ca26-gp3603.html"
   },
   {
@@ -4086,7 +4086,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3604/ca26-gp3604-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3604/00-ca26-gp3604-1.webp",
     "detailUrl": "united-tiles-1/ca26-gp3604.html"
   },
   {
@@ -4104,7 +4104,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3604a/ca26-gp3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3604/06-ca26-gp3604a.jpg",
     "detailUrl": "united-tiles-1/ca26-gp3604a.html"
   },
   {
@@ -4122,7 +4122,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/unitedtiles/ca26-gp3605/ca26-gp3605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3605/00-ca26-gp3605-1.jpg",
     "detailUrl": "united-tiles-1/ca26-gp3605.html"
   },
   {
@@ -4140,7 +4140,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3606/ca26-gp3606-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3606/00-ca26-gp3606-1.webp",
     "detailUrl": "united-tiles-1/ca26-gp3606.html"
   },
   {
@@ -4158,7 +4158,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ca26-gp3606a/ca26-gp3606a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca26-gp3606/06-ca26-gp3606a.jpg",
     "detailUrl": "united-tiles-1/ca26-gp3606a.html"
   },
   {
@@ -4176,7 +4176,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca3/ca3-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca3-gm6601/00-ca3-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca3-gm6601.html"
   },
   {
@@ -4194,7 +4194,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca3/ca3-gm66021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca3-gm6602/00-ca3-gm66021.jpg",
     "detailUrl": "united-tiles-1/ca3-gm6602.html"
   },
   {
@@ -4212,7 +4212,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca3/ca3-gm66031.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca3-gm6603/00-ca3-gm66031.jpg",
     "detailUrl": "united-tiles-1/ca3-gm6603.html"
   },
   {
@@ -4230,7 +4230,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca5/ca5-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca5-gm6601/00-ca5-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca5-gm6601.html"
   },
   {
@@ -4248,7 +4248,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca5/ca5-gm66021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca5-gm6602/00-ca5-gm66021.jpg",
     "detailUrl": "united-tiles-1/ca5-gm6602.html"
   },
   {
@@ -4266,7 +4266,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca6/ca6-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca6-gm6601/00-ca6-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca6-gm6601.html"
   },
   {
@@ -4284,7 +4284,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca7/ca7-gm-66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca7-gm6601/00-ca7-gm-66011.jpg",
     "detailUrl": "united-tiles-1/ca7-gm6601.html"
   },
   {
@@ -4302,7 +4302,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca8/ca8-gm66011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca8-gm6601/00-ca8-gm66011.jpg",
     "detailUrl": "united-tiles-1/ca8-gm6601.html"
   },
   {
@@ -4320,7 +4320,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca8/ca8-gm66021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca8-gm6602/00-ca8-gm66021.jpg",
     "detailUrl": "united-tiles-1/ca8-gm6602.html"
   },
   {
@@ -4338,7 +4338,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca9/ca9-gk159011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca9-gk15901/00-ca9-gk159011.jpg",
     "detailUrl": "united-tiles-1/ca9-gk15901.html"
   },
   {
@@ -4356,7 +4356,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca9/ca9-gk159021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca9-gk15902/00-ca9-gk159021.jpg",
     "detailUrl": "united-tiles-1/ca9-gk15902.html"
   },
   {
@@ -4374,7 +4374,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca9/ca9-gk159031.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca9-gk15903/00-ca9-gk159031.jpg",
     "detailUrl": "united-tiles-1/ca9-gk15903.html"
   },
   {
@@ -4392,7 +4392,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca9/ca9-gk159041.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca9-gk15904/00-ca9-gk159041.jpg",
     "detailUrl": "united-tiles-1/ca9-gk15904.html"
   },
   {
@@ -4410,7 +4410,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/california/ca9/ca9-gk15905-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ca9-gk15905/00-ca9-gk15905-1.jpg",
     "detailUrl": "united-tiles-1/ca9-gk15905.html"
   },
   {
@@ -4428,7 +4428,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-l600/cb-l600.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-l600/00-cb-l600.jpg",
     "detailUrl": "bo-suu-tap-platinum/cb-l600.html"
   },
   {
@@ -4446,7 +4446,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-l636/cb-l636.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-l636/00-cb-l636.jpg",
     "detailUrl": "bo-suu-tap-platinum/cb-l636.html"
   },
   {
@@ -4464,7 +4464,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-m3601/a1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-m3601/00-a1.png",
     "detailUrl": "bo-suu-tap-platinum/cb-m3601.html"
   },
   {
@@ -4482,7 +4482,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-m3602/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-m3602/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-m3602.html"
   },
   {
@@ -4500,7 +4500,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3604/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p3604/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p3604.html"
   },
   {
@@ -4518,7 +4518,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3605/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p3605/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p3605.html"
   },
   {
@@ -4536,7 +4536,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3606/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p3606/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p3606.html"
   },
   {
@@ -4554,7 +4554,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3607/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p3607/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p3607.html"
   },
   {
@@ -4572,7 +4572,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p3608/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p3608/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p3608.html"
   },
   {
@@ -4590,7 +4590,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p601801/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p601/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p601.html"
   },
   {
@@ -4608,7 +4608,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p603803/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p603-803/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p603-803.html"
   },
   {
@@ -4626,7 +4626,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p604/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p604/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p604.html"
   },
   {
@@ -4644,7 +4644,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p605/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p605/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p605.html"
   },
   {
@@ -4662,7 +4662,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p606/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p606/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p606.html"
   },
   {
@@ -4698,7 +4698,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p608/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p608/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p608.html"
   },
   {
@@ -4716,7 +4716,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p801/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p801/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p801.html"
   },
   {
@@ -4734,7 +4734,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p806/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p806/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p806.html"
   },
   {
@@ -4752,7 +4752,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-p809-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-p809/00-cb-p809-1.png",
     "detailUrl": "bo-suu-tap-platinum/cb-p809.html"
   },
   {
@@ -4770,7 +4770,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61201/cb-pt61201-tn23-a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt61201/00-cb-pt61201-tn23-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-pt61201.html"
   },
   {
@@ -4788,7 +4788,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61202/cb-pt61202-tn11-a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt61202/00-cb-pt61202-tn11-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-pt61202.html"
   },
   {
@@ -4806,7 +4806,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61203/cb-pt61203-tn81-a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt61203/00-cb-pt61203-tn81-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-pt61203.html"
   },
   {
@@ -4824,7 +4824,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt61208/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt61208/00-a.png",
     "detailUrl": "bo-suu-tap-platinum/cb-pt61208.html"
   },
   {
@@ -4842,7 +4842,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt6601/cb-pt6601.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt6601/00-cb-pt6601.jpg",
     "detailUrl": "bo-suu-tap-platinum/cb-pt6601.html"
   },
   {
@@ -4860,7 +4860,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt6602/cb-pt6602.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt6602/00-cb-pt6602.jpg",
     "detailUrl": "bo-suu-tap-platinum/cb-pt6602.html"
   },
   {
@@ -4878,7 +4878,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/cb-pt6603/cb-pt6603.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cb-pt6603/00-cb-pt6603.jpg",
     "detailUrl": "bo-suu-tap-platinum/cb-pt6603.html"
   },
   {
@@ -4896,7 +4896,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cbm61208/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cbm61208/00-350.jpg",
     "detailUrl": "san-pham-khac/cbm61208.html"
   },
   {
@@ -4914,7 +4914,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cbp61208/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cbp61208/00-350.jpg",
     "detailUrl": "san-pham-khac/cbp61208.html"
   },
   {
@@ -4932,7 +4932,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl310-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-310/00-cl310-1.jpg",
     "detailUrl": "bst-cuu-long/cl-310.html"
   },
   {
@@ -4950,7 +4950,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3601/cl-bs-3601-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3601/00-cl-bs-3601-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3601.html"
   },
   {
@@ -4968,7 +4968,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3602/cl-bs-3602-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3602/00-cl-bs-3602-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3602.html"
   },
   {
@@ -4986,7 +4986,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3603/cl-bs-3603-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3603/00-cl-bs-3603-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3603.html"
   },
   {
@@ -5004,7 +5004,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3604/cl-bs-3604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3604/00-cl-bs-3604-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3604.html"
   },
   {
@@ -5022,7 +5022,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3605/cl-bs3605-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3605/00-cl-bs3605-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3605.html"
   },
   {
@@ -5040,7 +5040,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs3606/cl-bs3606-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs3606/00-cl-bs3606-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs3606.html"
   },
   {
@@ -5058,7 +5058,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs6601/cl-bs6601-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs6601/00-cl-bs6601-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs6601.html"
   },
   {
@@ -5076,7 +5076,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs6602/cl-bs6602-f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs6602/00-cl-bs6602-f2.jpg",
     "detailUrl": "bst-cuu-long/cl-bs6602.html"
   },
   {
@@ -5094,7 +5094,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs6603/cl-bs6603-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs6603/00-cl-bs6603-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-bs6603.html"
   },
   {
@@ -5130,7 +5130,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-bs6605/cl-bs6605.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-bs6605/00-cl-bs6605.jpg",
     "detailUrl": "bst-cuu-long/cl-bs6605.html"
   },
   {
@@ -5148,7 +5148,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3611/cl-ce-3611-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3611/00-cl-ce-3611-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3611.html"
   },
   {
@@ -5184,7 +5184,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3612a/cl-ce3612a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3612a/00-cl-ce3612a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3612a.html"
   },
   {
@@ -5202,7 +5202,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3615/cl-ce3615-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3615/00-cl-ce3615-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3615.html"
   },
   {
@@ -5220,7 +5220,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3616/cl-ce3616-vien-1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3616/00-cl-ce3616-vien-1-01.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3616.html"
   },
   {
@@ -5238,7 +5238,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3616a/cl-ce3616a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3616a/00-cl-ce3616a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3616a.html"
   },
   {
@@ -5256,7 +5256,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3618/cl-ce-3618-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3618/00-cl-ce-3618-v1.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3618.html"
   },
   {
@@ -5274,7 +5274,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3618a/cl-ce3618a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3618a/00-cl-ce3618a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3618a.html"
   },
   {
@@ -5292,7 +5292,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3619/cl-ce3619-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3619/00-cl-ce3619-v1.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3619.html"
   },
   {
@@ -5310,7 +5310,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3620/cl-ce3620-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3620/00-cl-ce3620-v1.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3620.html"
   },
   {
@@ -5328,7 +5328,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce3620a/cl-ce3620a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce3620a/00-cl-ce3620a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce3620a.html"
   },
   {
@@ -5346,7 +5346,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce501/cl-501a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce501/00-cl-501a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce501.html"
   },
   {
@@ -5364,7 +5364,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce502/cl-502a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce502/00-cl-502a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce502.html"
   },
   {
@@ -5382,7 +5382,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce503/cl-ce503-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce503/00-cl-ce503-a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce503.html"
   },
   {
@@ -5400,7 +5400,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce504/cl-ce504.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce504/00-cl-ce504.jpg",
     "detailUrl": "bst-cuu-long/cl-ce504.html"
   },
   {
@@ -5418,7 +5418,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce505/cl-ce505a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce505/00-cl-ce505a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce505.html"
   },
   {
@@ -5436,7 +5436,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce506/cl-ce506.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce506/00-cl-ce506.jpg",
     "detailUrl": "bst-cuu-long/cl-ce506.html"
   },
   {
@@ -5454,7 +5454,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce507/cl-ce507.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce507/00-cl-ce507.jpg",
     "detailUrl": "bst-cuu-long/cl-ce507.html"
   },
   {
@@ -5472,7 +5472,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce508/cl-ce508.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce508/00-cl-ce508.jpg",
     "detailUrl": "bst-cuu-long/cl-ce508.html"
   },
   {
@@ -5490,7 +5490,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce509/cl-ce509.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce509/00-cl-ce509.jpg",
     "detailUrl": "bst-cuu-long/cl-ce509.html"
   },
   {
@@ -5508,7 +5508,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-ce510/cl-510-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-ce510/00-cl-510-a.jpg",
     "detailUrl": "bst-cuu-long/cl-ce510.html"
   },
   {
@@ -5526,7 +5526,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-gp4800/cl-gp4800.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-gp4800/00-cl-gp4800.jpg",
     "detailUrl": "bst-cuu-long/cl-gp4800.html"
   },
   {
@@ -5544,7 +5544,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-gp4801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-gp4801/00-cl-gp4801-1.jpg",
     "detailUrl": "bst-cuu-long/cl-gp4801.html"
   },
   {
@@ -5562,7 +5562,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl-gp61210-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-gp61210/00-cl-gp61210-1.png",
     "detailUrl": "bst-cuu-long/cl-gp61210.html"
   },
   {
@@ -5598,7 +5598,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/30x60/cl-m3601/anh-chup-man-hinh-2022-07-01-luc-150120.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-m3601/00-anh-chup-man-hinh-2022-07-01-luc-150120.webp",
     "detailUrl": "bst-cuu-long/cl-m3601.html"
   },
   {
@@ -5616,7 +5616,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/30x60/cl-m3602/anh-chup-man-hinh-2022-07-01-luc-150148.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-m3602/00-anh-chup-man-hinh-2022-07-01-luc-150148.png",
     "detailUrl": "bst-cuu-long/cl-m3602.html"
   },
   {
@@ -5634,7 +5634,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/30x60/cl-m3603/anh-chup-man-hinh-2022-07-01-luc-150138.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-m3603/00-anh-chup-man-hinh-2022-07-01-luc-150138.png",
     "detailUrl": "bst-cuu-long/cl-m3603.html"
   },
   {
@@ -5652,7 +5652,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/30x60/cl-m3604/anh-chup-man-hinh-2022-07-01-luc-150128.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-m3604/00-anh-chup-man-hinh-2022-07-01-luc-150128.png",
     "detailUrl": "bst-cuu-long/cl-m3604.html"
   },
   {
@@ -5670,7 +5670,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm3601/cl-sm3601-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm3601/00-cl-sm3601-f1a.jpg",
     "detailUrl": "bst-cuu-long/cl-sm3601.html"
   },
   {
@@ -5688,7 +5688,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm3602/cl-sm3602-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm3602/00-cl-sm3602-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-sm3602.html"
   },
   {
@@ -5706,7 +5706,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm3603/cl-sm3603-11f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm3603/00-cl-sm3603-11f1a.jpg",
     "detailUrl": "bst-cuu-long/cl-sm3603.html"
   },
   {
@@ -5724,7 +5724,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm3604/cl-sm3604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm3604/00-cl-sm3604-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-sm3604.html"
   },
   {
@@ -5742,7 +5742,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm601/cl-sm601-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm601/00-cl-sm601-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-sm601.html"
   },
   {
@@ -5760,7 +5760,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm602/cl-sm602-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm602/00-cl-sm602-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-sm602.html"
   },
   {
@@ -5778,7 +5778,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm603/cl-sm603f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm603/00-cl-sm603f2.jpg",
     "detailUrl": "bst-cuu-long/cl-sm603.html"
   },
   {
@@ -5796,7 +5796,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm604/cl-sm604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm604/00-cl-sm604-f1.jpg",
     "detailUrl": "bst-cuu-long/cl-sm604.html"
   },
   {
@@ -5814,7 +5814,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm605/cl-sm605-anh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm605/00-cl-sm605-anh.jpg",
     "detailUrl": "bst-cuu-long/cl-sm605.html"
   },
   {
@@ -5832,7 +5832,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-sm606/cl-sm606.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-sm606/00-cl-sm606.jpg",
     "detailUrl": "bst-cuu-long/cl-sm606.html"
   },
   {
@@ -5850,7 +5850,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3601/cl-st3601-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3601/00-cl-st3601-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-st3601.html"
   },
   {
@@ -5868,7 +5868,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3602/cl-st3602-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3602/00-cl-st3602-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-st3602.html"
   },
   {
@@ -5886,7 +5886,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3602a/cl-st3602a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3602a/00-cl-st3602a.jpg",
     "detailUrl": "bst-cuu-long/cl-st3602a.html"
   },
   {
@@ -5904,7 +5904,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3603/cl-st3603-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3603/00-cl-st3603-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-st3603.html"
   },
   {
@@ -5922,7 +5922,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3604/cl-st3604-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3604/00-cl-st3604-vien-1.jpg",
     "detailUrl": "bst-cuu-long/cl-st3604.html"
   },
   {
@@ -5940,7 +5940,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl-st3604a/cl-st3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl-st3604a/00-cl-st3604a.jpg",
     "detailUrl": "bst-cuu-long/cl-st3604a.html"
   },
   {
@@ -5958,7 +5958,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp4801/screenshot-2023-05-06-173320.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl1-gp4801/00-screenshot-2023-05-06-173320.jpg",
     "detailUrl": "bst-cuu-long/cl1-gp4801.html"
   },
   {
@@ -5976,7 +5976,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp4801a/ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl1-gp4801a/00-ajpg.jpg",
     "detailUrl": "bst-cuu-long/cl1-gp4801a.html"
   },
   {
@@ -5994,7 +5994,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1-gp8801/cl1-gp8801-a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl1-gp8801/00-cl1-gp8801-a-1.jpg",
     "detailUrl": "bst-cuu-long/cl1-gp8801.html"
   },
   {
@@ -6012,7 +6012,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl1-p121201/cl1-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl1-p121201/00-cl1-p121201-a.jpg",
     "detailUrl": "bst-cuu-long/cl1-p121201.html"
   },
   {
@@ -6030,7 +6030,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl10-gp8801/cl10-gp8801-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl10-gp8801/00-cl10-gp8801-f2-min.jpg",
     "detailUrl": "bst-cuu-long/cl10-gp8801.html"
   },
   {
@@ -6048,7 +6048,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl10-gp8802/cl10-gp8802-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl10-gp8802/00-cl10-gp8802-f2-min.jpg",
     "detailUrl": "bst-cuu-long/cl10-gp8802.html"
   },
   {
@@ -6066,7 +6066,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl11-gp8801/cl11-gp8801-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl11-gp8801/00-cl11-gp8801-f2-min.jpg",
     "detailUrl": "bst-cuu-long/cl11-gp8801.html"
   },
   {
@@ -6084,7 +6084,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl11-gp8802/cl11-gp8802-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl11-gp8802/00-cl11-gp8802-f2-min.jpg",
     "detailUrl": "bst-cuu-long/cl11-gp8802.html"
   },
   {
@@ -6102,7 +6102,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl12-gp8801/cl12-gp8801-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl12-gp8801/00-cl12-gp8801-min.jpg",
     "detailUrl": "bst-cuu-long/cl12-gp8801.html"
   },
   {
@@ -6120,7 +6120,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cl12-gp8802/cl12-gp8802-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl12-gp8802/00-cl12-gp8802-min.jpg",
     "detailUrl": "bst-cuu-long/cl12-gp8802.html"
   },
   {
@@ -6138,7 +6138,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl1325.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl1325/00-cl1325.jpg",
     "detailUrl": "bst-cuu-long/cl1325.html"
   },
   {
@@ -6156,7 +6156,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl2-gm4801/cl2-gm4801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-gm4801/00-cl2-gm4801-a.jpg",
     "detailUrl": "bst-cuu-long/cl2-gm4801.html"
   },
   {
@@ -6192,7 +6192,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl2-gm4803a/cl2-gm4803a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-gm4803a/00-cl2-gm4803a.jpg",
     "detailUrl": "bst-cuu-long/cl2-gm4803a.html"
   },
   {
@@ -6210,7 +6210,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl2-gm8802/cl2-gm8802-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-gm8802/00-cl2-gm8802-a.jpg",
     "detailUrl": "bst-cuu-long/cl2-gm8802.html"
   },
   {
@@ -6228,7 +6228,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121201/cl2-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-p121201/00-cl2-p121201-a.jpg",
     "detailUrl": "bst-cuu-long/cl2-p121201.html"
   },
   {
@@ -6246,7 +6246,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121203/cl2-p121203-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-p121203/00-cl2-p121203-a.jpg",
     "detailUrl": "bst-cuu-long/cl2-p121203.html"
   },
   {
@@ -6264,7 +6264,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl2-p121204/cl2-p121204a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl2-p121204/00-cl2-p121204a.jpg",
     "detailUrl": "bst-cuu-long/cl2-p121204.html"
   },
   {
@@ -6282,7 +6282,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/cl20-3303-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl20-3303/00-cl20-3303-f1a.jpg",
     "detailUrl": "bst-cuu-long/cl20-3303.html"
   },
   {
@@ -6300,7 +6300,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc101003/cl25-gsmc101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-gsmc101003/00-cl25-gsmc101003-a.webp",
     "detailUrl": "bst-cuu-long/cl25-gsmc101003.html"
   },
   {
@@ -6318,7 +6318,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc101004/cl25-gsmc101004-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-gsmc101004/00-cl25-gsmc101004-a.webp",
     "detailUrl": "bst-cuu-long/cl25-gsmc101004.html"
   },
   {
@@ -6336,7 +6336,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121201/cl25-gsmc121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-gsmc121201/00-cl25-gsmc121201-a.webp",
     "detailUrl": "bst-cuu-long/cl25-gsmc121201.html"
   },
   {
@@ -6354,7 +6354,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-gsmc121202/cl25-gsmc121202-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-gsmc121202/00-cl25-gsmc121202-a.webp",
     "detailUrl": "bst-cuu-long/cl25-gsmc121202.html"
   },
   {
@@ -6372,7 +6372,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-p101001/cl25-p101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-p101001/00-cl25-p101001-a.webp",
     "detailUrl": "bst-cuu-long/cl25-p101001.html"
   },
   {
@@ -6390,7 +6390,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-p101002/cl25-p101002-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-p101002/00-cl25-p101002-a.webp",
     "detailUrl": "bst-cuu-long/cl25-p101002.html"
   },
   {
@@ -6408,7 +6408,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl25-p101003/cl25-p101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl25-p101003/00-cl25-p101003-a.webp",
     "detailUrl": "bst-cuu-long/cl25-p101003.html"
   },
   {
@@ -6426,7 +6426,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp121211/cl26-gp121211-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp121211/00-cl26-gp121211-copy-2.webp",
     "detailUrl": "bst-cuu-long/cl26-gp121211.html"
   },
   {
@@ -6444,7 +6444,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp121212/cl26-gp121212-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp121212/00-cl26-gp121212-copy-2.webp",
     "detailUrl": "bst-cuu-long/cl26-gp121212.html"
   },
   {
@@ -6462,7 +6462,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp121213/cl26-gp121213-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp121213/00-cl26-gp121213-copy-2.webp",
     "detailUrl": "bst-cuu-long/cl26-gp121213.html"
   },
   {
@@ -6480,7 +6480,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61211/cl26-gp61211-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp61211/00-cl26-gp61211-f1.webp",
     "detailUrl": "bst-cuu-long/cl26-gp61211.html"
   },
   {
@@ -6498,7 +6498,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61212/cl26-gp61212-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp61212/00-cl26-gp61212-copy-2.webp",
     "detailUrl": "bst-cuu-long/cl26-gp61212.html"
   },
   {
@@ -6516,7 +6516,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl26-gp61213/cl26-gp61213-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl26-gp61213/00-cl26-gp61213-copy-2.webp",
     "detailUrl": "bst-cuu-long/cl26-gp61213.html"
   },
   {
@@ -6534,7 +6534,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm4801/cl3-gm4801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm4801/00-cl3-gm4801-a.jpg",
     "detailUrl": "bst-cuu-long/cl3-gm4801.html"
   },
   {
@@ -6552,7 +6552,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm4803/cl3-gm4803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm4803/00-cl3-gm4803-a.jpg",
     "detailUrl": "bst-cuu-long/cl3-gm4803.html"
   },
   {
@@ -6570,7 +6570,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm4803a/cl3-gm4803a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm4803a/00-cl3-gm4803a.jpg",
     "detailUrl": "bst-cuu-long/cl3-gm4803a.html"
   },
   {
@@ -6588,7 +6588,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/60x60/cl3-gm6602/cl3-gm6602-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm6602/00-cl3-gm6602-a.webp",
     "detailUrl": "bst-cuu-long/cl3-gm6602.html"
   },
   {
@@ -6606,7 +6606,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/60x60/cl3-gm6603/cl3-gm6603-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm6603/00-cl3-gm6603-a.webp",
     "detailUrl": "bst-cuu-long/cl3-gm6603.html"
   },
   {
@@ -6624,7 +6624,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm8802/cl3-gm8802-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm8802/00-cl3-gm8802-a.jpg",
     "detailUrl": "bst-cuu-long/cl3-gm8802.html"
   },
   {
@@ -6642,7 +6642,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl3-gm8803/cl3-gm8803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-gm8803/00-cl3-gm8803-a.jpg",
     "detailUrl": "bst-cuu-long/cl3-gm8803.html"
   },
   {
@@ -6660,7 +6660,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/120x120/cl3-m121204/cl3-m121204-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl3-m121204/00-cl3-m121204-a.jpg",
     "detailUrl": "bst-cuu-long/cl3-m121204.html"
   },
   {
@@ -6696,7 +6696,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl361/cl361-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl361/00-cl361-copy-2.jpg",
     "detailUrl": "bst-cuu-long/cl361.html"
   },
   {
@@ -6750,7 +6750,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl362/cl362-copy-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl362/00-cl362-copy-1.jpg",
     "detailUrl": "bst-cuu-long/cl362.html"
   },
   {
@@ -6894,7 +6894,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp4804/1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl4-gp4804/00-1.png",
     "detailUrl": "bst-cuu-long/cl4-gp4804.html"
   },
   {
@@ -6912,7 +6912,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp4805/1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl4-gp4805/00-1.jpg",
     "detailUrl": "bst-cuu-long/cl4-gp4805.html"
   },
   {
@@ -6930,7 +6930,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp4805a/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl4-gp4805a/00-a.jpg",
     "detailUrl": "bst-cuu-long/cl4-gp4805a.html"
   },
   {
@@ -6948,7 +6948,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp8804/screenshot-2023-05-06-104221.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl4-gp8804/00-screenshot-2023-05-06-104221.jpg",
     "detailUrl": "bst-cuu-long/cl4-gp8804.html"
   },
   {
@@ -6966,7 +6966,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl4-gp8805/screenshot-2023-05-06-104407jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl4-gp8805/00-screenshot-2023-05-06-104407jpg.jpg",
     "detailUrl": "bst-cuu-long/cl4-gp8805.html"
   },
   {
@@ -6984,7 +6984,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl5-gp4801/1jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl5-gp4801/00-1jpg.jpg",
     "detailUrl": "bst-cuu-long/cl5-gp4801.html"
   },
   {
@@ -7002,7 +7002,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl5-gp4802/1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl5-gp4802/00-1.jpg",
     "detailUrl": "bst-cuu-long/cl5-gp4802.html"
   },
   {
@@ -7020,7 +7020,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl51-9gp101001/17032377338720027.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl51-9gp101001/00-17032377338720027.jpg",
     "detailUrl": "bst-cuu-long/cl51-9gp101001.html"
   },
   {
@@ -7038,7 +7038,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101001/cl52-9gp101001-pc.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl52-9gp101001/00-cl52-9gp101001-pc.jpg",
     "detailUrl": "bst-cuu-long/cl52-9gp101001.html"
   },
   {
@@ -7056,7 +7056,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101002/cl52-9gp101002-pc-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl52-9gp101002/00-cl52-9gp101002-pc-4.jpg",
     "detailUrl": "bst-cuu-long/cl52-9gp101002.html"
   },
   {
@@ -7074,7 +7074,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl52-9gp101003/cl52-9gp101003-c-copy.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl52-9gp101003/00-cl52-9gp101003-c-copy.jpg",
     "detailUrl": "bst-cuu-long/cl52-9gp101003.html"
   },
   {
@@ -7092,7 +7092,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl53-9gp101001/cl53-9gp101001-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl53-9gp101001/00-cl53-9gp101001-a-min.jpg",
     "detailUrl": "bst-cuu-long/cl53-9gp101001.html"
   },
   {
@@ -7110,7 +7110,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl6-gp8801/screenshot-2023-05-06-104528jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl6-gp8801/00-screenshot-2023-05-06-104528jpg.jpg",
     "detailUrl": "bst-cuu-long/cl6-gp8801.html"
   },
   {
@@ -7128,7 +7128,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl6-gp8802/screenshot-2023-05-06-104839jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl6-gp8802/00-screenshot-2023-05-06-104839jpg.jpg",
     "detailUrl": "bst-cuu-long/cl6-gp8802.html"
   },
   {
@@ -7146,7 +7146,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4801/cl7-gm4801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4801/00-cl7-gm4801-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4801.html"
   },
   {
@@ -7164,7 +7164,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4803/cl7-gm4803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4803/00-cl7-gm4803-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4803.html"
   },
   {
@@ -7182,7 +7182,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4803a/cl7-gm4803a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4803a/00-cl7-gm4803a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4803a.html"
   },
   {
@@ -7200,7 +7200,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4804/cl7-gm4804-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4804/00-cl7-gm4804-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4804.html"
   },
   {
@@ -7218,7 +7218,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4805/cl7-gm4805-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4805/00-cl7-gm4805-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4805.html"
   },
   {
@@ -7236,7 +7236,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm4805a/cl7-gm4805a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm4805a/00-cl7-gm4805a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm4805a.html"
   },
   {
@@ -7254,7 +7254,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm8802/cl7-gm8802-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm8802/00-cl7-gm8802-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm8802.html"
   },
   {
@@ -7272,7 +7272,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/cl7-gm8805/cl7-gm8805-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/cl7-gm8805/00-cl7-gm8805-a.jpg",
     "detailUrl": "bst-cuu-long/cl7-gm8805.html"
   },
   {
@@ -7290,7 +7290,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clgp814/screenshot-2022-07-01-110644jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/clgp814/00-screenshot-2022-07-01-110644jpg.jpg",
     "detailUrl": "bst-cuu-long/clgp814.html"
   },
   {
@@ -7308,7 +7308,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clm6603/cl-m6603.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/clm6603/00-cl-m6603.jpg",
     "detailUrl": "bst-cuu-long/clm6603.html"
   },
   {
@@ -7326,7 +7326,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clm6604/cl-m6604.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/clm6604/00-cl-m6604.jpg",
     "detailUrl": "bst-cuu-long/clm6604.html"
   },
   {
@@ -7344,7 +7344,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clm6605/cl-m6605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/clm6605/00-cl-m6605-1.jpg",
     "detailUrl": "bst-cuu-long/clm6605.html"
   },
   {
@@ -7362,7 +7362,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstcuulong/clm6607/cl-m6607.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/clm6607/00-cl-m6607.jpg",
     "detailUrl": "bst-cuu-long/clm6607.html"
   },
   {
@@ -7380,7 +7380,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d401.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d401/00-d401.jpg",
     "detailUrl": "san-pham-khac/d401.html"
   },
   {
@@ -7398,7 +7398,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d403.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d403/00-d403.jpg",
     "detailUrl": "san-pham-khac/d403.html"
   },
   {
@@ -7416,7 +7416,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d404.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d404/00-d404.jpg",
     "detailUrl": "san-pham-khac/d404.html"
   },
   {
@@ -7434,7 +7434,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d407.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d407/00-d407.jpg",
     "detailUrl": "san-pham-khac/d407.html"
   },
   {
@@ -7452,7 +7452,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d408.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d408/00-d408.jpg",
     "detailUrl": "san-pham-khac/d408.html"
   },
   {
@@ -7470,7 +7470,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d409.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d409/00-d409.jpg",
     "detailUrl": "san-pham-khac/d409.html"
   },
   {
@@ -7488,7 +7488,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/d415.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/d415/00-d415.jpg",
     "detailUrl": "bst-song-hong/d415.html"
   },
   {
@@ -7506,7 +7506,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3601/dk5-gm3601-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm3601/00-dk5-gm3601-a-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm3601.html"
   },
   {
@@ -7524,7 +7524,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3602/dk5-gm3602-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm3602/00-dk5-gm3602-a-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm3602.html"
   },
   {
@@ -7542,7 +7542,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3603/dk5-gm3603-b-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm3603/00-dk5-gm3603-b-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm3603.html"
   },
   {
@@ -7560,7 +7560,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm3604/dk5-gm3604-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm3604/00-dk5-gm3604-a-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm3604.html"
   },
   {
@@ -7578,7 +7578,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6605/dk5-gm6605-b-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm6605/00-dk5-gm6605-b-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm6605.html"
   },
   {
@@ -7596,7 +7596,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/dk5-gm6606/dk5-gm6606-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dk5-gm6606/00-dk5-gm6606-a-min.jpg",
     "detailUrl": "united-tiles-1/dk5-gm6606.html"
   },
   {
@@ -7614,7 +7614,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6601/dt-gp6601-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp6601/00-dt-gp6601-a.webp",
     "detailUrl": "san-pham-khac/dt-gp6601.html"
   },
   {
@@ -7632,7 +7632,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6602/dt-gp6602-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp6602/00-dt-gp6602-a.webp",
     "detailUrl": "san-pham-khac/dt-gp6602.html"
   },
   {
@@ -7650,7 +7650,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/dt-gp6603/dt-gp6603-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp6603/00-dt-gp6603-a.webp",
     "detailUrl": "san-pham-khac/dt-gp6603.html"
   },
   {
@@ -7668,7 +7668,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/dt-gp8801/dt-gp8801.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp8801/00-dt-gp8801.jpg",
     "detailUrl": "san-pham-khac/dt-gp8801.html"
   },
   {
@@ -7686,7 +7686,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/dt-gp8802/dt-gp8802.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp8802/00-dt-gp8802.webp",
     "detailUrl": "san-pham-khac/dt-gp8802.html"
   },
   {
@@ -7704,7 +7704,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/dt-gp8803/dt-gp8803.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/dt-gp8803/00-dt-gp8803.webp",
     "detailUrl": "san-pham-khac/dt-gp8803.html"
   },
   {
@@ -7722,7 +7722,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3633/a1b.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3633/00-a1b.png",
     "detailUrl": "san-pham-khac/eco3633.html"
   },
   {
@@ -7740,7 +7740,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3634/a1b.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3634/00-a1b.png",
     "detailUrl": "san-pham-khac/eco3634.html"
   },
   {
@@ -7758,7 +7758,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3635/a-1a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3635/00-a-1a.png",
     "detailUrl": "san-pham-khac/eco3635.html"
   },
   {
@@ -7776,7 +7776,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3636/a1b.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3636/00-a1b.png",
     "detailUrl": "san-pham-khac/eco3636.html"
   },
   {
@@ -7794,7 +7794,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3637/a1a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3637/00-a1a.png",
     "detailUrl": "san-pham-khac/eco3637.html"
   },
   {
@@ -7812,7 +7812,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco3638/a1a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco3638/00-a1a.png",
     "detailUrl": "san-pham-khac/eco3638.html"
   },
   {
@@ -7830,7 +7830,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco48501/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco48501/00-350.jpg",
     "detailUrl": "san-pham-khac/eco48501.html"
   },
   {
@@ -7848,7 +7848,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco48502/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco48502/00-350.jpg",
     "detailUrl": "san-pham-khac/eco48502.html"
   },
   {
@@ -7866,7 +7866,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco48503/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco48503/00-350.jpg",
     "detailUrl": "san-pham-khac/eco48503.html"
   },
   {
@@ -7884,7 +7884,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco48504/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco48504/00-350.jpg",
     "detailUrl": "san-pham-khac/eco48504.html"
   },
   {
@@ -7902,7 +7902,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco603/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco603/00-350.jpg",
     "detailUrl": "san-pham-khac/eco603.html"
   },
   {
@@ -7920,7 +7920,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco604/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco604/00-350.jpg",
     "detailUrl": "san-pham-khac/eco604.html"
   },
   {
@@ -7938,7 +7938,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco624/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco624/00-350.jpg",
     "detailUrl": "san-pham-khac/eco624.html"
   },
   {
@@ -7956,7 +7956,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco633/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco633/00-350.jpg",
     "detailUrl": "san-pham-khac/eco633.html"
   },
   {
@@ -7974,7 +7974,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco636/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco636/00-350.jpg",
     "detailUrl": "san-pham-khac/eco636.html"
   },
   {
@@ -7992,7 +7992,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco637/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco637/00-350.jpg",
     "detailUrl": "san-pham-khac/eco637.html"
   },
   {
@@ -8010,7 +8010,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco638/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco638/00-350.jpg",
     "detailUrl": "san-pham-khac/eco638.html"
   },
   {
@@ -8028,7 +8028,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco803/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco803/00-350.jpg",
     "detailUrl": "san-pham-khac/eco803.html"
   },
   {
@@ -8046,7 +8046,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco812/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco812/00-350.jpg",
     "detailUrl": "san-pham-khac/eco812.html"
   },
   {
@@ -8064,7 +8064,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco821/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco821/00-350.jpg",
     "detailUrl": "san-pham-khac/eco821.html"
   },
   {
@@ -8082,7 +8082,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco822/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco822/00-350.jpg",
     "detailUrl": "san-pham-khac/eco822.html"
   },
   {
@@ -8100,7 +8100,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco831/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco831/00-350.jpg",
     "detailUrl": "san-pham-khac/eco831.html"
   },
   {
@@ -8118,7 +8118,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco832/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/eco832/00-350.jpg",
     "detailUrl": "san-pham-khac/eco832.html"
   },
   {
@@ -8136,7 +8136,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecob3602/eco-b3602-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecob3602/00-eco-b3602-11.jpg",
     "detailUrl": "san-pham-khac/ecob3602.html"
   },
   {
@@ -8154,7 +8154,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecob3604-md/eco-b3604-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecob3604/00-eco-b3604-11.jpg",
     "detailUrl": "san-pham-khac/ecob3604.html"
   },
   {
@@ -8172,7 +8172,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod606/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod606/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod606.html"
   },
   {
@@ -8190,7 +8190,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod61201/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod61201/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod61201.html"
   },
   {
@@ -8208,7 +8208,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod61202/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod61202/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod61202.html"
   },
   {
@@ -8226,7 +8226,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod61203/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod61203/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod61203.html"
   },
   {
@@ -8244,7 +8244,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod61204/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod61204/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod61204.html"
   },
   {
@@ -8262,7 +8262,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod61205/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod61205/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod61205.html"
   },
   {
@@ -8280,7 +8280,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod625/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod625/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod625.html"
   },
   {
@@ -8298,7 +8298,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod626/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod626/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod626.html"
   },
   {
@@ -8316,7 +8316,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eco-d630/eco-d630-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod630/00-eco-d630-350.jpg",
     "detailUrl": "san-pham-khac/ecod630.html"
   },
   {
@@ -8334,7 +8334,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod801/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod801/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod801.html"
   },
   {
@@ -8352,7 +8352,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod802/eco-d802-a-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod802/00-eco-d802-a-350.jpg",
     "detailUrl": "san-pham-khac/ecod802.html"
   },
   {
@@ -8370,7 +8370,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod806/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod806/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod806.html"
   },
   {
@@ -8388,7 +8388,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod825/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod825/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod825.html"
   },
   {
@@ -8406,7 +8406,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecod826/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecod826/00-350.jpg",
     "detailUrl": "san-pham-khac/ecod826.html"
   },
   {
@@ -8424,7 +8424,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecog3601/are.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecog3601/00-are.png",
     "detailUrl": "san-pham-khac/ecog3601.html"
   },
   {
@@ -8442,7 +8442,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecog601/a1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecog601/00-a1.png",
     "detailUrl": "san-pham-khac/ecog601.html"
   },
   {
@@ -8460,7 +8460,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecog602/a1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecog602/00-a1.png",
     "detailUrl": "san-pham-khac/ecog602.html"
   },
   {
@@ -8478,7 +8478,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom36807/eco-m368071.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom36807/00-eco-m368071.jpg",
     "detailUrl": "san-pham-khac/ecom36807.html"
   },
   {
@@ -8496,7 +8496,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom36808/eco-m368081.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom36808/00-eco-m368081.jpg",
     "detailUrl": "san-pham-khac/ecom36808.html"
   },
   {
@@ -8514,7 +8514,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom36906/eco-m369061.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom36906/00-eco-m369061.jpg",
     "detailUrl": "san-pham-khac/ecom36906.html"
   },
   {
@@ -8532,7 +8532,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom48501/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom48501/00-350.jpg",
     "detailUrl": "san-pham-khac/ecom48501.html"
   },
   {
@@ -8550,7 +8550,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom48502/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom48502/00-350.jpg",
     "detailUrl": "san-pham-khac/ecom48502.html"
   },
   {
@@ -8568,7 +8568,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom601-2/eco-m601-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom601/00-eco-m601-2.jpg",
     "detailUrl": "san-pham-khac/ecom601.html"
   },
   {
@@ -8586,7 +8586,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom602/eco-m602-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom602/00-eco-m602-350.jpg",
     "detailUrl": "san-pham-khac/ecom602.html"
   },
   {
@@ -8604,7 +8604,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom605-tien-son/eco-m605-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom605/00-eco-m605-2.jpg",
     "detailUrl": "san-pham-khac/ecom605.html"
   },
   {
@@ -8622,7 +8622,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom606/eco-m606-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom606/00-eco-m606-1.png",
     "detailUrl": "san-pham-khac/ecom606.html"
   },
   {
@@ -8640,7 +8640,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom621-tien-son/eco-m621-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom621/00-eco-m621-2.jpg",
     "detailUrl": "san-pham-khac/ecom621.html"
   },
   {
@@ -8658,7 +8658,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom622-tien-son/eco-m622-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom622/00-eco-m622-2.jpg",
     "detailUrl": "san-pham-khac/ecom622.html"
   },
   {
@@ -8676,7 +8676,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom625-tien-son/eco-m625-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom625/00-eco-m625-2.jpg",
     "detailUrl": "san-pham-khac/ecom625.html"
   },
   {
@@ -8694,7 +8694,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6901/m6901-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6901/00-m6901-1.jpg",
     "detailUrl": "san-pham-khac/ecom6901.html"
   },
   {
@@ -8712,7 +8712,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6902/eco-m6902-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6902/00-eco-m6902-350.jpg",
     "detailUrl": "san-pham-khac/ecom6902.html"
   },
   {
@@ -8730,7 +8730,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6906/eco-m69061.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6906/00-eco-m69061.jpg",
     "detailUrl": "san-pham-khac/ecom6906.html"
   },
   {
@@ -8748,7 +8748,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6907/eco-m69071.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6907/00-eco-m69071.jpg",
     "detailUrl": "san-pham-khac/ecom6907.html"
   },
   {
@@ -8766,7 +8766,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6908/eco-m69081.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6908/00-eco-m69081.jpg",
     "detailUrl": "san-pham-khac/ecom6908.html"
   },
   {
@@ -8784,7 +8784,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6910/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6910/00-350.jpg",
     "detailUrl": "san-pham-khac/ecom6910.html"
   },
   {
@@ -8802,7 +8802,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6911/m6911-a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6911/00-m6911-a-1.jpg",
     "detailUrl": "san-pham-khac/ecom6911.html"
   },
   {
@@ -8820,7 +8820,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6912/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6912/00-350.jpg",
     "detailUrl": "san-pham-khac/ecom6912.html"
   },
   {
@@ -8838,7 +8838,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom6913/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6913/00-350.jpg",
     "detailUrl": "san-pham-khac/ecom6913.html"
   },
   {
@@ -8856,7 +8856,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecom6914/m6914-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom6914/00-m6914-a.jpg",
     "detailUrl": "san-pham-khac/ecom6914.html"
   },
   {
@@ -8874,7 +8874,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom821/ecom-821.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom821/00-ecom-821.jpg",
     "detailUrl": "san-pham-khac/ecom821.html"
   },
   {
@@ -8892,7 +8892,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom825/ecom-825-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecom825/00-ecom-825-1.jpg",
     "detailUrl": "san-pham-khac/ecom825.html"
   },
   {
@@ -8910,7 +8910,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecomt606/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecomt606/00-350.jpg",
     "detailUrl": "san-pham-khac/ecomt606.html"
   },
   {
@@ -8928,7 +8928,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/ecos/eco-s600.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos600/00-eco-s600.jpg",
     "detailUrl": "san-pham-khac/ecos600.html"
   },
   {
@@ -8946,7 +8946,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos601/ecos-601.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos601/00-ecos-601.jpg",
     "detailUrl": "san-pham-khac/ecos601.html"
   },
   {
@@ -8964,7 +8964,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos603/ecos-803-1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos603/00-ecos-803-1-1.jpg",
     "detailUrl": "san-pham-khac/ecos603.html"
   },
   {
@@ -8982,7 +8982,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos622/eco-s-822-1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos622/00-eco-s-822-1-1.jpg",
     "detailUrl": "san-pham-khac/ecos622.html"
   },
   {
@@ -9000,7 +9000,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos821/eco-s821.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos821/00-eco-s821.jpg",
     "detailUrl": "san-pham-khac/ecos821.html"
   },
   {
@@ -9018,7 +9018,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ecos822/eco-s822-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos822/00-eco-s822-1.jpg",
     "detailUrl": "san-pham-khac/ecos822.html"
   },
   {
@@ -9036,7 +9036,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos829/eco-s829-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos829/00-eco-s829-1.jpg",
     "detailUrl": "san-pham-khac/ecos829.html"
   },
   {
@@ -9054,7 +9054,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecos830/eco-s830.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecos830/00-eco-s830.jpg",
     "detailUrl": "san-pham-khac/ecos830.html"
   },
   {
@@ -9072,7 +9072,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecot602h/eco-t602h-3060-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecot602h/00-eco-t602h-3060-11.jpg",
     "detailUrl": "san-pham-khac/ecot602h.html"
   },
   {
@@ -9090,7 +9090,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecot8803/eco-t8803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ecot8803/00-eco-t8803-1.jpg",
     "detailUrl": "san-pham-khac/ecot8803.html"
   },
   {
@@ -9108,7 +9108,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3600/f-36001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3600/00-f-36001.jpg",
     "detailUrl": "san-pham-khac/f3600.html"
   },
   {
@@ -9126,7 +9126,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3600m/f-3600m1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3600m/00-f-3600m1.jpg",
     "detailUrl": "san-pham-khac/f3600m.html"
   },
   {
@@ -9144,7 +9144,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3601/f-36011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3601/00-f-36011.jpg",
     "detailUrl": "san-pham-khac/f3601.html"
   },
   {
@@ -9162,7 +9162,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3602/f-36021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3602/00-f-36021.jpg",
     "detailUrl": "san-pham-khac/f3602.html"
   },
   {
@@ -9180,7 +9180,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3605/f36051.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3605/00-f36051.jpg",
     "detailUrl": "san-pham-khac/f3605.html"
   },
   {
@@ -9198,7 +9198,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3618/f-36182.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3618/00-f-36182.jpg",
     "detailUrl": "san-pham-khac/f3618.html"
   },
   {
@@ -9216,7 +9216,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3623/f-36232.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3623/00-f-36232.jpg",
     "detailUrl": "san-pham-khac/f3623.html"
   },
   {
@@ -9234,7 +9234,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3626/f-36262.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3626/00-f-36262.jpg",
     "detailUrl": "san-pham-khac/f3626.html"
   },
   {
@@ -9252,7 +9252,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/f3628/f36282.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/f3628/00-f36282.jpg",
     "detailUrl": "san-pham-khac/f3628.html"
   },
   {
@@ -9288,7 +9288,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl4-gp8802/00-fl4-gp8802-1.jpg",
     "detailUrl": "united-tiles-1/fl4-gp8802.html"
   },
   {
@@ -9306,7 +9306,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/florida/fl3-4/fl4-gp8803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl4-gp8803/00-fl4-gp8803-1.jpg",
     "detailUrl": "united-tiles-1/fl4-gp8803.html"
   },
   {
@@ -9324,7 +9324,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl5-gp8801/fl5-gp8801-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl5-gp8801/00-fl5-gp8801-f1.jpg",
     "detailUrl": "united-tiles-1/fl5-gp8801.html"
   },
   {
@@ -9342,7 +9342,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl5-gp8802/fl5-gp8802-f3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl5-gp8802/00-fl5-gp8802-f3.jpg",
     "detailUrl": "united-tiles-1/fl5-gp8802.html"
   },
   {
@@ -9360,7 +9360,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl5-gp8803/fl5-gp8803-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl5-gp8803/00-fl5-gp8803-f1.jpg",
     "detailUrl": "united-tiles-1/fl5-gp8803.html"
   },
   {
@@ -9378,7 +9378,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl51-9gp101001/fl51-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl51-9gp101001/00-fl51-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/fl51-9gp101001.html"
   },
   {
@@ -9396,7 +9396,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl52-9gp101002/fl52-9gp101002-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl52-9gp101002/00-fl52-9gp101002-1.jpg",
     "detailUrl": "united-tiles-1/fl52-9gp101002.html"
   },
   {
@@ -9414,7 +9414,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl52-9gp101003/fl52-9gp101003-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl52-9gp101003/00-fl52-9gp101003-1.jpg",
     "detailUrl": "united-tiles-1/fl52-9gp101003.html"
   },
   {
@@ -9432,7 +9432,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl56-9gp101001/fl56-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl56-9gp101001/00-fl56-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/fl56-9gp101001.html"
   },
   {
@@ -9450,7 +9450,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl56-9gp101003/fl56-9gp101003-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl56-9gp101003/00-fl56-9gp101003-1.jpg",
     "detailUrl": "united-tiles-1/fl56-9gp101003.html"
   },
   {
@@ -9468,7 +9468,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8801/fl6-gp8801-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl6-gp8801/00-fl6-gp8801-f1.jpg",
     "detailUrl": "united-tiles-1/fl6-gp8801.html"
   },
   {
@@ -9486,7 +9486,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8802/fl6-gp8802-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl6-gp8802/00-fl6-gp8802-f1.jpg",
     "detailUrl": "united-tiles-1/fl6-gp8802.html"
   },
   {
@@ -9504,7 +9504,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8803/fl6-gp8803-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl6-gp8803/00-fl6-gp8803-f1.jpg",
     "detailUrl": "united-tiles-1/fl6-gp8803.html"
   },
   {
@@ -9522,7 +9522,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl/fl6-gp8804/fl6-gp8804-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl6-gp8804/00-fl6-gp8804-f1.jpg",
     "detailUrl": "united-tiles-1/fl6-gp8804.html"
   },
   {
@@ -9612,7 +9612,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/fl8-gm8801/a-min-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fl8-gm8801/00-a-min-1.png",
     "detailUrl": "united-tiles-1/fl8-gm8801.html"
   },
   {
@@ -9630,7 +9630,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/fn3625/fn3625a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/fn3625/00-fn3625a.jpg",
     "detailUrl": "san-pham-khac/fn3625.html"
   },
   {
@@ -9648,7 +9648,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/g6001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/g6001/00-g6001.jpg",
     "detailUrl": "san-pham-khac/g6001.html"
   },
   {
@@ -9666,7 +9666,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/g6002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/g6002/00-g6002.jpg",
     "detailUrl": "san-pham-khac/g6002.html"
   },
   {
@@ -9684,7 +9684,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/g-b-q-bs-60x60/g6003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/g6003/00-g6003.jpg",
     "detailUrl": "san-pham-khac/g6003.html"
   },
   {
@@ -9702,7 +9702,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/g6004jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/g6004/00-g6004jpg.jpg",
     "detailUrl": "san-pham-khac/g6004.html"
   },
   {
@@ -9720,7 +9720,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ga-40x40/ga401.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ga401/00-ga401.png",
     "detailUrl": "san-pham-khac/ga401.html"
   },
   {
@@ -9738,7 +9738,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ga-40x40/ga403.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ga403/00-ga403.png",
     "detailUrl": "san-pham-khac/ga403.html"
   },
   {
@@ -9756,7 +9756,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ga-40x40/ga404jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ga404/00-ga404jpg.jpg",
     "detailUrl": "san-pham-khac/ga404.html"
   },
   {
@@ -9774,7 +9774,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ga-40x40/ga405jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ga405/00-ga405jpg.jpg",
     "detailUrl": "san-pham-khac/ga405.html"
   },
   {
@@ -9792,7 +9792,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ga-40x40/ga406jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ga406/00-ga406jpg.jpg",
     "detailUrl": "san-pham-khac/ga406.html"
   },
   {
@@ -9811,7 +9811,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3601-1-2010.jpg",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3601.html"
   },
   {
@@ -9830,7 +9830,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3602-1-6979.jpg",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3602.html"
   },
   {
@@ -9849,7 +9849,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3602a-3719.jpg",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3602a.html"
   },
   {
@@ -9868,7 +9868,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3621-4054.png",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3621.html"
   },
   {
@@ -9887,7 +9887,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shce-3621v-2602.png",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3621v.html"
   },
   {
@@ -9906,7 +9906,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3622-8219.png",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3622.html"
   },
   {
@@ -9925,7 +9925,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3622a-8575.png",
+    "image": "",
     "detailUrl": "gach/gch-30x60-viglacera-sh-ce3622a.html"
   },
   {
@@ -9944,7 +9944,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-30x60-viglacera-sh-cm3602/00-shcm3602-1.jpg",
     "detailUrl": "gach/gch-30x60-viglacera-sh-cm3602.html"
   },
   {
@@ -9963,7 +9963,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3602a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-30x60-viglacera-sh-cm3602a/00-shcm3602a.jpg",
     "detailUrl": "gach/gch-30x60-viglacera-sh-cm3602a.html"
   },
   {
@@ -9982,7 +9982,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3607/sh-gp3607-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-30x60-viglacera-sh-gp3607/00-sh-gp3607-a.jpg",
     "detailUrl": "gach/gch-30x60-viglacera-sh-gp3607.html"
   },
   {
@@ -10001,7 +10001,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3608/sh-gp3608a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-30x60-viglacera-sh-gp3608/00-sh-gp3608a.jpg",
     "detailUrl": "gach/gch-30x60-viglacera-sh-gp3608.html"
   },
   {
@@ -10020,7 +10020,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3608/shgp3608a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-30x60-viglacera-sh-gp3608a/00-shgp3608a.jpg",
     "detailUrl": "gach/gch-30x60-viglacera-sh-gp3608a.html"
   },
   {
@@ -10038,7 +10038,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4601/vbs-4601-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4601/00-vbs-4601-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4601.html"
   },
   {
@@ -10056,7 +10056,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4602/vbs-4602-d-pc-01-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4602/00-vbs-4602-d-pc-01-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4602.html"
   },
   {
@@ -10074,7 +10074,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4603/vbs-4603-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4603/00-vbs-4603-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4603.html"
   },
   {
@@ -10092,7 +10092,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4604/vbs-4604-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4604/00-vbs-4604-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4604.html"
   },
   {
@@ -10110,7 +10110,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4605/vbs-4605-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4605/00-vbs-4605-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4605.html"
   },
   {
@@ -10128,7 +10128,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs-4606/vbs-4606-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x60-viglacera-vbs4606/00-vbs-4606-min.jpg",
     "detailUrl": "gach-40x60/gch-40x60-viglacera-vbs4606.html"
   },
   {
@@ -10147,7 +10147,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090757-4525.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4821.html"
   },
   {
@@ -10166,7 +10166,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090919-6145.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4822.html"
   },
   {
@@ -10185,7 +10185,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090803-3113.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4822a.html"
   },
   {
@@ -10204,7 +10204,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090809-8259.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4823.html"
   },
   {
@@ -10223,7 +10223,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shce4824-8-copy4-6381.jpg",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4824.html"
   },
   {
@@ -10242,7 +10242,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090909-3486.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh-ce4824a.html"
   },
   {
@@ -10261,7 +10261,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh2-gp4803/1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x80-viglacera-sh2-gp4803/00-1-1.jpg",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh2-gp4803.html"
   },
   {
@@ -10280,7 +10280,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4805/sh4-gp4805-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x80-viglacera-sh4-gp4805/00-sh4-gp4805-a-min.jpg",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh4-gp4805.html"
   },
   {
@@ -10299,7 +10299,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4805a/sh4-gp4805a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x80-viglacera-sh4-gp4805a/00-sh4-gp4805a-min.jpg",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh4-gp4805a.html"
   },
   {
@@ -10318,7 +10318,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh5-gm4805-a-5090.jpg",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-sh5-gm4804.html"
   },
   {
@@ -10337,7 +10337,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-091020-9603.png",
+    "image": "",
     "detailUrl": "gach-40x80/gch-40x80-viglacera-tl4816.html"
   },
   {
@@ -10356,7 +10356,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh1-p121201/sh1-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh1-p121201/00-sh1-p121201-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh1-p121201.html"
   },
   {
@@ -10375,7 +10375,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-m121205/sh2-m121205-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh2-m121205/00-sh2-m121205-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh2-m121205.html"
   },
   {
@@ -10394,7 +10394,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh2-p121204/sh2-p121204-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh2-p121204/00-sh2-p121204-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh2-p121204.html"
   },
   {
@@ -10413,7 +10413,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-m121202/sh3-m121202-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh3-m121202/00-sh3-m121202-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh3-m121202.html"
   },
   {
@@ -10432,7 +10432,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-p121201/sh3-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh3-p121201/00-sh3-p121201-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh3-p121201.html"
   },
   {
@@ -10451,7 +10451,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-120x120/sh3-p121203/sh3-p121202-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-120x120-viglacera-sh3-p121202/00-sh3-p121202-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-120x120-viglacera-sh3-p121202.html"
   },
   {
@@ -10470,7 +10470,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh51-9gp101001/sh51-9gp101001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh51-9gp101001/00-sh51-9gp101001.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh51-9gp101001.html"
   },
   {
@@ -10489,7 +10489,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh52-9gp101001/sh52-9gp101001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh52-9gp101001/00-sh52-9gp101001.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh52-9gp101001.html"
   },
   {
@@ -10507,7 +10507,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh52-9gp101002/sh52-9gp101002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh52-9gp101002/00-sh52-9gp101002.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh52-9gp101002.html"
   },
   {
@@ -10526,7 +10526,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101001/sh53-9gm101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh53-9gm101001/00-sh53-9gm101001-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh53-9gm101001.html"
   },
   {
@@ -10545,7 +10545,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gp101001/sh53-9gp101001-c-copy.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh53-9gp101001/00-sh53-9gp101001-c-copy.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh53-9gp101001.html"
   },
   {
@@ -10563,7 +10563,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gp101002/sh53-9gp101002-c-copy.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-1mx1m-viglacera-sh53-9gp101002/00-sh53-9gp101002-c-copy.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-1mx1m-viglacera-sh53-9gp101002.html"
   },
   {
@@ -10582,7 +10582,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-302/sh302-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-30x30-viglacera-sh302/00-sh302-4.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-30x30-viglacera-sh302.html"
   },
   {
@@ -10601,7 +10601,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-304/sh304-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-30x30-viglacera-sh304/00-sh304-4.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-30x30-viglacera-sh304.html"
   },
   {
@@ -10620,7 +10620,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-306/sh306-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-30x30-viglacera-sh306/00-sh306-4.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-30x30-viglacera-sh306.html"
   },
   {
@@ -10639,7 +10639,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-308/sh308-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-30x30-viglacera-sh308/00-sh308-4.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-30x30-viglacera-sh308.html"
   },
   {
@@ -10658,7 +10658,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-312/sh312-f4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-30x30-viglacera-sh312/00-sh312-f4.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-30x30-viglacera-sh312.html"
   },
   {
@@ -10676,7 +10676,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gm61201/sh10-gm61201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh10gm61201/00-sh10-gm61201-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh10gm61201.html"
   },
   {
@@ -10694,7 +10694,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gm61203/sh10-gm61203-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh10gm61203/00-sh10-gm61203-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh10gm61203.html"
   },
   {
@@ -10712,7 +10712,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh10-gp61204-a-9849-min-1380.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh10gp61204.html"
   },
   {
@@ -10730,7 +10730,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61201/sh11-gm61201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh11gm61201/00-sh11-gm61201-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh11gm61201.html"
   },
   {
@@ -10748,7 +10748,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh11-gm61203/sh11-gm61203-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh11gm61203/00-sh11-gm61203-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh11gm61203.html"
   },
   {
@@ -10766,7 +10766,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61201/sh12-gp61201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh12gp61201/00-sh12-gp61201-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh12gp61201.html"
   },
   {
@@ -10784,7 +10784,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh12-gp61203/sh12-gp61203-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh12gp61203/00-sh12-gp61203-a.webp",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh12gp61203.html"
   },
   {
@@ -10802,7 +10802,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh9-gp61201/sh9-gp61201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x120-viglacera-sh9gp61201/00-sh9-gp61201-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x120-viglacera-sh9gp61201.html"
   },
   {
@@ -10820,7 +10820,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-3-9725.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-gp601.html"
   },
   {
@@ -10838,7 +10838,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-4-6914.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-gp602.html"
   },
   {
@@ -10856,7 +10856,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1852.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-gp603.html"
   },
   {
@@ -10874,7 +10874,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-1222.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-gp606.html"
   },
   {
@@ -10892,7 +10892,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662017-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-mdk662017/00-mdk-662017-1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-mdk662017.html"
   },
   {
@@ -10910,7 +10910,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662018-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-mdk662018/00-mdk-662018-1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-mdk662018.html"
   },
   {
@@ -10928,7 +10928,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662019-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-mdk662019/00-mdk-662019-1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-mdk662019.html"
   },
   {
@@ -10946,7 +10946,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662021-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-mdk662021/00-mdk-662021-f1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-mdk662021.html"
   },
   {
@@ -10964,7 +10964,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6601/yp-66m-2022-13ic-3-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-sh-bs6601/00-yp-66m-2022-13ic-3-f1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-sh-bs6601.html"
   },
   {
@@ -10982,7 +10982,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6602/yp-66m-2022-13ic-1-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-sh-bs6602/00-yp-66m-2022-13ic-1-f1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-sh-bs6602.html"
   },
   {
@@ -11000,7 +11000,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-bs6603-f1-2688.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-sh-bs6603.html"
   },
   {
@@ -11018,7 +11018,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6604/sh-bs6604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-sh-bs6604/00-sh-bs6604-f1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-sh-bs6604.html"
   },
   {
@@ -11037,7 +11037,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v1-p81601/v1-p81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-80x160-viglacera-v1-p81601/00-v1-p81601-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x160-viglacera-v1-p81601.html"
   },
   {
@@ -11056,7 +11056,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81601/v2-p81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-80x160-viglacera-v2-p81601/00-v2-p81601-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x160-viglacera-v2-p81601.html"
   },
   {
@@ -11075,7 +11075,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/v2-p81603/v2-p81603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-80x160-viglacera-v2-p81603/00-v2-p81603-a.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x160-viglacera-v2-p81603.html"
   },
   {
@@ -11093,7 +11093,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-2-8745.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-gp801.html"
   },
   {
@@ -11111,7 +11111,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-2-5114.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-gp802.html"
   },
   {
@@ -11129,7 +11129,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/1-4348.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-gp803.html"
   },
   {
@@ -11147,7 +11147,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/3-4716.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-gp806.html"
   },
   {
@@ -11165,7 +11165,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/1-4562.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-sh1-gp8801.html"
   },
   {
@@ -11183,7 +11183,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-817/ts1-817-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-80x80-viglacera-ts1-817/00-ts1-817-2.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-80x80-viglacera-ts1-817.html"
   },
   {
@@ -11202,7 +11202,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-7177.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-gi-g-20x100-viglacera-gc21061.html"
   },
   {
@@ -11221,7 +11221,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-1-2824.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-gi-g-20x100-viglacera-gc21062.html"
   },
   {
@@ -11240,7 +11240,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-2-7211.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-gi-g-20x100-viglacera-gc21065.html"
   },
   {
@@ -11259,7 +11259,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-4877.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-gi-g-20x100-viglacera-gc21066.html"
   },
   {
@@ -11278,7 +11278,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-3-5000.png",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-gi-g-20x100-viglacera-gc21067.html"
   },
   {
@@ -11296,7 +11296,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32192gachlatnen80x80viglacerahm821-3408.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm821.html"
   },
   {
@@ -11314,7 +11314,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32193gachlatnen80x80viglacerahm822-2347.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm822.html"
   },
   {
@@ -11332,7 +11332,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm823-3-6721.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm823.html"
   },
   {
@@ -11350,7 +11350,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32195gachlatnen80x80viglacerahm824-1582.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm824.html"
   },
   {
@@ -11368,7 +11368,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm-825-f3-1177.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm825.html"
   },
   {
@@ -11386,7 +11386,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm-826-f3-2633.jpg",
+    "image": "",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm826.html"
   },
   {
@@ -11404,7 +11404,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs501-6951.jpg",
+    "image": "",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs501.html"
   },
   {
@@ -11422,7 +11422,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs503/bs-503.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs503/00-bs-503.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs503.html"
   },
   {
@@ -11440,7 +11440,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs505/bs-505-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs505/00-bs-505-1.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs505.html"
   },
   {
@@ -11458,7 +11458,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs506/bs-506-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs506/00-bs-506-1.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs506.html"
   },
   {
@@ -11476,7 +11476,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs507/bs507.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs507/00-bs507.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs507.html"
   },
   {
@@ -11494,7 +11494,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs508/bs508-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs508/00-bs508-1.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs508.html"
   },
   {
@@ -11512,7 +11512,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs509/bs509.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs509/00-bs509.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs509.html"
   },
   {
@@ -11530,7 +11530,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/bs513/bs513-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-sn-vn-50x50-viglacera-bs513/00-bs513-1.jpg",
     "detailUrl": "gach-san-vuon/gch-sn-vn-50x50-viglacera-bs513.html"
   },
   {
@@ -11548,7 +11548,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7216206353359_a46d9ce4c0d78d8cb1de5aa0945de176.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-amano-marble/00-z7216206353359_a46d9ce4c0d78d8cb1de5aa0945de176.jpg",
     "detailUrl": "gach/gch-vasta-amano-marble.html"
   },
   {
@@ -11566,7 +11566,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212059689872_fc2d04a1e3b274f80b39711b80fccecb.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-amazonite/00-z7212059689872_fc2d04a1e3b274f80b39711b80fccecb.jpg",
     "detailUrl": "gach/gch-vasta-amazonite.html"
   },
   {
@@ -11584,7 +11584,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-apuan-luxe/00-Vasta_ESSENTIALS-11.jpg",
     "detailUrl": "gach/gch-vasta-apuan-luxe.html"
   },
   {
@@ -11602,7 +11602,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vastastone.com/wp-content/uploads/2024/10/ARMANI-BEIGE-ARB09E-DP-VASTA-ESSENTIALS.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-armani/00-ARMANI-BEIGE-ARB09E-DP-VASTA-ESSENTIALS.jpg",
     "detailUrl": "gach/gch-vasta-armani.html"
   },
   {
@@ -11620,7 +11620,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212875116868_9b279492132720d6c1dfc2fe042501cc.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-calacatta-green/00-z7212875116868_9b279492132720d6c1dfc2fe042501cc.jpg",
     "detailUrl": "gach/gch-vasta-calacatta-green.html"
   },
   {
@@ -11638,7 +11638,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212052898786_7c2849eaed4f0eb6ad9e32b6fb562efa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-classic-cut-a/00-z7212052898786_7c2849eaed4f0eb6ad9e32b6fb562efa.jpg",
     "detailUrl": "gach/gch-vasta-classic-cut-a.html"
   },
   {
@@ -11656,7 +11656,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212052898786_7c2849eaed4f0eb6ad9e32b6fb562efa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-classic-cut-a/00-z7212052898786_7c2849eaed4f0eb6ad9e32b6fb562efa.jpg",
     "detailUrl": "gach/gch-vasta-classic-cut-b.html"
   },
   {
@@ -11674,7 +11674,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/VASTA_CAT_architecturalsurfaces_2023.pdf-4.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cosmic-caffe-latte/00-VASTA_CAT_architecturalsurfaces_2023.pdf-4.png",
     "detailUrl": "gach/gch-vasta-cosmic-caffe-latte.html"
   },
   {
@@ -11692,7 +11692,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/z7216209007048_a991c0c3ef3386e98c73fb606859cdcc.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cosmic-ottanio/00-z7216209007048_a991c0c3ef3386e98c73fb606859cdcc.jpg",
     "detailUrl": "gach/gch-vasta-cosmic-ottanio.html"
   },
   {
@@ -11710,7 +11710,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/VASTA_CAT_COSMIC-ROSSO.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cosmic-rosso/00-VASTA_CAT_COSMIC-ROSSO.jpg",
     "detailUrl": "gach/gch-vasta-cosmic-rosso.html"
   },
   {
@@ -11728,7 +11728,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/z7216209079870_d16e48fceff808376bfbe16ce23c6551.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cosmic-terra-bruciata/00-z7216209079870_d16e48fceff808376bfbe16ce23c6551.jpg",
     "detailUrl": "gach/gch-vasta-cosmic-terra-bruciata.html"
   },
   {
@@ -11746,7 +11746,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-11-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cristallo-black/00-VASTA_CAT_architecturalsurfaces_2023.pdf-11-2.jpg",
     "detailUrl": "gach/gch-vasta-cristallo-black.html"
   },
   {
@@ -11764,7 +11764,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-13-5.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cristallo-green/00-VASTA_CAT_architecturalsurfaces_2023.pdf-13-5.jpg",
     "detailUrl": "gach/gch-vasta-cristallo-green.html"
   },
   {
@@ -11782,7 +11782,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-16.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-fantasy-azzurro/00-VASTA_CAT_architecturalsurfaces_2023.pdf-16.jpg",
     "detailUrl": "gach/gch-vasta-fantasy-azzurro.html"
   },
   {
@@ -11800,7 +11800,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-13-2.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-fantasy-rosa/00-VASTA_CAT_architecturalsurfaces_2023.pdf-13-2.png",
     "detailUrl": "gach/gch-vasta-fantasy-rosa.html"
   },
   {
@@ -11818,7 +11818,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-13-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-fusion/00-VASTA_CAT_architecturalsurfaces_2023.pdf-13-4.jpg",
     "detailUrl": "gach/gch-vasta-fusion.html"
   },
   {
@@ -11836,7 +11836,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-1.pdf-1-3.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-garni-gorge/00-Vasta_ESSENTIALS-1.pdf-1-3.png",
     "detailUrl": "gach/gch-vasta-garni-gorge.html"
   },
   {
@@ -11854,7 +11854,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-1.pdf-1-4.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-garvel-stone/00-Vasta_ESSENTIALS-1.pdf-1-4.png",
     "detailUrl": "gach/gch-vasta-garvel-stone.html"
   },
   {
@@ -11872,7 +11872,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/z7212874534687_917f4c18c8db7dc8e6dcd80a2413eb12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-grande-marble/00-z7212874534687_917f4c18c8db7dc8e6dcd80a2413eb12.jpg",
     "detailUrl": "gach/gch-vasta-grande-marble.html"
   },
   {
@@ -11890,7 +11890,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212438199703_31fbbdb55ce0e387d0cd00c9721a1157.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-grigio-carnico/00-z7212438199703_31fbbdb55ce0e387d0cd00c9721a1157.jpg",
     "detailUrl": "gach/gch-vasta-grigio-carnico.html"
   },
   {
@@ -11908,7 +11908,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-15-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-iceland/00-VASTA_CAT_architecturalsurfaces_2023.pdf-15-2.jpg",
     "detailUrl": "gach/gch-vasta-iceland.html"
   },
   {
@@ -11926,7 +11926,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212054318502_7939f07a11283fcd99511579d4a5e299.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-invisible-gold/00-z7212054318502_7939f07a11283fcd99511579d4a5e299.jpg",
     "detailUrl": "gach/gch-vasta-invisible-gold.html"
   },
   {
@@ -11944,7 +11944,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7214610281532_4e24454e70b92aeeba295a9cadd9d91f.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-jungle-green-deep/00-z7214610281532_4e24454e70b92aeeba295a9cadd9d91f.jpg",
     "detailUrl": "gach/gch-vasta-jungle-green-deep.html"
   },
   {
@@ -11962,7 +11962,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-15-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-jungle/00-VASTA_CAT_architecturalsurfaces_2023.pdf-15-1.jpg",
     "detailUrl": "gach/gch-vasta-jungle.html"
   },
   {
@@ -11980,7 +11980,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-7-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-linear-harmony-black/00-VASTA_CAT_architecturalsurfaces_2023.pdf-7-4.jpg",
     "detailUrl": "gach/gch-vasta-linear-harmony-black.html"
   },
   {
@@ -11998,7 +11998,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-7-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-linear-harmony-black/00-VASTA_CAT_architecturalsurfaces_2023.pdf-7-4.jpg",
     "detailUrl": "gach/gch-vasta-linear-harmony-white.html"
   },
   {
@@ -12016,7 +12016,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-10.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-macchia-vecchia/00-VASTA_CAT_architecturalsurfaces_2023.pdf-10.png",
     "detailUrl": "gach/gch-vasta-macchia-vecchia.html"
   },
   {
@@ -12034,7 +12034,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-1.pdf-3-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-marvel-bernini/00-Vasta_ESSENTIALS-1.pdf-3-1.png",
     "detailUrl": "gach/gch-vasta-marvel-bernini.html"
   },
   {
@@ -12052,7 +12052,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7214595571634_f40fe729a00096524680a72ad5084f10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-monte-bianco/00-z7214595571634_f40fe729a00096524680a72ad5084f10.jpg",
     "detailUrl": "gach/gch-vasta-monte-bianco.html"
   },
   {
@@ -12070,7 +12070,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7216206515625_313b60071b5cfa60b373190a5f504a94.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-orobico/00-z7216206515625_313b60071b5cfa60b373190a5f504a94.jpg",
     "detailUrl": "gach/gch-vasta-orobico.html"
   },
   {
@@ -12088,7 +12088,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/VASTA_Pacista.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-pacista/00-VASTA_Pacista.jpg",
     "detailUrl": "gach/gch-vasta-pacista.html"
   },
   {
@@ -12106,7 +12106,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212878096145_a2e0deb3dfc945b3d6dd399f4abebffc.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-portoro-gold/00-z7212878096145_a2e0deb3dfc945b3d6dd399f4abebffc.jpg",
     "detailUrl": "gach/gch-vasta-portoro-gold.html"
   },
   {
@@ -12124,7 +12124,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212055334485_6e31503aad964a303d6de51b483a56f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-portoro-silver/00-z7212055334485_6e31503aad964a303d6de51b483a56f2.jpg",
     "detailUrl": "gach/gch-vasta-portoro-silver.html"
   },
   {
@@ -12142,7 +12142,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7151089396013_43c6a9e1c3574762324b7394e35e9593-scaled.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-sahara-noir/00-z7151089396013_43c6a9e1c3574762324b7394e35e9593-scaled.jpg",
     "detailUrl": "gach/gch-vasta-sahara-noir.html"
   },
   {
@@ -12160,7 +12160,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-7-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-shade-black/00-VASTA_CAT_architecturalsurfaces_2023.pdf-7-2.jpg",
     "detailUrl": "gach/gch-vasta-shade-black.html"
   },
   {
@@ -12178,7 +12178,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-7-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-shade-black/00-VASTA_CAT_architecturalsurfaces_2023.pdf-7-2.jpg",
     "detailUrl": "gach/gch-vasta-shade-white.html"
   },
   {
@@ -12196,7 +12196,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212878022389_d169cf76806517f0c05abf44b570b637.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-simar/00-z7212878022389_d169cf76806517f0c05abf44b570b637.jpg",
     "detailUrl": "gach/gch-vasta-simar.html"
   },
   {
@@ -12214,7 +12214,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-1.pdf-1-5.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-statuary-bianco/00-Vasta_ESSENTIALS-1.pdf-1-5.png",
     "detailUrl": "gach/gch-vasta-statuary-bianco.html"
   },
   {
@@ -12250,7 +12250,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vastastone.com/wp-content/uploads/2024/10/TERRA-GREY-TEG09E-DM-VASTA-ESSENTIALS.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terra/00-TERRA-GREY-TEG09E-DM-VASTA-ESSENTIALS.jpg",
     "detailUrl": "gach/gch-vasta-terra.html"
   },
   {
@@ -12268,7 +12268,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212877882108_a6c488f73cc45d4a2aaaf8c1534a4a93.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-antracite/00-z7212877882108_a6c488f73cc45d4a2aaaf8c1534a4a93.jpg",
     "detailUrl": "gach/gch-vasta-terre-antracite.html"
   },
   {
@@ -12286,7 +12286,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/Vasta_ESSENTIALS-1.pdf-8.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-beige/00-Vasta_ESSENTIALS-1.pdf-8.png",
     "detailUrl": "gach/gch-vasta-terre-beige.html"
   },
   {
@@ -12304,7 +12304,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/08/VASTA_CAT_architecturalsurfaces_2023.pdf-4.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-cosmic-caffe-latte/00-VASTA_CAT_architecturalsurfaces_2023.pdf-4.png",
     "detailUrl": "gach/gch-vasta-terre-caffe-latte.html"
   },
   {
@@ -12322,7 +12322,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212878039477_35cab0c28a3aeec49f9acc0a4ba23002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-grey/00-z7212878039477_35cab0c28a3aeec49f9acc0a4ba23002.jpg",
     "detailUrl": "gach/gch-vasta-terre-grey.html"
   },
   {
@@ -12358,7 +12358,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/VASTA_CAT_architecturalsurfaces_2023.pdf-7-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-ottanio/00-VASTA_CAT_architecturalsurfaces_2023.pdf-7-1.jpg",
     "detailUrl": "gach/gch-vasta-terre-ottanio.html"
   },
   {
@@ -12376,7 +12376,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212378438934_cf077130322c1b104a1ab46f1b73e018.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-rosa/00-z7212378438934_cf077130322c1b104a1ab46f1b73e018.jpg",
     "detailUrl": "gach/gch-vasta-terre-rosa.html"
   },
   {
@@ -12394,7 +12394,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vasta.vn/wp-content/uploads/2025/09/z7212056416175_5e029aa9499b1c8d91143be99c719ba2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-terre-terracotta/00-z7212056416175_5e029aa9499b1c8d91143be99c719ba2.jpg",
     "detailUrl": "gach/gch-vasta-terre-terracotta.html"
   },
   {
@@ -12412,7 +12412,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Vasta Stone",
     "country": "Vasta Stone",
-    "image": "https://vastastone.com/wp-content/uploads/2024/10/TRAVENTINO-GREY-TRS09E-DM.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-vasta-traventino/00-TRAVENTINO-GREY-TRS09E-DM.jpg",
     "detailUrl": "gach/gch-vasta-traventino.html"
   },
   {
@@ -12898,7 +12898,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gf322/gf322b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gf322/00-gf322b.jpg",
     "detailUrl": "san-pham-khac/gf322.html"
   },
   {
@@ -12916,7 +12916,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gf323/gf323b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gf323/00-gf323b.jpg",
     "detailUrl": "san-pham-khac/gf323.html"
   },
   {
@@ -12934,7 +12934,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gf324/gf324b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gf324/00-gf324b.jpg",
     "detailUrl": "san-pham-khac/gf324.html"
   },
   {
@@ -12952,7 +12952,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/gf462.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gf462/00-gf462.jpg",
     "detailUrl": "san-pham-khac/gf462.html"
   },
   {
@@ -12970,7 +12970,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm501/gm501-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gm501/00-gm501-2.jpg",
     "detailUrl": "san-pham-khac/gm501.html"
   },
   {
@@ -12988,7 +12988,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm505/gm505-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gm505/00-gm505-2.jpg",
     "detailUrl": "san-pham-khac/gm505.html"
   },
   {
@@ -13006,7 +13006,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm508/gm508-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gm508/00-gm508-2.jpg",
     "detailUrl": "san-pham-khac/gm508.html"
   },
   {
@@ -13024,7 +13024,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm521/gm521-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gm521/00-gm521-2.jpg",
     "detailUrl": "san-pham-khac/gm521.html"
   },
   {
@@ -13042,7 +13042,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gm522/gm522-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gm522/00-gm522-2.jpg",
     "detailUrl": "san-pham-khac/gm522.html"
   },
   {
@@ -13060,7 +13060,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15901/screen-shot-2018-04-24-at-110514-amb.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gq-15901/00-screen-shot-2018-04-24-at-110514-amb.png",
     "detailUrl": "san-pham-khac/gq-15901.html"
   },
   {
@@ -13078,7 +13078,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15902/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gq-15902/00-350.jpg",
     "detailUrl": "san-pham-khac/gq-15902.html"
   },
   {
@@ -13096,7 +13096,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15903/screen-shot-2018-04-24-at-110901-amb.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gq-15903/00-screen-shot-2018-04-24-at-110901-amb.png",
     "detailUrl": "san-pham-khac/gq-15903.html"
   },
   {
@@ -13114,7 +13114,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15904/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gq-15904/00-350.jpg",
     "detailUrl": "san-pham-khac/gq-15904.html"
   },
   {
@@ -13132,7 +13132,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gq-15905/screen-shot-2018-04-24-at-111408-amb.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gq-15905/00-screen-shot-2018-04-24-at-111408-amb.png",
     "detailUrl": "san-pham-khac/gq-15905.html"
   },
   {
@@ -13150,7 +13150,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gs305/gs305b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gs305/00-gs305b.jpg",
     "detailUrl": "san-pham-khac/gs305.html"
   },
   {
@@ -13168,7 +13168,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gs313/gs313b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gs313/00-gs313b.jpg",
     "detailUrl": "san-pham-khac/gs313.html"
   },
   {
@@ -13186,7 +13186,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15901-tien-son/gt-15901-f1-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15901/00-gt-15901-f1-2.jpg",
     "detailUrl": "san-pham-khac/gt-15901.html"
   },
   {
@@ -13204,7 +13204,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15902/screen-shot-2018-04-24-at-110901-amb.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15902/00-screen-shot-2018-04-24-at-110901-amb.png",
     "detailUrl": "san-pham-khac/gt-15902.html"
   },
   {
@@ -13222,7 +13222,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15903/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15903/00-350.jpg",
     "detailUrl": "san-pham-khac/gt-15903.html"
   },
   {
@@ -13240,7 +13240,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15904/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15904/00-350.jpg",
     "detailUrl": "san-pham-khac/gt-15904.html"
   },
   {
@@ -13258,7 +13258,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15905/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15905/00-350.jpg",
     "detailUrl": "san-pham-khac/gt-15905.html"
   },
   {
@@ -13276,7 +13276,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15906-tien-son/gt-15906-1-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15906/00-gt-15906-1-3.jpg",
     "detailUrl": "san-pham-khac/gt-15906.html"
   },
   {
@@ -13294,7 +13294,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15907-tien-son/gt-15907-1-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15907/00-gt-15907-1-3.jpg",
     "detailUrl": "san-pham-khac/gt-15907.html"
   },
   {
@@ -13312,7 +13312,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt-15908-tien-son/gt-15908-1-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt-15908/00-gt-15908-1-3.jpg",
     "detailUrl": "san-pham-khac/gt-15908.html"
   },
   {
@@ -13330,7 +13330,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21221/a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt21221/00-a2.jpg",
     "detailUrl": "san-pham-khac/gt21221.html"
   },
   {
@@ -13348,7 +13348,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21222/re350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt21222/00-re350.jpg",
     "detailUrl": "san-pham-khac/gt21222.html"
   },
   {
@@ -13366,7 +13366,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21223/re350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt21223/00-re350.jpg",
     "detailUrl": "san-pham-khac/gt21223.html"
   },
   {
@@ -13384,7 +13384,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21224/gt-21224-f1re350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt21224/00-gt-21224-f1re350.jpg",
     "detailUrl": "san-pham-khac/gt21224.html"
   },
   {
@@ -13402,7 +13402,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/gt21225/gt-21225-f1re350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gt21225/00-gt-21225-f1re350.jpg",
     "detailUrl": "san-pham-khac/gt21225.html"
   },
   {
@@ -13420,7 +13420,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3606.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gw3606/00-gw3606.jpg",
     "detailUrl": "san-pham-khac/gw3606.html"
   },
   {
@@ -13438,7 +13438,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3607.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gw3607/00-gw3607.jpg",
     "detailUrl": "san-pham-khac/gw3607.html"
   },
   {
@@ -13456,7 +13456,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3621.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gw3621/00-gw3621.jpg",
     "detailUrl": "san-pham-khac/gw3621.html"
   },
   {
@@ -13474,7 +13474,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/gw30x60-yen-phong/gw3622.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gw3622/00-gw3622.jpg",
     "detailUrl": "san-pham-khac/gw3622.html"
   },
   {
@@ -13492,7 +13492,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/h-r221-6.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-r221/00-h-r221-6.jpg",
     "detailUrl": "san-pham-khac/h-r221.html"
   },
   {
@@ -13510,7 +13510,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-r222/8resize.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-r222/00-8resize.jpg",
     "detailUrl": "san-pham-khac/h-r222.html"
   },
   {
@@ -13528,7 +13528,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s201/h-s201resize-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s201/00-h-s201resize-2.jpg",
     "detailUrl": "san-pham-khac/h-s201.html"
   },
   {
@@ -13546,7 +13546,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s202/h-s202resize-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s202/00-h-s202resize-2.jpg",
     "detailUrl": "san-pham-khac/h-s202.html"
   },
   {
@@ -13564,7 +13564,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s203/h-s203resize-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s203/00-h-s203resize-2.jpg",
     "detailUrl": "san-pham-khac/h-s203.html"
   },
   {
@@ -13582,7 +13582,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s204/h-s204resize-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s204/00-h-s204resize-2.jpg",
     "detailUrl": "san-pham-khac/h-s204.html"
   },
   {
@@ -13600,7 +13600,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s205/h-s205resize-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s205/00-h-s205resize-1.jpg",
     "detailUrl": "san-pham-khac/h-s205.html"
   },
   {
@@ -13618,7 +13618,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s206/h-s206resize-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s206/00-h-s206resize-1.jpg",
     "detailUrl": "san-pham-khac/h-s206.html"
   },
   {
@@ -13636,7 +13636,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s207/h-s207resize-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s207/00-h-s207resize-1.jpg",
     "detailUrl": "san-pham-khac/h-s207.html"
   },
   {
@@ -13654,7 +13654,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h-s208/h-s208resize-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h-s208/00-h-s208resize-1.jpg",
     "detailUrl": "san-pham-khac/h-s208.html"
   },
   {
@@ -13672,7 +13672,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h501/h501.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h501/00-h501.jpg",
     "detailUrl": "san-pham-khac/h501.html"
   },
   {
@@ -13690,7 +13690,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h502/h502-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h502/00-h502-1.jpg",
     "detailUrl": "san-pham-khac/h502.html"
   },
   {
@@ -13708,7 +13708,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h515/h515.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h515/00-h515.jpg",
     "detailUrl": "san-pham-khac/h515.html"
   },
   {
@@ -13726,7 +13726,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/h516/h516.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/h516/00-h516.jpg",
     "detailUrl": "san-pham-khac/h516.html"
   },
   {
@@ -13744,7 +13744,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61201/hpd-gp61201-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61201/00-hpd-gp61201-f1.webp",
     "detailUrl": "san-pham-khac/hpd-gp61201.html"
   },
   {
@@ -13762,7 +13762,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61202/hpd-gp61202-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61202/00-hpd-gp61202-f1.webp",
     "detailUrl": "san-pham-khac/hpd-gp61202.html"
   },
   {
@@ -13780,7 +13780,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61203/hpd-gp61203-f3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61203/00-hpd-gp61203-f3.jpg",
     "detailUrl": "san-pham-khac/hpd-gp61203.html"
   },
   {
@@ -13798,7 +13798,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61205/hpd-gp61205-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61205/00-hpd-gp61205-f1.webp",
     "detailUrl": "san-pham-khac/hpd-gp61205.html"
   },
   {
@@ -13816,7 +13816,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61206/hpd-gp61206-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61206/00-hpd-gp61206-f1.webp",
     "detailUrl": "san-pham-khac/hpd-gp61206.html"
   },
   {
@@ -13834,7 +13834,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/hpd-gp61208/hpd-gp61208-f1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/hpd-gp61208/00-hpd-gp61208-f1.webp",
     "detailUrl": "san-pham-khac/hpd-gp61208.html"
   },
   {
@@ -13906,7 +13906,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/khp-gp61200/khp-gp61200.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp61200/00-khp-gp61200.webp",
     "detailUrl": "san-pham-khac/khp-gp61200.html"
   },
   {
@@ -13924,7 +13924,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/khp-gp61207/khp-gp61207-72-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp61207/00-khp-gp61207-72-a.webp",
     "detailUrl": "san-pham-khac/khp-gp61207.html"
   },
   {
@@ -13942,7 +13942,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6800.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6800/00-khp-gp6800.jpg",
     "detailUrl": "san-pham-khac/khp-gp6800.html"
   },
   {
@@ -13960,7 +13960,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6801.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6801/00-khp-gp6801.jpg",
     "detailUrl": "san-pham-khac/khp-gp6801.html"
   },
   {
@@ -13978,7 +13978,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6802/screenshot-2023-03-10-130916.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6802/00-screenshot-2023-03-10-130916.jpg",
     "detailUrl": "san-pham-khac/khp-gp6802.html"
   },
   {
@@ -13996,7 +13996,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6807.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6807/00-khp-gp6807.jpg",
     "detailUrl": "san-pham-khac/khp-gp6807.html"
   },
   {
@@ -14014,7 +14014,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6901.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6901/00-khp-gp6901.jpg",
     "detailUrl": "san-pham-khac/khp-gp6901.html"
   },
   {
@@ -14032,7 +14032,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6902.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6902/00-khp-gp6902.jpg",
     "detailUrl": "san-pham-khac/khp-gp6902.html"
   },
   {
@@ -14050,7 +14050,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6903.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6903/00-khp-gp6903.jpg",
     "detailUrl": "san-pham-khac/khp-gp6903.html"
   },
   {
@@ -14068,7 +14068,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6904.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6904/00-khp-gp6904.jpg",
     "detailUrl": "san-pham-khac/khp-gp6904.html"
   },
   {
@@ -14086,7 +14086,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6905.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6905/00-khp-gp6905.jpg",
     "detailUrl": "san-pham-khac/khp-gp6905.html"
   },
   {
@@ -14104,7 +14104,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/khp-gp6906.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp-gp6906/00-khp-gp6906.jpg",
     "detailUrl": "san-pham-khac/khp-gp6906.html"
   },
   {
@@ -14122,7 +14122,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36901jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36901/00-khp36901jpg.jpg",
     "detailUrl": "san-pham-khac/khp36901.html"
   },
   {
@@ -14140,7 +14140,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36902jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36902/00-khp36902jpg.jpg",
     "detailUrl": "san-pham-khac/khp36902.html"
   },
   {
@@ -14158,7 +14158,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36902ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36902a/00-khp36902ajpg.jpg",
     "detailUrl": "san-pham-khac/khp36902a.html"
   },
   {
@@ -14176,7 +14176,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36903png.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36903/00-khp36903png.png",
     "detailUrl": "san-pham-khac/khp36903.html"
   },
   {
@@ -14194,7 +14194,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36904png.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36904/00-khp36904png.png",
     "detailUrl": "san-pham-khac/khp36904.html"
   },
   {
@@ -14212,7 +14212,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36905jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36905/00-khp36905jpg.jpg",
     "detailUrl": "san-pham-khac/khp36905.html"
   },
   {
@@ -14230,7 +14230,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36906jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36906/00-khp36906jpg.jpg",
     "detailUrl": "san-pham-khac/khp36906.html"
   },
   {
@@ -14248,7 +14248,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36906ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36906a/00-khp36906ajpg.jpg",
     "detailUrl": "san-pham-khac/khp36906a.html"
   },
   {
@@ -14266,7 +14266,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36907jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36907/00-khp36907jpg.jpg",
     "detailUrl": "san-pham-khac/khp36907.html"
   },
   {
@@ -14284,7 +14284,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36908jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36908/00-khp36908jpg.jpg",
     "detailUrl": "san-pham-khac/khp36908.html"
   },
   {
@@ -14302,7 +14302,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36908ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36908a/00-khp36908ajpg.jpg",
     "detailUrl": "san-pham-khac/khp36908a.html"
   },
   {
@@ -14320,7 +14320,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36909jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36909/00-khp36909jpg.jpg",
     "detailUrl": "san-pham-khac/khp36909.html"
   },
   {
@@ -14338,7 +14338,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36910jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36910/00-khp36910jpg.jpg",
     "detailUrl": "san-pham-khac/khp36910.html"
   },
   {
@@ -14356,7 +14356,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36910ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36910a/00-khp36910ajpg.jpg",
     "detailUrl": "san-pham-khac/khp36910a.html"
   },
   {
@@ -14374,7 +14374,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36911jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36911/00-khp36911jpg.jpg",
     "detailUrl": "san-pham-khac/khp36911.html"
   },
   {
@@ -14392,7 +14392,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36912jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36912/00-khp36912jpg.jpg",
     "detailUrl": "san-pham-khac/khp36912.html"
   },
   {
@@ -14410,7 +14410,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60khp/khp36912ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp36912a/00-khp36912ajpg.jpg",
     "detailUrl": "san-pham-khac/khp36912a.html"
   },
   {
@@ -14428,7 +14428,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900/khp39002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3900/00-khp39002.jpg",
     "detailUrl": "san-pham-khac/khp3900.html"
   },
   {
@@ -14446,7 +14446,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900a/khp3900a-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3900a/00-khp3900a-2.jpg",
     "detailUrl": "san-pham-khac/khp3900a.html"
   },
   {
@@ -14464,7 +14464,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3900v/khp3900v-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3900v/00-khp3900v-2.jpg",
     "detailUrl": "san-pham-khac/khp3900v.html"
   },
   {
@@ -14482,7 +14482,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3901/khp3901-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3901/00-khp3901-a.jpg",
     "detailUrl": "san-pham-khac/khp3901.html"
   },
   {
@@ -14500,7 +14500,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3901a/khp3901a-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3901a/00-khp3901a-350.jpg",
     "detailUrl": "san-pham-khac/khp3901a.html"
   },
   {
@@ -14518,7 +14518,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/khp3901v/khp3901v-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khp3901v/00-khp3901v-350.jpg",
     "detailUrl": "san-pham-khac/khp3901v.html"
   },
   {
@@ -14536,7 +14536,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36811.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36811/00-khpgm36811.jpg",
     "detailUrl": "san-pham-khac/khpgm36811.html"
   },
   {
@@ -14554,7 +14554,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36812.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36812/00-khpgm36812.jpg",
     "detailUrl": "san-pham-khac/khpgm36812.html"
   },
   {
@@ -14572,7 +14572,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36812a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36812a/00-khpgm36812a.jpg",
     "detailUrl": "san-pham-khac/khpgm36812a.html"
   },
   {
@@ -14590,7 +14590,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36813.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36813/00-khpgm36813.jpg",
     "detailUrl": "san-pham-khac/khpgm36813.html"
   },
   {
@@ -14608,7 +14608,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36814.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36814/00-khpgm36814.jpg",
     "detailUrl": "san-pham-khac/khpgm36814.html"
   },
   {
@@ -14626,7 +14626,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-matt/khpgm36814a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm36814a/00-khpgm36814a.jpg",
     "detailUrl": "san-pham-khac/khpgm36814a.html"
   },
   {
@@ -14644,7 +14644,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-matt/khp-gm6811.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm6811/00-khp-gm6811.jpg",
     "detailUrl": "san-pham-khac/khpgm6811.html"
   },
   {
@@ -14662,7 +14662,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-matt/khp-gm6812.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm6812/00-khp-gm6812.jpg",
     "detailUrl": "san-pham-khac/khpgm6812.html"
   },
   {
@@ -14680,7 +14680,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-matt/khp-gm6813.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm6813/00-khp-gm6813.jpg",
     "detailUrl": "san-pham-khac/khpgm6813.html"
   },
   {
@@ -14698,7 +14698,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-matt/khp-gm6814.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgm6814/00-khp-gm6814.jpg",
     "detailUrl": "san-pham-khac/khpgm6814.html"
   },
   {
@@ -14716,7 +14716,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36800.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36800/00-khpgp36800.jpg",
     "detailUrl": "san-pham-khac/khpgp36800.html"
   },
   {
@@ -14734,7 +14734,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36800a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36800a/00-khpgp36800a.jpg",
     "detailUrl": "san-pham-khac/khpgp36800a.html"
   },
   {
@@ -14752,7 +14752,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36801.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36801/00-khpgp36801.jpg",
     "detailUrl": "san-pham-khac/khpgp36801.html"
   },
   {
@@ -14770,7 +14770,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36801a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36801a/00-khpgp36801a.jpg",
     "detailUrl": "san-pham-khac/khpgp36801a.html"
   },
   {
@@ -14788,7 +14788,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36803.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36803/00-khpgp36803.jpg",
     "detailUrl": "san-pham-khac/khpgp36803.html"
   },
   {
@@ -14806,7 +14806,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36804/00-khpgp36804.jpg",
     "detailUrl": "san-pham-khac/khpgp36804.html"
   },
   {
@@ -14824,7 +14824,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36804a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36804a/00-khpgp36804a.jpg",
     "detailUrl": "san-pham-khac/khpgp36804a.html"
   },
   {
@@ -14842,7 +14842,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36805.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36805/00-khpgp36805.jpg",
     "detailUrl": "san-pham-khac/khpgp36805.html"
   },
   {
@@ -14860,7 +14860,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36806.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36806/00-khpgp36806.jpg",
     "detailUrl": "san-pham-khac/khpgp36806.html"
   },
   {
@@ -14878,7 +14878,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36807.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36807/00-khpgp36807.jpg",
     "detailUrl": "san-pham-khac/khpgp36807.html"
   },
   {
@@ -14896,7 +14896,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36808.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36808/00-khpgp36808.jpg",
     "detailUrl": "san-pham-khac/khpgp36808.html"
   },
   {
@@ -14914,7 +14914,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36808a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36808a/00-khpgp36808a.jpg",
     "detailUrl": "san-pham-khac/khpgp36808a.html"
   },
   {
@@ -14932,7 +14932,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36810.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36810/00-khpgp36810.jpg",
     "detailUrl": "san-pham-khac/khpgp36810.html"
   },
   {
@@ -14950,7 +14950,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36810a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36810a/00-khpgp36810a.jpg",
     "detailUrl": "san-pham-khac/khpgp36810a.html"
   },
   {
@@ -14968,7 +14968,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36812.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36812/00-khpgp36812.jpg",
     "detailUrl": "san-pham-khac/khpgp36812.html"
   },
   {
@@ -14986,7 +14986,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/khpgp36812a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp36812a/00-khpgp36812a.jpg",
     "detailUrl": "san-pham-khac/khpgp36812a.html"
   },
   {
@@ -15004,7 +15004,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61201.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61201/00-khp-gp61201.jpg",
     "detailUrl": "san-pham-khac/khpgp61201.html"
   },
   {
@@ -15022,7 +15022,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61202.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61202/00-khp-gp61202.jpg",
     "detailUrl": "san-pham-khac/khpgp61202.html"
   },
   {
@@ -15040,7 +15040,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61203.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61203/00-khp-gp61203.jpg",
     "detailUrl": "san-pham-khac/khpgp61203.html"
   },
   {
@@ -15058,7 +15058,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61204.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61204/00-khp-gp61204.jpg",
     "detailUrl": "san-pham-khac/khpgp61204.html"
   },
   {
@@ -15076,7 +15076,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61205.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61205/00-khp-gp61205.jpg",
     "detailUrl": "san-pham-khac/khpgp61205.html"
   },
   {
@@ -15094,7 +15094,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x120-polish/khp-gp61206.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp61206/00-khp-gp61206.jpg",
     "detailUrl": "san-pham-khac/khpgp61206.html"
   },
   {
@@ -15112,7 +15112,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khp-gp8801.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8801/00-khp-gp8801.jpg",
     "detailUrl": "san-pham-khac/khpgp8801.html"
   },
   {
@@ -15130,7 +15130,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8802/khp-gp8802.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8802/00-khp-gp8802.jpg",
     "detailUrl": "san-pham-khac/khpgp8802.html"
   },
   {
@@ -15148,7 +15148,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8803/khp-gp8803.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8803/00-khp-gp8803.jpg",
     "detailUrl": "san-pham-khac/khpgp8803.html"
   },
   {
@@ -15166,7 +15166,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khpgp8804/khp-gp8804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8804/00-khp-gp8804.jpg",
     "detailUrl": "san-pham-khac/khpgp8804.html"
   },
   {
@@ -15184,7 +15184,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khp-gp8805.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8805/00-khp-gp8805.jpg",
     "detailUrl": "san-pham-khac/khpgp8805.html"
   },
   {
@@ -15220,7 +15220,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khp-gp8807.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8807/00-khp-gp8807.jpg",
     "detailUrl": "san-pham-khac/khpgp8807.html"
   },
   {
@@ -15238,7 +15238,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/khpgp-80x80/khp-gp8901.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/khpgp8901/00-khp-gp8901.jpg",
     "detailUrl": "san-pham-khac/khpgp8901.html"
   },
   {
@@ -15256,7 +15256,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/kq3621-3622/kq3621.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kq3621/00-kq3621.jpg",
     "detailUrl": "san-pham-khac/kq3621.html"
   },
   {
@@ -15274,7 +15274,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/kq3621-3622/kq3622.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kq3622/00-kq3622.jpg",
     "detailUrl": "san-pham-khac/kq3622.html"
   },
   {
@@ -15292,7 +15292,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ks3075/ks3075b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ks3075/00-ks3075b.jpg",
     "detailUrl": "san-pham-khac/ks3075.html"
   },
   {
@@ -15310,7 +15310,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ks3076/ks3076b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ks3076/00-ks3076b.jpg",
     "detailUrl": "san-pham-khac/ks3076.html"
   },
   {
@@ -15328,7 +15328,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ks3604/ks-3604b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ks3604/00-ks-3604b.jpg",
     "detailUrl": "san-pham-khac/ks3604.html"
   },
   {
@@ -15346,7 +15346,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ks3618/ks3618b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ks3618/00-ks3618b.jpg",
     "detailUrl": "san-pham-khac/ks3618.html"
   },
   {
@@ -15364,7 +15364,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-ce3608a/kt-ce3608a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-ce3608a/00-kt-ce3608a.jpg",
     "detailUrl": "san-pham-khac/kt-ce3608a.html"
   },
   {
@@ -15382,7 +15382,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-ce3609d1/kt-ce3609d1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-ce3609d1/00-kt-ce3609d1.jpg",
     "detailUrl": "san-pham-khac/kt-ce3609d1.html"
   },
   {
@@ -15400,7 +15400,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3611/ktcm3611-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3611/00-ktcm3611-1.jpg",
     "detailUrl": "san-pham-khac/kt-cm3611.html"
   },
   {
@@ -15418,7 +15418,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3611/ktcm3612-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3612/00-ktcm3612-1.jpg",
     "detailUrl": "san-pham-khac/kt-cm3612.html"
   },
   {
@@ -15436,7 +15436,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3611/ktcm3612a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3612a/00-ktcm3612a.jpg",
     "detailUrl": "san-pham-khac/kt-cm3612a.html"
   },
   {
@@ -15454,7 +15454,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3613-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3613/00-ktcm3613-1.jpg",
     "detailUrl": "san-pham-khac/kt-cm3613.html"
   },
   {
@@ -15472,7 +15472,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3614-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3614/00-ktcm3614-1.jpg",
     "detailUrl": "san-pham-khac/kt-cm3614.html"
   },
   {
@@ -15490,7 +15490,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/kt-cm3613/ktcm3614a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt-cm3614a/00-ktcm3614a.jpg",
     "detailUrl": "san-pham-khac/kt-cm3614a.html"
   },
   {
@@ -15508,7 +15508,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3607/kt-36072.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3607/00-kt-36072.jpg",
     "detailUrl": "san-pham-khac/kt3607.html"
   },
   {
@@ -15526,7 +15526,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3608/kt-36082.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3608/00-kt-36082.jpg",
     "detailUrl": "san-pham-khac/kt3608.html"
   },
   {
@@ -15544,7 +15544,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3609/kt36092.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3609/00-kt36092.jpg",
     "detailUrl": "san-pham-khac/kt3609.html"
   },
   {
@@ -15562,7 +15562,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3638/kt-36382.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3638/00-kt-36382.jpg",
     "detailUrl": "san-pham-khac/kt3638.html"
   },
   {
@@ -15580,7 +15580,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3639/kt-36392.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3639/00-kt-36392.jpg",
     "detailUrl": "san-pham-khac/kt3639.html"
   },
   {
@@ -15598,7 +15598,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3901/kt39012.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3901/00-kt39012.jpg",
     "detailUrl": "san-pham-khac/kt3901.html"
   },
   {
@@ -15616,7 +15616,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3902/kt39022.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3902/00-kt39022.jpg",
     "detailUrl": "san-pham-khac/kt3902.html"
   },
   {
@@ -15634,7 +15634,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3902a/kt3902a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3902a/00-kt3902a2.jpg",
     "detailUrl": "san-pham-khac/kt3902a.html"
   },
   {
@@ -15652,7 +15652,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3903/kt39032.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3903/00-kt39032.jpg",
     "detailUrl": "san-pham-khac/kt3903.html"
   },
   {
@@ -15670,7 +15670,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3904/kt39042.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3904/00-kt39042.jpg",
     "detailUrl": "san-pham-khac/kt3904.html"
   },
   {
@@ -15688,7 +15688,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3904a/kt3904a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3904a/00-kt3904a2.jpg",
     "detailUrl": "san-pham-khac/kt3904a.html"
   },
   {
@@ -15706,7 +15706,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3907/kt39072.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3907/00-kt39072.jpg",
     "detailUrl": "san-pham-khac/kt3907.html"
   },
   {
@@ -15724,7 +15724,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3908/kt39082.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3908/00-kt39082.jpg",
     "detailUrl": "san-pham-khac/kt3908.html"
   },
   {
@@ -15742,7 +15742,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3908a/kt3908a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3908a/00-kt3908a2.jpg",
     "detailUrl": "san-pham-khac/kt3908a.html"
   },
   {
@@ -15760,7 +15760,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3909/kt39092.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3909/00-kt39092.jpg",
     "detailUrl": "san-pham-khac/kt3909.html"
   },
   {
@@ -15778,7 +15778,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3910/kt39102.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3910/00-kt39102.jpg",
     "detailUrl": "san-pham-khac/kt3910.html"
   },
   {
@@ -15796,7 +15796,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kt3910a/kt3910a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3910a/00-kt3910a2.jpg",
     "detailUrl": "san-pham-khac/kt3910a.html"
   },
   {
@@ -15814,7 +15814,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt-3927.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3927/00-kt-3927.jpg",
     "detailUrl": "san-pham-khac/kt3927.html"
   },
   {
@@ -15832,7 +15832,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3969.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3969/00-kt3969.jpg",
     "detailUrl": "san-pham-khac/kt3969.html"
   },
   {
@@ -15850,7 +15850,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3970.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3970/00-kt3970.jpg",
     "detailUrl": "san-pham-khac/kt3970.html"
   },
   {
@@ -15868,7 +15868,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3970a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3970/02-kt3970a.jpg",
     "detailUrl": "san-pham-khac/kt3970a.html"
   },
   {
@@ -15886,7 +15886,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3971-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3971/00-kt3971-vien-1.jpg",
     "detailUrl": "san-pham-khac/kt3971.html"
   },
   {
@@ -15904,7 +15904,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3972-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3972/00-kt3972-vien-1.jpg",
     "detailUrl": "san-pham-khac/kt3972.html"
   },
   {
@@ -15922,7 +15922,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3972a-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3972/02-kt3972a-vien-1.jpg",
     "detailUrl": "san-pham-khac/kt3972a.html"
   },
   {
@@ -15940,7 +15940,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3973-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3973/00-kt3973-v1.jpg",
     "detailUrl": "san-pham-khac/kt3973.html"
   },
   {
@@ -15958,7 +15958,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3974.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3974/00-kt3974.jpg",
     "detailUrl": "san-pham-khac/kt3974.html"
   },
   {
@@ -15976,7 +15976,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/kt/kt3974a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kt3974/02-kt3974a.jpg",
     "detailUrl": "san-pham-khac/kt3974a.html"
   },
   {
@@ -15994,7 +15994,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3601/kt-ce3601-f1-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3601/00-kt-ce3601-f1-2.jpg",
     "detailUrl": "san-pham-khac/ktce3601.html"
   },
   {
@@ -16012,7 +16012,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3602/kt-ce3602-f1-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3602/00-kt-ce3602-f1-2.jpg",
     "detailUrl": "san-pham-khac/ktce3602.html"
   },
   {
@@ -16030,7 +16030,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3602a/kt-ce3602a-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3602a/00-kt-ce3602a-2.jpg",
     "detailUrl": "san-pham-khac/ktce3602a.html"
   },
   {
@@ -16048,7 +16048,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3603/kt-ce3603-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3603/00-kt-ce3603-350.jpg",
     "detailUrl": "san-pham-khac/ktce3603.html"
   },
   {
@@ -16066,7 +16066,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3604/kt-ce3604-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3604/00-kt-ce3604-350.jpg",
     "detailUrl": "san-pham-khac/ktce3604.html"
   },
   {
@@ -16084,7 +16084,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktce3604a/kt-ce3604a-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3604a/00-kt-ce3604a-350.jpg",
     "detailUrl": "san-pham-khac/ktce3604a.html"
   },
   {
@@ -16102,7 +16102,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3605/kt-ce3605-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3605/00-kt-ce3605-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3605.html"
   },
   {
@@ -16120,7 +16120,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3606-a/kt-ce3606-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3606/00-kt-ce3606-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3606.html"
   },
   {
@@ -16138,7 +16138,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3606-a/kt-ce3606a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3606a/00-kt-ce3606a.jpg",
     "detailUrl": "san-pham-khac/ktce3606a.html"
   },
   {
@@ -16156,7 +16156,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3607-a/kt-ce3607-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3607/00-kt-ce3607-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3607.html"
   },
   {
@@ -16174,7 +16174,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3607-a/kt-ce3607a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3607a/00-kt-ce3607a.jpg",
     "detailUrl": "san-pham-khac/ktce3607a.html"
   },
   {
@@ -16192,7 +16192,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3608-a/kt-ce3608-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3608/00-kt-ce3608-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3608.html"
   },
   {
@@ -16210,7 +16210,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3609-a/kt-ce3609-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3609/00-kt-ce3609-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3609.html"
   },
   {
@@ -16246,7 +16246,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3613/kt-ce3613-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3613/00-kt-ce3613-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3613.html"
   },
   {
@@ -16264,7 +16264,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3614-a/kt-ce3614-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3614/00-kt-ce3614-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3614.html"
   },
   {
@@ -16282,7 +16282,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3614-a/kt-ce3614a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3614a/00-kt-ce3614a.jpg",
     "detailUrl": "san-pham-khac/ktce3614a.html"
   },
   {
@@ -16300,7 +16300,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3615-a/kt-ce3615-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3615/00-kt-ce3615-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3615.html"
   },
   {
@@ -16318,7 +16318,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3615-a/kt-ce3615a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3615a/00-kt-ce3615a.jpg",
     "detailUrl": "san-pham-khac/ktce3615a.html"
   },
   {
@@ -16336,7 +16336,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3617/kt-ce3617-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3617/00-kt-ce3617-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3617.html"
   },
   {
@@ -16354,7 +16354,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3618-a/kt-ce3618-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3618/00-kt-ce3618-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3618.html"
   },
   {
@@ -16372,7 +16372,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3618-a/kt-ce3618a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3618a/00-kt-ce3618a.jpg",
     "detailUrl": "san-pham-khac/ktce3618a.html"
   },
   {
@@ -16390,7 +16390,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3619/kt-ce3619-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3619/00-kt-ce3619-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3619.html"
   },
   {
@@ -16408,7 +16408,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3620-a/kt-ce3620-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3620/00-kt-ce3620-f1.jpg",
     "detailUrl": "san-pham-khac/ktce3620.html"
   },
   {
@@ -16426,7 +16426,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/30x60-ceramic-bong/ktce3620-a/kt-ce3620a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktce3620a/00-kt-ce3620a.jpg",
     "detailUrl": "san-pham-khac/ktce3620a.html"
   },
   {
@@ -16462,7 +16462,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3601/ktcm3601-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3601/00-ktcm3601-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3601.html"
   },
   {
@@ -16480,7 +16480,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3601a/ktcm3601a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3601a/00-ktcm3601a2.jpg",
     "detailUrl": "san-pham-khac/ktcm3601a.html"
   },
   {
@@ -16498,7 +16498,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3602/ktcm3602-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3602/00-ktcm3602-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3602.html"
   },
   {
@@ -16516,7 +16516,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ktcm3602a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3602a/00-ktcm3602a.jpg",
     "detailUrl": "san-pham-khac/ktcm3602a.html"
   },
   {
@@ -16534,7 +16534,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3603/ktcm3603-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3603/00-ktcm3603-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3603.html"
   },
   {
@@ -16552,7 +16552,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3604/ktcm3604-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3604/00-ktcm3604-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3604.html"
   },
   {
@@ -16570,7 +16570,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3604a/ktcm3604a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3604a/00-ktcm3604a2.jpg",
     "detailUrl": "san-pham-khac/ktcm3604a.html"
   },
   {
@@ -16588,7 +16588,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3605/ktcm3605-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3605/00-ktcm3605-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3605.html"
   },
   {
@@ -16606,7 +16606,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3606/ktcm3606-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3606/00-ktcm3606-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3606.html"
   },
   {
@@ -16624,7 +16624,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3606a/ktcm3606a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3606a/00-ktcm3606a2.jpg",
     "detailUrl": "san-pham-khac/ktcm3606a.html"
   },
   {
@@ -16642,7 +16642,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3607/ktcm3607-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3607/00-ktcm3607-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3607.html"
   },
   {
@@ -16660,7 +16660,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3608/ktcm3608-f12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3608/00-ktcm3608-f12.jpg",
     "detailUrl": "san-pham-khac/ktcm3608.html"
   },
   {
@@ -16678,7 +16678,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktcm3608a/ktcm3608a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktcm3608a/00-ktcm3608a2.jpg",
     "detailUrl": "san-pham-khac/ktcm3608a.html"
   },
   {
@@ -16696,7 +16696,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3975/ktm39752.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3975/00-ktm39752.jpg",
     "detailUrl": "san-pham-khac/ktm3975.html"
   },
   {
@@ -16714,7 +16714,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3976/ktm39762.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3976/00-ktm39762.jpg",
     "detailUrl": "san-pham-khac/ktm3976.html"
   },
   {
@@ -16732,7 +16732,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3976a/ktm3976a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3976a/00-ktm3976a2.jpg",
     "detailUrl": "san-pham-khac/ktm3976a.html"
   },
   {
@@ -16750,7 +16750,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3977/ktm39772.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3977/00-ktm39772.jpg",
     "detailUrl": "san-pham-khac/ktm3977.html"
   },
   {
@@ -16768,7 +16768,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3978/ktm39782.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3978/00-ktm39782.jpg",
     "detailUrl": "san-pham-khac/ktm3978.html"
   },
   {
@@ -16786,7 +16786,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3978a/ktm3978a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3978a/00-ktm3978a2.jpg",
     "detailUrl": "san-pham-khac/ktm3978a.html"
   },
   {
@@ -16804,7 +16804,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3979/ktm39792.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3979/00-ktm39792.jpg",
     "detailUrl": "san-pham-khac/ktm3979.html"
   },
   {
@@ -16822,7 +16822,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3980/ktm39802.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3980/00-ktm39802.jpg",
     "detailUrl": "san-pham-khac/ktm3980.html"
   },
   {
@@ -16840,7 +16840,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3980a/ktm3980a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3980a/00-ktm3980a2.jpg",
     "detailUrl": "san-pham-khac/ktm3980a.html"
   },
   {
@@ -16858,7 +16858,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3981/ktm39812.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3981/00-ktm39812.jpg",
     "detailUrl": "san-pham-khac/ktm3981.html"
   },
   {
@@ -16876,7 +16876,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3982/ktm39822.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3982/00-ktm39822.jpg",
     "detailUrl": "san-pham-khac/ktm3982.html"
   },
   {
@@ -16894,7 +16894,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3982a/ktm3982a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3982a/00-ktm3982a2.jpg",
     "detailUrl": "san-pham-khac/ktm3982a.html"
   },
   {
@@ -16912,7 +16912,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3983/ktm39832.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3983/00-ktm39832.jpg",
     "detailUrl": "san-pham-khac/ktm3983.html"
   },
   {
@@ -16930,7 +16930,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3984/ktm39842.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3984/00-ktm39842.jpg",
     "detailUrl": "san-pham-khac/ktm3984.html"
   },
   {
@@ -16948,7 +16948,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3984a/ktm3984a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3984a/00-ktm3984a2.jpg",
     "detailUrl": "san-pham-khac/ktm3984a.html"
   },
   {
@@ -16966,7 +16966,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3985/ktm3985-vien-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3985/00-ktm3985-vien-11.jpg",
     "detailUrl": "san-pham-khac/ktm3985.html"
   },
   {
@@ -16984,7 +16984,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3986/ktm3986-vien-12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3986/00-ktm3986-vien-12.jpg",
     "detailUrl": "san-pham-khac/ktm3986.html"
   },
   {
@@ -17002,7 +17002,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3986a/ktm3686a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3986a/00-ktm3686a2.jpg",
     "detailUrl": "san-pham-khac/ktm3986a.html"
   },
   {
@@ -17020,7 +17020,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3987/ktm3987-vien-12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3987/00-ktm3987-vien-12.jpg",
     "detailUrl": "san-pham-khac/ktm3987.html"
   },
   {
@@ -17038,7 +17038,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3988/ktm3988-vien-12.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3988/00-ktm3988-vien-12.jpg",
     "detailUrl": "san-pham-khac/ktm3988.html"
   },
   {
@@ -17056,7 +17056,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ktm3988a/ktm3988a2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3988a/00-ktm3988a2.jpg",
     "detailUrl": "san-pham-khac/ktm3988a.html"
   },
   {
@@ -17074,7 +17074,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ktm3991-92-92a/ktm3991-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3991/00-ktm3991-v1.jpg",
     "detailUrl": "san-pham-khac/ktm3991.html"
   },
   {
@@ -17092,7 +17092,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ktm3991-92-92a/ktm3992-v1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3992/00-ktm3992-v1.jpg",
     "detailUrl": "san-pham-khac/ktm3992.html"
   },
   {
@@ -17110,7 +17110,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ktm3991-92-92a/ktm3992a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ktm3992a/00-ktm3992a.jpg",
     "detailUrl": "san-pham-khac/ktm3992a.html"
   },
   {
@@ -17128,7 +17128,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n301/kv-n301b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv-n301/00-kv-n301b.jpg",
     "detailUrl": "san-pham-khac/kv-n301.html"
   },
   {
@@ -17146,7 +17146,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n302/kv-n302b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv-n302/00-kv-n302b.jpg",
     "detailUrl": "san-pham-khac/kv-n302.html"
   },
   {
@@ -17164,7 +17164,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n303/kv-n303b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv-n303/00-kv-n303b.jpg",
     "detailUrl": "san-pham-khac/kv-n303.html"
   },
   {
@@ -17182,7 +17182,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n306/kv-n306b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv-n306/00-kv-n306b.jpg",
     "detailUrl": "san-pham-khac/kv-n306.html"
   },
   {
@@ -17200,7 +17200,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv-n307/kv-n307b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv-n307/00-kv-n307b.jpg",
     "detailUrl": "san-pham-khac/kv-n307.html"
   },
   {
@@ -17218,7 +17218,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2500-d1/kv2500-d1-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2500-d1/00-kv2500-d1-2.jpg",
     "detailUrl": "san-pham-khac/kv2500-d1.html"
   },
   {
@@ -17236,7 +17236,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2500-d2/kv2500-d2-b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2500-d2/00-kv2500-d2-b.jpg",
     "detailUrl": "san-pham-khac/kv2500-d2.html"
   },
   {
@@ -17254,7 +17254,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2500-d3/kv2500-d3-b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2500-d3/00-kv2500-d3-b.jpg",
     "detailUrl": "san-pham-khac/kv2500-d3.html"
   },
   {
@@ -17272,7 +17272,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2500-d4/kv2500-d4b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2500-d4/00-kv2500-d4b.jpg",
     "detailUrl": "san-pham-khac/kv2500-d4.html"
   },
   {
@@ -17290,7 +17290,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2500/kv2500-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2500/00-kv2500-2.jpg",
     "detailUrl": "san-pham-khac/kv2500.html"
   },
   {
@@ -17308,7 +17308,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2501-d1/kv2501-d1b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2501-d1/00-kv2501-d1b.jpg",
     "detailUrl": "san-pham-khac/kv2501-d1.html"
   },
   {
@@ -17326,7 +17326,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2501-d2/kv2501-d2b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2501-d2/00-kv2501-d2b.jpg",
     "detailUrl": "san-pham-khac/kv2501-d2.html"
   },
   {
@@ -17344,7 +17344,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/kv2501/kv2501-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/kv2501/00-kv2501-2.jpg",
     "detailUrl": "san-pham-khac/kv2501.html"
   },
   {
@@ -17362,7 +17362,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15901/lngk15901-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15901/00-lngk15901-2.jpg",
     "detailUrl": "san-pham-khac/lngk15901.html"
   },
   {
@@ -17380,7 +17380,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15902/lngk15902-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15902/00-lngk15902-2.jpg",
     "detailUrl": "san-pham-khac/lngk15902.html"
   },
   {
@@ -17398,7 +17398,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15903/lngk15903-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15903/00-lngk15903-2.jpg",
     "detailUrl": "san-pham-khac/lngk15903.html"
   },
   {
@@ -17416,7 +17416,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15904/lngk15904-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15904/00-lngk15904-2.jpg",
     "detailUrl": "san-pham-khac/lngk15904.html"
   },
   {
@@ -17434,7 +17434,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15905/lngk15905-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15905/00-lngk15905-2.jpg",
     "detailUrl": "san-pham-khac/lngk15905.html"
   },
   {
@@ -17452,7 +17452,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15906/lngk15906-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15906/00-lngk15906-2.jpg",
     "detailUrl": "san-pham-khac/lngk15906.html"
   },
   {
@@ -17470,7 +17470,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15907/lngk15907-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15907/00-lngk15907-2.jpg",
     "detailUrl": "san-pham-khac/lngk15907.html"
   },
   {
@@ -17488,7 +17488,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15908/lngk15908-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15908/00-lngk15908-2.jpg",
     "detailUrl": "san-pham-khac/lngk15908.html"
   },
   {
@@ -17506,7 +17506,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15909/lngk15909-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15909/00-lngk15909-2.jpg",
     "detailUrl": "san-pham-khac/lngk15909.html"
   },
   {
@@ -17524,7 +17524,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15910/lngk159010-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15910/00-lngk159010-2.jpg",
     "detailUrl": "san-pham-khac/lngk15910.html"
   },
   {
@@ -17542,7 +17542,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15911/lngk159011-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15911/00-lngk159011-2.jpg",
     "detailUrl": "san-pham-khac/lngk15911.html"
   },
   {
@@ -17560,7 +17560,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/lngk15912/lngk159012-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/lngk15912/00-lngk159012-2.jpg",
     "detailUrl": "san-pham-khac/lngk15912.html"
   },
   {
@@ -17578,7 +17578,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m414/m414b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m414/00-m414b.jpg",
     "detailUrl": "san-pham-khac/m414.html"
   },
   {
@@ -17596,7 +17596,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m420/m420b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m420/00-m420b.jpg",
     "detailUrl": "san-pham-khac/m420.html"
   },
   {
@@ -17614,7 +17614,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/m6002.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m6002/00-m6002.png",
     "detailUrl": "san-pham-khac/m6002.html"
   },
   {
@@ -17632,7 +17632,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/m6003.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m6003/00-m6003.png",
     "detailUrl": "san-pham-khac/m6003.html"
   },
   {
@@ -17650,7 +17650,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/m6004.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m6004/00-m6004.png",
     "detailUrl": "san-pham-khac/m6004.html"
   },
   {
@@ -17668,7 +17668,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/m6005.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/m6005/00-m6005.png",
     "detailUrl": "san-pham-khac/m6005.html"
   },
   {
@@ -17686,7 +17686,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ecom605/ecom-605.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ma-san-pham/00-ecom-605.jpg",
     "detailUrl": "united-tiles-1/ma-san-pham.html"
   },
   {
@@ -17704,7 +17704,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159007/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159007/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159007.html"
   },
   {
@@ -17722,7 +17722,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159010/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159010/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159010.html"
   },
   {
@@ -17740,7 +17740,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159021/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159021/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159021.html"
   },
   {
@@ -17758,7 +17758,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159022/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159022/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159022.html"
   },
   {
@@ -17776,7 +17776,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159023/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159023/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159023.html"
   },
   {
@@ -17794,7 +17794,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159026/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159026/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159026.html"
   },
   {
@@ -17812,7 +17812,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159027/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159027/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159027.html"
   },
   {
@@ -17830,7 +17830,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk-159028/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-159028/00-350.jpg",
     "detailUrl": "san-pham-khac/mdk-159028.html"
   },
   {
@@ -17848,7 +17848,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362017-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362017/00-mdk-362017-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362017.html"
   },
   {
@@ -17866,7 +17866,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362018-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362018/00-mdk-362018-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362018.html"
   },
   {
@@ -17884,7 +17884,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362019-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362019/00-mdk-362019-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362019.html"
   },
   {
@@ -17902,7 +17902,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362027-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362027/00-mdk-362027-f1.jpg",
     "detailUrl": "united-tiles-1/mdk-362027.html"
   },
   {
@@ -17920,7 +17920,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362028-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362028/00-mdk-362028-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362028.html"
   },
   {
@@ -17938,7 +17938,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362029-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362029/00-mdk-362029-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362029.html"
   },
   {
@@ -17956,7 +17956,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362030-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362030/00-mdk-362030-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362030.html"
   },
   {
@@ -17974,7 +17974,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/mdk-362031-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362031/00-mdk-362031-f1.jpg",
     "detailUrl": "united-tiles-1/mdk-362031.html"
   },
   {
@@ -17992,7 +17992,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362032-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362032/00-md-k362032-1.jpg",
     "detailUrl": "united-tiles-1/mdk-362032.html"
   },
   {
@@ -18010,7 +18010,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362033-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362033/00-md-k362033-f1.jpg",
     "detailUrl": "united-tiles-1/mdk-362033.html"
   },
   {
@@ -18028,7 +18028,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-3060/md-k362034-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-362034/00-md-k362034-f1.jpg",
     "detailUrl": "united-tiles-1/mdk-362034.html"
   },
   {
@@ -18046,7 +18046,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/mdk-662020-azf2-050122-3-grey-22-5faces-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk-662020/00-mdk-662020-azf2-050122-3-grey-22-5faces-1.jpg",
     "detailUrl": "united-tiles-1/mdk-662020.html"
   },
   {
@@ -18064,7 +18064,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362007/md-k3620071.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk362007/00-md-k3620071.jpg",
     "detailUrl": "san-pham-khac/mdk362007.html"
   },
   {
@@ -18082,7 +18082,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362013/screen-shot-2020-11-02-at-105207-am-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk362013/00-screen-shot-2020-11-02-at-105207-am-2.jpg",
     "detailUrl": "bst-song-hong/mdk362013.html"
   },
   {
@@ -18100,7 +18100,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362014/screen-shot-2020-11-02-at-105727-am1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk362014/00-screen-shot-2020-11-02-at-105727-am1.jpg",
     "detailUrl": "san-pham-khac/mdk362014.html"
   },
   {
@@ -18118,7 +18118,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362015/screen-shot-2020-11-02-at-110100-am2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk362015/00-screen-shot-2020-11-02-at-110100-am2.jpg",
     "detailUrl": "san-pham-khac/mdk362015.html"
   },
   {
@@ -18136,7 +18136,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk362016/screen-shot-2020-11-02-at-110525-am-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk362016/00-screen-shot-2020-11-02-at-110525-am-2.jpg",
     "detailUrl": "san-pham-khac/mdk362016.html"
   },
   {
@@ -18154,7 +18154,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662004/mdk-6620041.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk662004/00-mdk-6620041.jpg",
     "detailUrl": "san-pham-khac/mdk662004.html"
   },
   {
@@ -18172,7 +18172,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/mdk662005/mdk-6620051.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mdk662005/00-mdk-6620051.jpg",
     "detailUrl": "san-pham-khac/mdk662005.html"
   },
   {
@@ -18190,7 +18190,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/mq6002.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mq6002/00-mq6002.png",
     "detailUrl": "san-pham-khac/mq6002.html"
   },
   {
@@ -18208,7 +18208,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/mq6003.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mq6003/00-mq6003.png",
     "detailUrl": "san-pham-khac/mq6003.html"
   },
   {
@@ -18226,7 +18226,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/mq6004-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mq6004/00-mq6004-1.jpg",
     "detailUrl": "san-pham-khac/mq6004.html"
   },
   {
@@ -18244,7 +18244,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/m6002-mq/mq6005-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/mq6005/00-mq6005-1.jpg",
     "detailUrl": "san-pham-khac/mq6005.html"
   },
   {
@@ -18262,7 +18262,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3005/n3005b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3005/00-n3005b.jpg",
     "detailUrl": "san-pham-khac/n3005.html"
   },
   {
@@ -18280,7 +18280,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3006/n3006b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3006/00-n3006b.jpg",
     "detailUrl": "san-pham-khac/n3006.html"
   },
   {
@@ -18298,7 +18298,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3007/n3007b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3007/00-n3007b.jpg",
     "detailUrl": "san-pham-khac/n3007.html"
   },
   {
@@ -18316,7 +18316,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3008/n3008b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3008/00-n3008b.jpg",
     "detailUrl": "san-pham-khac/n3008.html"
   },
   {
@@ -18334,7 +18334,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3009/n3009b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3009/00-n3009b.jpg",
     "detailUrl": "san-pham-khac/n3009.html"
   },
   {
@@ -18352,7 +18352,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n307/n307b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n307/00-n307b.jpg",
     "detailUrl": "san-pham-khac/n307.html"
   },
   {
@@ -18370,7 +18370,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n317/n317b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n317/00-n317b.jpg",
     "detailUrl": "san-pham-khac/n317.html"
   },
   {
@@ -18388,7 +18388,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3602/n3602b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3602/00-n3602b.jpg",
     "detailUrl": "san-pham-khac/n3602.html"
   },
   {
@@ -18406,7 +18406,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/n3626/n3626a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/n3626/00-n3626a.jpg",
     "detailUrl": "san-pham-khac/n3626.html"
   },
   {
@@ -18424,7 +18424,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510497411af92211fd0a1d6488fca8fe99b4feb0-6213.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-03.html"
   },
   {
@@ -18442,7 +18442,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55596939274441437b6dc12d4535bb4d9ea997cd0c5cd-2648.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-06.html"
   },
   {
@@ -18460,7 +18460,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510347535612ad81862f34683bd44021103b2557-1383.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-12.html"
   },
   {
@@ -18478,7 +18478,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510496686de1772fb5241b32738111077f5c4c86-8593.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-18.html"
   },
   {
@@ -18496,7 +18496,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510669353d3df1630805a088a05295e552decea5-1699.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-19.html"
   },
   {
@@ -18514,7 +18514,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/7-5824.png",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t03.html"
   },
   {
@@ -18532,7 +18532,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/8-5128.png",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t06.html"
   },
   {
@@ -18550,7 +18550,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59790921217174a579e9f27c8da5fc250d347226767d8-4903.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t08.html"
   },
   {
@@ -18568,7 +18568,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/9-2370-3282.png",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t09.html"
   },
   {
@@ -18586,7 +18586,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5575903117495e6a8da049d0b6073505b8c92b1fe81e4-2976.jpg",
+    "image": "",
     "detailUrl": "ngoi-phng-t/ngi-phng-trng-men-viglacera-t12.html"
   },
   {
@@ -18604,7 +18604,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z555591796778293caf92057d18de6fe34abadafa6c1d3-6285-min-6247.jpg",
+    "image": "",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s03.html"
   },
   {
@@ -18622,7 +18622,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55559180247220c9051eb23f8f1b62c8b2519cc3872b8-7744-min-6866.jpg",
+    "image": "",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s06.html"
   },
   {
@@ -18640,7 +18640,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5978988346359e523406f81b23e37c9ec1eaecdd0271a-3620.jpg",
+    "image": "",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s08.html"
   },
   {
@@ -18658,7 +18658,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5555918008956c0eb0d04b28fd76f5ace35394493f309-5632-min-2738.jpg",
+    "image": "",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s09d.html"
   },
   {
@@ -18676,7 +18676,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55559179495937ad5a9215b32a153a4b19c5ee3d08184-4013-min-5697.jpg",
+    "image": "",
     "detailUrl": "ngoi-song/ngi-sng-trng-men-viglacera-s12.html"
   },
   {
@@ -18766,7 +18766,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nygk/ny-gk15901-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny-gk15901/00-ny-gk15901-1.jpg",
     "detailUrl": "united-tiles-1/ny-gk15901.html"
   },
   {
@@ -18784,7 +18784,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nygk/ny-gk15902-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny-gk15902/00-ny-gk15902-1.jpg",
     "detailUrl": "united-tiles-1/ny-gk15902.html"
   },
   {
@@ -18802,7 +18802,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nygk/ny-gk15903-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny-gk15903/00-ny-gk15903-1.jpg",
     "detailUrl": "united-tiles-1/ny-gk15903.html"
   },
   {
@@ -18820,7 +18820,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nygk/ny-gk15904-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny-gk15904/00-ny-gk15904-1.jpg",
     "detailUrl": "united-tiles-1/ny-gk15904.html"
   },
   {
@@ -18838,7 +18838,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nygk/ny-gk15905-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny-gk15905/00-ny-gk15905-1.jpg",
     "detailUrl": "united-tiles-1/ny-gk15905.html"
   },
   {
@@ -18856,7 +18856,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny1/ny1-gp8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny1-gp8801/00-ny1-gp8801-1.jpg",
     "detailUrl": "united-tiles-1/ny1-gp8801.html"
   },
   {
@@ -18874,7 +18874,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny1/ny1-gp8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny1-gp8802/00-ny1-gp8802-1.jpg",
     "detailUrl": "united-tiles-1/ny1-gp8802.html"
   },
   {
@@ -18892,7 +18892,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny1/ny1-gp8804-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny1-gp8804/00-ny1-gp8804-1.jpg",
     "detailUrl": "united-tiles-1/ny1-gp8804.html"
   },
   {
@@ -18910,7 +18910,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny1-p121202/ny1-p121202-f1-72dpi-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny1-p121202/00-ny1-p121202-f1-72dpi-min.jpg",
     "detailUrl": "united-tiles-1/ny1-p121202.html"
   },
   {
@@ -18928,7 +18928,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm3601/00-ny10-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm3601.html"
   },
   {
@@ -18946,7 +18946,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm3602/00-ny10-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm3602.html"
   },
   {
@@ -18964,7 +18964,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm3603/00-ny10-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm3603.html"
   },
   {
@@ -18982,7 +18982,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm6601/00-ny10-gm6601-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm6601.html"
   },
   {
@@ -19000,7 +19000,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm6602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm6602/00-ny10-gm6602-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm6602.html"
   },
   {
@@ -19018,7 +19018,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny10/ny10-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny10-gm6603/00-ny10-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/ny10-gm6603.html"
   },
   {
@@ -19036,7 +19036,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny11-gm3601/00-ny11-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/ny11-gm3601.html"
   },
   {
@@ -19054,7 +19054,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny11-gm3602/00-ny11-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/ny11-gm3602.html"
   },
   {
@@ -19072,7 +19072,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny11-gm3603/00-ny11-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/ny11-gm3603.html"
   },
   {
@@ -19090,7 +19090,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny11-gm8802/00-ny11-gm8802-1.jpg",
     "detailUrl": "united-tiles-1/ny11-gm8802.html"
   },
   {
@@ -19108,7 +19108,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny11/ny11-gm8803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny11-gm8803/00-ny11-gm8803-1.jpg",
     "detailUrl": "united-tiles-1/ny11-gm8803.html"
   },
   {
@@ -19162,7 +19162,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny14/ny14-gp61201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny14-gp61201/00-ny14-gp61201-1.jpg",
     "detailUrl": "united-tiles-1/ny14-gp61201.html"
   },
   {
@@ -19234,7 +19234,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny16/ny16-gp61201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny16-gp61201/00-ny16-gp61201-1.jpg",
     "detailUrl": "united-tiles-1/ny16-gp61201.html"
   },
   {
@@ -19252,7 +19252,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny16/ny16-gp61202-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny16-gp61202/00-ny16-gp61202-1.jpg",
     "detailUrl": "united-tiles-1/ny16-gp61202.html"
   },
   {
@@ -19270,7 +19270,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny16/ny16-gp8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny16-gp8801/00-ny16-gp8801-1.jpg",
     "detailUrl": "united-tiles-1/ny16-gp8801.html"
   },
   {
@@ -19288,7 +19288,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny16/ny16-gp8802-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny16-gp8802/00-ny16-gp8802-1.jpg",
     "detailUrl": "united-tiles-1/ny16-gp8802.html"
   },
   {
@@ -19306,7 +19306,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny16/ny16-gp8803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny16-gp8803/00-ny16-gp8803-1.jpg",
     "detailUrl": "united-tiles-1/ny16-gp8803.html"
   },
   {
@@ -19324,7 +19324,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15901-wh-1030-290422-810.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny18-gc15901/00-ny18-gc15901-wh-1030-290422-810.jpg",
     "detailUrl": "united-tiles-1/ny18-gc15901.html"
   },
   {
@@ -19342,7 +19342,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15902-md-2026-050222-121.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny18-gc15902/00-ny18-gc15902-md-2026-050222-121.jpg",
     "detailUrl": "united-tiles-1/ny18-gc15902.html"
   },
   {
@@ -19360,7 +19360,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15903-wh-1030-290422-71.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny18-gc15903/00-ny18-gc15903-wh-1030-290422-71.jpg",
     "detailUrl": "united-tiles-1/ny18-gc15903.html"
   },
   {
@@ -19378,7 +19378,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15904-wh-1030-290422-61.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny18-gc15904/00-ny18-gc15904-wh-1030-290422-61.jpg",
     "detailUrl": "united-tiles-1/ny18-gc15904.html"
   },
   {
@@ -19396,7 +19396,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny18/ny18-gc15906-md-2005-120322-21.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny18-gc15906/00-ny18-gc15906-md-2005-120322-21.jpg",
     "detailUrl": "united-tiles-1/ny18-gc15906.html"
   },
   {
@@ -19414,7 +19414,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny19/ny19-gp61201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny19-gp61201/00-ny19-gp61201-1.jpg",
     "detailUrl": "united-tiles-1/ny19-gp61201.html"
   },
   {
@@ -19432,7 +19432,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny2/ny2-gm6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny2-gm6601/00-ny2-gm6601-1.jpg",
     "detailUrl": "united-tiles-1/ny2-gm6601.html"
   },
   {
@@ -19450,7 +19450,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny2/ny2-gm6602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny2-gm6602/00-ny2-gm6602-1.jpg",
     "detailUrl": "united-tiles-1/ny2-gm6602.html"
   },
   {
@@ -19468,7 +19468,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny2/ny2-gm6604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny2-gm6604/00-ny2-gm6604-1.jpg",
     "detailUrl": "united-tiles-1/ny2-gm6604.html"
   },
   {
@@ -19486,7 +19486,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny2-p121204/ny2-p121204-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny2-p121204/00-ny2-p121204-f1-min.jpg",
     "detailUrl": "united-tiles-1/ny2-p121204.html"
   },
   {
@@ -19594,7 +19594,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny21-gp61201/ny21-gp61201-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny21-gp61201/00-ny21-gp61201-a-min.jpg",
     "detailUrl": "united-tiles-1/ny21-gp61201.html"
   },
   {
@@ -19612,7 +19612,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny22-gp61204/ny22-gp61204-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny22-gp61204/00-ny22-gp61204-a-min.jpg",
     "detailUrl": "united-tiles-1/ny22-gp61204.html"
   },
   {
@@ -19630,7 +19630,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny26-gp3601/537169122-30x60-ny-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny26-gp3601/00-537169122-30x60-ny-1.jpg",
     "detailUrl": "united-tiles-1/ny26-gp3601.html"
   },
   {
@@ -19666,7 +19666,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny26-gp3603/ny26-gp3603-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny26-gp3603/00-ny26-gp3603-1.webp",
     "detailUrl": "united-tiles-1/ny26-gp3603.html"
   },
   {
@@ -19684,7 +19684,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny26-gp3604/ny26-gp3604-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny26-gp3604/00-ny26-gp3604-1.webp",
     "detailUrl": "united-tiles-1/ny26-gp3604.html"
   },
   {
@@ -19702,7 +19702,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny26-gp3605/ny26-gp3605-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny26-gp3605/00-ny26-gp3605-1.webp",
     "detailUrl": "united-tiles-1/ny26-gp3605.html"
   },
   {
@@ -19720,7 +19720,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny26-gp3606/ny26-gp3606-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny26-gp3606/00-ny26-gp3606-1.webp",
     "detailUrl": "united-tiles-1/ny26-gp3606.html"
   },
   {
@@ -19792,7 +19792,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny3/ny3-gp8803-t100622-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny3-gp8803/00-ny3-gp8803-t100622-a.jpg",
     "detailUrl": "united-tiles-1/ny3-gp8803.html"
   },
   {
@@ -19810,7 +19810,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-m121201/ny3-m121201-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny3-m121201/00-ny3-m121201-a-min.jpg",
     "detailUrl": "united-tiles-1/ny3-m121201.html"
   },
   {
@@ -19828,7 +19828,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121201/ny3-p121201-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny3-p121201/00-ny3-p121201-f1-min.jpg",
     "detailUrl": "united-tiles-1/ny3-p121201.html"
   },
   {
@@ -19846,7 +19846,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny3-p121202/ny3-p121202-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny3-p121202/00-ny3-p121202-f1-min.jpg",
     "detailUrl": "united-tiles-1/ny3-p121202.html"
   },
   {
@@ -19864,7 +19864,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny4/ny4-gm61203-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny4-gm61203/00-ny4-gm61203-1.jpg",
     "detailUrl": "united-tiles-1/ny4-gm61203.html"
   },
   {
@@ -19936,7 +19936,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny4/ny4-gp8801-d.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny4-gp8801/00-ny4-gp8801-d.jpg",
     "detailUrl": "united-tiles-1/ny4-gp8801.html"
   },
   {
@@ -19954,7 +19954,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny4/ny4-gp8802-d.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny4-gp8802/00-ny4-gp8802-d.jpg",
     "detailUrl": "united-tiles-1/ny4-gp8802.html"
   },
   {
@@ -19972,7 +19972,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/ny4-m121202/ny4-m121202-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny4-m121202/00-ny4-m121202-a-min.jpg",
     "detailUrl": "united-tiles-1/ny4-m121202.html"
   },
   {
@@ -19990,7 +19990,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp61201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny5-gp61201/00-ny5-gp61201-1.jpg",
     "detailUrl": "united-tiles-1/ny5-gp61201.html"
   },
   {
@@ -20008,7 +20008,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny5-gp6601/00-ny5-gp6601-1.jpg",
     "detailUrl": "united-tiles-1/ny5-gp6601.html"
   },
   {
@@ -20026,7 +20026,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny5/ny5-gp8801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny5-gp8801/00-ny5-gp8801-1.jpg",
     "detailUrl": "united-tiles-1/ny5-gp8801.html"
   },
   {
@@ -20044,7 +20044,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/ny51-9gp101001/ny51-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny51-9gp101001/00-ny51-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/ny51-9gp101001.html"
   },
   {
@@ -20062,7 +20062,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/ny52-9gp101001/ny52-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny52-9gp101001/00-ny52-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/ny52-9gp101001.html"
   },
   {
@@ -20080,7 +20080,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/ny53-9gp101001/ny53-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny53-9gp101001/00-ny53-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/ny53-9gp101001.html"
   },
   {
@@ -20098,7 +20098,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/ny54-9gp101001/ny54-9gp101001-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny54-9gp101001/00-ny54-9gp101001-1.jpg",
     "detailUrl": "united-tiles-1/ny54-9gp101001.html"
   },
   {
@@ -20116,7 +20116,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/ny54-9gp101003/ny54-9gp101003-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny54-9gp101003/00-ny54-9gp101003-1.jpg",
     "detailUrl": "united-tiles-1/ny54-9gp101003.html"
   },
   {
@@ -20134,7 +20134,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm36011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm3601/00-ny6-gm36011.jpg",
     "detailUrl": "united-tiles-1/ny6-gm3601.html"
   },
   {
@@ -20152,7 +20152,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm36021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm3602/00-ny6-gm36021.jpg",
     "detailUrl": "united-tiles-1/ny6-gm3602.html"
   },
   {
@@ -20170,7 +20170,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm36031.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm3603/00-ny6-gm36031.jpg",
     "detailUrl": "united-tiles-1/ny6-gm3603.html"
   },
   {
@@ -20188,7 +20188,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm6601/00-ny6-gm6601-1.jpg",
     "detailUrl": "united-tiles-1/ny6-gm6601.html"
   },
   {
@@ -20206,7 +20206,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm6602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm6602/00-ny6-gm6602-1.jpg",
     "detailUrl": "united-tiles-1/ny6-gm6602.html"
   },
   {
@@ -20224,7 +20224,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm6603/00-ny6-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/ny6-gm6603.html"
   },
   {
@@ -20242,7 +20242,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny6/ny6-gm6604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny6-gm6604/00-ny6-gm6604-1.jpg",
     "detailUrl": "united-tiles-1/ny6-gm6604.html"
   },
   {
@@ -20260,7 +20260,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm36011.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm3601/00-ny7-gm36011.jpg",
     "detailUrl": "united-tiles-1/ny7-gm3601.html"
   },
   {
@@ -20278,7 +20278,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm36021.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm3602/00-ny7-gm36021.jpg",
     "detailUrl": "united-tiles-1/ny7-gm3602.html"
   },
   {
@@ -20296,7 +20296,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm36031.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm3603/00-ny7-gm36031.jpg",
     "detailUrl": "united-tiles-1/ny7-gm3603.html"
   },
   {
@@ -20314,7 +20314,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm6601/00-ny7-gm6601-1.jpg",
     "detailUrl": "united-tiles-1/ny7-gm6601.html"
   },
   {
@@ -20332,7 +20332,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6602-1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm6602/00-ny7-gm6602-1-1.jpg",
     "detailUrl": "united-tiles-1/ny7-gm6602.html"
   },
   {
@@ -20350,7 +20350,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny7/ny7-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny7-gm6603/00-ny7-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/ny7-gm6603.html"
   },
   {
@@ -20368,7 +20368,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm6602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny79-gm6602/00-ny9-gm6602-1.jpg",
     "detailUrl": "united-tiles-1/ny79-gm6602.html"
   },
   {
@@ -20386,7 +20386,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/nyd/ny8-gm6601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny8-gm6601/00-ny8-gm6601-1.jpg",
     "detailUrl": "united-tiles-1/ny8-gm6601.html"
   },
   {
@@ -20422,7 +20422,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny8/ny8-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny8-gm6603/00-ny8-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/ny8-gm6603.html"
   },
   {
@@ -20440,7 +20440,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm3601/00-ny9-gm3601-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm3601.html"
   },
   {
@@ -20458,7 +20458,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm3602-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm3602/00-ny9-gm3602-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm3602.html"
   },
   {
@@ -20476,7 +20476,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm3603/00-ny9-gm3603-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm3603.html"
   },
   {
@@ -20494,7 +20494,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm3604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm3604/00-ny9-gm3604-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm3604.html"
   },
   {
@@ -20512,7 +20512,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm3605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm3605/00-ny9-gm3605-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm3605.html"
   },
   {
@@ -20530,7 +20530,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm6601-1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm6601/00-ny9-gm6601-1-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm6601.html"
   },
   {
@@ -20548,7 +20548,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm6603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm6603/00-ny9-gm6603-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm6603.html"
   },
   {
@@ -20566,7 +20566,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/newyork/ny9/ny9-gm6604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ny9-gm6604/00-ny9-gm6604-1.jpg",
     "detailUrl": "united-tiles-1/ny9-gm6604.html"
   },
   {
@@ -20584,7 +20584,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/cotto-40x40/pd413.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pd413/00-pd413.jpg",
     "detailUrl": "san-pham-khac/pd413.html"
   },
   {
@@ -20620,7 +20620,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b10/ph22-b10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b10/00-ph22-b10.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b10.html"
   },
   {
@@ -20638,7 +20638,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b11/ph22-b11-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b11/00-ph22-b11-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b11.html"
   },
   {
@@ -20656,7 +20656,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b12/ph22-b12-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b12/00-ph22-b12-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b12.html"
   },
   {
@@ -20674,7 +20674,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b2/ph22-b2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b2/00-ph22-b2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b2.html"
   },
   {
@@ -20692,7 +20692,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b3/ph22-b3-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b3/00-ph22-b3-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b3.html"
   },
   {
@@ -20710,7 +20710,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b4/ph22-b4-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b4/00-ph22-b4-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b4.html"
   },
   {
@@ -20728,7 +20728,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b5/ph22-b5.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b5/00-ph22-b5.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b5.html"
   },
   {
@@ -20746,7 +20746,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b7/ph22-b7.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b7/00-ph22-b7.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b7.html"
   },
   {
@@ -20764,7 +20764,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b8/ph22-b8.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b8/00-ph22-b8.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b8.html"
   },
   {
@@ -20782,7 +20782,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b9/ph22-b9.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-b9/00-ph22-b9.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-b9.html"
   },
   {
@@ -20800,7 +20800,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-c1/ph22-c1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-c1/00-ph22-c1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-c1.html"
   },
   {
@@ -20818,7 +20818,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-c2/ph22-c2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-c2/00-ph22-c2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-c2.html"
   },
   {
@@ -20854,7 +20854,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-l1/ph22-l1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-l1/00-ph22-l1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-l1.html"
   },
   {
@@ -20872,7 +20872,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-l2/ph22-l2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph22-l2/00-ph22-l2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph22-l2.html"
   },
   {
@@ -20890,7 +20890,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph361-1/ph361-11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph361-1/00-ph361-11.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph361-1.html"
   },
   {
@@ -20908,7 +20908,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph361-2/ph361-21.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph361-2/00-ph361-21.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph361-2.html"
   },
   {
@@ -20926,7 +20926,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph361-3/ph361-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph361-3/00-ph361-3.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph361-3.html"
   },
   {
@@ -20944,7 +20944,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph361-4/ph361-4-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph361-4/00-ph361-4-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph361-4.html"
   },
   {
@@ -20962,7 +20962,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph362-1/ph362-1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph362-1/00-ph362-1-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph362-1.html"
   },
   {
@@ -20980,7 +20980,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph362-2/ph362-2t-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph362-2/00-ph362-2t-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph362-2.html"
   },
   {
@@ -20998,7 +20998,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph362-3/ph362-3t-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph362-3/00-ph362-3t-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph362-3.html"
   },
   {
@@ -21016,7 +21016,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph363-1/ph363-1-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph363-1/00-ph363-1-2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph363-1.html"
   },
   {
@@ -21034,7 +21034,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph363-2/ph363-2-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph363-2/00-ph363-2-2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph363-2.html"
   },
   {
@@ -21052,7 +21052,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph363-3/ph363-3-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph363-3/00-ph363-3-2.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph363-3.html"
   },
   {
@@ -21070,7 +21070,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph364-1/ph364-1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph364-1/00-ph364-1a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph364-1.html"
   },
   {
@@ -21088,7 +21088,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph364-2/ph364-2a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph364-2/00-ph364-2a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph364-2.html"
   },
   {
@@ -21106,7 +21106,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph365-1/ph365-1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph365-1/00-ph365-1a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph365-1.html"
   },
   {
@@ -21124,7 +21124,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph365-2/ph365-2a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph365-2/00-ph365-2a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph365-2.html"
   },
   {
@@ -21142,7 +21142,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph365-3/ph365-3a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph365-3/00-ph365-3a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph365-3.html"
   },
   {
@@ -21160,7 +21160,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph366-1/ph366-1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph366-1/00-ph366-1a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph366-1.html"
   },
   {
@@ -21178,7 +21178,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph366-2/ph366-2a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph366-2/00-ph366-2a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph366-2.html"
   },
   {
@@ -21196,7 +21196,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph366-3/ph366-3a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph366-3/00-ph366-3a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph366-3.html"
   },
   {
@@ -21214,7 +21214,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph366-4/ph366-4a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph366-4/00-ph366-4a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph366-4.html"
   },
   {
@@ -21232,7 +21232,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph366-5/ph366-5a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph366-5/00-ph366-5a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph366-5.html"
   },
   {
@@ -21250,7 +21250,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph367-1/ph367-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph367-1/00-ph367-1.png",
     "detailUrl": "bo-suu-tap-platinum/ph367-1.html"
   },
   {
@@ -21268,7 +21268,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph367-2/ph367-2.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph367-2/00-ph367-2.png",
     "detailUrl": "bo-suu-tap-platinum/ph367-2.html"
   },
   {
@@ -21286,7 +21286,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph367-3/ph367-3.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph367-3/00-ph367-3.png",
     "detailUrl": "bo-suu-tap-platinum/ph367-3.html"
   },
   {
@@ -21304,7 +21304,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph367-4/ph367-4.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph367-4/00-ph367-4.png",
     "detailUrl": "bo-suu-tap-platinum/ph367-4.html"
   },
   {
@@ -21322,7 +21322,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph367-5/ph367-5.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph367-5/00-ph367-5.png",
     "detailUrl": "bo-suu-tap-platinum/ph367-5.html"
   },
   {
@@ -21340,7 +21340,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph66-01/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph66-01/00-a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph66-01.html"
   },
   {
@@ -21358,7 +21358,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph66-02/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph66-02/00-a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph66-02.html"
   },
   {
@@ -21376,7 +21376,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph66-03/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph66-03/00-a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph66-03.html"
   },
   {
@@ -21394,7 +21394,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph66-04/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ph66-04/00-a.jpg",
     "detailUrl": "bo-suu-tap-platinum/ph66-04.html"
   },
   {
@@ -21412,7 +21412,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/ph22-b6/ph22-b6.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/phph22-b6/00-ph22-b6.jpg",
     "detailUrl": "bo-suu-tap-platinum/phph22-b6.html"
   },
   {
@@ -21430,7 +21430,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-01/pl-36-01-2000-x-2000.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl-36-01/00-pl-36-01-2000-x-2000.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl-36-01.html"
   },
   {
@@ -21448,7 +21448,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl1-gp8802/pl1-gp8802-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl1-gp8802/00-pl1-gp8802-a.webp",
     "detailUrl": "bo-suu-tap-platinum/pl1-gp8802.html"
   },
   {
@@ -21466,7 +21466,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8802/pl2-gm8802-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl2-gm8802/00-pl2-gm8802-a.webp",
     "detailUrl": "bo-suu-tap-platinum/pl2-gm8802.html"
   },
   {
@@ -21484,7 +21484,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gm8804/pl2-gm8804-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl2-gm8804/00-pl2-gm8804-a.webp",
     "detailUrl": "bo-suu-tap-platinum/pl2-gm8804.html"
   },
   {
@@ -21502,7 +21502,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gp8803/pl2-gp8803-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl2-gp8803/00-pl2-gp8803-a.webp",
     "detailUrl": "bo-suu-tap-platinum/pl2-gp8803.html"
   },
   {
@@ -21520,7 +21520,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl2-gp8804/pl2-gp8804-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl2-gp8804/00-pl2-gp8804-a.webp",
     "detailUrl": "bo-suu-tap-platinum/pl2-gp8804.html"
   },
   {
@@ -21538,7 +21538,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-01/pl28-01-full-copy-10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl28-01/00-pl28-01-full-copy-10.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl28-01.html"
   },
   {
@@ -21556,7 +21556,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-02/pl28-02-copy-10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl28-02/00-pl28-02-copy-10.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl28-02.html"
   },
   {
@@ -21574,7 +21574,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl28-03/pl28-03-f1a-copy-10.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl28-03/00-pl28-03-f1a-copy-10.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl28-03.html"
   },
   {
@@ -21592,7 +21592,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-02/pl-36-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-02/00-pl-36-02.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-02.html"
   },
   {
@@ -21610,7 +21610,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-03/pl-36-03-2000x2000.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-03/00-pl-36-03-2000x2000.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-03.html"
   },
   {
@@ -21628,7 +21628,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-04/pl-36-04.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-04/00-pl-36-04.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-04.html"
   },
   {
@@ -21646,7 +21646,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-05/pl36-05.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-05/00-pl36-05.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-05.html"
   },
   {
@@ -21664,7 +21664,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-06/pl36-06.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-06/00-pl36-06.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-06.html"
   },
   {
@@ -21682,7 +21682,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-06a/pl36-06a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-06a/00-pl36-06a.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-06a.html"
   },
   {
@@ -21700,7 +21700,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-21/pl36-21-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-21/00-pl36-21-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-21.html"
   },
   {
@@ -21718,7 +21718,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-22/pl36-22-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-22/00-pl36-22-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-22.html"
   },
   {
@@ -21736,7 +21736,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-23/pl36-23-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-23/00-pl36-23-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-23.html"
   },
   {
@@ -21754,7 +21754,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-24/pl36-24-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-24/00-pl36-24-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-24.html"
   },
   {
@@ -21772,7 +21772,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-24a/pl36-24a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-24a/00-pl36-24a.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-24a.html"
   },
   {
@@ -21790,7 +21790,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-41/pl36-41-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-41/00-pl36-41-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-41.html"
   },
   {
@@ -21808,7 +21808,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42/pl36-42-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-42/00-pl36-42-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-42.html"
   },
   {
@@ -21826,7 +21826,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-42a/pl36-42a-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-42a/00-pl36-42a-3.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-42a.html"
   },
   {
@@ -21844,7 +21844,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-43/pl36-43-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-43/00-pl36-43-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-43.html"
   },
   {
@@ -21862,7 +21862,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-45/pl36-45-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-45/00-pl36-45-2.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-45.html"
   },
   {
@@ -21880,7 +21880,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st01/pl36-st01-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st01/00-pl36-st01-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st01.html"
   },
   {
@@ -21898,7 +21898,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st01a/pl36-st01a-vien-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st01a/00-pl36-st01a-vien-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st01a.html"
   },
   {
@@ -21916,7 +21916,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st02/pl-36-st02-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st02/00-pl-36-st02-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st02.html"
   },
   {
@@ -21934,7 +21934,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st02a/pl-36-st02a-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st02a/00-pl-36-st02a-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st02a.html"
   },
   {
@@ -21952,7 +21952,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl365-st03/pl-36-st03-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st03/00-pl-36-st03-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st03.html"
   },
   {
@@ -21970,7 +21970,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st03a/pl-36-st03a-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st03a/00-pl-36-st03a-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st03a.html"
   },
   {
@@ -21988,7 +21988,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04/pl-36-st04-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st04/00-pl-36-st04-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st04.html"
   },
   {
@@ -22006,7 +22006,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st04a/pl-36-st04a-face-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st04a/00-pl-36-st04a-face-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st04a.html"
   },
   {
@@ -22024,7 +22024,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st05/pl36-st05-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st05/00-pl36-st05-f1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st05.html"
   },
   {
@@ -22042,7 +22042,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06/pl36-st06-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st06/00-pl36-st06-f1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st06.html"
   },
   {
@@ -22060,7 +22060,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st06a/ban-sao-pl36-st06a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st06a/00-ban-sao-pl36-st06a.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st06a.html"
   },
   {
@@ -22078,7 +22078,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st07/pl36-st07-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st07/00-pl36-st07-f1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st07.html"
   },
   {
@@ -22096,7 +22096,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl36-st08/pl36-st08-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st08/00-pl36-st08-f1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st08.html"
   },
   {
@@ -22114,7 +22114,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pl46-st08a/pl36-st08a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pl36-st08a/00-pl36-st08a.jpg",
     "detailUrl": "bo-suu-tap-platinum/pl36-st08a.html"
   },
   {
@@ -22132,7 +22132,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3001/pr3001b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3001/00-pr3001b.jpg",
     "detailUrl": "san-pham-khac/pr3001.html"
   },
   {
@@ -22150,7 +22150,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3002/pr3002b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3002/00-pr3002b.jpg",
     "detailUrl": "san-pham-khac/pr3002.html"
   },
   {
@@ -22168,7 +22168,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3003/pr3003b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3003/00-pr3003b.jpg",
     "detailUrl": "san-pham-khac/pr3003.html"
   },
   {
@@ -22186,7 +22186,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3004/pr3004b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3004/00-pr3004b.jpg",
     "detailUrl": "san-pham-khac/pr3004.html"
   },
   {
@@ -22204,7 +22204,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3005/pr3005b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3005/00-pr3005b.jpg",
     "detailUrl": "san-pham-khac/pr3005.html"
   },
   {
@@ -22222,7 +22222,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3006/pr3006b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3006/00-pr3006b.jpg",
     "detailUrl": "san-pham-khac/pr3006.html"
   },
   {
@@ -22240,7 +22240,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3007/pr3007b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3007/00-pr3007b.jpg",
     "detailUrl": "san-pham-khac/pr3007.html"
   },
   {
@@ -22258,7 +22258,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/pr3008/pr3008b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pr3008/00-pr3008b.jpg",
     "detailUrl": "san-pham-khac/pr3008.html"
   },
   {
@@ -22276,7 +22276,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-t3/pt-21201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21201-t3/00-pt-21201-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21201-t3.html"
   },
   {
@@ -22294,7 +22294,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21201-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21201/00-pt-21201-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21201.html"
   },
   {
@@ -22312,7 +22312,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21202-t3/pt-21202-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21202-t3/00-pt-21202-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21202-t3.html"
   },
   {
@@ -22330,7 +22330,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21203-t1/pt-21203-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21203-t1/00-pt-21203-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21203-t1.html"
   },
   {
@@ -22348,7 +22348,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21204-t1b/pt-21204-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21204-t1b/00-pt-21204-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21204-t1b.html"
   },
   {
@@ -22366,7 +22366,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21205-t2/pt-21205-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21205-t2/00-pt-21205-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21205-t2.html"
   },
   {
@@ -22384,7 +22384,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstplatinum/pt-21206-t2/pt-21206-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/pt-21206-t2/00-pt-21206-1.jpg",
     "detailUrl": "bo-suu-tap-platinum/pt-21206-t2.html"
   },
   {
@@ -22402,7 +22402,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/q2500/q2500b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/q2500/00-q2500b.jpg",
     "detailUrl": "san-pham-khac/q2500.html"
   },
   {
@@ -22420,7 +22420,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/q2555/q-2555b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/q2555/00-q-2555b.jpg",
     "detailUrl": "san-pham-khac/q2555.html"
   },
   {
@@ -22456,7 +22456,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/qmb804/qm-b804-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/qmb804/00-qm-b804-2.jpg",
     "detailUrl": "san-pham-khac/qmb804.html"
   },
   {
@@ -22474,7 +22474,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/s-40x40/s1401.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/s1401/00-s1401.jpg",
     "detailUrl": "san-pham-khac/s1401.html"
   },
   {
@@ -22492,7 +22492,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/s-40x40/s402.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/s402/00-s402.jpg",
     "detailUrl": "san-pham-khac/s402.html"
   },
   {
@@ -22510,7 +22510,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/s-40x40/s409.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/s409/00-s409.jpg",
     "detailUrl": "san-pham-khac/s409.html"
   },
   {
@@ -22528,7 +22528,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sa501/sa501b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sa501/00-sa501b.jpg",
     "detailUrl": "san-pham-khac/sa501.html"
   },
   {
@@ -22546,7 +22546,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg469jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg469/00-sg469jpg.jpg",
     "detailUrl": "san-pham-khac/sg469.html"
   },
   {
@@ -22564,7 +22564,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg471jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg471/00-sg471jpg.jpg",
     "detailUrl": "san-pham-khac/sg471.html"
   },
   {
@@ -22582,7 +22582,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg473jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg473/00-sg473jpg.jpg",
     "detailUrl": "san-pham-khac/sg473.html"
   },
   {
@@ -22600,7 +22600,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg475jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg475/00-sg475jpg.jpg",
     "detailUrl": "san-pham-khac/sg475.html"
   },
   {
@@ -22618,7 +22618,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg477jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg477/00-sg477jpg.jpg",
     "detailUrl": "san-pham-khac/sg477.html"
   },
   {
@@ -22636,7 +22636,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg481.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg481/00-sg481.jpg",
     "detailUrl": "san-pham-khac/sg481.html"
   },
   {
@@ -22654,7 +22654,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg40x40yenphong/sg485.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg485/00-sg485.jpg",
     "detailUrl": "san-pham-khac/sg485.html"
   },
   {
@@ -22672,7 +22672,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg518/sg518.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg518/00-sg518.jpg",
     "detailUrl": "san-pham-khac/sg518.html"
   },
   {
@@ -22690,7 +22690,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg519/sg519-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg519/00-sg519-1.jpg",
     "detailUrl": "san-pham-khac/sg519.html"
   },
   {
@@ -22708,7 +22708,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg524/sg524.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg524/00-sg524.jpg",
     "detailUrl": "san-pham-khac/sg524.html"
   },
   {
@@ -22726,7 +22726,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg526/sg526-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg526/00-sg526-1.jpg",
     "detailUrl": "san-pham-khac/sg526.html"
   },
   {
@@ -22744,7 +22744,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg527/sg527.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg527/00-sg527.jpg",
     "detailUrl": "san-pham-khac/sg527.html"
   },
   {
@@ -22762,7 +22762,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg528/sg528-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg528/00-sg528-1.jpg",
     "detailUrl": "san-pham-khac/sg528.html"
   },
   {
@@ -22780,7 +22780,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg529/sg529.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg529/00-sg529.jpg",
     "detailUrl": "san-pham-khac/sg529.html"
   },
   {
@@ -22798,7 +22798,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg530/sg530-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg530/00-sg530-1.jpg",
     "detailUrl": "san-pham-khac/sg530.html"
   },
   {
@@ -22816,7 +22816,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg531/sg531.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg531/00-sg531.jpg",
     "detailUrl": "san-pham-khac/sg531.html"
   },
   {
@@ -22834,7 +22834,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg532/sg532-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg532/00-sg532-1.jpg",
     "detailUrl": "san-pham-khac/sg532.html"
   },
   {
@@ -22852,7 +22852,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sg533/sg533.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sg533/00-sg533.jpg",
     "detailUrl": "san-pham-khac/sg533.html"
   },
   {
@@ -22870,7 +22870,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm310/sgm310b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm310/00-sgm310b.jpg",
     "detailUrl": "san-pham-khac/sgm310.html"
   },
   {
@@ -22888,7 +22888,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm312/sgm312b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm312/00-sgm312b.jpg",
     "detailUrl": "san-pham-khac/sgm312.html"
   },
   {
@@ -22906,7 +22906,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm313/sgm313b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm313/00-sgm313b.jpg",
     "detailUrl": "san-pham-khac/sgm313.html"
   },
   {
@@ -22924,7 +22924,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm314/sgm314b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm314/00-sgm314b.jpg",
     "detailUrl": "san-pham-khac/sgm314.html"
   },
   {
@@ -22942,7 +22942,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm315/sgm315b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm315/00-sgm315b.jpg",
     "detailUrl": "san-pham-khac/sgm315.html"
   },
   {
@@ -22960,7 +22960,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm316/sgm316b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm316/00-sgm316b.jpg",
     "detailUrl": "san-pham-khac/sgm316.html"
   },
   {
@@ -22978,7 +22978,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm317/sgm317b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm317/00-sgm317b.jpg",
     "detailUrl": "san-pham-khac/sgm317.html"
   },
   {
@@ -22996,7 +22996,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm318/sgm318b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm318/00-sgm318b.jpg",
     "detailUrl": "san-pham-khac/sgm318.html"
   },
   {
@@ -23014,7 +23014,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm319/sgm319b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm319/00-sgm319b.jpg",
     "detailUrl": "san-pham-khac/sgm319.html"
   },
   {
@@ -23032,7 +23032,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm320/sgm320b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm320/00-sgm320b.jpg",
     "detailUrl": "san-pham-khac/sgm320.html"
   },
   {
@@ -23050,7 +23050,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm321/sgm321b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm321/00-sgm321b.jpg",
     "detailUrl": "san-pham-khac/sgm321.html"
   },
   {
@@ -23068,7 +23068,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sgm324/sgm324b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sgm324/00-sgm324b.jpg",
     "detailUrl": "san-pham-khac/sgm324.html"
   },
   {
@@ -23086,7 +23086,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh316/sh316-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-316/00-sh316-f1.jpg",
     "detailUrl": "bst-song-hong/sh-316.html"
   },
   {
@@ -23104,7 +23104,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs3601/sh-bs-3601-f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs3601/00-sh-bs-3601-f2.jpg",
     "detailUrl": "bst-song-hong/sh-bs3601.html"
   },
   {
@@ -23122,7 +23122,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs3602/sh-bs-3602-f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs3602/00-sh-bs-3602-f2.jpg",
     "detailUrl": "bst-song-hong/sh-bs3602.html"
   },
   {
@@ -23140,7 +23140,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh-sm3605/sh-bs-3603-04-pc-0f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs3603/00-sh-bs-3603-04-pc-0f1.jpg",
     "detailUrl": "bst-song-hong/sh-bs3603.html"
   },
   {
@@ -23176,7 +23176,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs3605/sh-bs-3605-ii.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs3605/00-sh-bs-3605-ii.jpg",
     "detailUrl": "bst-song-hong/sh-bs3605.html"
   },
   {
@@ -23194,7 +23194,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs3606/sh-bs-3606-ii.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs3606/00-sh-bs-3606-ii.jpg",
     "detailUrl": "bst-song-hong/sh-bs3606.html"
   },
   {
@@ -23212,7 +23212,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6603/sh-bs6603-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs6603/00-sh-bs6603-f1.jpg",
     "detailUrl": "bst-song-hong/sh-bs6603.html"
   },
   {
@@ -23230,7 +23230,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-bs6605/sh-bs6605-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-bs6605/00-sh-bs6605-1.jpg",
     "detailUrl": "bst-song-hong/sh-bs6605.html"
   },
   {
@@ -23248,7 +23248,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3603/sh-ce3603-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3603/00-sh-ce3603-1.webp",
     "detailUrl": "bst-song-hong/sh-ce3603.html"
   },
   {
@@ -23266,7 +23266,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3604/sh-ce3604-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3604/00-sh-ce3604-1.webp",
     "detailUrl": "bst-song-hong/sh-ce3604.html"
   },
   {
@@ -23284,7 +23284,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3604a/sh-ce3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3604/05-sh-ce3604a.jpg",
     "detailUrl": "bst-song-hong/sh-ce3604a.html"
   },
   {
@@ -23302,7 +23302,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3605/sh-ce3605-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3605/00-sh-ce3605-2.jpg",
     "detailUrl": "bst-song-hong/sh-ce3605.html"
   },
   {
@@ -23320,7 +23320,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3611/sh-ce3611-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3611/00-sh-ce3611-copy-2.jpg",
     "detailUrl": "bst-song-hong/sh-ce3611.html"
   },
   {
@@ -23338,7 +23338,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3612/sh-ce3612-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3612/00-sh-ce3612-copy-2.jpg",
     "detailUrl": "bst-song-hong/sh-ce3612.html"
   },
   {
@@ -23356,7 +23356,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3612a/sh-ce3612a-1-copy.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3612/05-sh-ce3612a-1-copy.jpg",
     "detailUrl": "bst-song-hong/sh-ce3612a.html"
   },
   {
@@ -23374,7 +23374,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3615/sh-ce3615-v1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3615/00-sh-ce3615-v1.webp",
     "detailUrl": "bst-song-hong/sh-ce3615.html"
   },
   {
@@ -23392,7 +23392,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3616/sh-ce-3616-v2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3616/00-sh-ce-3616-v2.jpg",
     "detailUrl": "bst-song-hong/sh-ce3616.html"
   },
   {
@@ -23410,7 +23410,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce3616a/sh-ce-3616a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce3616/05-sh-ce-3616a-1.jpg",
     "detailUrl": "bst-song-hong/sh-ce3616a.html"
   },
   {
@@ -23428,7 +23428,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce501/sh-ce5012.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce501/00-sh-ce5012.jpg",
     "detailUrl": "bst-song-hong/sh-ce501.html"
   },
   {
@@ -23446,7 +23446,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce502/sh-ce502-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce502/00-sh-ce502-2.jpg",
     "detailUrl": "bst-song-hong/sh-ce502.html"
   },
   {
@@ -23464,7 +23464,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce503/sh-ce5032.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce503/00-sh-ce5032.jpg",
     "detailUrl": "bst-song-hong/sh-ce503.html"
   },
   {
@@ -23482,7 +23482,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce504/sh-ce5042.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce504/00-sh-ce5042.jpg",
     "detailUrl": "bst-song-hong/sh-ce504.html"
   },
   {
@@ -23500,7 +23500,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce505/sh-ce5052.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce505/00-sh-ce5052.jpg",
     "detailUrl": "bst-song-hong/sh-ce505.html"
   },
   {
@@ -23518,7 +23518,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce506/sh-ce5062.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce506/00-sh-ce5062.jpg",
     "detailUrl": "bst-song-hong/sh-ce506.html"
   },
   {
@@ -23536,7 +23536,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce507/sh-ce5072.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce507/00-sh-ce5072.jpg",
     "detailUrl": "bst-song-hong/sh-ce507.html"
   },
   {
@@ -23554,7 +23554,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce508/sh-ce5082.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce508/00-sh-ce5082.jpg",
     "detailUrl": "bst-song-hong/sh-ce508.html"
   },
   {
@@ -23572,7 +23572,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce509/sh-ce5092.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce509/00-sh-ce5092.jpg",
     "detailUrl": "bst-song-hong/sh-ce509.html"
   },
   {
@@ -23590,7 +23590,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-ce510/sh-5102.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-ce510/00-sh-5102.jpg",
     "detailUrl": "bst-song-hong/sh-ce510.html"
   },
   {
@@ -23608,7 +23608,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3601-02-02a/shcm3601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-cm3601/00-shcm3601-1.jpg",
     "detailUrl": "bst-song-hong/sh-cm3601.html"
   },
   {
@@ -23626,7 +23626,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3603-04-04a/shcm3603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-cm3603/00-shcm3603-1.jpg",
     "detailUrl": "bst-song-hong/sh-cm3603.html"
   },
   {
@@ -23644,7 +23644,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3603-04-04a/shcm3604-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-cm3604/00-shcm3604-1.jpg",
     "detailUrl": "bst-song-hong/sh-cm3604.html"
   },
   {
@@ -23662,7 +23662,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-cm3603-04-04a/shcm3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-cm3604a/00-shcm3604a.jpg",
     "detailUrl": "bst-song-hong/sh-cm3604a.html"
   },
   {
@@ -23680,7 +23680,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21061/f1resize-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21061/00-f1resize-2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21061.html"
   },
   {
@@ -23698,7 +23698,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21062/f1resize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21062/00-f1resize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21062.html"
   },
   {
@@ -23716,7 +23716,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21063/f1resize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21063/00-f1resize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21063.html"
   },
   {
@@ -23734,7 +23734,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21064/f1resize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21064/00-f1resize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21064.html"
   },
   {
@@ -23752,7 +23752,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21065/f1resize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21065/00-f1resize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21065.html"
   },
   {
@@ -23770,7 +23770,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21066/aresize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21066/00-aresize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21066.html"
   },
   {
@@ -23788,7 +23788,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gc21067/f1resize2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gc21067/00-f1resize2.jpg",
     "detailUrl": "bst-song-hong/sh-gc21067.html"
   },
   {
@@ -23806,7 +23806,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gk15901/sh-gk15901-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk15901/00-sh-gk15901-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gk15901.html"
   },
   {
@@ -23824,7 +23824,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gk15902/sh-gk-15902-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk15902/00-sh-gk-15902-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gk15902.html"
   },
   {
@@ -23842,7 +23842,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gk15903/sh-gk15903-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk15903/00-sh-gk15903-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gk15903.html"
   },
   {
@@ -23860,7 +23860,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gk15904/sh-gk15904-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk15904/00-sh-gk15904-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gk15904.html"
   },
   {
@@ -23878,7 +23878,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gk15905/sh-gk15905-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk15905/00-sh-gk15905-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gk15905.html"
   },
   {
@@ -23896,7 +23896,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21001/sh-gk21001-a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk21001/00-sh-gk21001-a-1.jpg",
     "detailUrl": "bst-song-hong/sh-gk21001.html"
   },
   {
@@ -23914,7 +23914,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21002/sh-gk21002-d.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk21002/00-sh-gk21002-d.jpg",
     "detailUrl": "bst-song-hong/sh-gk21002.html"
   },
   {
@@ -23932,7 +23932,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21003/sh-gk21003-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk21003/00-sh-gk21003-a.jpg",
     "detailUrl": "san-pham-khac/sh-gk21003.html"
   },
   {
@@ -23950,7 +23950,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21004/sh-gk21004-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk21004/00-sh-gk21004-a.jpg",
     "detailUrl": "bst-song-hong/sh-gk21004.html"
   },
   {
@@ -23968,7 +23968,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/20x100-tien-son/sh-gk21005/sh-gk21005-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gk21005/00-sh-gk21005-a.jpg",
     "detailUrl": "bst-song-hong/sh-gk21005.html"
   },
   {
@@ -23986,7 +23986,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3661-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm3661/00-sh-gm3661-1.jpg",
     "detailUrl": "bst-song-hong/sh-gm3661.html"
   },
   {
@@ -24004,7 +24004,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3662.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm3662/00-sh-gm3662.jpg",
     "detailUrl": "bst-song-hong/sh-gm3662.html"
   },
   {
@@ -24040,7 +24040,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3663.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm3663/00-sh-gm3663.jpg",
     "detailUrl": "bst-song-hong/sh-gm3663.html"
   },
   {
@@ -24058,7 +24058,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3664.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm3664/00-sh-gm3664.jpg",
     "detailUrl": "bst-song-hong/sh-gm3664.html"
   },
   {
@@ -24076,7 +24076,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm3661/sh-gm3664a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm3664a/00-sh-gm3664a.jpg",
     "detailUrl": "bst-song-hong/sh-gm3664a.html"
   },
   {
@@ -24094,7 +24094,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6601/sh-gm6601-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6601/00-sh-gm6601-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6601.html"
   },
   {
@@ -24112,7 +24112,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6602/sh-gm6602-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6602/00-sh-gm6602-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6602.html"
   },
   {
@@ -24130,7 +24130,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6603/sh-gm6603.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6603/00-sh-gm6603.jpg",
     "detailUrl": "bst-song-hong/sh-gm6603.html"
   },
   {
@@ -24148,7 +24148,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6604/gh-gm6604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6604/00-gh-gm6604-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6604.html"
   },
   {
@@ -24166,7 +24166,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6605/sh-gm6605.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6605/00-sh-gm6605.jpg",
     "detailUrl": "bst-song-hong/sh-gm6605.html"
   },
   {
@@ -24184,7 +24184,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6608/sh-gm6608-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6608/00-sh-gm6608-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6608.html"
   },
   {
@@ -24202,7 +24202,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6609/sh-gm6609-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6609/00-sh-gm6609-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6609.html"
   },
   {
@@ -24220,7 +24220,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6610/sh-gm6610-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6610/00-sh-gm6610-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6610.html"
   },
   {
@@ -24238,7 +24238,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6611/sh-gm6611-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6611/00-sh-gm6611-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6611.html"
   },
   {
@@ -24256,7 +24256,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gm6612/sh-gm6612-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6612/00-sh-gm6612-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6612.html"
   },
   {
@@ -24274,7 +24274,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgm60x60/sh-gm6653-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6653/00-sh-gm6653-1.jpg",
     "detailUrl": "bst-song-hong/sh-gm6653.html"
   },
   {
@@ -24292,7 +24292,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgm60x60/sh-gm6654/sh-gm6654.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6654/00-sh-gm6654.jpg",
     "detailUrl": "bst-song-hong/sh-gm6654.html"
   },
   {
@@ -24310,7 +24310,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgm60x60/sh-gm6658/ma-san-pham.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gm6658/00-ma-san-pham.jpg",
     "detailUrl": "bst-song-hong/sh-gm6658.html"
   },
   {
@@ -24346,7 +24346,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4801/sh-gp4801-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4801/00-sh-gp4801-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4801.html"
   },
   {
@@ -24364,7 +24364,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4802/sh-gp4802-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4802/00-sh-gp4802-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4802.html"
   },
   {
@@ -24382,7 +24382,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4802/sh-gp4802a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4802a/00-sh-gp4802a-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4802a.html"
   },
   {
@@ -24400,7 +24400,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4803/sh-gp4803-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4803/00-sh-gp4803-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4803.html"
   },
   {
@@ -24418,7 +24418,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4804/sh-gp4804-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4804/00-sh-gp4804-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4804.html"
   },
   {
@@ -24436,7 +24436,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4804/sh-gp4804a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4804a/00-sh-gp4804a-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4804a.html"
   },
   {
@@ -24454,7 +24454,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4805/sh-gp4805-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4805/00-sh-gp4805-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4805.html"
   },
   {
@@ -24472,7 +24472,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4806/sh-gp4806-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4806/00-sh-gp4806-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4806.html"
   },
   {
@@ -24490,7 +24490,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4806/sh-gp4806a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4806a/00-sh-gp4806a.jpg",
     "detailUrl": "bst-song-hong/sh-gp4806a.html"
   },
   {
@@ -24508,7 +24508,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4807/sh-gp4807-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4807/00-sh-gp4807-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4807.html"
   },
   {
@@ -24526,7 +24526,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4807/sh-gp4808-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4808/00-sh-gp4808-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4808.html"
   },
   {
@@ -24544,7 +24544,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp4807/sh-gp4808a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4808a/00-sh-gp4808a.jpg",
     "detailUrl": "bst-song-hong/sh-gp4808a.html"
   },
   {
@@ -24562,7 +24562,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp48090-09a/sh-gp4809-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp4809/00-sh-gp4809-f1.jpg",
     "detailUrl": "bst-song-hong/sh-gp4809.html"
   },
   {
@@ -24598,7 +24598,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp601/a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp601/00-a-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp601.html"
   },
   {
@@ -24616,7 +24616,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp602-sh-gp802/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp602/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp602.html"
   },
   {
@@ -24634,7 +24634,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp603-803/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp603/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp603.html"
   },
   {
@@ -24652,7 +24652,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp605-805/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp605/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp605.html"
   },
   {
@@ -24670,7 +24670,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp606-806/a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp606/00-a-1.jpg",
     "detailUrl": "bst-song-hong/sh-gp606.html"
   },
   {
@@ -24688,7 +24688,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp607-807/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp607/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp607.html"
   },
   {
@@ -24706,7 +24706,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp608/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp608/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp608.html"
   },
   {
@@ -24724,7 +24724,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp61202/a.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp61202/00-a.png",
     "detailUrl": "bst-song-hong/sh-gp61202.html"
   },
   {
@@ -24742,7 +24742,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp61203/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp61203/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp61203.html"
   },
   {
@@ -24760,7 +24760,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp61204/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp61204/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp61204.html"
   },
   {
@@ -24778,7 +24778,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp61207/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp61207/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp61207.html"
   },
   {
@@ -24796,7 +24796,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp61208/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp61208/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp61208.html"
   },
   {
@@ -24832,7 +24832,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-gp602-sh-gp802/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-gp602/00-a.jpg",
     "detailUrl": "bst-song-hong/sh-gp802.html"
   },
   {
@@ -24940,7 +24940,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3601/sh-sm3601-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm3601/00-sh-sm3601-f1a.jpg",
     "detailUrl": "bst-song-hong/sh-sm3601.html"
   },
   {
@@ -24958,7 +24958,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3602/sh-sm3602-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm3602/00-sh-sm3602-f1a.jpg",
     "detailUrl": "bst-song-hong/sh-sm3602.html"
   },
   {
@@ -24976,7 +24976,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3605-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm3605/00-sh-sm3605-f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm3605.html"
   },
   {
@@ -24994,7 +24994,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm3606/sh-sm3606-f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm3606/00-sh-sm3606-f2.jpg",
     "detailUrl": "bst-song-hong/sh-sm3606.html"
   },
   {
@@ -25012,7 +25012,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm601/sh-sm601-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm601/00-sh-sm601-f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm601.html"
   },
   {
@@ -25030,7 +25030,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm602/sh-sm602-f2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm602/00-sh-sm602-f2.jpg",
     "detailUrl": "bst-song-hong/sh-sm602.html"
   },
   {
@@ -25048,7 +25048,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm603/sh-sm603f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm603/00-sh-sm603f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm603.html"
   },
   {
@@ -25066,7 +25066,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm604/sh-sm604f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm604/00-sh-sm604f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm604.html"
   },
   {
@@ -25084,7 +25084,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm605/sh-sm605-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm605/00-sh-sm605-f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm605.html"
   },
   {
@@ -25102,7 +25102,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-sm606/sh-sm606-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-sm606/00-sh-sm606-f1.jpg",
     "detailUrl": "bst-song-hong/sh-sm606.html"
   },
   {
@@ -25120,7 +25120,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-st302/sh-st302-f4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-st302/00-sh-st302-f4.jpg",
     "detailUrl": "bst-song-hong/sh-st302.html"
   },
   {
@@ -25138,7 +25138,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh-st304/sh-st304-f4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh-st304/00-sh-st304-f4.jpg",
     "detailUrl": "bst-song-hong/sh-st304.html"
   },
   {
@@ -25192,7 +25192,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh10-gp61204/sh10-gp61204-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh10-gp61204/00-sh10-gp61204-a.jpg",
     "detailUrl": "bst-song-hong/sh10-gp61204.html"
   },
   {
@@ -25210,7 +25210,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh10-gp8801/sh10-gp8801-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh10-gp8801/00-sh10-gp8801-min.jpg",
     "detailUrl": "bst-song-hong/sh10-gp8801.html"
   },
   {
@@ -25228,7 +25228,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh10-gp8802/sh10-gp8802-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh10-gp8802/00-sh10-gp8802-min.jpg",
     "detailUrl": "bst-song-hong/sh10-gp8802.html"
   },
   {
@@ -25246,7 +25246,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1321-1-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh1321/00-sh1321-1-1.png",
     "detailUrl": "bst-song-hong/sh1321.html"
   },
   {
@@ -25264,7 +25264,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1322/sh1322-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh1322/00-sh1322-1.png",
     "detailUrl": "bst-song-hong/sh1322.html"
   },
   {
@@ -25282,7 +25282,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1323/sh1323-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh1323/00-sh1323-1.png",
     "detailUrl": "bst-song-hong/sh1323.html"
   },
   {
@@ -25300,7 +25300,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1324/sh1324-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh1324/00-sh1324-1.png",
     "detailUrl": "bst-song-hong/sh1324.html"
   },
   {
@@ -25318,7 +25318,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh1325/sh1325-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh1325/00-sh1325-1.png",
     "detailUrl": "bst-song-hong/sh1325.html"
   },
   {
@@ -25336,7 +25336,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gm4801/sh2-gm4801-a-sh2-gp4801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gm4801/00-sh2-gm4801-a-sh2-gp4801-a.jpg",
     "detailUrl": "bst-song-hong/sh2-gm4801.html"
   },
   {
@@ -25354,7 +25354,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gm4803/sh2-gm4803-a-sh2-gp4803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x80-viglacera-sh2-gp4803/04-sh2-gm4803-a-sh2-gp4803-a.jpg",
     "detailUrl": "bst-song-hong/sh2-gm4803.html"
   },
   {
@@ -25372,7 +25372,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gm4803a/sh2-gm4803a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gm4803/04-sh2-gm4803a.jpg",
     "detailUrl": "bst-song-hong/sh2-gm4803a.html"
   },
   {
@@ -25390,7 +25390,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh2-gp4801/1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gp4801/00-1.jpg",
     "detailUrl": "bst-song-hong/sh2-gp4801.html"
   },
   {
@@ -25408,7 +25408,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/mobiles/3-sanpham/gachoplat/bstsonghong/sh2-gm4803/sh2-gm4803-a-sh2-gp4803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-40x80-viglacera-sh2-gp4803/03-sh2-gm4803-a-sh2-gp4803-a.jpg",
     "detailUrl": "bst-song-hong/sh2-gp4803a.html"
   },
   {
@@ -25426,7 +25426,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh2-gp6602/anh-man-hinh-2023-03-20-luc-170049.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gp6602/00-anh-man-hinh-2023-03-20-luc-170049.png",
     "detailUrl": "bst-song-hong/sh2-gp6602.html"
   },
   {
@@ -25444,7 +25444,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh2-gp8802/sh2-gp8802.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gp8802/00-sh2-gp8802.jpg",
     "detailUrl": "bst-song-hong/sh2-gp8802.html"
   },
   {
@@ -25462,7 +25462,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh2-gp8803/screenshot-2023-05-06-105052.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh2-gp8803/00-screenshot-2023-05-06-105052.jpg",
     "detailUrl": "bst-song-hong/sh2-gp8803.html"
   },
   {
@@ -25480,7 +25480,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3301/sh20-3301-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3301/00-sh20-3301-f1.jpg",
     "detailUrl": "bst-song-hong/sh20-3301.html"
   },
   {
@@ -25498,7 +25498,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3302/sh20-3302-f1a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3302/00-sh20-3302-f1a-1.jpg",
     "detailUrl": "bst-song-hong/sh20-3302.html"
   },
   {
@@ -25516,7 +25516,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3303/sh20-3303-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3303/00-sh20-3303-f1.jpg",
     "detailUrl": "bst-song-hong/sh20-3303.html"
   },
   {
@@ -25534,7 +25534,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3304/sh20-3304-f1-a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3304/00-sh20-3304-f1-a-1.jpg",
     "detailUrl": "bst-song-hong/sh20-3304.html"
   },
   {
@@ -25552,7 +25552,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3305/sh20-3305-f1-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3305/00-sh20-3305-f1-a.jpg",
     "detailUrl": "bst-song-hong/sh20-3305.html"
   },
   {
@@ -25570,7 +25570,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3601/sh20-3601-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3601/00-sh20-3601-f1a.jpg",
     "detailUrl": "bst-song-hong/sh20-3601.html"
   },
   {
@@ -25588,7 +25588,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3602/sh20-3602-f1b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3602/00-sh20-3602-f1b.jpg",
     "detailUrl": "bst-song-hong/sh20-3602.html"
   },
   {
@@ -25606,7 +25606,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3603/sh20-3603-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3603/00-sh20-3603-f1a.jpg",
     "detailUrl": "bst-song-hong/sh20-3603.html"
   },
   {
@@ -25624,7 +25624,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3604/sh20-3604-f1a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3604/00-sh20-3604-f1a.jpg",
     "detailUrl": "bst-song-hong/sh20-3604.html"
   },
   {
@@ -25642,7 +25642,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-3605-f1-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-3605/00-sh20-3605-f1-a.jpg",
     "detailUrl": "bst-song-hong/sh20-3605.html"
   },
   {
@@ -25660,7 +25660,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-6601/sh20-6601-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-6601/00-sh20-6601-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh20-6601.html"
   },
   {
@@ -25678,7 +25678,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-6602/sh20-6602-f4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-6602/00-sh20-6602-f4.jpg",
     "detailUrl": "bst-song-hong/sh20-6602.html"
   },
   {
@@ -25696,7 +25696,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-6603/sh20-6603-f2-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-6603/00-sh20-6603-f2-1.jpg",
     "detailUrl": "bst-song-hong/sh20-6603.html"
   },
   {
@@ -25714,7 +25714,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-6604/sh20-6604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-6604/00-sh20-6604-f1.jpg",
     "detailUrl": "bst-song-hong/sh20-6604.html"
   },
   {
@@ -25732,7 +25732,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh20-6605/sh20-6605-f1-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh20-6605/00-sh20-6605-f1-1.jpg",
     "detailUrl": "bst-song-hong/sh20-6605.html"
   },
   {
@@ -25750,7 +25750,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-gsmc101003/sh25-gsmc101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-gsmc101003/00-sh25-gsmc101003-a.webp",
     "detailUrl": "bst-song-hong/sh25-gsmc101003.html"
   },
   {
@@ -25768,7 +25768,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-gsmc101004/sh25-gsmc101004-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-gsmc101004/00-sh25-gsmc101004-a.webp",
     "detailUrl": "bst-song-hong/sh25-gsmc101004.html"
   },
   {
@@ -25786,7 +25786,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-gsmc121201/sh25-gsmc121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-gsmc121201/00-sh25-gsmc121201-a.webp",
     "detailUrl": "bst-song-hong/sh25-gsmc121201.html"
   },
   {
@@ -25804,7 +25804,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-gsmc121202/sh25-gsmc121202-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-gsmc121202/00-sh25-gsmc121202-a.webp",
     "detailUrl": "bst-song-hong/sh25-gsmc121202.html"
   },
   {
@@ -25822,7 +25822,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101001/sh25-p101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-p101001/00-sh25-p101001-a.webp",
     "detailUrl": "bst-song-hong/sh25-p101001.html"
   },
   {
@@ -25840,7 +25840,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101002/sh25-p101002-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-p101002/00-sh25-p101002-a.webp",
     "detailUrl": "bst-song-hong/sh25-p101002.html"
   },
   {
@@ -25858,7 +25858,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh25-p101003/sh25-p101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh25-p101003/00-sh25-p101003-a.webp",
     "detailUrl": "bst-song-hong/sh25-p101003.html"
   },
   {
@@ -25876,7 +25876,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp121211/sh26-gp121211-1.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh26-gp121211/00-sh26-gp121211-1.webp",
     "detailUrl": "bst-song-hong/sh26-gp121211.html"
   },
   {
@@ -25894,7 +25894,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh26-gp61211/sh26-gp61211-copy-2.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh26-gp61211/00-sh26-gp61211-copy-2.webp",
     "detailUrl": "bst-song-hong/sh26-gp61211.html"
   },
   {
@@ -25912,7 +25912,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh3-gm4801/sh3-gm4801-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh3-gm4801/00-sh3-gm4801-a-min.jpg",
     "detailUrl": "bst-song-hong/sh3-gm4801.html"
   },
   {
@@ -25930,7 +25930,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh3-gm4802/sh3-gm4802-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh3-gm4802/00-sh3-gm4802-a-min.jpg",
     "detailUrl": "bst-song-hong/sh3-gm4802.html"
   },
   {
@@ -25948,7 +25948,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh3-gm4802a/sh3-gm4802a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh3-gm4802a/00-sh3-gm4802a-min.jpg",
     "detailUrl": "bst-song-hong/sh3-gm4802a.html"
   },
   {
@@ -25966,7 +25966,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh3-gm8804/sh3-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh3-gm8804/00-sh3-1.jpg",
     "detailUrl": "bst-song-hong/sh3-gm8804.html"
   },
   {
@@ -25984,7 +25984,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh3-gm8805/11.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh3-gm8805/00-11.jpg",
     "detailUrl": "bst-song-hong/sh3-gm8805.html"
   },
   {
@@ -26002,7 +26002,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh4-gp4804/sh4-gp4804-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh4-gp4804/00-sh4-gp4804-a-min.jpg",
     "detailUrl": "bst-song-hong/sh4-gp4804.html"
   },
   {
@@ -26020,7 +26020,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp80x80/sh4-gp8804/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh4-gp8804/00-a.jpg",
     "detailUrl": "bst-song-hong/sh4-gp8804.html"
   },
   {
@@ -26038,7 +26038,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh435.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh435/00-sh435.jpg",
     "detailUrl": "san-pham-khac/sh435.html"
   },
   {
@@ -26056,7 +26056,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh438.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh438/00-sh438.jpg",
     "detailUrl": "san-pham-khac/sh438.html"
   },
   {
@@ -26074,7 +26074,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh462jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh462/00-sh462jpg.jpg",
     "detailUrl": "san-pham-khac/sh462.html"
   },
   {
@@ -26092,7 +26092,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh463jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh463/00-sh463jpg.jpg",
     "detailUrl": "san-pham-khac/sh463.html"
   },
   {
@@ -26110,7 +26110,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh468jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh468/00-sh468jpg.jpg",
     "detailUrl": "san-pham-khac/sh468.html"
   },
   {
@@ -26128,7 +26128,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh40x40-yenphong/sh478jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh478/00-sh478jpg.jpg",
     "detailUrl": "san-pham-khac/sh478.html"
   },
   {
@@ -26146,7 +26146,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh5-gm8801/1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh5-gm8801/00-1.jpg",
     "detailUrl": "bst-song-hong/sh5-gm8801.html"
   },
   {
@@ -26164,7 +26164,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh5-gm8803/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh5-gm8803/00-a.jpg",
     "detailUrl": "bst-song-hong/sh5-gm8803.html"
   },
   {
@@ -26182,7 +26182,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh512/sh512b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh512/00-sh512b.jpg",
     "detailUrl": "san-pham-khac/sh512.html"
   },
   {
@@ -26200,7 +26200,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh53-9gm101002/sh53-9gm101002-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh53-9gm101002/00-sh53-9gm101002-a.webp",
     "detailUrl": "bst-song-hong/sh53-9gm101002.html"
   },
   {
@@ -26218,7 +26218,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh6-gp4801/1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh6-gp4801/00-1.jpg",
     "detailUrl": "bst-song-hong/sh6-gp4801.html"
   },
   {
@@ -26236,7 +26236,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp40x80/sh6-gp4802a/a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh6-gp4802a/00-a-1.jpg",
     "detailUrl": "bst-song-hong/sh6-gp4802a.html"
   },
   {
@@ -26254,7 +26254,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh7-gp8801/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh7-gp8801/00-a.jpg",
     "detailUrl": "bst-song-hong/sh7-gp8801.html"
   },
   {
@@ -26308,7 +26308,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh8-gp8801-sh-gm8801/a-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh8-gp8801/00-a-1.jpg",
     "detailUrl": "bst-song-hong/sh8-gp8801.html"
   },
   {
@@ -26326,7 +26326,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/sh8-gp8802-shgm8802/a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh8-gp8802/00-a.jpg",
     "detailUrl": "bst-song-hong/sh8-gp8802.html"
   },
   {
@@ -26344,7 +26344,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh9-gp8801/sh9-gp8801-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh9-gp8801/00-sh9-gp8801-min.jpg",
     "detailUrl": "bst-song-hong/sh9-gp8801.html"
   },
   {
@@ -26362,7 +26362,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/sh9-gp8802/sh9-gp8802-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/sh9-gp8802/00-sh9-gp8802-min.jpg",
     "detailUrl": "bst-song-hong/sh9-gp8802.html"
   },
   {
@@ -26380,7 +26380,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3601/sh-gp3601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3601/00-sh-gp3601-a.jpg",
     "detailUrl": "bst-song-hong/shgp3601.html"
   },
   {
@@ -26398,7 +26398,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3602/sh-gp3602-a1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3602/00-sh-gp3602-a1.jpg",
     "detailUrl": "bst-song-hong/shgp3602.html"
   },
   {
@@ -26416,7 +26416,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3602/shgp3602a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3602a/00-shgp3602a.jpg",
     "detailUrl": "bst-song-hong/shgp3602a.html"
   },
   {
@@ -26434,7 +26434,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3603/sh-gp3603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3603/00-sh-gp3603-a.jpg",
     "detailUrl": "bst-song-hong/shgp3603.html"
   },
   {
@@ -26452,7 +26452,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3604/sh-gp3604-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3604/00-sh-gp3604-a.jpg",
     "detailUrl": "bst-song-hong/shgp3604.html"
   },
   {
@@ -26470,7 +26470,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3604/shgp3604a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3604a/00-shgp3604a.jpg",
     "detailUrl": "bst-song-hong/shgp3604a.html"
   },
   {
@@ -26488,7 +26488,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3604/shgp3604am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3604am/00-shgp3604am.jpg",
     "detailUrl": "bst-song-hong/shgp3604am.html"
   },
   {
@@ -26506,7 +26506,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3605/sh-gp3605-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3605/00-sh-gp3605-a.jpg",
     "detailUrl": "bst-song-hong/shgp3605.html"
   },
   {
@@ -26524,7 +26524,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3606/sh-gp3606-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3606/00-sh-gp3606-a.jpg",
     "detailUrl": "bst-song-hong/shgp3606.html"
   },
   {
@@ -26542,7 +26542,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3606/shgp3606a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3606a/00-shgp3606a.jpg",
     "detailUrl": "bst-song-hong/shgp3606a.html"
   },
   {
@@ -26560,7 +26560,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3606/shgp3606am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3606am/00-shgp3606am.jpg",
     "detailUrl": "bst-song-hong/shgp3606am.html"
   },
   {
@@ -26596,7 +26596,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3609/sh-gp3609-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3609/00-sh-gp3609-a.jpg",
     "detailUrl": "bst-song-hong/shgp3609.html"
   },
   {
@@ -26614,7 +26614,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/shgp30x60polished/shgp3609/shgp3609am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/shgp3609am/00-shgp3609am.jpg",
     "detailUrl": "bst-song-hong/shgp3609am.html"
   },
   {
@@ -26632,7 +26632,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15901/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15901/00-350.jpg",
     "detailUrl": "san-pham-khac/t15901.html"
   },
   {
@@ -26650,7 +26650,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15902/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15902/00-350.jpg",
     "detailUrl": "san-pham-khac/t15902.html"
   },
   {
@@ -26668,7 +26668,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15903/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15903/00-350.jpg",
     "detailUrl": "san-pham-khac/t15903.html"
   },
   {
@@ -26686,7 +26686,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15904/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15904/00-350.jpg",
     "detailUrl": "san-pham-khac/t15904.html"
   },
   {
@@ -26704,7 +26704,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15905/t15905b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15905/00-t15905b.jpg",
     "detailUrl": "san-pham-khac/t15905.html"
   },
   {
@@ -26722,7 +26722,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t15906/t15906a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t15906/00-t15906a.jpg",
     "detailUrl": "san-pham-khac/t15906.html"
   },
   {
@@ -26740,7 +26740,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t360/t360-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t360/00-t360-1.jpg",
     "detailUrl": "san-pham-khac/t360.html"
   },
   {
@@ -26758,7 +26758,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t361/t361-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t361/00-t361-1.jpg",
     "detailUrl": "san-pham-khac/t361.html"
   },
   {
@@ -26776,7 +26776,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t3610/t3610-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t3610/00-t3610-2.jpg",
     "detailUrl": "san-pham-khac/t3610.html"
   },
   {
@@ -26794,7 +26794,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t3611/t3611-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t3611/00-t3611-2.jpg",
     "detailUrl": "san-pham-khac/t3611.html"
   },
   {
@@ -26812,7 +26812,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t362/t362.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t362/00-t362.jpg",
     "detailUrl": "san-pham-khac/t362.html"
   },
   {
@@ -26830,7 +26830,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t363/t363-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t363/00-t363-1.jpg",
     "detailUrl": "san-pham-khac/t363.html"
   },
   {
@@ -26848,7 +26848,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t364/t364.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t364/00-t364.jpg",
     "detailUrl": "san-pham-khac/t364.html"
   },
   {
@@ -26866,7 +26866,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t365/t365-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t365/00-t365-1.jpg",
     "detailUrl": "san-pham-khac/t365.html"
   },
   {
@@ -26884,7 +26884,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t366/t366.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t366/00-t366.jpg",
     "detailUrl": "san-pham-khac/t366.html"
   },
   {
@@ -26902,7 +26902,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t367/t367.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t367/00-t367.jpg",
     "detailUrl": "san-pham-khac/t367.html"
   },
   {
@@ -26920,7 +26920,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t368/t368-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t368/00-t368-2.jpg",
     "detailUrl": "san-pham-khac/t368.html"
   },
   {
@@ -26938,7 +26938,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/t369/t369-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/t369/00-t369-2.jpg",
     "detailUrl": "san-pham-khac/t369.html"
   },
   {
@@ -26956,7 +26956,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-821/tb-821-f1-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb-821/00-tb-821-f1-350.jpg",
     "detailUrl": "san-pham-khac/tb-821.html"
   },
   {
@@ -26974,7 +26974,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-822/tb-822-f1-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb-822/00-tb-822-f1-350.jpg",
     "detailUrl": "san-pham-khac/tb-822.html"
   },
   {
@@ -26992,7 +26992,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-823/tb-823-f1-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb-823/00-tb-823-f1-350.jpg",
     "detailUrl": "san-pham-khac/tb-823.html"
   },
   {
@@ -27010,7 +27010,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-824/tb-824-f1-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb-824/00-tb-824-f1-350.jpg",
     "detailUrl": "san-pham-khac/tb-824.html"
   },
   {
@@ -27028,7 +27028,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb-825/tb-825-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb-825/00-tb-825-350.jpg",
     "detailUrl": "san-pham-khac/tb-825.html"
   },
   {
@@ -27046,7 +27046,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb601/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb601/00-350.jpg",
     "detailUrl": "san-pham-khac/tb601.html"
   },
   {
@@ -27064,7 +27064,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb602/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb602/00-350.jpg",
     "detailUrl": "san-pham-khac/tb602.html"
   },
   {
@@ -27082,7 +27082,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb603/tb-603-803aa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb603/00-tb-603-803aa.jpg",
     "detailUrl": "san-pham-khac/tb603.html"
   },
   {
@@ -27100,7 +27100,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb608/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb608/00-350.jpg",
     "detailUrl": "san-pham-khac/tb608.html"
   },
   {
@@ -27118,7 +27118,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb609/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb609/00-350.jpg",
     "detailUrl": "san-pham-khac/tb609.html"
   },
   {
@@ -27136,7 +27136,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb610/tb-610-tb-810-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb610/00-tb-610-tb-810-350.jpg",
     "detailUrl": "san-pham-khac/tb610.html"
   },
   {
@@ -27154,7 +27154,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb611/tb-611-tb-811-3530.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb611/00-tb-611-tb-811-3530.jpg",
     "detailUrl": "san-pham-khac/tb611.html"
   },
   {
@@ -27172,7 +27172,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb6503.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6503/00-tb6503.jpg",
     "detailUrl": "san-pham-khac/tb6503.html"
   },
   {
@@ -27190,7 +27190,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6506.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6506/00-tb-6506.jpg",
     "detailUrl": "san-pham-khac/tb6506.html"
   },
   {
@@ -27208,7 +27208,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb652/tb-652-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb652/00-tb-652-350.jpg",
     "detailUrl": "san-pham-khac/tb652.html"
   },
   {
@@ -27226,7 +27226,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb6660/tb-6660-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6660/00-tb-6660-350.jpg",
     "detailUrl": "san-pham-khac/tb6660.html"
   },
   {
@@ -27244,7 +27244,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb6661/tb-6661-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6661/00-tb-6661-350.jpg",
     "detailUrl": "san-pham-khac/tb6661.html"
   },
   {
@@ -27262,7 +27262,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb6701.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6701/00-tb6701.jpg",
     "detailUrl": "san-pham-khac/tb6701.html"
   },
   {
@@ -27280,7 +27280,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6702.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6702/00-tb-6702.jpg",
     "detailUrl": "san-pham-khac/tb6702.html"
   },
   {
@@ -27298,7 +27298,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6703.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6703/00-tb-6703.jpg",
     "detailUrl": "san-pham-khac/tb6703.html"
   },
   {
@@ -27316,7 +27316,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb6705/tb-6705-tb-8705-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6705/00-tb-6705-tb-8705-1.jpg",
     "detailUrl": "san-pham-khac/tb6705.html"
   },
   {
@@ -27334,7 +27334,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6706.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6706/00-tb-6706.jpg",
     "detailUrl": "san-pham-khac/tb6706.html"
   },
   {
@@ -27352,7 +27352,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6707.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6707/00-tb-6707.jpg",
     "detailUrl": "san-pham-khac/tb6707.html"
   },
   {
@@ -27370,7 +27370,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6800.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6800/00-tb-6800.jpg",
     "detailUrl": "san-pham-khac/tb6800.html"
   },
   {
@@ -27388,7 +27388,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6805.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6805/00-tb-6805.jpg",
     "detailUrl": "san-pham-khac/tb6805.html"
   },
   {
@@ -27406,7 +27406,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6807.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6807/00-tb-6807.jpg",
     "detailUrl": "san-pham-khac/tb6807.html"
   },
   {
@@ -27424,7 +27424,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6808.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6808/00-tb-6808.jpg",
     "detailUrl": "san-pham-khac/tb6808.html"
   },
   {
@@ -27442,7 +27442,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6809.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6809/00-tb-6809.jpg",
     "detailUrl": "san-pham-khac/tb6809.html"
   },
   {
@@ -27460,7 +27460,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb681/tb-681.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb681/00-tb-681.jpg",
     "detailUrl": "san-pham-khac/tb681.html"
   },
   {
@@ -27478,7 +27478,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/tb60x60/tb-6810.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb6810/00-tb-6810.jpg",
     "detailUrl": "san-pham-khac/tb6810.html"
   },
   {
@@ -27496,7 +27496,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb801/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb801/00-350.jpg",
     "detailUrl": "san-pham-khac/tb801.html"
   },
   {
@@ -27514,7 +27514,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb802/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb802/00-350.jpg",
     "detailUrl": "san-pham-khac/tb802.html"
   },
   {
@@ -27532,7 +27532,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb803/tb-603-803aa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb803/00-tb-603-803aa.jpg",
     "detailUrl": "san-pham-khac/tb803.html"
   },
   {
@@ -27550,7 +27550,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb805/tb-805-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb805/00-tb-805-1.jpg",
     "detailUrl": "san-pham-khac/tb805.html"
   },
   {
@@ -27568,7 +27568,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb808/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb808/00-350.jpg",
     "detailUrl": "san-pham-khac/tb808.html"
   },
   {
@@ -27586,7 +27586,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb809/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb809/00-350.jpg",
     "detailUrl": "san-pham-khac/tb809.html"
   },
   {
@@ -27604,7 +27604,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb810/tb-610-tb-810-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb810/00-tb-610-tb-810-350.jpg",
     "detailUrl": "san-pham-khac/tb810.html"
   },
   {
@@ -27622,7 +27622,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb811/tb-611-tb-811-3530.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb811/00-tb-611-tb-811-3530.jpg",
     "detailUrl": "san-pham-khac/tb811.html"
   },
   {
@@ -27640,7 +27640,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8661.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8661/00-tb8661.jpg",
     "detailUrl": "san-pham-khac/tb8661.html"
   },
   {
@@ -27658,7 +27658,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8701/tb-6701-tb-8701-350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8701/00-tb-6701-tb-8701-350.jpg",
     "detailUrl": "san-pham-khac/tb8701.html"
   },
   {
@@ -27676,7 +27676,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-8702.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8702/00-tb-8702.jpg",
     "detailUrl": "san-pham-khac/tb8702.html"
   },
   {
@@ -27694,7 +27694,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-8703.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8703/00-tb-8703.jpg",
     "detailUrl": "san-pham-khac/tb8703.html"
   },
   {
@@ -27712,7 +27712,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8705/tb-6705-tb-8705-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8705/00-tb-6705-tb-8705-1.jpg",
     "detailUrl": "san-pham-khac/tb8705.html"
   },
   {
@@ -27730,7 +27730,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8706/tb-8706.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8706/00-tb-8706.jpg",
     "detailUrl": "san-pham-khac/tb8706.html"
   },
   {
@@ -27748,7 +27748,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-8707.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8707/00-tb-8707.jpg",
     "detailUrl": "san-pham-khac/tb8707.html"
   },
   {
@@ -27766,7 +27766,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb881/tb-881-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb881/00-tb-881-1.jpg",
     "detailUrl": "san-pham-khac/tb881.html"
   },
   {
@@ -27784,7 +27784,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb882.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb882/00-tb882.jpg",
     "detailUrl": "san-pham-khac/tb882.html"
   },
   {
@@ -27802,7 +27802,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8857/tb-8857-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8857/00-tb-8857-1.jpg",
     "detailUrl": "san-pham-khac/tb8857.html"
   },
   {
@@ -27820,7 +27820,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8858/tb-8858.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8858/00-tb-8858.jpg",
     "detailUrl": "san-pham-khac/tb8858.html"
   },
   {
@@ -27838,7 +27838,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8859/tb-8859-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8859/00-tb-8859-1.jpg",
     "detailUrl": "san-pham-khac/tb8859.html"
   },
   {
@@ -27856,7 +27856,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb886/tb-886-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb886/00-tb-886-1.jpg",
     "detailUrl": "san-pham-khac/tb886.html"
   },
   {
@@ -27874,7 +27874,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb8861/tb-8861-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8861/00-tb-8861-1.jpg",
     "detailUrl": "san-pham-khac/tb8861.html"
   },
   {
@@ -27892,7 +27892,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb889/tb889.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb889/00-tb889.jpg",
     "detailUrl": "san-pham-khac/tb889.html"
   },
   {
@@ -27910,7 +27910,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8900.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8900/00-tb8900.jpg",
     "detailUrl": "san-pham-khac/tb8900.html"
   },
   {
@@ -27928,7 +27928,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb892.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb892/00-tb892.jpg",
     "detailUrl": "san-pham-khac/tb892.html"
   },
   {
@@ -27946,7 +27946,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-893.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb893/00-tb-893.jpg",
     "detailUrl": "san-pham-khac/tb893.html"
   },
   {
@@ -27964,7 +27964,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-894.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb894/00-tb-894.jpg",
     "detailUrl": "san-pham-khac/tb894.html"
   },
   {
@@ -27982,7 +27982,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb895/tb-895-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb895/00-tb-895-1.jpg",
     "detailUrl": "san-pham-khac/tb895.html"
   },
   {
@@ -28000,7 +28000,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tb898/tb-898.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb898/00-tb-898.jpg",
     "detailUrl": "san-pham-khac/tb898.html"
   },
   {
@@ -28018,7 +28018,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb-8991.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8991/00-tb-8991.jpg",
     "detailUrl": "san-pham-khac/tb8991.html"
   },
   {
@@ -28036,7 +28036,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8992.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8992/00-tb8992.jpg",
     "detailUrl": "san-pham-khac/tb8992.html"
   },
   {
@@ -28054,7 +28054,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8993.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8993/00-tb8993.jpg",
     "detailUrl": "san-pham-khac/tb8993.html"
   },
   {
@@ -28072,7 +28072,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8994.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8994/00-tb8994.jpg",
     "detailUrl": "san-pham-khac/tb8994.html"
   },
   {
@@ -28090,7 +28090,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8995.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8995/00-tb8995.jpg",
     "detailUrl": "san-pham-khac/tb8995.html"
   },
   {
@@ -28108,7 +28108,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/tb80x80/tb8996.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tb8996/00-tb8996.jpg",
     "detailUrl": "san-pham-khac/tb8996.html"
   },
   {
@@ -28126,7 +28126,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4800/tl4800.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4800/00-tl4800.jpg",
     "detailUrl": "san-pham-khac/tl4800.html"
   },
   {
@@ -28144,7 +28144,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4805/tl-4805-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4805/00-tl-4805-1.jpg",
     "detailUrl": "san-pham-khac/tl4805.html"
   },
   {
@@ -28162,7 +28162,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4807/tl4807-0000.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4807/00-tl4807-0000.jpg",
     "detailUrl": "san-pham-khac/tl4807.html"
   },
   {
@@ -28180,7 +28180,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4808/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4808/00-350.jpg",
     "detailUrl": "san-pham-khac/tl4808.html"
   },
   {
@@ -28198,7 +28198,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4809/tl4809-1-0000-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4809/00-tl4809-1-0000-1.jpg",
     "detailUrl": "san-pham-khac/tl4809.html"
   },
   {
@@ -28216,7 +28216,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4810/tl-4810-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4810/00-tl-4810-1.jpg",
     "detailUrl": "san-pham-khac/tl4810.html"
   },
   {
@@ -28234,7 +28234,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4811/tl4811.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4811/00-tl4811.jpg",
     "detailUrl": "san-pham-khac/tl4811.html"
   },
   {
@@ -28252,7 +28252,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4812/tl4812-copy.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4812/00-tl4812-copy.jpg",
     "detailUrl": "san-pham-khac/tl4812.html"
   },
   {
@@ -28270,7 +28270,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4814/tl4814-1-copy-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4814/00-tl4814-1-copy-1.jpg",
     "detailUrl": "san-pham-khac/tl4814.html"
   },
   {
@@ -28288,7 +28288,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tl4815/tl4815-copy-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tl4815/00-tl4815-copy-01.jpg",
     "detailUrl": "san-pham-khac/tl4815.html"
   },
   {
@@ -28306,7 +28306,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm-821/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm-821/00-350.jpg",
     "detailUrl": "san-pham-khac/tm-821.html"
   },
   {
@@ -28324,7 +28324,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm-822/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm-822/00-350.jpg",
     "detailUrl": "san-pham-khac/tm-822.html"
   },
   {
@@ -28342,7 +28342,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm-823/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm-823/00-350.jpg",
     "detailUrl": "san-pham-khac/tm-823.html"
   },
   {
@@ -28360,7 +28360,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm602/tm-602-1.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm602/00-tm-602-1.png",
     "detailUrl": "san-pham-khac/tm602.html"
   },
   {
@@ -28378,7 +28378,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm801/tm-801-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm801/00-tm-801-1.jpg",
     "detailUrl": "san-pham-khac/tm801.html"
   },
   {
@@ -28396,7 +28396,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm802/tm-802.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm802/00-tm-802.jpg",
     "detailUrl": "san-pham-khac/tm802.html"
   },
   {
@@ -28414,7 +28414,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tm803/tm-803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tm803/00-tm-803-1.jpg",
     "detailUrl": "san-pham-khac/tm803.html"
   },
   {
@@ -28432,7 +28432,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tp200j/tp200jb.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tp200j/00-tp200jb.jpg",
     "detailUrl": "san-pham-khac/tp200j.html"
   },
   {
@@ -28450,7 +28450,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tp204x/tp204xb.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tp204x/00-tp204xb.jpg",
     "detailUrl": "san-pham-khac/tp204x.html"
   },
   {
@@ -28468,7 +28468,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp600/tps-gp600.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tps-gp600/00-tps-gp600.jpg",
     "detailUrl": "san-pham-khac/tps-gp600.html"
   },
   {
@@ -28486,7 +28486,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp610/tps-gp610.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tps-gp610/00-tps-gp610.jpg",
     "detailUrl": "san-pham-khac/tps-gp610.html"
   },
   {
@@ -28504,7 +28504,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tps-gp611/tps-gp611.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tps-gp611/00-tps-gp611.webp",
     "detailUrl": "san-pham-khac/tps-gp611.html"
   },
   {
@@ -28522,7 +28522,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/tps-gp673/tps-gp673.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tps-gp673/00-tps-gp673.jpg",
     "detailUrl": "san-pham-khac/tps-gp673.html"
   },
   {
@@ -28540,7 +28540,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq3601/tq3601-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq3601/00-tq3601-2.jpg",
     "detailUrl": "san-pham-khac/tq3601.html"
   },
   {
@@ -28558,7 +28558,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq3602/tq3602-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq3602/00-tq3602-2.jpg",
     "detailUrl": "san-pham-khac/tq3602.html"
   },
   {
@@ -28576,7 +28576,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq3603/tq3603-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq3603/00-tq3603-2.jpg",
     "detailUrl": "san-pham-khac/tq3603.html"
   },
   {
@@ -28594,7 +28594,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq3604/tq3604-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq3604/00-tq3604-2.jpg",
     "detailUrl": "san-pham-khac/tq3604.html"
   },
   {
@@ -28612,7 +28612,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq601/350.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq601/00-350.jpg",
     "detailUrl": "san-pham-khac/tq601.html"
   },
   {
@@ -28630,7 +28630,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq603/tq-603-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq603/00-tq-603-1.jpg",
     "detailUrl": "san-pham-khac/tq603.html"
   },
   {
@@ -28648,7 +28648,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq605/tq-605.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq605/00-tq-605.jpg",
     "detailUrl": "san-pham-khac/tq605.html"
   },
   {
@@ -28666,7 +28666,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq606/tq-606-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq606/00-tq-606-1.jpg",
     "detailUrl": "san-pham-khac/tq606.html"
   },
   {
@@ -28684,7 +28684,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq803/tq-803-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq803/00-tq-803-1.jpg",
     "detailUrl": "san-pham-khac/tq803.html"
   },
   {
@@ -28702,7 +28702,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq804/tq-804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq804/00-tq-804.jpg",
     "detailUrl": "san-pham-khac/tq804.html"
   },
   {
@@ -28720,7 +28720,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq805/tq-805-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq805/00-tq-805-1.jpg",
     "detailUrl": "san-pham-khac/tq805.html"
   },
   {
@@ -28738,7 +28738,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tq808/tq-808.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tq808/00-tq-808.jpg",
     "detailUrl": "san-pham-khac/tq808.html"
   },
   {
@@ -28756,7 +28756,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ts1-615-md-d601.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts1-615/00-ts1-615-md-d601.jpg",
     "detailUrl": "san-pham-khac/ts1-615.html"
   },
   {
@@ -28774,7 +28774,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-617/ts1-617-md-d602-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts1-617/00-ts1-617-md-d602-2.jpg",
     "detailUrl": "san-pham-khac/ts1-617.html"
   },
   {
@@ -28792,7 +28792,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts1-815/ts1-815-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts1-815/00-ts1-815-2.jpg",
     "detailUrl": "san-pham-khac/ts1-815.html"
   },
   {
@@ -28810,7 +28810,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts2-612/ts2-612-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts2-612/00-ts2-612-2.jpg",
     "detailUrl": "san-pham-khac/ts2-612.html"
   },
   {
@@ -28828,7 +28828,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts2-617/ts2-617-2-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts2-617/00-ts2-617-2-1.jpg",
     "detailUrl": "san-pham-khac/ts2-617.html"
   },
   {
@@ -28846,7 +28846,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts2-812/ts2-812-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts2-812/00-ts2-812-2.jpg",
     "detailUrl": "san-pham-khac/ts2-812.html"
   },
   {
@@ -28864,7 +28864,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts2-817/ts2-817-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts2-817/00-ts2-817-2.jpg",
     "detailUrl": "san-pham-khac/ts2-817.html"
   },
   {
@@ -28882,7 +28882,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-615/ts3-615-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts3-615/00-ts3-615-2.jpg",
     "detailUrl": "san-pham-khac/ts3-615.html"
   },
   {
@@ -28900,7 +28900,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-617/ts3-617-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts3-617/00-ts3-617-2.jpg",
     "detailUrl": "san-pham-khac/ts3-617.html"
   },
   {
@@ -28918,7 +28918,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-815/ts3-815-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts3-815/00-ts3-815-2.jpg",
     "detailUrl": "san-pham-khac/ts3-815.html"
   },
   {
@@ -28936,7 +28936,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts3-817/ts3-817-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts3-817/00-ts3-817-2.jpg",
     "detailUrl": "san-pham-khac/ts3-817.html"
   },
   {
@@ -28954,7 +28954,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts5-601/ts5-601-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts5-601/00-ts5-601-2.jpg",
     "detailUrl": "san-pham-khac/ts5-601.html"
   },
   {
@@ -28972,7 +28972,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts5-602/ts5-602-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts5-602/00-ts5-602-2.jpg",
     "detailUrl": "san-pham-khac/ts5-602.html"
   },
   {
@@ -28990,7 +28990,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts5-801/ts5-801-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts5-801/00-ts5-801-2.jpg",
     "detailUrl": "san-pham-khac/ts5-801.html"
   },
   {
@@ -29008,7 +29008,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts5-802/ts5-802-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts5-802/00-ts5-802-2.jpg",
     "detailUrl": "san-pham-khac/ts5-802.html"
   },
   {
@@ -29026,7 +29026,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/ts600-ts5-600/ts-600-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ts600-ts5-600/00-ts-600-2.jpg",
     "detailUrl": "san-pham-khac/ts600-ts5-600.html"
   },
   {
@@ -29062,7 +29062,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt601/ts-mt601-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tsmt601/00-ts-mt601-1.jpg",
     "detailUrl": "san-pham-khac/tsmt601.html"
   },
   {
@@ -29080,7 +29080,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt602/ts-mt602-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tsmt602/00-ts-mt602-3.jpg",
     "detailUrl": "san-pham-khac/tsmt602.html"
   },
   {
@@ -29116,7 +29116,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt604/ts-mt604-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tsmt604/00-ts-mt604-2.jpg",
     "detailUrl": "san-pham-khac/tsmt604.html"
   },
   {
@@ -29134,7 +29134,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt605/ts-mt605-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tsmt605/00-ts-mt605-2.jpg",
     "detailUrl": "san-pham-khac/tsmt605.html"
   },
   {
@@ -29152,7 +29152,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/tsmt606/ts-mt606-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/tsmt606/00-ts-mt606-2.jpg",
     "detailUrl": "san-pham-khac/tsmt606.html"
   },
   {
@@ -29170,7 +29170,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u1-p81601/u1-p81601-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u1-p81601/00-u1-p81601-f2-min.jpg",
     "detailUrl": "united-tiles-1/u1-p81601.html"
   },
   {
@@ -29188,7 +29188,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81602/u2-p121202-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u2-p81602/00-u2-p121202-a-min.jpg",
     "detailUrl": "united-tiles-1/u2-p81602.html"
   },
   {
@@ -29206,7 +29206,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u2-p81604/u2-p81604-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u2-p81604/00-u2-p81604-a-min.jpg",
     "detailUrl": "united-tiles-1/u2-p81604.html"
   },
   {
@@ -29224,7 +29224,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-p81601/u3-m81601-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u3-m81601/00-u3-m81601-a-min.jpg",
     "detailUrl": "united-tiles-1/u3-m81601.html"
   },
   {
@@ -29242,7 +29242,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u3-m81601/u3-p81601-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u3-p81601/00-u3-p81601-a-min.jpg",
     "detailUrl": "united-tiles-1/u3-p81601.html"
   },
   {
@@ -29260,7 +29260,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-m81602/u4-m81602-a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u4-m81602/00-u4-m81602-a-min.jpg",
     "detailUrl": "united-tiles-1/u4-m81602.html"
   },
   {
@@ -29278,7 +29278,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/u4-p81601/u4-p81601-b-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/u4-p81601/00-u4-p81601-b-min.jpg",
     "detailUrl": "united-tiles-1/u4-p81601.html"
   },
   {
@@ -29296,7 +29296,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/ua2-9gp101001/ua2-9gp101001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ua2-9gp101001/00-ua2-9gp101001.jpg",
     "detailUrl": "united-tiles-1/ua2-9gp101001.html"
   },
   {
@@ -29314,7 +29314,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/mdk/ua3-9gp101002/ua3-9gp101002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ua3-9gp101002/00-ua3-9gp101002.jpg",
     "detailUrl": "united-tiles-1/ua3-9gp101002.html"
   },
   {
@@ -29332,7 +29332,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs301.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-301/00-ubs301.jpg",
     "detailUrl": "san-pham-khac/ubs-301.html"
   },
   {
@@ -29350,7 +29350,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs302.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-302/00-ubs302.jpg",
     "detailUrl": "san-pham-khac/ubs-302.html"
   },
   {
@@ -29368,7 +29368,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs303.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-303/00-ubs303.jpg",
     "detailUrl": "san-pham-khac/ubs-303.html"
   },
   {
@@ -29386,7 +29386,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs304.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-304/00-ubs304.jpg",
     "detailUrl": "san-pham-khac/ubs-304.html"
   },
   {
@@ -29404,7 +29404,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs305.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-305/00-ubs305.jpg",
     "detailUrl": "san-pham-khac/ubs-305.html"
   },
   {
@@ -29422,7 +29422,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs301/ubs306.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-306/00-ubs306.jpg",
     "detailUrl": "san-pham-khac/ubs-306.html"
   },
   {
@@ -29440,7 +29440,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4601.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-4601/00-ubs-4601.jpg",
     "detailUrl": "san-pham-khac/ubs-4601.html"
   },
   {
@@ -29458,7 +29458,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs4602.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-4602/00-ubs4602.jpg",
     "detailUrl": "san-pham-khac/ubs-4602.html"
   },
   {
@@ -29476,7 +29476,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs4603.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-4603/00-ubs4603.jpg",
     "detailUrl": "san-pham-khac/ubs-4603.html"
   },
   {
@@ -29494,7 +29494,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4604-f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-4604/00-ubs-4604-f1.jpg",
     "detailUrl": "san-pham-khac/ubs-4604.html"
   },
   {
@@ -29512,7 +29512,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/ubs4601-02-03-04-06/ubs-4606.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ubs-4606/00-ubs-4606.jpg",
     "detailUrl": "san-pham-khac/ubs-4606.html"
   },
   {
@@ -29530,7 +29530,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8801/ul-bs8801-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ulbs8801/00-ul-bs8801-a.webp",
     "detailUrl": "united-tiles-1/ulbs8801.html"
   },
   {
@@ -29548,7 +29548,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8802/ul-bs8802-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ulbs8802/00-ul-bs8802-a.webp",
     "detailUrl": "united-tiles-1/ulbs8802.html"
   },
   {
@@ -29566,7 +29566,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8804/ul-bs8804-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ulbs8804/00-ul-bs8804-a.webp",
     "detailUrl": "united-tiles-1/ulbs8804.html"
   },
   {
@@ -29584,7 +29584,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8805/ul-bs8805-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ulbs8805/00-ul-bs8805-a.webp",
     "detailUrl": "united-tiles-1/ulbs8805.html"
   },
   {
@@ -29602,7 +29602,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/80x80-ulbs/ulbs8809/ul-bs8809-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ulbs8809/00-ul-bs8809-a.webp",
     "detailUrl": "united-tiles-1/ulbs8809.html"
   },
   {
@@ -29620,7 +29620,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61204-pc-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gm61204/00-un24-gm61204-pc-4.jpg",
     "detailUrl": "united-tiles-1/un24-gm61204.html"
   },
   {
@@ -29638,7 +29638,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61205/un24-gm61205-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gm61205/00-un24-gm61205-a.jpg",
     "detailUrl": "united-tiles-1/un24-gm61205.html"
   },
   {
@@ -29656,7 +29656,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61206/un24-gm61206-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gm61206/00-un24-gm61206-a.jpg",
     "detailUrl": "united-tiles-1/un24-gm61206.html"
   },
   {
@@ -29674,7 +29674,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61201/un24-gp61201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gp61201/00-un24-gp61201-a.jpg",
     "detailUrl": "united-tiles-1/un24-gp61201.html"
   },
   {
@@ -29692,7 +29692,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61202/un24-gp61202-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gp61202/00-un24-gp61202-a.jpg",
     "detailUrl": "united-tiles-1/un24-gp61202.html"
   },
   {
@@ -29710,7 +29710,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/un24-gm61203/un24-gp61203-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/un24-gp61203/00-un24-gp61203-a.jpg",
     "detailUrl": "united-tiles-1/un24-gp61203.html"
   },
   {
@@ -29746,7 +29746,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us401.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us401/00-us401.jpg",
     "detailUrl": "san-pham-khac/us401.html"
   },
   {
@@ -29764,7 +29764,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us402.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us402/00-us402.jpg",
     "detailUrl": "san-pham-khac/us402.html"
   },
   {
@@ -29782,7 +29782,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us403.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us403/00-us403.jpg",
     "detailUrl": "san-pham-khac/us403.html"
   },
   {
@@ -29800,7 +29800,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us404.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us404/00-us404.jpg",
     "detailUrl": "san-pham-khac/us404.html"
   },
   {
@@ -29818,7 +29818,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us405.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us405/00-us405.jpg",
     "detailUrl": "san-pham-khac/us405.html"
   },
   {
@@ -29836,7 +29836,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us406.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us406/00-us406.jpg",
     "detailUrl": "san-pham-khac/us406.html"
   },
   {
@@ -29854,7 +29854,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us407.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us407/00-us407.jpg",
     "detailUrl": "san-pham-khac/us407.html"
   },
   {
@@ -29872,7 +29872,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us408.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us408/00-us408.jpg",
     "detailUrl": "san-pham-khac/us408.html"
   },
   {
@@ -29890,7 +29890,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us409.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us409/00-us409.jpg",
     "detailUrl": "san-pham-khac/us409.html"
   },
   {
@@ -29908,7 +29908,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us410.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us410/00-us410.jpg",
     "detailUrl": "san-pham-khac/us410.html"
   },
   {
@@ -29926,7 +29926,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us411.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us411/00-us411.jpg",
     "detailUrl": "san-pham-khac/us411.html"
   },
   {
@@ -29944,7 +29944,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us412.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us412/00-us412.jpg",
     "detailUrl": "san-pham-khac/us412.html"
   },
   {
@@ -29962,7 +29962,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us413.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us413/00-us413.jpg",
     "detailUrl": "san-pham-khac/us413.html"
   },
   {
@@ -29980,7 +29980,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us414.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us414/00-us414.jpg",
     "detailUrl": "san-pham-khac/us414.html"
   },
   {
@@ -29998,7 +29998,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us415.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us415/00-us415.jpg",
     "detailUrl": "san-pham-khac/us415.html"
   },
   {
@@ -30016,7 +30016,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us416.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us416/00-us416.jpg",
     "detailUrl": "san-pham-khac/us416.html"
   },
   {
@@ -30034,7 +30034,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/us40x40/us417.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/us417/00-us417.jpg",
     "detailUrl": "san-pham-khac/us417.html"
   },
   {
@@ -30052,7 +30052,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/utl3600/utl3600-min-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/utl3600/00-utl3600-min-min.jpg",
     "detailUrl": "united-tiles-1/utl3600.html"
   },
   {
@@ -30070,7 +30070,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/united-hai-duong/uzcm3302f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/uz-cm3302/00-uzcm3302f1.jpg",
     "detailUrl": "united-tiles-1/uz-cm3302.html"
   },
   {
@@ -30088,7 +30088,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/united-hai-duong/uzcm3304f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/uz-cm3304/00-uzcm3304f1.jpg",
     "detailUrl": "united-tiles-1/uz-cm3304.html"
   },
   {
@@ -30106,7 +30106,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/united-hai-duong/uzcm3308f1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/uz-cm3308/00-uzcm3308f1.jpg",
     "detailUrl": "united-tiles-1/uz-cm3308.html"
   },
   {
@@ -30124,7 +30124,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3601/uz-hm3601-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/uz-hm3601/00-uz-hm3601-f1-min.jpg",
     "detailUrl": "united-tiles-1/uz-hm3601.html"
   },
   {
@@ -30142,7 +30142,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/unitedtiles/uz-hm3602/uz-hm3602-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/uz-hm3602/00-uz-hm3602-f1-min.jpg",
     "detailUrl": "united-tiles-1/uz-hm3602.html"
   },
   {
@@ -30160,7 +30160,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/v3-m81601/v3-m81601-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/v3-m81601/00-v3-m81601-a.webp",
     "detailUrl": "san-pham-khac/v3-m81601.html"
   },
   {
@@ -30232,7 +30232,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va1-9gp101001/va1-9gp101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va1-9gp101001/00-va1-9gp101001-a.webp",
     "detailUrl": "san-pham-khac/va1-9gp101001.html"
   },
   {
@@ -30250,7 +30250,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va1-p121201/va1-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va1-p121201/00-va1-p121201-a.jpg",
     "detailUrl": "porcelain-kho-lon/va1-p121201.html"
   },
   {
@@ -30268,7 +30268,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va2-p121204/va2-p121204-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va2-p121204/00-va2-p121204-a.jpg",
     "detailUrl": "porcelain-kho-lon/va2-p121204.html"
   },
   {
@@ -30286,7 +30286,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121201/va25-gsm121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-gsm121201/00-va25-gsm121201-a.webp",
     "detailUrl": "san-pham-khac/va25-gsm121201.html"
   },
   {
@@ -30304,7 +30304,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm121202/va25-gsm121202-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-gsm121202/00-va25-gsm121202-a.webp",
     "detailUrl": "san-pham-khac/va25-gsm121202.html"
   },
   {
@@ -30322,7 +30322,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsm1c01004/va25-gsmc101004-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-gsm1c01004/00-va25-gsmc101004-a.webp",
     "detailUrl": "san-pham-khac/va25-gsm1c01004.html"
   },
   {
@@ -30340,7 +30340,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-gsmc101003/va25-gsmc101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-gsmc101003/00-va25-gsmc101003-a.webp",
     "detailUrl": "san-pham-khac/va25-gsmc101003.html"
   },
   {
@@ -30358,7 +30358,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-p101001/va25-p101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-p101001/00-va25-p101001-a.webp",
     "detailUrl": "san-pham-khac/va25-p101001.html"
   },
   {
@@ -30376,7 +30376,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-p101002/va25-p101002-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-p101002/00-va25-p101002-a.webp",
     "detailUrl": "san-pham-khac/va25-p101002.html"
   },
   {
@@ -30394,7 +30394,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va25-p101003/va25-p101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va25-p101003/00-va25-p101003-a.webp",
     "detailUrl": "san-pham-khac/va25-p101003.html"
   },
   {
@@ -30412,7 +30412,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va3-9gp101001/va3-9gp101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va3-9gp101001/00-va3-9gp101001-a.webp",
     "detailUrl": "san-pham-khac/va3-9gp101001.html"
   },
   {
@@ -30430,7 +30430,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va3-9gp101003/va3-9gp101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va3-9gp101003/00-va3-9gp101003-a.webp",
     "detailUrl": "san-pham-khac/va3-9gp101003.html"
   },
   {
@@ -30448,7 +30448,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va3-p121201/va3-p121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va3-p121201/00-va3-p121201-a.jpg",
     "detailUrl": "porcelain-kho-lon/va3-p121201.html"
   },
   {
@@ -30466,7 +30466,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va4-9gp101001/va4-9gp101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va4-9gp101001/00-va4-9gp101001-a.webp",
     "detailUrl": "san-pham-khac/va4-9gp101001.html"
   },
   {
@@ -30484,7 +30484,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va4-m121201/va4-m121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va4-m121201/00-va4-m121201-a.jpg",
     "detailUrl": "porcelain-kho-lon/va4-m121201.html"
   },
   {
@@ -30502,7 +30502,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/120x120/va4-m121204/va4-m121204-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va4-m121204/00-va4-m121204-a.jpg",
     "detailUrl": "porcelain-kho-lon/va4-m121204.html"
   },
   {
@@ -30520,7 +30520,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/va5-9gp101001/va5-9gp101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va5-9gp101001/00-va5-9gp101001-a.webp",
     "detailUrl": "san-pham-khac/va5-9gp101001.html"
   },
   {
@@ -30538,7 +30538,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstunitedtiles/va6-9gp101001/va6-9gp101001-pc.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va6-9gp101001/00-va6-9gp101001-pc.jpg",
     "detailUrl": "san-pham-khac/va6-9gp101001.html"
   },
   {
@@ -30556,7 +30556,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/va7-9gp101002/va7-9gp101002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va7-9gp101002/00-va7-9gp101002.jpg",
     "detailUrl": "san-pham-khac/va7-9gp101002.html"
   },
   {
@@ -30574,7 +30574,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/va7-9gp101004/va7-9gp101004.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/va7-9gp101004/00-va7-9gp101004.jpg",
     "detailUrl": "san-pham-khac/va7-9gp101004.html"
   },
   {
@@ -30592,7 +30592,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs301.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vbs-301/00-vbs301.jpg",
     "detailUrl": "san-pham-khac/vbs-301.html"
   },
   {
@@ -30610,7 +30610,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs303.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vbs-303/00-vbs303.jpg",
     "detailUrl": "san-pham-khac/vbs-303.html"
   },
   {
@@ -30628,7 +30628,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs304.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vbs-304/00-vbs304.jpg",
     "detailUrl": "san-pham-khac/vbs-304.html"
   },
   {
@@ -30646,7 +30646,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs305.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vbs-305/00-vbs305.jpg",
     "detailUrl": "san-pham-khac/vbs-305.html"
   },
   {
@@ -30664,7 +30664,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vbs301/vbs306.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vbs-306/00-vbs306.jpg",
     "detailUrl": "san-pham-khac/vbs-306.html"
   },
   {
@@ -30682,7 +30682,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6001-m6006-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6001/00-vg6001-m6006-1.jpg",
     "detailUrl": "san-pham-khac/vg6001.html"
   },
   {
@@ -30700,7 +30700,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6002/00-vg6002.jpg",
     "detailUrl": "san-pham-khac/vg6002.html"
   },
   {
@@ -30718,7 +30718,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6003/00-vg6003.jpg",
     "detailUrl": "san-pham-khac/vg6003.html"
   },
   {
@@ -30736,7 +30736,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6004.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6004/00-vg6004.jpg",
     "detailUrl": "san-pham-khac/vg6004.html"
   },
   {
@@ -30754,7 +30754,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6005-moi.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6005/00-vg6005-moi.jpg",
     "detailUrl": "san-pham-khac/vg6005.html"
   },
   {
@@ -30772,7 +30772,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6006.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6006/00-vg6006.jpg",
     "detailUrl": "san-pham-khac/vg6006.html"
   },
   {
@@ -30790,7 +30790,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6011jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6011/00-vg6011jpg.jpg",
     "detailUrl": "san-pham-khac/vg6011.html"
   },
   {
@@ -30808,7 +30808,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6012jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6012/00-vg6012jpg.jpg",
     "detailUrl": "san-pham-khac/vg6012.html"
   },
   {
@@ -30826,7 +30826,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6014-1jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6014/00-vg6014-1jpg.jpg",
     "detailUrl": "san-pham-khac/vg6014.html"
   },
   {
@@ -30844,7 +30844,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vg-60x60/vg6015jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vg6015/00-vg6015jpg.jpg",
     "detailUrl": "san-pham-khac/vg6015.html"
   },
   {
@@ -30862,7 +30862,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101001/vhp-gp101001-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp101001/00-vhp-gp101001-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp101001.html"
   },
   {
@@ -30880,7 +30880,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101002/vhp-gp101002-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp101002/00-vhp-gp101002-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp101002.html"
   },
   {
@@ -30898,7 +30898,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp101003/vhp-gp101003-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp101003/00-vhp-gp101003-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp101003.html"
   },
   {
@@ -30916,7 +30916,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4805/vhp-gp4805-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4805/00-vhp-gp4805-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4805.html"
   },
   {
@@ -30934,7 +30934,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4806/00-vhp-gp4806-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4806.html"
   },
   {
@@ -30952,7 +30952,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4806/vhp-gp4806a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4806/07-vhp-gp4806a.jpg",
     "detailUrl": "san-pham-khac/vhp-gp4806a.html"
   },
   {
@@ -30970,7 +30970,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4807/vhp-gp4807-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4807/00-vhp-gp4807-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4807.html"
   },
   {
@@ -30988,7 +30988,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4808/vhp-gp4808-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4808/00-vhp-gp4808-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4808.html"
   },
   {
@@ -31006,7 +31006,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4808/vhp-gp4808a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4808/07-vhp-gp4808a.jpg",
     "detailUrl": "san-pham-khac/vhp-gp4808a.html"
   },
   {
@@ -31024,7 +31024,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4809/vhp-gp4809-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4809/00-vhp-gp4809-a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4809.html"
   },
   {
@@ -31042,7 +31042,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4810/vhp-gp4810-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4810/00-vhp-gp4810-a.webp",
     "detailUrl": "bst-cuu-long/vhp-gp4810.html"
   },
   {
@@ -31060,7 +31060,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gp4810/vhp-gp4810a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gp4810a/00-vhp-gp4810a.webp",
     "detailUrl": "san-pham-khac/vhp-gp4810a.html"
   },
   {
@@ -31078,7 +31078,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101005/vhp-gsm101005-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gsm101005/00-vhp-gsm101005-a.webp",
     "detailUrl": "san-pham-khac/vhp-gsm101005.html"
   },
   {
@@ -31096,7 +31096,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsm101006/vhp-gsm101006-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gsm101006/00-vhp-gsm101006-a.webp",
     "detailUrl": "san-pham-khac/vhp-gsm101006.html"
   },
   {
@@ -31114,7 +31114,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vhp-gsmc101007/vhp-gsmc101007-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp-gsmc101007/00-vhp-gsmc101007-a.webp",
     "detailUrl": "san-pham-khac/vhp-gsmc101007.html"
   },
   {
@@ -31132,7 +31132,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3601-ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3601/00-vhp3601-ajpg.jpg",
     "detailUrl": "san-pham-khac/vhp3601.html"
   },
   {
@@ -31150,7 +31150,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3602-ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3602/00-vhp3602-ajpg.jpg",
     "detailUrl": "san-pham-khac/vhp3602.html"
   },
   {
@@ -31168,7 +31168,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3603-bjpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3603/00-vhp3603-bjpg.jpg",
     "detailUrl": "san-pham-khac/vhp3603.html"
   },
   {
@@ -31186,7 +31186,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3604-ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3604/00-vhp3604-ajpg.jpg",
     "detailUrl": "san-pham-khac/vhp3604.html"
   },
   {
@@ -31204,7 +31204,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3605-bjpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3605/00-vhp3605-bjpg.jpg",
     "detailUrl": "san-pham-khac/vhp3605.html"
   },
   {
@@ -31222,7 +31222,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3606jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3606/00-vhp3606jpg.jpg",
     "detailUrl": "san-pham-khac/vhp3606.html"
   },
   {
@@ -31240,7 +31240,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3607jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3607/00-vhp3607jpg.jpg",
     "detailUrl": "san-pham-khac/vhp3607.html"
   },
   {
@@ -31258,7 +31258,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3608jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3608/00-vhp3608jpg.jpg",
     "detailUrl": "san-pham-khac/vhp3608.html"
   },
   {
@@ -31276,7 +31276,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3609jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3609/00-vhp3609jpg.jpg",
     "detailUrl": "san-pham-khac/vhp3609.html"
   },
   {
@@ -31294,7 +31294,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/30x60-vhp/vhp3610jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3610/00-vhp3610jpg.jpg",
     "detailUrl": "san-pham-khac/vhp3610.html"
   },
   {
@@ -31312,7 +31312,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3611/vhp3611-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3611/00-vhp3611-min.jpg",
     "detailUrl": "san-pham-khac/vhp3611.html"
   },
   {
@@ -31330,7 +31330,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3612/vhp3612a3-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3612/00-vhp3612a3-min.jpg",
     "detailUrl": "san-pham-khac/vhp3612.html"
   },
   {
@@ -31348,7 +31348,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3612/vhp3612a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3612a/00-vhp3612a-min.jpg",
     "detailUrl": "san-pham-khac/vhp3612a.html"
   },
   {
@@ -31366,7 +31366,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3615/vhp3615-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3615/00-vhp3615-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp3615.html"
   },
   {
@@ -31384,7 +31384,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3616/vhp3616-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3616/00-vhp3616-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp3616.html"
   },
   {
@@ -31402,7 +31402,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3616/vhp3616a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3616a/00-vhp3616a-min.jpg",
     "detailUrl": "san-pham-khac/vhp3616a.html"
   },
   {
@@ -31420,7 +31420,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3617/vhp3617-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3617/00-vhp3617-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp3617.html"
   },
   {
@@ -31438,7 +31438,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp3618/vhp3618-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp3618/00-vhp3618-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp3618.html"
   },
   {
@@ -31456,7 +31456,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6601jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6601/00-vhp6601jpg.jpg",
     "detailUrl": "san-pham-khac/vhp6601.html"
   },
   {
@@ -31474,7 +31474,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6602-ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6602/00-vhp6602-ajpg.jpg",
     "detailUrl": "san-pham-khac/vhp6602.html"
   },
   {
@@ -31492,7 +31492,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6603-ajpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6603/00-vhp6603-ajpg.jpg",
     "detailUrl": "san-pham-khac/vhp6603.html"
   },
   {
@@ -31510,7 +31510,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6605jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6605/00-vhp6605jpg.jpg",
     "detailUrl": "san-pham-khac/vhp6605.html"
   },
   {
@@ -31528,7 +31528,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6606jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6606/00-vhp6606jpg.jpg",
     "detailUrl": "san-pham-khac/vhp6606.html"
   },
   {
@@ -31546,7 +31546,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6607jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6607/00-vhp6607jpg.jpg",
     "detailUrl": "san-pham-khac/vhp6607.html"
   },
   {
@@ -31564,7 +31564,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp-60x60/vhp6608jpg.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6608/00-vhp6608jpg.jpg",
     "detailUrl": "san-pham-khac/vhp6608.html"
   },
   {
@@ -31582,7 +31582,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6609/vhp6609-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6609/00-vhp6609-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6609.html"
   },
   {
@@ -31600,7 +31600,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6610/vhp6610-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6610/00-vhp6610-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6610.html"
   },
   {
@@ -31618,7 +31618,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6611/vhp6611-f2-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6611/00-vhp6611-f2-min.jpg",
     "detailUrl": "san-pham-khac/vhp6611.html"
   },
   {
@@ -31636,7 +31636,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6612/vhp6612-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6612/00-vhp6612-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6612.html"
   },
   {
@@ -31654,7 +31654,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6615/vhp6615-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6615/00-vhp6615-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6615.html"
   },
   {
@@ -31672,7 +31672,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6616/vhp6616af1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6616/00-vhp6616af1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6616.html"
   },
   {
@@ -31690,7 +31690,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp6617/vhp6617-f1-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp6617/00-vhp6617-f1-min.jpg",
     "detailUrl": "san-pham-khac/vhp6617.html"
   },
   {
@@ -31708,7 +31708,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8801/vhp-8801-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8801/00-vhp-8801-min.jpg",
     "detailUrl": "san-pham-khac/vhp8801.html"
   },
   {
@@ -31726,7 +31726,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8802/vhp-8802b-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8802/00-vhp-8802b-min.jpg",
     "detailUrl": "san-pham-khac/vhp8802.html"
   },
   {
@@ -31744,7 +31744,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8803/vhp-8803-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8803/00-vhp-8803-min.jpg",
     "detailUrl": "san-pham-khac/vhp8803.html"
   },
   {
@@ -31762,7 +31762,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8805/vhp-8805-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8805/00-vhp-8805-min.jpg",
     "detailUrl": "san-pham-khac/vhp8805.html"
   },
   {
@@ -31780,7 +31780,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8806/vhp-8806-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8806/00-vhp-8806-min.jpg",
     "detailUrl": "san-pham-khac/vhp8806.html"
   },
   {
@@ -31798,7 +31798,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8807/vhp-8807-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8807/00-vhp-8807-min.jpg",
     "detailUrl": "san-pham-khac/vhp8807.html"
   },
   {
@@ -31816,7 +31816,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8808/vhp-8808-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8808/00-vhp-8808-min.jpg",
     "detailUrl": "san-pham-khac/vhp8808.html"
   },
   {
@@ -31834,7 +31834,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8809/vhp-8809a-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8809/00-vhp-8809a-min.jpg",
     "detailUrl": "san-pham-khac/vhp8809.html"
   },
   {
@@ -31852,7 +31852,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8810/vhp-8810-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8810/00-vhp-8810-min.jpg",
     "detailUrl": "san-pham-khac/vhp8810.html"
   },
   {
@@ -31870,7 +31870,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vhp8811/vhp-8811-min.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vhp8811/00-vhp-8811-min.jpg",
     "detailUrl": "san-pham-khac/vhp8811.html"
   },
   {
@@ -31888,7 +31888,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-9gm121201/vi1-9gm121201-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi1-9gm121201/00-vi1-9gm121201-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi1-9gm121201.html"
   },
   {
@@ -31906,7 +31906,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-9gm121203/vi1-9gm121203-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi1-9gm121203/00-vi1-9gm121203-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi1-9gm121203.html"
   },
   {
@@ -31924,7 +31924,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-gm81601/vi1-gm81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi1-gm81601/00-vi1-gm81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi1-gm81601.html"
   },
   {
@@ -31942,7 +31942,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi1-gm81602/screenshot-2023-05-10-at-113536.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi1-gm81602/00-screenshot-2023-05-10-at-113536.png",
     "detailUrl": "porcelain-kho-lon/vi1-gm81602.html"
   },
   {
@@ -31960,7 +31960,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi1-gm81603/vi1-gm81603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi1-gm81603/00-vi1-gm81603-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi1-gm81603.html"
   },
   {
@@ -31978,7 +31978,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi11-9gp81601/vi11-9gp81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi11-9gp81601/00-vi11-9gp81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi11-9gp81601.html"
   },
   {
@@ -31996,7 +31996,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi12-9gp81601/vi12-9gp81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi12-9gp81601/00-vi12-9gp81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi12-9gp81601.html"
   },
   {
@@ -32014,7 +32014,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi14-9gm81601/vi14-9gm81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi14-9gm81601/00-vi14-9gm81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi14-9gm81601.html"
   },
   {
@@ -32032,7 +32032,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi14-9gp121201/vi14-9gp121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi14-9gp121201/00-vi14-9gp121201-a.webp",
     "detailUrl": "san-pham-khac/vi14-9gp121201.html"
   },
   {
@@ -32050,7 +32050,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi14-9gp81601/vi14-9gp81601-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi14-9gp81601/00-vi14-9gp81601-a.webp",
     "detailUrl": "san-pham-khac/vi14-9gp81601.html"
   },
   {
@@ -32068,7 +32068,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi15-9gp121201/vi15-9gp121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi15-9gp121201/00-vi15-9gp121201-a.webp",
     "detailUrl": "san-pham-khac/vi15-9gp121201.html"
   },
   {
@@ -32086,7 +32086,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi15-9gp81601/vi15-9gp81601-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi15-9gp81601/00-vi15-9gp81601-a.webp",
     "detailUrl": "san-pham-khac/vi15-9gp81601.html"
   },
   {
@@ -32104,7 +32104,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi2-9gm121202/vi2-9gm121202-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi2-9gm121202/00-vi2-9gm121202-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi2-9gm121202.html"
   },
   {
@@ -32122,7 +32122,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi2-9gm121203/vi2-9gm121203-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi2-9gm121203/00-vi2-9gm121203-a.webp",
     "detailUrl": "san-pham-khac/vi2-9gm121203.html"
   },
   {
@@ -32140,7 +32140,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi2-gm81602/vi2-gm81602-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi2-gm81602/00-vi2-gm81602-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi2-gm81602.html"
   },
   {
@@ -32158,7 +32158,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi2-gm81603/vi2-gm81603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi2-gm81603/00-vi2-gm81603-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi2-gm81603.html"
   },
   {
@@ -32176,7 +32176,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi3-gm81601/vi3-gm61801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi3-gm81601/00-vi3-gm61801-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi3-gm81601.html"
   },
   {
@@ -32194,7 +32194,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi3-gm81602/vi3-gm81602-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi3-gm81602/00-vi3-gm81602-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi3-gm81602.html"
   },
   {
@@ -32212,7 +32212,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi6-9gp121201/vi6-9gp121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi6-9gp121201/00-vi6-9gp121201-a.webp",
     "detailUrl": "san-pham-khac/vi6-9gp121201.html"
   },
   {
@@ -32230,7 +32230,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi6-9gp81601/vi6-9gp81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi6-9gp81601/00-vi6-9gp81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi6-9gp81601.html"
   },
   {
@@ -32248,7 +32248,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81602/vi7-9gp81602-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi7-9gp81602/00-vi7-9gp81602-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi7-9gp81602.html"
   },
   {
@@ -32266,7 +32266,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi7-9gp81603/vi7-9gp81603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi7-9gp81603/00-vi7-9gp81603-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi7-9gp81603.html"
   },
   {
@@ -32284,7 +32284,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi8-9gp121201/vi8-9gp121201-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi8-9gp121201/00-vi8-9gp121201-a.webp",
     "detailUrl": "san-pham-khac/vi8-9gp121201.html"
   },
   {
@@ -32302,7 +32302,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vi8-9gp121203/vi8-9gp121203-a.webp",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi8-9gp121203/00-vi8-9gp121203-a.webp",
     "detailUrl": "san-pham-khac/vi8-9gp121203.html"
   },
   {
@@ -32320,7 +32320,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/vi9-9gp81601/vi9-9gp81601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi9-9gp81601/00-vi9-9gp81601-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi9-9gp81601.html"
   },
   {
@@ -32338,7 +32338,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/gachkholon/80x160/vi9-9gp81603/vi9-9gp81603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vi9-9gp81603/00-vi9-9gp81603-a.jpg",
     "detailUrl": "porcelain-kho-lon/vi9-9gp81603.html"
   },
   {
@@ -32356,7 +32356,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483001-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483001/00-vig-gm483001-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483001.html"
   },
   {
@@ -32374,7 +32374,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483002-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483002/00-vig-gm483002-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483002.html"
   },
   {
@@ -32392,7 +32392,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483002a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483002a/00-vig-gm483002a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483002a.html"
   },
   {
@@ -32410,7 +32410,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483003-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483003/00-vig-gm483003-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483003.html"
   },
   {
@@ -32428,7 +32428,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483004-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483004/00-vig-gm483004-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483004.html"
   },
   {
@@ -32446,7 +32446,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gm483004a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm483004a/00-vig-gm483004a.jpg",
     "detailUrl": "san-pham-khac/vig-gm483004a.html"
   },
   {
@@ -32464,7 +32464,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663001-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm663001/00-vig-gm663001-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm663001.html"
   },
   {
@@ -32482,7 +32482,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663002-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm663002/00-vig-gm663002-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm663002.html"
   },
   {
@@ -32500,7 +32500,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gm663001-2-3/vig-gm663003-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm663003/00-vig-gm663003-a.jpg",
     "detailUrl": "san-pham-khac/vig-gm663003.html"
   },
   {
@@ -32518,7 +32518,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vig-gm883001.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm883001/00-vig-gm883001.jpg",
     "detailUrl": "san-pham-khac/vig-gm883001.html"
   },
   {
@@ -32536,7 +32536,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vig-gm883002.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gm883002/00-vig-gm883002.jpg",
     "detailUrl": "san-pham-khac/vig-gm883002.html"
   },
   {
@@ -32554,7 +32554,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gp483001-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp483001/00-vig-gp483001-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp483001.html"
   },
   {
@@ -32572,7 +32572,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gp483001a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp483001a/00-vig-gp483001a.jpg",
     "detailUrl": "san-pham-khac/vig-gp483001a.html"
   },
   {
@@ -32590,7 +32590,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gp483003-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp483003/00-vig-gp483003-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp483003.html"
   },
   {
@@ -32608,7 +32608,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gp483004-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp483004/00-vig-gp483004-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp483004.html"
   },
   {
@@ -32626,7 +32626,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/40x80-hiep-thuy/vig-gp483004a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp483004a/00-vig-gp483004a.jpg",
     "detailUrl": "san-pham-khac/vig-gp483004a.html"
   },
   {
@@ -32644,7 +32644,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663010/vig-gp663010-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663010/00-vig-gp663010-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp663010.html"
   },
   {
@@ -32662,7 +32662,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663012/screenshot-2022-12-14-134547.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663012/00-screenshot-2022-12-14-134547.jpg",
     "detailUrl": "san-pham-khac/vig-gp663012.html"
   },
   {
@@ -32680,7 +32680,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663014/screen-shot-2019-07-15-at-104728-am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663014/00-screen-shot-2019-07-15-at-104728-am.jpg",
     "detailUrl": "san-pham-khac/vig-gp663014.html"
   },
   {
@@ -32698,7 +32698,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663015/vig-gp663015-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663015/00-vig-gp663015-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp663015.html"
   },
   {
@@ -32716,7 +32716,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663017/vig-gp663017-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663017/00-vig-gp663017-a.jpg",
     "detailUrl": "san-pham-khac/vig-gp663017.html"
   },
   {
@@ -32734,7 +32734,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663019/ht-6080g04s-2-1a-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663019/00-ht-6080g04s-2-1a-copy-2.jpg",
     "detailUrl": "san-pham-khac/vig-gp663019.html"
   },
   {
@@ -32752,7 +32752,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663020/ht-6080g02-3-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663020/00-ht-6080g02-3-copy-2.jpg",
     "detailUrl": "san-pham-khac/vig-gp663020.html"
   },
   {
@@ -32770,7 +32770,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663021/screen-shot-2022-04-19-at-221449.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663021/00-screen-shot-2022-04-19-at-221449.jpg",
     "detailUrl": "san-pham-khac/vig-gp663021.html"
   },
   {
@@ -32788,7 +32788,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vig-gp663022/screen-shot-2022-04-19-at-221941.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp663022/00-screen-shot-2022-04-19-at-221941.jpg",
     "detailUrl": "san-pham-khac/vig-gp663022.html"
   },
   {
@@ -32806,7 +32806,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883023/screenshot-2023-05-06-105349.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp883023/00-screenshot-2023-05-06-105349.jpg",
     "detailUrl": "san-pham-khac/vig-gp883023.html"
   },
   {
@@ -32824,7 +32824,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883024/screenshot-2023-05-06-105514.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp883024/00-screenshot-2023-05-06-105514.jpg",
     "detailUrl": "san-pham-khac/vig-gp883024.html"
   },
   {
@@ -32842,7 +32842,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/sanphamkhac/vig-gp883025/screenshot-2023-05-06-110009.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vig-gp883025/00-screenshot-2023-05-06-110009.jpg",
     "detailUrl": "san-pham-khac/vig-gp883025.html"
   },
   {
@@ -32860,7 +32860,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363001/vig-gp363001-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363001/00-vig-gp363001-a.jpg",
     "detailUrl": "san-pham-khac/viggp363001.html"
   },
   {
@@ -32878,7 +32878,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363002/vig-gp363002-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363002/00-vig-gp363002-a.jpg",
     "detailUrl": "san-pham-khac/viggp363002.html"
   },
   {
@@ -32896,7 +32896,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363002/vig-gp363002a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363002a/00-vig-gp363002a.jpg",
     "detailUrl": "san-pham-khac/viggp363002a.html"
   },
   {
@@ -32914,7 +32914,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363003/vig-gp363003.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363003/00-vig-gp363003.jpg",
     "detailUrl": "san-pham-khac/viggp363003.html"
   },
   {
@@ -32932,7 +32932,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/vig-gp363004a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363004a/00-vig-gp363004a.jpg",
     "detailUrl": "san-pham-khac/viggp363004a.html"
   },
   {
@@ -32950,7 +32950,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/vig-gp363005.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363005/00-vig-gp363005.jpg",
     "detailUrl": "san-pham-khac/viggp363005.html"
   },
   {
@@ -32968,7 +32968,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363006/vig-gp363006.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363006/00-vig-gp363006.jpg",
     "detailUrl": "san-pham-khac/viggp363006.html"
   },
   {
@@ -32986,7 +32986,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363006/vig-gp363006a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363006a/00-vig-gp363006a.jpg",
     "detailUrl": "san-pham-khac/viggp363006a.html"
   },
   {
@@ -33004,7 +33004,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/vig-gp363007.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363007/00-vig-gp363007.jpg",
     "detailUrl": "bst-song-hong/viggp363007.html"
   },
   {
@@ -33022,7 +33022,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363008-a/vig-gp363008.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363008/00-vig-gp363008.jpg",
     "detailUrl": "san-pham-khac/viggp363008.html"
   },
   {
@@ -33040,7 +33040,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363008-a/vig-gp363008a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363008a/00-vig-gp363008a.jpg",
     "detailUrl": "san-pham-khac/viggp363008a.html"
   },
   {
@@ -33058,7 +33058,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/vig-gp363009.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363009/00-vig-gp363009.jpg",
     "detailUrl": "san-pham-khac/viggp363009.html"
   },
   {
@@ -33076,7 +33076,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363010-a/vig-gp363010.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363010/00-vig-gp363010.jpg",
     "detailUrl": "san-pham-khac/viggp363010.html"
   },
   {
@@ -33094,7 +33094,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/30x60-polish/viggp330x60/viggp363010-a/vig-gp363010a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp363010a/00-vig-gp363010a.jpg",
     "detailUrl": "san-pham-khac/viggp363010a.html"
   },
   {
@@ -33112,7 +33112,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883010/screen-shot-2019-06-21-at-92702-am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp883010/00-screen-shot-2019-06-21-at-92702-am.jpg",
     "detailUrl": "san-pham-khac/viggp883010.html"
   },
   {
@@ -33130,7 +33130,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883012/screen-shot-2019-06-21-at-93419-am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp883012/00-screen-shot-2019-06-21-at-93419-am.jpg",
     "detailUrl": "san-pham-khac/viggp883012.html"
   },
   {
@@ -33148,7 +33148,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883014/screen-shot-2019-07-15-at-104728-am.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp883014/00-screen-shot-2019-07-15-at-104728-am.jpg",
     "detailUrl": "san-pham-khac/viggp883014.html"
   },
   {
@@ -33166,7 +33166,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883019/ht-6080g04s-2-1a-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp883019/00-ht-6080g04s-2-1a-copy-2.jpg",
     "detailUrl": "san-pham-khac/viggp883019.html"
   },
   {
@@ -33184,7 +33184,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/viggp-80x80/viggp883020/ht-6080g02-3-copy-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/viggp883020/00-ht-6080g02-3-copy-2.jpg",
     "detailUrl": "san-pham-khac/viggp883020.html"
   },
   {
@@ -33202,7 +33202,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vm532/vm532.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vm532/00-vm532.jpg",
     "detailUrl": "san-pham-khac/vm532.html"
   },
   {
@@ -33220,7 +33220,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2551/vps2551.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps2551/00-vps2551.png",
     "detailUrl": "bst-song-hong/vps2551.html"
   },
   {
@@ -33238,7 +33238,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps25510/3d-vps25510.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps25510/00-3d-vps25510.png",
     "detailUrl": "bst-song-hong/vps25510.html"
   },
   {
@@ -33256,7 +33256,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps25511/3d-vps25511.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps25511/00-3d-vps25511.png",
     "detailUrl": "bst-song-hong/vps25511.html"
   },
   {
@@ -33274,7 +33274,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps25512/3d-vps25512.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps25512/00-3d-vps25512.png",
     "detailUrl": "bst-song-hong/vps25512.html"
   },
   {
@@ -33292,7 +33292,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2553/vps2553.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps2553/00-vps2553.png",
     "detailUrl": "bst-song-hong/vps2553.html"
   },
   {
@@ -33310,7 +33310,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2554/vps2554.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps2554/00-vps2554.png",
     "detailUrl": "bst-song-hong/vps2554.html"
   },
   {
@@ -33328,7 +33328,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2557/vps2557.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps2557/00-vps2557.png",
     "detailUrl": "bst-song-hong/vps2557.html"
   },
   {
@@ -33346,7 +33346,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/bstsonghong/vps2558/vps2558.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vps2558/00-vps2558.png",
     "detailUrl": "bst-song-hong/vps2558.html"
   },
   {
@@ -33364,7 +33364,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu301/vu301b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu301/00-vu301b.jpg",
     "detailUrl": "san-pham-khac/vu301.html"
   },
   {
@@ -33382,7 +33382,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu302/vu302a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu302/00-vu302a.jpg",
     "detailUrl": "san-pham-khac/vu302.html"
   },
   {
@@ -33400,7 +33400,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu303/vu303b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu303/00-vu303b.jpg",
     "detailUrl": "san-pham-khac/vu303.html"
   },
   {
@@ -33418,7 +33418,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu304/vu304b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu304/00-vu304b.jpg",
     "detailUrl": "san-pham-khac/vu304.html"
   },
   {
@@ -33436,7 +33436,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu305/vu305b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu305/00-vu305b.jpg",
     "detailUrl": "san-pham-khac/vu305.html"
   },
   {
@@ -33454,7 +33454,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu306/vu306b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu306/00-vu306b.jpg",
     "detailUrl": "san-pham-khac/vu306.html"
   },
   {
@@ -33472,7 +33472,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu307/vu307b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu307/00-vu307b.jpg",
     "detailUrl": "san-pham-khac/vu307.html"
   },
   {
@@ -33490,7 +33490,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu308/vu308b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu308/00-vu308b.jpg",
     "detailUrl": "san-pham-khac/vu308.html"
   },
   {
@@ -33508,7 +33508,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu309/vu309b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu309/00-vu309b.jpg",
     "detailUrl": "san-pham-khac/vu309.html"
   },
   {
@@ -33526,7 +33526,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu311/vu311b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu311/00-vu311b.jpg",
     "detailUrl": "san-pham-khac/vu311.html"
   },
   {
@@ -33544,7 +33544,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/vu312/vu312b.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vu312/00-vu312b.jpg",
     "detailUrl": "san-pham-khac/vu312.html"
   },
   {
@@ -33562,7 +33562,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6601/vv-gp6601-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6601/00-vv-gp6601-a.jpg",
     "detailUrl": "san-pham-khac/vv-gp6601.html"
   },
   {
@@ -33580,7 +33580,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6603/vv-gp6603-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6603/00-vv-gp6603-a.jpg",
     "detailUrl": "san-pham-khac/vv-gp6603.html"
   },
   {
@@ -33598,7 +33598,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6604/vv-gp6604-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6604/00-vv-gp6604-a.jpg",
     "detailUrl": "san-pham-khac/vv-gp6604.html"
   },
   {
@@ -33616,7 +33616,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6605/screenshot-2022-12-14-134355.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6605/00-screenshot-2022-12-14-134355.jpg",
     "detailUrl": "san-pham-khac/vv-gp6605.html"
   },
   {
@@ -33634,7 +33634,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6606/screenshot-2022-12-14-134157.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6606/00-screenshot-2022-12-14-134157.jpg",
     "detailUrl": "san-pham-khac/vv-gp6606.html"
   },
   {
@@ -33652,7 +33652,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/60x60-polish/vv-gp6607/screenshot-2022-12-14-134250.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vv-gp6607/00-screenshot-2022-12-14-134250.jpg",
     "detailUrl": "san-pham-khac/vv-gp6607.html"
   },
   {
@@ -33670,7 +33670,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8801/vv-gp8801-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8801/00-vv-gp8801-a.jpg",
     "detailUrl": "san-pham-khac/vvgp8801.html"
   },
   {
@@ -33688,7 +33688,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8802/vv-gp8802-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8802/00-vv-gp8802-a.jpg",
     "detailUrl": "san-pham-khac/vvgp8802.html"
   },
   {
@@ -33706,7 +33706,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8803/vv-gp8803-a.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8803/00-vv-gp8803-a.jpg",
     "detailUrl": "san-pham-khac/vvgp8803.html"
   },
   {
@@ -33724,7 +33724,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vv-gp8804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8804/00-vv-gp8804.jpg",
     "detailUrl": "san-pham-khac/vvgp8804.html"
   },
   {
@@ -33742,7 +33742,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8805/screenshot-2022-07-01-111149.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8805/00-screenshot-2022-07-01-111149.jpg",
     "detailUrl": "san-pham-khac/vvgp8805.html"
   },
   {
@@ -33760,7 +33760,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8806/screenshot-2022-12-13-135754.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8806/00-screenshot-2022-12-13-135754.jpg",
     "detailUrl": "san-pham-khac/vvgp8806.html"
   },
   {
@@ -33778,7 +33778,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8807/screenshot-2022-09-01-132715.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8807/00-screenshot-2022-09-01-132715.jpg",
     "detailUrl": "san-pham-khac/vvgp8807.html"
   },
   {
@@ -33796,7 +33796,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "https://viglaceratiles.vn/pictures/files/3-sanpham/gachoplat/san-pham-khac/eurotile/80x80-polish/vvgp80x80/vvgp8808/screenshot-2022-09-01-132753.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/vvgp8808/00-screenshot-2022-09-01-132753.jpg",
     "detailUrl": "san-pham-khac/vvgp8808.html"
   }
 ]

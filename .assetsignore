@@ -8,6 +8,7 @@
 .github/
 node_modules/
 chromium/
+tmp/
 
 # --- Dev tooling and repo docs (not served) ---
 scripts/

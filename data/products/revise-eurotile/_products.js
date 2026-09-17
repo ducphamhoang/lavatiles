@@ -15,7 +15,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79779b79ee-cau-chuyen.jpg",
     "title": "ANN G01 - An Niên",
     "type": "tile",
     "eurotile_collection": "An Niên",
@@ -38,7 +38,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79779b79ee-cau-chuyen.jpg",
     "title": "ANN G02 - An Niên",
     "type": "tile",
     "eurotile_collection": "An Niên",
@@ -61,7 +61,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79779b79ee-cau-chuyen.jpg",
     "title": "ANN G03 - An Niên",
     "type": "tile",
     "eurotile_collection": "An Niên",
@@ -84,7 +84,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/annien/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/79779b79ee-cau-chuyen.jpg",
     "title": "ANN G04 - An Niên",
     "type": "tile",
     "eurotile_collection": "An Niên",
@@ -107,7 +107,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/cat-an/CAN-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fdc12cf388-CAN-seo.jpg",
     "title": "CAN X01M - Cát An",
     "type": "tile",
     "eurotile_collection": "Cát An",
@@ -130,7 +130,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/cat-tuong/CAT-S01G-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7b3197fb20-CAT-S01G-timnhanh.jpg",
     "title": "CAT S01G - Cát Tường",
     "type": "tile",
     "eurotile_collection": "Cát Tường",
@@ -153,7 +153,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/MH-chausa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb305284a6-MH-chausa.jpg",
     "title": "CHS G01 TF - Châu Sa",
     "type": "tile",
     "eurotile_collection": "Châu Sa",
@@ -176,7 +176,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chau-sa/MH-chausa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fb305284a6-MH-chausa.jpg",
     "title": "CHS L01 TF - Châu Sa",
     "type": "tile",
     "eurotile_collection": "Châu Sa",
@@ -199,7 +199,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/chay-ve-mien-yen/CVM-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fcd9574cf6-CVM-Q01TF-timnhanh.jpg",
     "title": "CVM Q01TF - Chảy về miền yên",
     "type": "tile",
     "eurotile_collection": "Chảy về miền yên",
@@ -222,7 +222,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/NEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/210a778cd4-NEN.jpg",
     "title": "CHG S01P - Chi Giao",
     "type": "tile",
     "eurotile_collection": "Chi Giao",
@@ -245,7 +245,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/chigiao-chg/pic/NEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/210a778cd4-NEN.jpg",
     "title": "CHG S01H - Chi Giao",
     "type": "tile",
     "eurotile_collection": "Chi Giao",
@@ -268,7 +268,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGBM.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b2edb4b956-CHGBM.jpg",
     "title": "SIG. CHG Q01 - Chi Giao",
     "type": "tile",
     "eurotile_collection": "Chi Giao",
@@ -291,7 +291,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/chigiaosigchg/CHGBM.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b2edb4b956-CHGBM.jpg",
     "title": "SIG.CHG E01 - Chi Giao",
     "type": "tile",
     "eurotile_collection": "Chi Giao",
@@ -314,7 +314,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/chieu-nien/CHN-X01C-thum-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a3ebdde98-CHN-X01C-thum-2.jpg",
     "title": "CHN X01C - Chiêu Niên",
     "type": "tile",
     "eurotile_collection": "Chiêu Niên",
@@ -337,7 +337,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8806 - Chiêu Phong",
     "type": "tile",
     "eurotile_collection": "Chiêu Phong",
@@ -360,7 +360,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P4806 - Chiêu Phong",
     "type": "tile",
     "eurotile_collection": "Chiêu Phong",
@@ -383,7 +383,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P61206 - Chiêu Phong",
     "type": "tile",
     "eurotile_collection": "Chiêu Phong",
@@ -406,7 +406,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/MH-danchau.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/974a1ca13b-MH-danchau.jpg",
     "title": "DAC Q01 TF - Đan Châu",
     "type": "tile",
     "eurotile_collection": "Đan Châu",
@@ -429,7 +429,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/DACQ02TF01.png",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/93444f7c26-DACQ02TF01.png",
     "title": "DAC Q02 TF - Đan Châu",
     "type": "tile",
     "eurotile_collection": "Đan Châu",
@@ -452,7 +452,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dan-chau/MH-danchau.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/974a1ca13b-MH-danchau.jpg",
     "title": "DAC Q03 TF - Đan Châu",
     "type": "tile",
     "eurotile_collection": "Đan Châu",
@@ -475,7 +475,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dangnguyen-dan/pic/NEN-DAN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ca442274ef-NEN-DAN.jpg",
     "title": "DAN N01P - Đăng Nguyên",
     "type": "tile",
     "eurotile_collection": "Đăng Nguyên",
@@ -498,7 +498,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "DAS QO1 - Đăng Sơn",
     "type": "marble",
     "eurotile_collection": "Đăng Sơn",
@@ -521,7 +521,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "DAS QO2 - Đăng Sơn",
     "type": "marble",
     "eurotile_collection": "Đăng Sơn",
@@ -544,7 +544,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "DAS DO1 - Đăng Sơn",
     "type": "marble",
     "eurotile_collection": "Đăng Sơn",
@@ -567,7 +567,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "DAS DO2 - Đăng Sơn",
     "type": "marble",
     "eurotile_collection": "Đăng Sơn",
@@ -590,7 +590,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/denim-dni/pic/NEN3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4eba28b01c-NEN3.jpg",
     "title": "DNI S01P - Denim",
     "type": "tile",
     "eurotile_collection": "Denim",
@@ -613,7 +613,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/hinhnen-sok-01-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28703beaf7-hinhnen-sok-01-01.jpg",
     "title": "SIG.DNI Q01 - Denim",
     "type": "tile",
     "eurotile_collection": "Denim",
@@ -636,7 +636,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/denim-dni/hinhnen-sok-01-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28703beaf7-hinhnen-sok-01-01.jpg",
     "title": "SIG. DNI E01 - Denim",
     "type": "tile",
     "eurotile_collection": "Denim",
@@ -659,7 +659,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/mh-DIENVIEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cd1986dd47-mh-DIENVIEN.jpg",
     "title": "DVI CO1 TF - Điền Viên",
     "type": "tile",
     "eurotile_collection": "Điền Viên",
@@ -682,7 +682,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/dien-vien/mh-DIENVIEN.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/cd1986dd47-mh-DIENVIEN.jpg",
     "title": "DVI CO2 TF - Điền Viên",
     "type": "tile",
     "eurotile_collection": "Điền Viên",
@@ -705,7 +705,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/diep-vu/MH-diepvu.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/05c106fc2f-MH-diepvu.jpg",
     "title": "DIV G01 TF - Diệp Vũ",
     "type": "tile",
     "eurotile_collection": "Diệp Vũ",
@@ -728,7 +728,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/sigp-8804/Sig.P-8804.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/27070e9a50-Sig.P-8804.jpg",
     "title": "SIG. P8804 - Đông Phong",
     "type": "tile",
     "eurotile_collection": "Đông Phong",
@@ -751,7 +751,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/dong-phuong/DOP-S01G-TIMNHANH.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/84c101c47d-DOP-S01G-TIMNHANH.jpg",
     "title": "DOP S01G - Đông Phương",
     "type": "tile",
     "eurotile_collection": "Đông Phương",
@@ -774,7 +774,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8807 - Du Phong",
     "type": "tile",
     "eurotile_collection": "Du Phong",
@@ -797,7 +797,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P4807 - Du Phong",
     "type": "tile",
     "eurotile_collection": "Du Phong",
@@ -820,7 +820,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P61207 - Du Phong",
     "type": "tile",
     "eurotile_collection": "Du Phong",
@@ -843,7 +843,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/duoi-tan-la/DTL-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/aa2cd01bcb-DTL-Q01TF-timnhanh.jpg",
     "title": "DTL Q01TF - Dưới tán lá",
     "type": "tile",
     "eurotile_collection": "Dưới tán lá",
@@ -866,7 +866,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/GIK-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/31640afda9-GIK-seo.jpg",
     "title": "GIK X01P - Giai Kỳ",
     "type": "tile",
     "eurotile_collection": "Giai Kỳ",
@@ -889,7 +889,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/giai-ky/map-giks01g/GIK-S01G-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/683adc5f13-GIK-S01G-1.jpg",
     "title": "GIK S01G - Giai Kỳ",
     "type": "tile",
     "eurotile_collection": "Giai Kỳ",
@@ -910,7 +910,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "title": "GIB20 G02 - Gibellina",
     "type": "garden",
     "eurotile_collection": "Gibellina",
@@ -931,7 +931,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "title": "GIB20 G03 - Gibellina",
     "type": "garden",
     "eurotile_collection": "Gibellina",
@@ -952,7 +952,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "title": "GIB20 G04 - Gibellina",
     "type": "garden",
     "eurotile_collection": "Gibellina",
@@ -973,7 +973,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "title": "GIB20 H03 - Gibellina",
     "type": "garden",
     "eurotile_collection": "Gibellina",
@@ -994,7 +994,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/gib20-g/Minhhoa-GIB20-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/ce5c1f85db-Minhhoa-GIB20-1.jpg",
     "title": "GIB20 H04 - Gibellina",
     "type": "garden",
     "eurotile_collection": "Gibellina",
@@ -1017,7 +1017,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HAB-S01P-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b80d129847-HAB-S01P-seo.jpg",
     "title": "HAB S01P - Hải Băng",
     "type": "tile",
     "eurotile_collection": "Hải Băng",
@@ -1040,7 +1040,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/hai-bang/HABS02P-PC-222.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6ec4df595b-HABS02P-PC-222.jpg",
     "title": "HAB S02P - Hải Băng",
     "type": "tile",
     "eurotile_collection": "Hải Băng",
@@ -1063,7 +1063,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/hai-luu/HAL-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/445f3a7315-HAL-seo.jpg",
     "title": "HAL X01M - Hải Lưu",
     "type": "tile",
     "eurotile_collection": "Hải Lưu",
@@ -1086,7 +1086,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/haiphong-hap/picture/NEN-HAP.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c780d18888-NEN-HAP.jpg",
     "title": "HAP N01P - Hải Phong",
     "type": "tile",
     "eurotile_collection": "Hải Phong",
@@ -1109,7 +1109,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P4801 - Hải Phong",
     "type": "tile",
     "eurotile_collection": "Hải Phong",
@@ -1132,7 +1132,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8801 - Hải Phong",
     "type": "tile",
     "eurotile_collection": "Hải Phong",
@@ -1155,7 +1155,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P61201 - Hải Phong",
     "type": "tile",
     "eurotile_collection": "Hải Phong",
@@ -1178,7 +1178,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "HAT I01 - Hải Thụy",
     "type": "marble",
     "eurotile_collection": "Hải Thụy",
@@ -1201,7 +1201,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "HAT I02 - Hải Thụy",
     "type": "marble",
     "eurotile_collection": "Hải Thụy",
@@ -1224,7 +1224,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hanh-trinh-phu-sa/HTP-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b381735d1a-HTP-Q01TF-timnhanh.jpg",
     "title": "HTP Q01TF - Hành trình phù sa",
     "type": "tile",
     "eurotile_collection": "Hành trình phù sa",
@@ -1247,7 +1247,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD D01 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1270,7 +1270,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD D02 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1293,7 +1293,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD D03 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1316,7 +1316,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD D04 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1339,7 +1339,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD G01 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1362,7 +1362,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD G02 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1385,7 +1385,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD G03 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1408,7 +1408,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoada/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/d35bd595b8-cau-chuyen.jpg",
     "title": "HOD G04 - Hoa Đá",
     "type": "marble",
     "eurotile_collection": "Hoa Đá",
@@ -1431,7 +1431,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-trong-gio-lang/HTG-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4d49ad8f94-HTG-Q01TF-timnhanh.jpg",
     "title": "HTG Q01TF - Hoa trong gió lặng",
     "type": "tile",
     "eurotile_collection": "Hoa trong gió lặng",
@@ -1454,7 +1454,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/hoa-vien/HOAVIEN-05.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/4b7760e772-HOAVIEN-05.jpg",
     "title": "HOV C02 TF - Hoa Viên",
     "type": "tile",
     "eurotile_collection": "Hoa Viên",
@@ -1477,7 +1477,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ01-f-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/df643bfaef-HOAQ01-f-1.jpg",
     "title": "HOA Q01 - Hội An",
     "type": "tile",
     "eurotile_collection": "Hội An",
@@ -1500,7 +1500,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/60120/HOAQ02-f-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/05b0d5261b-HOAQ02-f-2.jpg",
     "title": "HOA Q02 - Hội An",
     "type": "tile",
     "eurotile_collection": "Hội An",
@@ -1523,7 +1523,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOABMPC-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7a4dcd9a1b-HOABMPC-4.jpg",
     "title": "HOA E01 - Hội An",
     "type": "tile",
     "eurotile_collection": "Hội An",
@@ -1546,7 +1546,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/hoi-an/map/HOABMPC-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7a4dcd9a1b-HOABMPC-4.jpg",
     "title": "HOA E02 - Hội An",
     "type": "tile",
     "eurotile_collection": "Hội An",
@@ -1569,7 +1569,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/83b24e6a13-pc-huyensa-4.jpg",
     "title": "HUS G01 TF - Huyền Sa",
     "type": "tile",
     "eurotile_collection": "Huyền Sa",
@@ -1592,7 +1592,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/huyen-sa/pc-huyensa-4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/83b24e6a13-pc-huyensa-4.jpg",
     "title": "HUS L01 TF - Huyền Sa",
     "type": "tile",
     "eurotile_collection": "Huyền Sa",
@@ -1615,7 +1615,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
     "title": "SIG.KHC Q01S - Khải Ca",
     "type": "tile",
     "eurotile_collection": "Khải Ca",
@@ -1638,7 +1638,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
     "title": "SIG.KHC Q02S - Khải Ca",
     "type": "tile",
     "eurotile_collection": "Khải Ca",
@@ -1661,7 +1661,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
     "title": "SIG.KHC E01S - Khải Ca",
     "type": "tile",
     "eurotile_collection": "Khải Ca",
@@ -1684,7 +1684,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-ca/thum-KHC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7590c68e68-thum-KHC.jpg",
     "title": "SIG.KHC E02S - Khải Ca",
     "type": "tile",
     "eurotile_collection": "Khải Ca",
@@ -1707,7 +1707,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/274b1bb839-PC-KHD-S02H-2.jpg",
     "title": "KHD S02H - Khải Đăng",
     "type": "tile",
     "eurotile_collection": "Khải Đăng",
@@ -1730,7 +1730,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/khai-dang/pic/PC-KHD-S02H-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/274b1bb839-PC-KHD-S02H-2.jpg",
     "title": "KHD S02P - Khải Đăng",
     "type": "tile",
     "eurotile_collection": "Khải Đăng",
@@ -1753,7 +1753,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/976e71b459-Thit-k-cha-c-tn-3.jpg",
     "title": "KHN X01M - Khởi Nguyên",
     "type": "tile",
     "eurotile_collection": "Khởi Nguyên",
@@ -1776,7 +1776,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/976e71b459-Thit-k-cha-c-tn-3.jpg",
     "title": "KHN X02M - Khởi Nguyên",
     "type": "tile",
     "eurotile_collection": "Khởi Nguyên",
@@ -1799,7 +1799,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/khoi-nguyen/Thit-k-cha-c-tn-3.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/976e71b459-Thit-k-cha-c-tn-3.jpg",
     "title": "KHN X01P - Khởi Nguyên",
     "type": "tile",
     "eurotile_collection": "Khởi Nguyên",
@@ -1822,7 +1822,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/khuc-vang/KHV-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de9e7671da-KHV-Q01TF-timnhanh.jpg",
     "title": "KHV Q01TF - Khúc vàng",
     "type": "tile",
     "eurotile_collection": "Khúc vàng",
@@ -1845,7 +1845,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/ky-uc-so/KUS-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e53c63e7c5-KUS-Q01TF-timnhanh.jpg",
     "title": "KUS Q01TF - Ký ức số",
     "type": "tile",
     "eurotile_collection": "Ký ức số",
@@ -1868,7 +1868,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
     "title": "LAH I01 - Lam Hải",
     "type": "marble",
     "eurotile_collection": "Lam Hải",
@@ -1891,7 +1891,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
     "title": "LAH I02 - Lam Hải",
     "type": "marble",
     "eurotile_collection": "Lam Hải",
@@ -1914,7 +1914,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
     "title": "LAH I04 - Lam Hải",
     "type": "marble",
     "eurotile_collection": "Lam Hải",
@@ -1937,7 +1937,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/lamhai/pclamhai/MH-LAH-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e26d6446f8-MH-LAH-2.jpg",
     "title": "LAH I05 - Lam Hải",
     "type": "marble",
     "eurotile_collection": "Lam Hải",
@@ -1960,7 +1960,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/lan-ha/LHA-avatar-2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8975bf1dc5-LHA-avatar-2.jpg",
     "title": "LHA X01M - Lan Hạ",
     "type": "tile",
     "eurotile_collection": "Lan Hạ",
@@ -1981,7 +1981,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
     "title": "LIG20 G01 - Liguria",
     "type": "garden",
     "eurotile_collection": "Liguria",
@@ -2002,7 +2002,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
     "title": "LIG20 G02 - Liguria",
     "type": "garden",
     "eurotile_collection": "Liguria",
@@ -2023,7 +2023,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
     "title": "LIG20 H01 - Liguria",
     "type": "garden",
     "eurotile_collection": "Liguria",
@@ -2044,7 +2044,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/lig20-h/LIGURIA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/722d0da17f-LIGURIA.jpg",
     "title": "LIG20 H02 - Liguria",
     "type": "garden",
     "eurotile_collection": "Liguria",
@@ -2067,7 +2067,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS H01 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2090,7 +2090,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS H02 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2113,7 +2113,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS H03 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2136,7 +2136,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS G01 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2159,7 +2159,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS G02 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2182,7 +2182,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS G03 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2205,7 +2205,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5f3ae54f53-cau-chuyen.jpg",
     "title": "LUS G04 - Lưu Sa",
     "type": "marble",
     "eurotile_collection": "Lưu Sa",
@@ -2228,7 +2228,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH D01 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2251,7 +2251,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH D02 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2274,7 +2274,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH D03 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2297,7 +2297,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH D04 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2320,7 +2320,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH D05 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2343,7 +2343,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH G01 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2366,7 +2366,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/luuthuy/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5713110bd4-cau-chuyen.jpg",
     "title": "LTH G02 - Lưu Thủy",
     "type": "marble",
     "eurotile_collection": "Lưu Thủy",
@@ -2390,7 +2390,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6754a95fd5-MOB-seo.jpg",
     "title": "MOB M01 - Mộc Bình",
     "type": "wood",
     "eurotile_collection": "Mộc Bình",
@@ -2414,7 +2414,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6754a95fd5-MOB-seo.jpg",
     "title": "MOB M02 - Mộc Bình",
     "type": "wood",
     "eurotile_collection": "Mộc Bình",
@@ -2438,7 +2438,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-binh/MOB-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6754a95fd5-MOB-seo.jpg",
     "title": "MOB M03 - Mộc Bình",
     "type": "wood",
     "eurotile_collection": "Mộc Bình",
@@ -2462,7 +2462,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC D01 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2486,7 +2486,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC D02 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2510,7 +2510,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC D03 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2534,7 +2534,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC D04 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2558,7 +2558,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC M01 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2582,7 +2582,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC M02 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2606,7 +2606,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC M03 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2630,7 +2630,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocchau/Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/49448b0f9a-Moc-Chau-Mc-Chu-is-a-district-of-Son-La-province.jpg",
     "title": "MOC M04 - Mộc Châu",
     "type": "wood",
     "eurotile_collection": "Mộc Châu",
@@ -2654,7 +2654,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-timnhanh-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/db9fdf6006-MCH-M-timnhanh-1.jpg",
     "title": "MCH M01 - Mộc Chi",
     "type": "wood",
     "eurotile_collection": "Mộc Chi",
@@ -2678,7 +2678,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-timnhanh-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/db9fdf6006-MCH-M-timnhanh-1.jpg",
     "title": "MCH M02 - Mộc Chi",
     "type": "wood",
     "eurotile_collection": "Mộc Chi",
@@ -2702,7 +2702,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-chi/MCH-M-timnhanh-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/db9fdf6006-MCH-M-timnhanh-1.jpg",
     "title": "MCH M03 - Mộc Chi",
     "type": "wood",
     "eurotile_collection": "Mộc Chi",
@@ -2726,7 +2726,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL K01 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2750,7 +2750,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL K02 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2774,7 +2774,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL K03 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2798,7 +2798,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL K04 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2822,7 +2822,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL I01 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2846,7 +2846,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL I02 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2870,7 +2870,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL I03 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2894,7 +2894,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL I04 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2918,7 +2918,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL I05 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2942,7 +2942,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL M01 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2966,7 +2966,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL M02 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -2990,7 +2990,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL M03 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -3014,7 +3014,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/moclan/pc-moclan2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e044403287-pc-moclan2.jpg",
     "title": "MOL M04 - Mộc Lan",
     "type": "wood",
     "eurotile_collection": "Mộc Lan",
@@ -3038,7 +3038,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI M01 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3062,7 +3062,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI M02 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3086,7 +3086,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI M03 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3110,7 +3110,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI M04 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3134,7 +3134,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI M05 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3158,7 +3158,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI K01 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3182,7 +3182,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI K02 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3206,7 +3206,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI K03 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3230,7 +3230,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI K05 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3254,7 +3254,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/mocmien/back2000x1125.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/8ee8165f7f-back2000x1125.jpg",
     "title": "MMI Z05 MR4 - Mộc Miên",
     "type": "wood",
     "eurotile_collection": "Mộc Miên",
@@ -3278,7 +3278,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3673f6e6c9-MTR-timnhanh.jpg",
     "title": "MTR A01C - Mộc Trà",
     "type": "wood",
     "eurotile_collection": "Mộc Trà",
@@ -3302,7 +3302,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3673f6e6c9-MTR-timnhanh.jpg",
     "title": "MTR A02C - Mộc Trà",
     "type": "wood",
     "eurotile_collection": "Mộc Trà",
@@ -3326,7 +3326,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tra/MTR-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/3673f6e6c9-MTR-timnhanh.jpg",
     "title": "MTR A03C - Mộc Trà",
     "type": "wood",
     "eurotile_collection": "Mộc Trà",
@@ -3350,7 +3350,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/689c41499f-MTU-M-timnhanh.jpg",
     "title": "MTU M01 - Mộc Tùng",
     "type": "wood",
     "eurotile_collection": "Mộc Tùng",
@@ -3374,7 +3374,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/689c41499f-MTU-M-timnhanh.jpg",
     "title": "MTU M02 - Mộc Tùng",
     "type": "wood",
     "eurotile_collection": "Mộc Tùng",
@@ -3398,7 +3398,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_tam",
       "phong_ngu"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-vango/moc-tung/MTU-M-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/689c41499f-MTU-M-timnhanh.jpg",
     "title": "MTU M03 - Mộc Tùng",
     "type": "wood",
     "eurotile_collection": "Mộc Tùng",
@@ -3421,7 +3421,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/namgiao-nag/pic/NEN-NAG2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/924e6bbfba-NEN-NAG2.jpg",
     "title": "NAG N01P - Nam Giao",
     "type": "tile",
     "eurotile_collection": "Nam Giao",
@@ -3444,7 +3444,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "title": "SIG.NGG Q04P - Ngọc Giao",
     "type": "tile",
     "eurotile_collection": "Ngọc Giao",
@@ -3467,7 +3467,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "title": "SIG.NGG E04P - Ngọc Giao",
     "type": "tile",
     "eurotile_collection": "Ngọc Giao",
@@ -3490,7 +3490,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "title": "NGG S04P - Ngọc Giao",
     "type": "tile",
     "eurotile_collection": "Ngọc Giao",
@@ -3513,7 +3513,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoc-giao/pic/Thit-k-cha-c-tn.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0868731ad7-Thit-k-cha-c-tn.jpg",
     "title": "NGG S04H - Ngọc Giao",
     "type": "tile",
     "eurotile_collection": "Ngọc Giao",
@@ -3536,7 +3536,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/ngoctrai-ngt/pic/NEN-NGT2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/283c124f43-NEN-NGT2.jpg",
     "title": "NGT N01P - Ngọc Trai",
     "type": "tile",
     "eurotile_collection": "Ngọc Trai",
@@ -3559,7 +3559,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC H01 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3582,7 +3582,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC H02 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3605,7 +3605,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC H03 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3628,7 +3628,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC H04 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3651,7 +3651,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC D01 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3674,7 +3674,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC D02 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3697,7 +3697,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC D03 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3720,7 +3720,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC D04 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3743,7 +3743,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC I01 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3766,7 +3766,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC I02 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3789,7 +3789,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC I03 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3812,7 +3812,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/nguyetcat/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f0c2fda322-cau-chuyen.jpg",
     "title": "NGC I04 - Nguyệt Cát",
     "type": "marble",
     "eurotile_collection": "Nguyệt Cát",
@@ -3835,7 +3835,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8802 - Nguyệt Phong",
     "type": "tile",
     "eurotile_collection": "Nguyệt Phong",
@@ -3858,7 +3858,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "NHC S01H - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3881,7 +3881,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NHCS02M.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/0fdb0cbe01-NHCS02M.jpg",
     "title": "NHC S02M - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3904,7 +3904,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "NHC S03H - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3927,7 +3927,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "NHC S04M - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3950,7 +3950,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "NHC S05M - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3973,7 +3973,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "SIG.NHC Q05S - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -3996,7 +3996,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "SIG.NHC Q06S - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -4019,7 +4019,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "SIG.NHC E05S - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -4042,7 +4042,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/nhaca-nhc/pic/NEN4.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2f21590a80-NEN4.jpg",
     "title": "SIG.NHC E06S - Nhã Ca",
     "type": "tile",
     "eurotile_collection": "Nhã Ca",
@@ -4065,7 +4065,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/THUMBWWE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a70b63f7a5-THUMBWWE-01.jpg",
     "title": "SIG.NHV E01 - Nhã Vi",
     "type": "tile",
     "eurotile_collection": "Nhã Vi",
@@ -4088,7 +4088,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/nhavi-nvi/THUMBWWE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a70b63f7a5-THUMBWWE-01.jpg",
     "title": "SIG.NHV Q01 - Nhã Vi",
     "type": "tile",
     "eurotile_collection": "Nhã Vi",
@@ -4111,7 +4111,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
     "title": "NHN G01 TF - Nhật Nguyệt",
     "type": "tile",
     "eurotile_collection": "Nhật Nguyệt",
@@ -4134,7 +4134,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
     "title": "NHN G02 TF - Nhật Nguyệt",
     "type": "tile",
     "eurotile_collection": "Nhật Nguyệt",
@@ -4157,7 +4157,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
     "title": "NHN L01 TF - Nhật Nguyệt",
     "type": "tile",
     "eurotile_collection": "Nhật Nguyệt",
@@ -4180,7 +4180,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/nhat-nguyet/MH-nhatnguyet.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e7fd11c7e4-MH-nhatnguyet.jpg",
     "title": "NHN L02 TF - Nhật Nguyệt",
     "type": "tile",
     "eurotile_collection": "Nhật Nguyệt",
@@ -4203,7 +4203,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/SEO-500X400.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00c68706a1-SEO-500X400.jpg",
     "title": "PLA S01P - Phong Lan",
     "type": "tile",
     "eurotile_collection": "Phong Lan",
@@ -4226,7 +4226,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phong-lan/SEO-500X400.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/00c68706a1-SEO-500X400.jpg",
     "title": "PLA S01H - Phong Lan",
     "type": "tile",
     "eurotile_collection": "Phong Lan",
@@ -4249,7 +4249,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/phongluu-phl/pic/NEN5.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/24b2a1664e-NEN5.jpg",
     "title": "PHL S01P - Phong Lưu",
     "type": "tile",
     "eurotile_collection": "Phong Lưu",
@@ -4272,7 +4272,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8803 - Phong Lưu",
     "type": "tile",
     "eurotile_collection": "Phong Lưu",
@@ -4295,7 +4295,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ G01 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4318,7 +4318,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ G02 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4341,7 +4341,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ G03 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4364,7 +4364,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ L01 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4387,7 +4387,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ L02 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4410,7 +4410,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/phuquy/PHUQUY-minhhoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b26404b8bc-PHUQUY-minhhoa.jpg",
     "title": "PHQ L03 TF - Phú Quý",
     "type": "tile",
     "eurotile_collection": "Phú Quý",
@@ -4433,7 +4433,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS I01 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4456,7 +4456,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS I02 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4479,7 +4479,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS I03 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4502,7 +4502,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS G01 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4525,7 +4525,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS G02 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4548,7 +4548,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS G03 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4571,7 +4571,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS Q01 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4594,7 +4594,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/phusa/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/5581aa3053-cau-chuyen.jpg",
     "title": "PHS Q02 - Phù Sa",
     "type": "marble",
     "eurotile_collection": "Phù Sa",
@@ -4615,7 +4615,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
     "title": "POM20 G01 - Pompeii",
     "type": "garden",
     "eurotile_collection": "Pompeii",
@@ -4636,7 +4636,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
     "title": "POM20 G02 - Pompeii",
     "type": "garden",
     "eurotile_collection": "Pompeii",
@@ -4657,7 +4657,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
     "title": "POM20 H01 - Pompeii",
     "type": "garden",
     "eurotile_collection": "Pompeii",
@@ -4678,7 +4678,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gach2cm/pom20-h/pompeii-web1-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/40f306565d-pompeii-web1-01.jpg",
     "title": "POM20 H02 - Pompeii",
     "type": "garden",
     "eurotile_collection": "Pompeii",
@@ -4701,7 +4701,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT H01 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4724,7 +4724,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT H02 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4747,7 +4747,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT H03 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4770,7 +4770,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT G01 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4793,7 +4793,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT G02 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4816,7 +4816,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sathach/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/30cb4a1684-cau-chuyen.jpg",
     "title": "SAT G03 - Sa Thạch",
     "type": "tile",
     "eurotile_collection": "Sa Thạch",
@@ -4839,7 +4839,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/NEN-SOD.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de6ed8b2a9-NEN-SOD.jpg",
     "title": "SOD N01P - Sơn Du",
     "type": "tile",
     "eurotile_collection": "Sơn Du",
@@ -4862,7 +4862,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/sondu-sod/pic/NEN-SOD.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/de6ed8b2a9-NEN-SOD.jpg",
     "title": "SOD N01H - Sơn Du",
     "type": "tile",
     "eurotile_collection": "Sơn Du",
@@ -4885,7 +4885,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK Q01 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -4908,7 +4908,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK Q02 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -4931,7 +4931,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK Q03 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -4954,7 +4954,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK Q04 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -4977,7 +4977,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK E01 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5000,7 +5000,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK E02 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5023,7 +5023,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK E03 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5046,7 +5046,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK E04 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5069,7 +5069,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK I01 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5092,7 +5092,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/sonkhue/2000X1125-WEDSITE-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c046bdb8b6-2000X1125-WEDSITE-01.jpg",
     "title": "SOK I03 - Sơn Khuê",
     "type": "marble",
     "eurotile_collection": "Sơn Khuê",
@@ -5115,7 +5115,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dbfedcd17a-nen-sob-01.jpg",
     "title": "SIG.SOB Q01 - Sông Băng",
     "type": "tile",
     "eurotile_collection": "Sông Băng",
@@ -5138,7 +5138,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/songbang-sob/nen-sob-01.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dbfedcd17a-nen-sob-01.jpg",
     "title": "SIG.SOB E01 - Sông Băng",
     "type": "tile",
     "eurotile_collection": "Sông Băng",
@@ -5161,7 +5161,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/a73bef5aff-THA-seo.jpg",
     "title": "THA X01C - Thạch An",
     "type": "tile",
     "eurotile_collection": "Thạch An",
@@ -5184,7 +5184,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
     "title": "THK H01 - Thạch Khuê",
     "type": "tile",
     "eurotile_collection": "Thạch Khuê",
@@ -5207,7 +5207,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
     "title": "THK H02 - Thạch Khuê",
     "type": "tile",
     "eurotile_collection": "Thạch Khuê",
@@ -5230,7 +5230,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
     "title": "THK G01 - Thạch Khuê",
     "type": "tile",
     "eurotile_collection": "Thạch Khuê",
@@ -5253,7 +5253,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachkhue/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/e54f0def75-cau-chuyen.jpg",
     "title": "THK G02 - Thạch Khuê",
     "type": "tile",
     "eurotile_collection": "Thạch Khuê",
@@ -5276,7 +5276,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-nhien/THN-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/15b138272e-THN-seo.jpg",
     "title": "THN X01C - Thạch Nhiên",
     "type": "tile",
     "eurotile_collection": "Thạch Nhiên",
@@ -5299,7 +5299,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thach-son/pic/THS-minh-hoa.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/dacfb8959f-THS-minh-hoa.jpg",
     "title": "THS S01P - Thạch Sơn",
     "type": "tile",
     "eurotile_collection": "Thạch Sơn",
@@ -5322,7 +5322,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-CC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76ee2b387d-THV-CC.jpg",
     "title": "THV Q01 - Thạch Vũ",
     "type": "marble",
     "eurotile_collection": "Thạch Vũ",
@@ -5345,7 +5345,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-CC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76ee2b387d-THV-CC.jpg",
     "title": "THV Q02 - Thạch Vũ",
     "type": "marble",
     "eurotile_collection": "Thạch Vũ",
@@ -5368,7 +5368,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thachvu/THV-CC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/76ee2b387d-THV-CC.jpg",
     "title": "THV Q03 - Thạch Vũ",
     "type": "marble",
     "eurotile_collection": "Thạch Vũ",
@@ -5391,7 +5391,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhmai-thm/pic/PC-THM-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/7190dfa841-PC-THM-1.jpg",
     "title": "THM N01P - Thanh Mai",
     "type": "tile",
     "eurotile_collection": "Thanh Mai",
@@ -5414,7 +5414,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thanhtam-tht/pic/NEN2.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/fc013dc00d-NEN2.jpg",
     "title": "THT S04P - Thanh Tâm",
     "type": "tile",
     "eurotile_collection": "Thanh Tâm",
@@ -5437,7 +5437,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/22397bb38d-SIGTHT-02.jpg",
     "title": "SIG.THT E01 - Thanh Tâm",
     "type": "tile",
     "eurotile_collection": "Thanh Tâm",
@@ -5460,7 +5460,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thantam/SIGTHT-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/22397bb38d-SIGTHT-02.jpg",
     "title": "SIG.THT Q01 - Thanh Tâm",
     "type": "tile",
     "eurotile_collection": "Thanh Tâm",
@@ -5483,7 +5483,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD H02 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5506,7 +5506,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD H03 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5529,7 +5529,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD G02 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5552,7 +5552,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD G03 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5575,7 +5575,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD G04 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5598,7 +5598,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/thiendi/cau-chuyen-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/f6ee8a7b16-cau-chuyen-1.jpg",
     "title": "THD G05 - Thiên Di",
     "type": "tile",
     "eurotile_collection": "Thiên Di",
@@ -5621,7 +5621,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thietthach-tth/pic/NEN-TTH.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6b2fe92741-NEN-TTH.jpg",
     "title": "TTH N01P - Thiết Thạch",
     "type": "tile",
     "eurotile_collection": "Thiết Thạch",
@@ -5644,7 +5644,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/thoang-tay-nguyen/TTN-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/242a7d443c-TTN-Q01TF-timnhanh.jpg",
     "title": "TTN Q01TF - Thoáng tây nguyên",
     "type": "tile",
     "eurotile_collection": "Thoáng tây nguyên",
@@ -5667,7 +5667,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/thu-phong/pic/THPS01M2-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/817766eb72-THPS01M2-1.jpg",
     "title": "THP S01M - Thu Phong",
     "type": "tile",
     "eurotile_collection": "Thu Phong",
@@ -5690,7 +5690,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P8805 - Thụy Phong",
     "type": "tile",
     "eurotile_collection": "Thụy Phong",
@@ -5713,7 +5713,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P4805 - Thụy Phong",
     "type": "tile",
     "eurotile_collection": "Thụy Phong",
@@ -5736,7 +5736,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/120x240/thach-an/THA-thumnail.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28bc408560-THA-thumnail.jpg",
     "title": "SIG. P61205 - Thụy Phong",
     "type": "tile",
     "eurotile_collection": "Thụy Phong",
@@ -5759,7 +5759,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA Q02 - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5782,7 +5782,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA Q04 - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5805,7 +5805,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA E02 - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5828,7 +5828,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA E04 - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5851,7 +5851,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA E03 - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5874,7 +5874,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/trangan/Untitled-1-02-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/6502ceb81a-Untitled-1-02-02.jpg",
     "title": "TRA E03P - Tràng An",
     "type": "marble",
     "eurotile_collection": "Tràng An",
@@ -5897,7 +5897,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/signature/tuyet-san/Untitled-1-02.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/444d97e6eb-Untitled-1-02.jpg",
     "title": "SIG. TSA Q01 - Tuyết San",
     "type": "tile",
     "eurotile_collection": "Tuyết San",
@@ -5920,7 +5920,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/vandu/cau-chuyen.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/28f12809a9-cau-chuyen.jpg",
     "title": "VAD Z01 MH1 - Vân Du",
     "type": "marble",
     "eurotile_collection": "Vân Du",
@@ -5943,7 +5943,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC H01 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -5966,7 +5966,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC H02 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -5989,7 +5989,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC H03 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6012,7 +6012,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC H04 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6035,7 +6035,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC H05 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6058,7 +6058,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/vongcat/C.VOCG01-FACEA.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/b946b5963e-C.VOCG01-FACEA.jpg",
     "title": "VOC G01 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6081,7 +6081,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC G02 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6104,7 +6104,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/vongcat/C.VOCG03FACEC.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/464a807178-C.VOCG03FACEC.jpg",
     "title": "VOC G03 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6127,7 +6127,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC G04 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6150,7 +6150,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC G05 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6173,7 +6173,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/bg1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/c08df8a5d5-bg1.jpg",
     "title": "VOC Z123 MG2 - Vọng Cát",
     "type": "tile",
     "eurotile_collection": "Vọng Cát",
@@ -6196,7 +6196,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-thirdfiring/vu-dieu-xanh/VDX-Q01TF-timnhanh.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/02650bf1ef-VDX-Q01TF-timnhanh.jpg",
     "title": "VDX Q01TF - Vũ điệu xanh",
     "type": "tile",
     "eurotile_collection": "Vũ điệu xanh",
@@ -6219,7 +6219,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUK-S01G-seo.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/bf63346dee-VUK-S01G-seo.jpg",
     "title": "VUK X01P - Vũ Khúc",
     "type": "tile",
     "eurotile_collection": "Vũ Khúc",
@@ -6242,7 +6242,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/vu-khuc/VUKS01G.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2a67b6b34b-VUKS01G.jpg",
     "title": "VUK S01G - Vũ Khúc",
     "type": "tile",
     "eurotile_collection": "Vũ Khúc",
@@ -6265,7 +6265,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/YMIS02M-1.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/2560c16dfb-YMIS02M-1.jpg",
     "title": "YMI S02M - Yên Minh",
     "type": "tile",
     "eurotile_collection": "Yên Minh",
@@ -6288,7 +6288,7 @@ window.LAVATILE_EUROTILE_PRODUCTS = [
       "ban_cong",
       "phong_tam"
     ],
-    "image": "https://www.eurotile.vn/pictures/catalog/product/0-gachkholon/yen-minh/pic/minh-hoa-bst-yen-minh-eurotile.jpg",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/mirror/81b6e529e4-minh-hoa-bst-yen-minh-eurotile.jpg",
     "title": "YMI S04M - Yên Minh",
     "type": "tile",
     "eurotile_collection": "Yên Minh",

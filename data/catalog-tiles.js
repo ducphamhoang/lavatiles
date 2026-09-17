@@ -17,7 +17,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3601-1-2010.jpg",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3601",
     "type": "tile"
   },
@@ -37,7 +37,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3602-1-6979.jpg",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3602",
     "type": "tile"
   },
@@ -57,7 +57,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce3602a-3719.jpg",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3602A",
     "type": "tile"
   },
@@ -77,7 +77,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3621-4054.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3621",
     "type": "tile"
   },
@@ -97,7 +97,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shce-3621v-2602.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3621V",
     "type": "tile"
   },
@@ -117,7 +117,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3622-8219.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3622",
     "type": "tile"
   },
@@ -137,7 +137,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-ce-3622a-8575.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CE3622A",
     "type": "tile"
   },
@@ -157,7 +157,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shcm360a-5365.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CM3602",
     "type": "tile"
   },
@@ -177,7 +177,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shcm3602a-7114.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-CM3602A",
     "type": "tile"
   },
@@ -197,7 +197,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-gp3607-a-3025.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-GP3607",
     "type": "tile"
   },
@@ -217,7 +217,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-gp3608a-2470.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-GP3608",
     "type": "tile"
   },
@@ -237,7 +237,7 @@
       "phong_tam",
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-gp3608am-8391.png",
+    "image": "",
     "title": "Gạch 30x60 Viglacera SH-GP3608A",
     "type": "tile"
   },
@@ -252,7 +252,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4601-9917.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4601",
     "type": "tile"
   },
@@ -267,7 +267,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4602-a-7750.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4602",
     "type": "tile"
   },
@@ -282,7 +282,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4603-3343.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4603",
     "type": "tile"
   },
@@ -297,7 +297,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4604-3950.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4604",
     "type": "tile"
   },
@@ -312,7 +312,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4605-1647.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4605",
     "type": "tile"
   },
@@ -327,7 +327,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/vbs-4606-8335.jpg",
+    "image": "",
     "title": "Gạch 40x60 Viglacera VBS4606",
     "type": "tile"
   },
@@ -347,7 +347,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090757-4525.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4821",
     "type": "tile"
   },
@@ -367,7 +367,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090919-6145.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4822",
     "type": "tile"
   },
@@ -387,7 +387,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090803-3113.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4822A",
     "type": "tile"
   },
@@ -407,7 +407,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090809-8259.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4823",
     "type": "tile"
   },
@@ -427,7 +427,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/shce4824-8-copy4-6381.jpg",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4824",
     "type": "tile"
   },
@@ -447,7 +447,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-090909-3486.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH-CE4824A",
     "type": "tile"
   },
@@ -467,7 +467,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh2-gp4803-c-9686.jpg",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH2-GP4803",
     "type": "tile"
   },
@@ -487,7 +487,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh4-gp4805-a-4458.jpg",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH4-GP4805",
     "type": "tile"
   },
@@ -507,7 +507,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh4-gp4805a-7412.jpg",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH4-GP4805A",
     "type": "tile"
   },
@@ -527,7 +527,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh5-gm4805-a-5090.jpg",
+    "image": "",
     "title": "Gạch 40x80 Viglacera SH5-GM4804",
     "type": "tile"
   },
@@ -547,7 +547,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-091020-9603.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera TL4816",
     "type": "tile"
   },
@@ -567,7 +567,7 @@
       "phong_tam",
       "mat_tien"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-10-01-091025-7079.png",
+    "image": "",
     "title": "Gạch 40x80 Viglacera TL4816A",
     "type": "tile"
   },
@@ -586,7 +586,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-09-17-113049-4349.png",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH1-P121201",
     "type": "tile"
   },
@@ -605,7 +605,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh2-m121205-a-7682.jpg",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH2-M121205",
     "type": "tile"
   },
@@ -624,7 +624,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-09-17-131102-3689.png",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH2-P121204",
     "type": "tile"
   },
@@ -643,7 +643,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh3-m121202-a-1-2279.jpg",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH3-M121202",
     "type": "tile"
   },
@@ -662,7 +662,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-09-17-131157-5502.png",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH3-P121201",
     "type": "tile"
   },
@@ -681,7 +681,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/screenshot-2024-09-17-131316-2772.png",
+    "image": "",
     "title": "Gạch lát nền 120x120 Viglacera SH3-P121202",
     "type": "tile"
   },
@@ -700,7 +700,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh51-9gp101001-2146.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH51-9GP101001",
     "type": "tile"
   },
@@ -719,7 +719,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh52-9gp101001-5551.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH52-9GP101001",
     "type": "tile"
   },
@@ -737,7 +737,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh52-9gp101002-3115.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH52-9GP101002",
     "type": "tile"
   },
@@ -756,7 +756,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh53-9gm101001-a-9469.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH53-9GM101001",
     "type": "tile"
   },
@@ -775,7 +775,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh53-9gp101001-c-copy-5280.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH53-9GP101001",
     "type": "tile"
   },
@@ -793,7 +793,7 @@
       "phong_khach",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh53-9gp101002-a-3946.jpg",
+    "image": "",
     "title": "Gạch lát nền 1mx1m Viglacera SH53-9GP101002",
     "type": "tile"
   },
@@ -812,7 +812,7 @@
       "phong_tam",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-viglacera-sh302-2709.jpg",
+    "image": "",
     "title": "Gạch lát nền 30x30 Viglacera  SH302",
     "type": "tile"
   },
@@ -831,7 +831,7 @@
       "phong_tam",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-viglacera-sh304-8045.jpg",
+    "image": "",
     "title": "Gạch lát nền 30x30 Viglacera  SH304",
     "type": "tile"
   },
@@ -850,7 +850,7 @@
       "phong_tam",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-viglacera-sh306-2415.jpg",
+    "image": "",
     "title": "Gạch lát nền 30x30 Viglacera SH306",
     "type": "tile"
   },
@@ -869,7 +869,7 @@
       "phong_tam",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-viglacera-sh308-4695.jpg",
+    "image": "",
     "title": "Gạch lát nền 30x30 Viglacera  SH308",
     "type": "tile"
   },
@@ -888,7 +888,7 @@
       "phong_tam",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh312-f1-5715.jpg",
+    "image": "",
     "title": "Gạch lát nền 30x30 Viglacera SH312",
     "type": "tile"
   },
@@ -908,7 +908,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh10-gm61201-a-6479-min-3862.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH10_GM61201",
     "type": "tile"
   },
@@ -928,7 +928,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh10-gm61203-a-4634-min-6409.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH10_GM61203",
     "type": "tile"
   },
@@ -948,7 +948,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh10-gp61204-a-9849-min-1380.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH10_GP61204",
     "type": "tile"
   },
@@ -968,7 +968,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh11-gm61201-a-7576.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH11_GM61201",
     "type": "tile"
   },
@@ -988,7 +988,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh11-gm61203-a-4428.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH11_GM61203",
     "type": "tile"
   },
@@ -1008,7 +1008,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh12-gp61201a-5320.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH12_GP61201",
     "type": "tile"
   },
@@ -1028,7 +1028,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh12-gp61203a-9995.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH12_GP61203",
     "type": "tile"
   },
@@ -1048,7 +1048,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh9-gp61201-a-7878.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x120 Viglacera SH9_GP61201",
     "type": "tile"
   },
@@ -1068,7 +1068,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-3-9725.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera GP601",
     "type": "tile"
   },
@@ -1088,7 +1088,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-4-6914.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera GP602",
     "type": "tile"
   },
@@ -1108,7 +1108,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1852.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera GP603",
     "type": "tile"
   },
@@ -1128,7 +1128,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-1222.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera GP606",
     "type": "tile"
   },
@@ -1148,7 +1148,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/mdk-662017-4-6105.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera MDK662017",
     "type": "tile"
   },
@@ -1168,7 +1168,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-viglacera-mdk-662018-5418.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera MDK662018",
     "type": "tile"
   },
@@ -1188,7 +1188,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/gach-van-da-viglacera-mdk-662019-7113.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera MDK662019",
     "type": "tile"
   },
@@ -1208,7 +1208,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/mdk-662021-f3-9977.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera MDK662021",
     "type": "tile"
   },
@@ -1228,7 +1228,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/yp-66m-2022-13ic-3-f2-6738.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera SH-BS6601",
     "type": "tile"
   },
@@ -1248,7 +1248,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/yp-66m-2022-13ic-1-f1-4026.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera SH-BS6602",
     "type": "tile"
   },
@@ -1268,7 +1268,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-bs6603-f1-2688.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera SH-BS6603",
     "type": "tile"
   },
@@ -1288,7 +1288,7 @@
       "phong_bep",
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/sh-bs6604-f1-9774.jpg",
+    "image": "",
     "title": "Gạch lát nền 60x60 Viglacera SH-BS6604",
     "type": "tile"
   },
@@ -1308,7 +1308,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/v1-p81601-a-4272.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x160 Viglacera V1-P81601",
     "type": "tile"
   },
@@ -1328,7 +1328,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/v2-p81601-a-7208.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x160 Viglacera V2-P81601",
     "type": "tile"
   },
@@ -1348,7 +1348,7 @@
       "mat_tien",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/v2-p81603-a-3753.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x160 Viglacera V2-P81603",
     "type": "tile"
   },
@@ -1368,7 +1368,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-1-2-8745.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera GP801",
     "type": "tile"
   },
@@ -1388,7 +1388,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-2-5114.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera GP802",
     "type": "tile"
   },
@@ -1408,7 +1408,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/1-4348.png",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera GP803",
     "type": "tile"
   },
@@ -1428,7 +1428,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/3-4716.png",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera GP806",
     "type": "tile"
   },
@@ -1448,7 +1448,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/1-4562.png",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera SH1-GP8801",
     "type": "tile"
   },
@@ -1468,7 +1468,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55679117530018903e7b01b470853850a36b169d4db79-4285.jpg",
+    "image": "",
     "title": "Gạch lát nền 80x80 Viglacera TS1-817",
     "type": "tile"
   },
@@ -1486,7 +1486,7 @@
     "rooms": [
       "phong_ngu"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-7177.png",
+    "image": "",
     "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21061",
     "type": "wood"
   },
@@ -1504,7 +1504,7 @@
     "rooms": [
       "phong_ngu"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-1-2824.png",
+    "image": "",
     "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21062",
     "type": "wood"
   },
@@ -1522,7 +1522,7 @@
     "rooms": [
       "phong_ngu"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-2-7211.png",
+    "image": "",
     "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21065",
     "type": "wood"
   },
@@ -1540,7 +1540,7 @@
     "rooms": [
       "phong_ngu"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/a-4877.jpg",
+    "image": "",
     "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21066",
     "type": "wood"
   },
@@ -1558,7 +1558,7 @@
     "rooms": [
       "phong_ngu"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/f1-3-5000.png",
+    "image": "",
     "title": "Gạch lát nền giả gỗ 20x100 Viglacera GC21067",
     "type": "wood"
   },
@@ -1578,7 +1578,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32192gachlatnen80x80viglacerahm821-3408.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM821",
     "type": "marble"
   },
@@ -1598,7 +1598,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32193gachlatnen80x80viglacerahm822-2347.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM822",
     "type": "marble"
   },
@@ -1618,7 +1618,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm823-3-6721.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM823",
     "type": "marble"
   },
@@ -1638,7 +1638,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/32195gachlatnen80x80viglacerahm824-1582.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM824",
     "type": "marble"
   },
@@ -1658,7 +1658,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm-825-f3-1177.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM825",
     "type": "marble"
   },
@@ -1678,7 +1678,7 @@
       "phong_bep",
       "showroom"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/hm-826-f3-2633.jpg",
+    "image": "",
     "title": "Gạch lát nền vân đá 80x80 Viglacera HM826",
     "type": "marble"
   },
@@ -1693,7 +1693,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs501-6951.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS501",
     "type": "garden"
   },
@@ -1708,7 +1708,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs-503-2-2451.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS503",
     "type": "garden"
   },
@@ -1723,7 +1723,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs-505-4856.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS505",
     "type": "garden"
   },
@@ -1738,7 +1738,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs-506-9459.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS506",
     "type": "garden"
   },
@@ -1753,7 +1753,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs507-1-4308.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS507",
     "type": "garden"
   },
@@ -1768,7 +1768,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs508-4517.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS508",
     "type": "garden"
   },
@@ -1783,7 +1783,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs509-1-7229.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS509",
     "type": "garden"
   },
@@ -1798,7 +1798,7 @@
     "rooms": [
       "ban_cong"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/bs513-4115.jpg",
+    "image": "",
     "title": "Gạch sân vườn 50x50 Viglacera BS513",
     "type": "garden"
   },
@@ -1813,7 +1813,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510497411af92211fd0a1d6488fca8fe99b4feb0-6213.jpg",
+    "image": "",
     "title": "Ngói phẳng Piata Viglacera PT01-03",
     "type": "roof"
   },
@@ -1828,7 +1828,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55596939274441437b6dc12d4535bb4d9ea997cd0c5cd-2648.jpg",
+    "image": "",
     "title": "Ngói phẳng Piata Viglacera PT01-06",
     "type": "roof"
   },
@@ -1843,7 +1843,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510347535612ad81862f34683bd44021103b2557-1383.jpg",
+    "image": "",
     "title": "Ngói phẳng Piata Viglacera PT01-12",
     "type": "roof"
   },
@@ -1858,7 +1858,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510496686de1772fb5241b32738111077f5c4c86-8593.jpg",
+    "image": "",
     "title": "Ngói phẳng Piata Viglacera PT01-18",
     "type": "roof"
   },
@@ -1873,7 +1873,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55569510669353d3df1630805a088a05295e552decea5-1699.jpg",
+    "image": "",
     "title": "Ngói phẳng Piata Viglacera PT01-19",
     "type": "roof"
   },
@@ -1888,7 +1888,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/7-5824.png",
+    "image": "",
     "title": "Ngói phẳng tráng men Viglacera T03",
     "type": "roof"
   },
@@ -1903,7 +1903,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/8-5128.png",
+    "image": "",
     "title": "Ngói phẳng tráng men Viglacera T06",
     "type": "roof"
   },
@@ -1918,7 +1918,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z59790921217174a579e9f27c8da5fc250d347226767d8-4903.jpg",
+    "image": "",
     "title": "Ngói phẳng tráng men Viglacera T08",
     "type": "roof"
   },
@@ -1933,7 +1933,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/9-2370-3282.png",
+    "image": "",
     "title": "Ngói phẳng tráng men Viglacera T09",
     "type": "roof"
   },
@@ -1948,7 +1948,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5575903117495e6a8da049d0b6073505b8c92b1fe81e4-2976.jpg",
+    "image": "",
     "title": "Ngói phẳng tráng men Viglacera T12",
     "type": "roof"
   },
@@ -1963,7 +1963,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z555591796778293caf92057d18de6fe34abadafa6c1d3-6285-min-6247.jpg",
+    "image": "",
     "title": "Ngói sóng tráng men Viglacera S03",
     "type": "roof"
   },
@@ -1978,7 +1978,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55559180247220c9051eb23f8f1b62c8b2519cc3872b8-7744-min-6866.jpg",
+    "image": "",
     "title": "Ngói sóng tráng men Viglacera S06",
     "type": "roof"
   },
@@ -1993,7 +1993,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/web4-7075-min-1341.gif",
+    "image": "",
     "title": "Ngói sóng tráng men Viglacera S08",
     "type": "roof"
   },
@@ -2008,7 +2008,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z5555918008956c0eb0d04b28fd76f5ace35394493f309-5632-min-2738.jpg",
+    "image": "",
     "title": "Ngói sóng tráng men Viglacera S09D",
     "type": "roof"
   },
@@ -2023,7 +2023,7 @@
     "rooms": [
       "hanh_lang"
     ],
-    "image": "https://www.hoathanhphat.com.vn/thumbs/480x381x2/upload/product/z55559179495937ad5a9215b32a153a4b19c5ee3d08184-4013-min-5697.jpg",
+    "image": "",
     "title": "Ngói sóng tráng men Viglacera S12",
     "type": "roof"
   }
