@@ -80,3 +80,53 @@ These scripts use `pdfimages` + `pdftotext` to match product codes with embedded
 ```
 
 Verify with `python3 -m http.server 8000` and browse to catalogue.html.
+
+---
+
+## Cloudflare Deployment (Workers Static Assets)
+
+The site is fully static and deploys as-is from the repo root — there is no build step. Target
+Workers, not Pages (Pages is maintenance-mode and new static sites are steered to Workers).
+
+### One-time setup
+
+```bash
+npx wrangler login
+npx wrangler r2 bucket create lavatiles-catalogue-pdfs
+```
+
+### Deploy
+
+```bash
+node scripts/build-assetsignore.mjs    # regenerate the asset excludes
+bash scripts/upload-catalogue-pdfs.sh  # push the >25 MiB catalogue PDFs to R2
+npx wrangler deploy
+```
+
+### How it is wired
+
+- `assets.directory` is the repo root, so `.assetsignore` (generated) decides what ships —
+  **~11.9k files** instead of 21.7k. Re-run `build-assetsignore.mjs` whenever pages are
+  regenerated: the excluded image list is derived from the pages' own `<img>` references.
+- Limits that shape this setup: **20,000 assets/version on Free** (100,000 on Paid, needs
+  wrangler ≥ 4.34.0) and **25 MiB per individual file on all plans**.
+- `worker/index.js` covers the two things static assets cannot do:
+  1. serves `/assets/pdf/*` from R2 — those catalogue PDFs exceed the 25 MiB per-asset limit
+     and are excluded from the deploy;
+  2. maps `/` and `/dir/` onto `index.html`. `html_handling` is `"none"` so the existing
+     `.html` URLs are preserved with **no redirects** — Workers stops resolving directory
+     roots in that mode, so the root would otherwise 404.
+- `worker/` must stay in `.assetsignore`: the Worker source sits inside the assets directory
+  and would otherwise be uploaded and publicly readable.
+
+### Verifying a deploy
+
+```bash
+B=https://<your-worker>.workers.dev
+curl -s -o /dev/null -w '%{http_code}\n' "$B/"                     # 200
+curl -s -o /dev/null -w '%{http_code}\n' "$B/bo-suu-tap-moi.html"  # 200, no redirect
+curl -s -o /dev/null -w '%{http_code}\n' "$B/assets/pdf/GA%2BAT%20SQ.pdf"  # 200 from R2
+```
+
+Cloudflare caches the asset-level redirects, so immediately after changing `html_handling` a
+probe can still show the previous behaviour — re-test with a cache-busting query string.
