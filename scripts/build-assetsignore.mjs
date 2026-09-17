@@ -79,7 +79,7 @@ const lines = [
   '# Re-run it after regenerating pages.',
   '',
   '# --- VCS / infrastructure ---',
-  '.git/', '.wrangler/', '.commandcode/', '.github/', 'node_modules/', 'chromium/',
+  '.git/', '.wrangler/', '.commandcode/', '.github/', 'node_modules/', 'chromium/', 'tmp/',
   '',
   '# --- Dev tooling and repo docs (not served) ---',
   'scripts/', 'script/', 'tools/', 'docs/', 'tasks/', 'templates/', 'archive/', 'partials/',

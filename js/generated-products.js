@@ -10874,7 +10874,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-60x60-viglacera-gp606/00-bc508b3005-gach-lat-nen-viglacera-sh-gp606-60x60-1.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-60x60-viglacera-gp606.html"
   },
   {
@@ -11386,7 +11386,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/gch-lt-nn-vn-80x80-viglacera-hm826/00-1a7eafe047-gach-lat-nen-viglacera-80x80-hm826.jpg",
     "detailUrl": "gach-lat-nen/gch-lt-nn-vn-80x80-viglacera-hm826.html"
   },
   {
@@ -18424,7 +18424,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-03/00-d69730ab91-ngoi-phang-piata-viglacera-pt01-03.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-03.html"
   },
   {
@@ -18460,7 +18460,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-12/00-74761c7440-ngoi-phang-piata-viglacera-pt01-12-xanh.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-12.html"
   },
   {
@@ -18478,7 +18478,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-18/00-a20cbc33df-ngoi-phang-piata-viglacera-pt01-18-xanh-la.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-18.html"
   },
   {
@@ -18496,7 +18496,7 @@ window.LavatileGeneratedProducts =
     ],
     "brand": "Viglacera",
     "country": "Viglacera",
-    "image": "",
+    "image": "https://pub-3ab81718ddbf44a49cbbc475f1064b77.r2.dev/products/ngi-phng-piata-viglacera-pt01-19/00-767d4b95cb-ngoi-phang-piata-viglacera-pt01-19.jpg",
     "detailUrl": "ngoi-phng-t/ngi-phng-piata-viglacera-pt01-19.html"
   },
   {
