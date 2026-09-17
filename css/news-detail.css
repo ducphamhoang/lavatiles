@@ -30,7 +30,8 @@
   margin-bottom: 16px;
 }
 
-.post-category a {
+.post-category > a,
+.post-category > span {
   display: inline-flex;
   align-items: center;
   min-height: 28px;
@@ -368,7 +369,8 @@
   margin-bottom: 8px;
 }
 
-.related-card-body .post-category a {
+.related-card-body .post-category > a,
+.related-card-body .post-category > span {
   font-size: 10px;
   min-height: 24px;
   padding: 0 10px;

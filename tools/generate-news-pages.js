@@ -296,9 +296,9 @@ function renderRelated(article) {
     var href = r.link || '#' + r.slug;
     return '<div class="related-card">\n' +
       '<a href="' + href + '">\n' +
-      (r.image ? '<div class="related-card-img">\n<img src="' + imgPath(article.slug, r.image) + '" alt="" loading="lazy">\n</div>' : '') +
+      (r.image ? '<div class="related-card-img">\n<img src="' + imgPath(r.slug, r.image) + '" alt="" loading="lazy">\n</div>' : '') +
       '<div class="related-card-body">\n' +
-      '<div class="post-category"><a>' + escapeHtml(r.category || '') + '</a></div>\n' +
+      '<div class="post-category"><span>' + escapeHtml(r.category || '') + '</span></div>\n' +
       '<h4>' + escapeHtml(r.title) + '</h4>\n' +
       '<div class="news-date">' + escapeHtml(r.date || '') + '</div>\n' +
       '</div>\n</a>\n</div>';
